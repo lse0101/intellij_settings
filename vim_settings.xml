@@ -878,12 +878,12 @@
         <mark key="." line="561" column="101" />
         <mark key="^" line="561" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1493105620615">
+      <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1493106530822">
         <mark key="'" line="5" column="93" />
-        <mark key="[" line="93" column="62" />
-        <mark key="]" line="93" column="63" />
-        <mark key="." line="93" column="63" />
-        <mark key="^" line="94" column="62" />
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="100" column="26" />
+        <mark key="." line="100" column="26" />
+        <mark key="^" line="100" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/service/PrintUsageServiceImpl.java" timestamp="1492673058488">
         <mark key="'" line="21" column="46" />
@@ -1188,8 +1188,8 @@
       <jump line="1510" column="0" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X21hY190ZW1wOwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1309,7 +1309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
