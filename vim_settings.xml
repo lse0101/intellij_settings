@@ -614,7 +614,11 @@
         <mark key="." line="473" column="80" />
         <mark key="^" line="459" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" timestamp="1494395374174" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" timestamp="1494400884801">
+        <mark key="[" line="1065" column="140" />
+        <mark key="]" line="1065" column="140" />
+        <mark key="." line="1065" column="140" />
+      </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac_sub.jsp" timestamp="1490005446441">
         <mark key="'" line="173" column="25" />
         <mark key="[" line="173" column="130" />
@@ -1189,8 +1193,8 @@
       <jump line="1510" column="0" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1310,7 +1314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
