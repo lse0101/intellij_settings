@@ -194,11 +194,11 @@
         <mark key="." line="21" column="71" />
         <mark key="^" line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/reactiveasyncspringapplication/src/main/java/com/crazysm/FutureEx.java" timestamp="1494550493147">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="31" />
+      <file name="$USER_HOME$/workspace/reactiveasyncspringapplication/src/main/java/com/crazysm/FutureEx.java" timestamp="1494551858966">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/awils/securitysearch/securitySearch.jsp" timestamp="1490074625314">
         <mark key="'" line="197" column="71" />
@@ -1235,8 +1235,8 @@
       <jump line="61" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>System.out.println</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1356,19 +1356,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:8080</text>
+        <text>System.out.println</text>
       </register>
       <register name="/" type="4">
         <text>Block</text>
       </register>
-      <register name="0" type="4">
-        <text>reducePub</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZi5pc0RvbmUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZi5nZXQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJBc3luYyIpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1495,22 +1495,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGdXR1cmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkge30K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFB1Ymxpc2hlcjxJbnRlZ2VyPiBzdW1QdWIoUHVibGlzaGVyPEludGVnZXI+IHB1YikgewogICAgICAgIHJldHVybiBuZXcgUHVibGlzaGVyPEludGVnZXI+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgc3Vic2NyaWJlKFN1YnNjcmliZXI8PyBzdXBlciBJbnRlZ2VyPiBzdWIpIHsKICAgICAgICAgICAgICAgIHB1Yi5zdWJzY3JpYmUobmV3IERlbGVnYXRlU3ViKHN1Yil7CiAgICAgICAgICAgICAgICAgICAgaW50IHN1bSA9IDA7CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChJbnRlZ2VyIGkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3VtICs9IGk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlKCkgewogICAgICAgICAgICAgICAgICAgICAgICBzdWIub25OZXh0KHN1bSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHN1Yi5vbkNvbXBsZXRlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICB9OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFB1Ymxpc2hlcjxJbnRlZ2VyPiBzdW1QdWIoUHVibGlzaGVyPEludGVnZXI+IHB1Yikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1524,10 +1524,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWR1Y2VQdWIuc3Vic2NyaWJlKGxvZ1N1YigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>18</text>
