@@ -628,12 +628,12 @@
         <mark key="." line="2786" column="56" />
         <mark key="^" line="2786" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/chart_example.txt" timestamp="1494831122861">
-        <mark key="'" line="58" column="2" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/chart_example.txt" timestamp="1494837531927">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="59" column="2" />
-        <mark key="^" line="59" column="2" />
-        <mark key="." line="59" column="2" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/saving/done/place.jsp" timestamp="1490245795283">
         <mark key="'" line="241" column="115" />
@@ -1142,8 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="55" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/conf/xpms/applicationContext-xpms-schedule.xml" />
-      <jump line="96" column="73" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/conf/xpms/applicationContext-xpms-schedule.xml" />
       <jump line="98" column="32" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/conf/xpms/applicationContext-xpms-schedule.xml" />
       <jump line="33" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/log4j.xml" />
@@ -1242,10 +1240,12 @@
       <jump line="61" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/reactiveasyncspringapplication/src/main/java/com/crazysm/ReactiveasyncspringapplicationApplication.java" />
       <jump line="58" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/chart_example.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/chart_example.txt" />
+      <jump line="69" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/chart_example.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwLnRpdGxlID0gJ8TDt68gu+e/67euPGJyLz4xNDUvMTAwMMDlJzsKCm9wdGlvbiA9IHsKICAgIHRvb2x0aXAgOiB7CiAgICAgICAgdHJpZ2dlcjogJ2F4aXMnLAogICAgICAgIGF4aXNQb2ludGVyIDogeyAgICAgICAgICAgIC8vIPGmPz/ypuPG0O+jrPGmPz8/P+rz/PkKICAgICAgICAgICAgdHlwZSA6ICdzaGFkb3cnICAgICAgICAvLyDZ+T8/8sE/o6zKpj8/o7onbGluZScgfCAnc2hhZG93JwogICAgICAgIH0KCiAgICB0aXRsZTp7dGV4dDonxMO3ryC757/rt64nLAogICAgICAgIHN1YnRleHQ6JzE0NS8xMDDA5ScsCiAgICAgICAgc3VidGV4dFN0eWxlOnsKICAgICAgICAgICAgZm9udFNpemU6MjUKICAgICAgICB9LAogICAgICAgIHJpZ2h0Oic1MCUnLAogICAgICAgIHRleHRBbGlnbjonY2VudGVyJwogICAgfSwKICAgIGxlZ2VuZDogewogICAgICAgIC8vIGRhdGE6WyfBpsfRIMD8w7wgu+e/67euJ10KICAgIH0sCiAgICBncmlkOiB7CiAgICAgICAgbGVmdDogJzMlJywKICAgICAgICByaWdodDogJzQlJywKICAgICAgICBib3R0b206ICczJScsCiAgICAgICAgdG9wOicxMCUnCiAgICAgICAgLGNvbnRhaW5MYWJlbDogdHJ1ZQogICAgfSwKICAgIHhBeGlzIDogWwogICAgICAgIHsKICAgICAgICAgICAgdHlwZSA6ICdjYXRlZ29yeScsCiAgICAgICAgICAgIGRhdGEgOiBbJ8TDt68nXQogICAgICAgIH0KICAgIF0sCiAgICB5QXhpcyA6IFsKICAgICAgICB7CiAgICAgICAgICAgIHR5cGUgOiAndmFsdWUnCiAgICAgICAgfQogICAgXSwKICAgIHNlcmllcyA6IFsKICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6J8Gmx9EgwPzDvCC757/rt64nLAogICAgICAgICAgICB0eXBlOidiYXInLAogICAgICAgICAgICBkYXRhOlszMjBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6J8f2wOcgwabH0SC757/rt64nLAogICAgICAgICAgICB0eXBlOidiYXInLAogICAgICAgICAgICBzdGFjazogJz/NsScsCiAgICAgICAgICAgIGRhdGE6WzMyMF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgbmFtZTonx/bA5yDBpsfRILvnv+u3riC/wLn2JywKICAgICAgICAgICAgdHlwZTonYmFyJywKICAgICAgICAgICAgc3RhY2s6ICc/zbEnLAogICAgICAgICAgICBkYXRhOlsyMjBdCiAgICAgICAgfQoKICAgIF0KfTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1374,10 +1374,10 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZi5pc0RvbmUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbG9nLmluZm8oImV4aXQ6IHt9IiwgcmVzLmlzRG9uZSgpKTsKCQkJbG9nLmluZm8oImV4aXQgcnVuKCkiKTsK</text>
+        <text encoding="base64">YXBwLnRpdGxlID0gJ8TDt68gu+e/67euPGJyLz4xNDUvMTAwMMDlJzsKCm9wdGlvbiA9IHsKICAgIHRvb2x0aXAgOiB7CiAgICAgICAgdHJpZ2dlcjogJ2F4aXMnLAogICAgICAgIGF4aXNQb2ludGVyIDogeyAgICAgICAgICAgIC8vIPGmPz/ypuPG0O+jrPGmPz8/P+rz/PkKICAgICAgICAgICAgdHlwZSA6ICdzaGFkb3cnICAgICAgICAvLyDZ+T8/8sE/o6zKpj8/o7onbGluZScgfCAnc2hhZG93JwogICAgICAgIH0KCiAgICB0aXRsZTp7dGV4dDonxMO3ryC757/rt64nLAogICAgICAgIHN1YnRleHQ6JzE0NS8xMDDA5ScsCiAgICAgICAgc3VidGV4dFN0eWxlOnsKICAgICAgICAgICAgZm9udFNpemU6MjUKICAgICAgICB9LAogICAgICAgIHJpZ2h0Oic1MCUnLAogICAgICAgIHRleHRBbGlnbjonY2VudGVyJwogICAgfSwKICAgIGxlZ2VuZDogewogICAgICAgIC8vIGRhdGE6WyfBpsfRIMD8w7wgu+e/67euJ10KICAgIH0sCiAgICBncmlkOiB7CiAgICAgICAgbGVmdDogJzMlJywKICAgICAgICByaWdodDogJzQlJywKICAgICAgICBib3R0b206ICczJScsCiAgICAgICAgdG9wOicxMCUnCiAgICAgICAgLGNvbnRhaW5MYWJlbDogdHJ1ZQogICAgfSwKICAgIHhBeGlzIDogWwogICAgICAgIHsKICAgICAgICAgICAgdHlwZSA6ICdjYXRlZ29yeScsCiAgICAgICAgICAgIGRhdGEgOiBbJ8TDt68nXQogICAgICAgIH0KICAgIF0sCiAgICB5QXhpcyA6IFsKICAgICAgICB7CiAgICAgICAgICAgIHR5cGUgOiAndmFsdWUnCiAgICAgICAgfQogICAgXSwKICAgIHNlcmllcyA6IFsKICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6J8Gmx9EgwPzDvCC757/rt64nLAogICAgICAgICAgICB0eXBlOidiYXInLAogICAgICAgICAgICBkYXRhOlszMjBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6J8f2wOcgwabH0SC757/rt64nLAogICAgICAgICAgICB0eXBlOidiYXInLAogICAgICAgICAgICBzdGFjazogJz/NsScsCiAgICAgICAgICAgIGRhdGE6WzMyMF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgbmFtZTonx/bA5yDBpsfRILvnv+u3riC/wLn2JywKICAgICAgICAgICAgdHlwZTonYmFyJywKICAgICAgICAgICAgc3RhY2s6ICc/zbEnLAogICAgICAgICAgICBkYXRhOlsyMjBdCiAgICAgICAgfQoKICAgIF0KfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1504,22 +1504,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbXlTZXJ2aWNlLmhlbGxvKCk7Cg==</text>
+        <text encoding="base64">CQkJbG9nLmluZm8oImV4aXQ6IHt9IiwgcmVzLmlzRG9uZSgpKTsKCQkJbG9nLmluZm8oImV4aXQgcnVuKCkiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbXlTZXJ2aWNlLmhlbGxvKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAkJCg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1533,13 +1533,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">ICAgIAkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name=":" type="4">
-        <text>18</text>
+        <text>0,$d</text>
       </register>
     </registers>
     <search>
@@ -1573,7 +1573,6 @@
         <entry>Block</entry>
       </history-search>
       <history-cmd>
-        <entry>342</entry>
         <entry>353</entry>
         <entry>93</entry>
         <entry>948</entry>
@@ -1593,6 +1592,7 @@
         <entry>bufs</entry>
         <entry>buf</entry>
         <entry>18</entry>
+        <entry>0,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
