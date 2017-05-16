@@ -131,12 +131,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" timestamp="1494912773056">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" timestamp="1494914571819">
         <mark key="'" line="405" column="89" />
         <mark key="[" line="937" column="40" />
-        <mark key="]" line="937" column="39" />
-        <mark key="." line="937" column="39" />
-        <mark key="^" line="937" column="39" />
+        <mark key="]" line="937" column="85" />
+        <mark key="." line="937" column="85" />
+        <mark key="^" line="937" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/log4j.xml" timestamp="1492671733052">
         <mark key="'" line="6" column="43" />
@@ -1230,7 +1230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Title</text>
+        <text>/statistics/mac/statistics_usageList</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1358,8 +1358,8 @@
       <register name="/" type="4">
         <text>type</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gVF9MWF9BRE1JTlRZUEVfTSAoQURNSU5UWVBFX05BTUUsIFVQRF9EQVRFKSB2YWx1ZXMgKCAnUGxhY2UgTWFuYWdlcicgLyoqUCovLCBkYm8uVE9EQVlTVFIoKSkK</text>
+      <register name="0" type="4">
+        <text>/statistics/mac/statistics_usageList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
