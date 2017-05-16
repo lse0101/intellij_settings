@@ -325,11 +325,6 @@
         <mark key="." line="241" column="68" />
         <mark key="^" line="395" column="117" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" timestamp="1494461995763">
-        <mark key="[" line="1065" column="140" />
-        <mark key="]" line="1065" column="140" />
-        <mark key="." line="1065" column="140" />
-      </file>
       <file name="$USER_HOME$/workspace/fnuRestTest/src/test/java/com/crazysm/JsonParamTest.java" timestamp="1491467897082">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="27" column="38" />
@@ -975,17 +970,17 @@
         <mark key="." line="614" column="109" />
         <mark key="^" line="614" column="109" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" timestamp="1494923747203">
+        <mark key="'" line="380" column="44" />
+        <mark key="[" line="121" column="17" />
+        <mark key="]" line="121" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" timestamp="1490335859269">
         <mark key="'" line="20" column="39" />
         <mark key="[" line="946" column="45" />
         <mark key="]" line="947" column="3" />
         <mark key="." line="947" column="3" />
         <mark key="^" line="947" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/log4j.xml" timestamp="1494899428402">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/statistics/hour/statistics_hourlist.jsp" timestamp="1490075950976">
         <mark key="'" line="627" column="83" />
@@ -1132,11 +1127,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/bar그래프(흑백 및 컬러).txt" timestamp="1494894346124">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/statistics/frequency/frequency_userList.jsp" timestamp="1490075946847">
         <mark key="'" line="583" column="83" />
         <mark key="[" line="583" column="110" />
@@ -1167,7 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="774" column="25" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20/pom.xml" />
       <jump line="174" column="29" filename="C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/nio/file/FileSystems.java" />
       <jump line="631" column="3" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" />
       <jump line="750" column="72" filename="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/searchlog/searchlog.jsp" />
@@ -1267,10 +1256,11 @@
       <jump line="11" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dto/TLxUserDetail.java" />
       <jump line="303" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/action/UserAction.java" />
       <jump line="456" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/action/UserAction.java" />
+      <jump line="380" column="44" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEPTCODE</text>
+        <text>https://raw.github.com/madvirus/ip-filter/mvn-repo/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1396,10 +1386,10 @@
         <text>DEPTCODE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdm9cPg==</text>
+        <text>mad</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGlzTm90TnVsbCBwcmVwZW5kPSIsIiBwcm9wZXJ0eT0ibWdtRGVwdGNvZGUiID4KICAgICAgICBNR01fREVQVENPREUgPSAjbWdtRGVwdGNvZGU6VkFSQ0hBUiMKICAgICAgPC9pc05vdE51bGw+Cg==</text>
+      <register name="0" type="4">
+        <text>https://raw.github.com/madvirus/ip-filter/mvn-repo/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1571,15 +1561,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkdm9cPg==</last-search>
+      <last-search>mad</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdm9cPg==</last-pattern>
+      <last-pattern>mad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>block</entry>
         <entry>Block</entry>
         <entry>searchPlace</entry>
         <entry>type</entry>
@@ -1599,6 +1588,7 @@
         <entry>placeCode</entry>
         <entry encoding="base64">XDxwbGFjZUNvZGVcPg==</entry>
         <entry encoding="base64">XDxkdm9cPg==</entry>
+        <entry>mad</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
