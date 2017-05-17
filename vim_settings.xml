@@ -26,12 +26,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1494992416661">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1494994503129">
         <mark key="'" line="80" column="5" />
         <mark key="[" line="154" column="0" />
-        <mark key="]" line="155" column="7" />
-        <mark key="." line="155" column="7" />
-        <mark key="^" line="155" column="7" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/daemon/PrintUsageOfLastYear.java" timestamp="1492562082257">
         <mark key="[" line="14" column="0" />
@@ -921,8 +920,8 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" timestamp="1494986345908">
-        <mark key="'" line="61" column="76" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" timestamp="1494994696726">
+        <mark key="'" line="90" column="5" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="4" />
         <mark key="." line="67" column="4" />
@@ -1194,7 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="52" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo_ok.jsp" />
       <jump line="114" column="47" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo_ok.jsp" />
       <jump line="112" column="45" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo_ok.jsp" />
       <jump line="238" column="47" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/action/UserAction.java" />
@@ -1294,10 +1292,11 @@
       <jump line="328" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="155" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="80" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="90" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1420,19 +1419,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FROM t_lx_mac_m;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXN0ZXJcPg==</text>
+        <text>FN_</text>
       </register>
       <register name="0" type="4">
         <text>dataArr[selnum][48]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgKCFtYXN0ZXIuZ2V0QWRtaW50eXBlSWQoKS5lcXVhbHMoMykpIHsKCQkJCWRldGFpbC5zZXRNZ21QbGFjZUNvZGUobnVsbCk7CgkJCX0K</text>
+        <text encoding="base64">RlJPTSB0X2x4X3VzZXJfZGV0YWlsOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1559,22 +1558,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJaWYgKCFtYXN0ZXIuZ2V0QWRtaW50eXBlSWQoKS5lcXVhbHMoMykpIHsKCQkJCQkJCWRldGFpbC5zZXRNZ21QbGFjZUNvZGUobnVsbCk7CgkJCQkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2lzTm90TnVsbD4K</text>
+        <text encoding="base64">c2UK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aXNOb3ROdWxsIHByZXBlbmQ9IiwiIHByb3BlcnR5PSJtZ21QbGFjZUNvZGUiID4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X3VzZXJfZGV0YWlsOwoKCgpTRUxFQ1QKICBESVNUSU5DVCAgIEEuVVNFUklELAogIEEuREVQVENPREUsCiAgQS5URU1QTEFURUlELAogIEEuVVNFUlBXRCwKICBBLlVTRVJQV0RfT0xELAogIEEuVVNFUk5BTUUsCiAgICBDQVJESUQgPSAoU0VMRUNUCiAgICAgICAgICAgICAgICBUT1AgMSBDQVJESUQKICAgICAgICAgICAgICBGUk9NCiAgICAgICAgICAgICAgICBUX0xYX1VTRVJfQ0FSRAogICAgICAgICAgICAgIFdIRVJFCiAgICAgICAgICAgICAgICBVU0VSSUQgPSBBLlVTRVJJRAogICAgICAgICAgICAgICAgQU5EIFVTRVlOPSdZJwogICAgICAgICAgICAgIE9SREVSIEJZCiAgICAgICAgICAgICAgICBVUERfREFURSBERVNDKSwKICBBLkNBUkROVU1CRVIsCiAgQS5FTVBOTywKICBBLlNVQklELAogIEEuVVNFWU4sCiAgQS5BRE1JTlRZUEVfSUQsCiAgQS5VUERfREFURSwKICBBLlVTRVJDT01JUCwKICBBLlNUQVJUREFURSwKICBBLkVYUElSRURBVEUsCiAgQS5UZW1wbGF0ZUNELAogIEEuTElNSVRDT1VOVElELAogIEEuTEFTVF9BQ0NFU1NEQVRFLAogIEIuREVQVE5BTUUsCiAgWS5QT1NDT0RFLAogIFkuUE9TTkFNRSwKICBZLlBMQUNFTkFNRSwKICBZLlRFTEVQSE9ORU5PLAogIFkuQ0VMTFVBUlBIT05FTk8sCiAgWS5FTUFJTCwKICBZLk1HTV9ERVBUQ09ERSwKICAgIChTRUxFQ1QKICAgICAgIFRPUCAxIERFUFROQU1FCiAgICAgRlJPTQogICAgICAgVF9MWF9ERVBUX00gWAogICAgIFdIRVJFCiAgICAgICBZLk1HTV9ERVBUQ09ERSA9IFguREVQVENPREUpIEFTIE1HTV9ERVBUTkFNRSwKICBZLk1HTV9QTEFDRUNPREUsCiAgICAoU0VMRUNUCiAgICAgICBUT1AgMSBidWlsZGluZ25hbWUKICAgICBGUk9NCiAgICAgICB0X2x4X3BsYWNlX20KICAgICBXSEVSRQogICAgICAgcGxhY2Vjb2RlID0gWS5tZ21fcGxhY2Vjb2RlKSBBUyBNR01fUExBQ0VOQU1FLAogICAgY2FzZQogICAgd2hlbiBKQS5QUklOVENPTE9SIGlzIG51bGwgdGhlbiAoc2VsZWN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBSSU5UQ09MT1IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb20KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVF9MWF9KT0JfQVVUSAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aGlkPTApCiAgICBlbHNlIEpBLlBSSU5UQ09MT1IKICAgIGVuZCBhcyBQUklOVENPTE9SLAogICAgY2FzZQogICAgd2hlbiBKQS5QUklOVDRDT0xPUiBpcyBudWxsIHRoZW4gKHNlbGVjdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUFJJTlQ0Q09MT1IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUX0xYX0pPQl9BVVRICiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGhpZD0wKQogICAgZWxzZSBKQS5QUklOVDRDT0xPUgogICAgZW5kIGFzIFBSSU5UNENPTE9SLAogICAgY2FzZQogICAgd2hlbiBKQS5QUklOVE1PTk9DSFJPTUUgaXMgbnVsbCB0aGVuIChzZWxlY3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQUklOVE1PTk9DSFJPTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRfTFhfSk9CX0FVVEgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoaWQ9MCkKICAgIGVsc2UgSkEuUFJJTlRNT05PQ0hST01FCiAgICBlbmQgYXMgUFJJTlRNT05PQ0hST01FLAogICAgY2FzZQogICAgd2hlbiBKQS5DT1BZQ09MT1IgaXMgbnVsbCB0aGVuIChzZWxlY3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDT1BZQ09MT1IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRfTFhfSk9CX0FVVEgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoaWQ9MCkKICAgIGVsc2UgSkEuQ09QWUNPTE9SCiAgICBlbmQgYXMgQ09QWUNPTE9SLAogICAgY2FzZQogICAgd2hlbiBKQS5DT1BZNENPTE9SIGlzIG51bGwgdGhlbiAoc2VsZWN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENPUFk0Q09MT1IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb20KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVF9MWF9KT0JfQVVUSAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aGlkPTApCiAgICBlbHNlIEpBLkNPUFk0Q09MT1IKICAgIGVuZCBhcyBDT1BZNENPTE9SLAogICAgY2FzZQogICAgd2hlbiBKQS5DT1BZTU9OT0NIUk9NRSBpcyBudWxsIHRoZW4gKHNlbGVjdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ09QWU1PTk9DSFJPTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUX0xYX0pPQl9BVVRICiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGhpZD0wKQogICAgZWxzZSBKQS5DT1BZTU9OT0NIUk9NRQogICAgZW5kIGFzIENPUFlNT05PQ0hST01FLAogICAgY2FzZQogICAgd2hlbiBKQS5TQ0FOQ09MT1IgaXMgbnVsbCB0aGVuIChzZWxlY3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTQ0FOQ09MT1IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRfTFhfSk9CX0FVVEgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoaWQ9MCkKICAgIGVsc2UgSkEuU0NBTkNPTE9SCiAgICBlbmQgYXMgU0NBTkNPTE9SLAogICAgY2FzZQogICAgd2hlbiBKQS5TQ0FOTU9OT0NIUk9NRSBpcyBudWxsIHRoZW4gKHNlbGVjdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU0NBTk1PTk9DSFJPTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUX0xYX0pPQl9BVVRICiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGhpZD0wKQogICAgZWxzZSBKQS5TQ0FOTU9OT0NIUk9NRQogICAgZW5kIGFzIFNDQU5NT05PQ0hST01FLAogICAgY2FzZQogICAgd2hlbiBKQS5GQVhNT05PQ0hST01FIGlzIG51bGwgdGhlbiAoc2VsZWN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZBWE1PTk9DSFJPTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb20KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVF9MWF9KT0JfQVVUSAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aGlkPTApCiAgICBlbHNlIEpBLkZBWE1PTk9DSFJPTUUKICAgIGVuZCBhcyBGQVhNT05PQ0hST01FLAogICAgY2FzZQogICAgd2hlbiBKQS5JRkFYTU9OT0NIUk9NRSBpcyBudWxsIHRoZW4gKHNlbGVjdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSUZBWE1PTk9DSFJPTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUX0xYX0pPQl9BVVRICiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGhpZD0wKQogICAgZWxzZSBKQS5JRkFYTU9OT0NIUk9NRQogICAgZW5kIGFzIElGQVhNT05PQ0hST01FLAogICAgSVNOVUxMKEpBLlVTRVlOLAogICAgICAgICAgIDApIEFTIEFVVEhVU0VZTiwKICBKQS5MSU1JVF9EQVRFLAogIEpBLlVQRF9EQVRFLAogICAgSVNOVUxMKEpVLkNVUlBSSU5UQkxBQ0ssCiAgICAgICAgICAgMCkgQVMgQ1VSUFJJTlRCTEFDSywKICAgIElTTlVMTChKVS5DVVJQUklOVENPTE9SLAogICAgICAgICAgIDApIEFTIENVUlBSSU5UQ09MT1IsCiAgICBJU05VTEwoSlUuQ1VSQ09QWUJMQUNLLAogICAgICAgICAgIDApIEFTIENVUkNPUFlCTEFDSywKICAgIElTTlVMTChKVS5DVVJDT1BZQ09MT1IsCiAgICAgICAgICAgMCkgQVMgQ1VSQ09QWUNPTE9SLAogICAgSVNOVUxMKEpVLkNVUlNDQU5CTEFDSywKICAgICAgICAgICAwKSBBUyBDVVJTQ0FOQkxBQ0ssCiAgICBJU05VTEwoSlUuQ1VSU0NBTkNPTE9SLAogICAgICAgICAgIDApIEFTIENVUlNDQU5DT0xPUiwKICAgIElTTlVMTChKVS5DVVJGQVgsCiAgICAgICAgICAgMCkgQVMgICBDVVJGQVgsCiAgQS5BVVRISUQKZnJvbQogIFRfTFhfVVNFUl9NIEEKICBJTk5FUiBKT0lOCiAgVF9MWF9ERVBUX00gQgogICAgT04gQS5ERVBUQ09ERSA9IEIuREVQVENPREUKICBMRUZUIE9VVEVSIEpPSU4KICBUX0xYX1VTRVJfREVUQUlMIFkKICAgIE9OIEEuVVNFUklEID0gWS5VU0VSSUQKICBMRUZUIE9VVEVSIEpPSU4KICBUX0xYX0pPQl9BVVRIIEpBCiAgICBPTiBBLkFVVEhJRCA9IEpBLkFVVEhJRAogICAgICAgQU5EIEpBLkFVVEhJRCA+IDAKICBMRUZUIE9VVEVSIEpPSU4KICBWSUVXX1hQTVNfSk9CX1VTQUdFIEpVCiAgICBPTiBBLlVTRVJJRCA9IEpVLlVTRVJJRAogIExFRlQgT1VURVIgSk9JTgogIFRfTFhfVVNFUl9DQVJEIENBCiAgICBPTiBBLlVTRVJJRCA9IENBLlVTRVJJRAogICAgICAgQU5EIENBLlVTRVlOID0gJ1knCm9yZGVyIGJ5CiAgQS5VU0VSSUQgQVNDCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X3BsYWNlX207Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1590,25 +1589,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlkZXRhaWwuc2V0bWdtCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXN0ZXJcPg==</last-search>
+      <last-search>FN_</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXN0ZXJcPg==</last-pattern>
+      <last-pattern>FN_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>placecode</entry>
         <entry>placeCode</entry>
         <entry>mgmPlaceName</entry>
         <entry encoding="base64">XDxtZ21QbGFjZU5hbWVcPg==</entry>
@@ -1628,6 +1626,7 @@
         <entry>goDetail</entry>
         <entry>insert</entry>
         <entry encoding="base64">XDxtYXN0ZXJcPg==</entry>
+        <entry>FN_</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
