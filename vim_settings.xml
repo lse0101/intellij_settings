@@ -17,7 +17,7 @@
         <mark key="." line="85" column="3" />
         <mark key="^" line="85" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1494912591931">
+      <file name="/a.dummy" timestamp="1495000125538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/dao/hanwha_printUsage_SqlMap.xml" timestamp="1492563192965">
@@ -26,12 +26,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1494999294694">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1494999859173">
         <mark key="'" line="218" column="8" />
-        <mark key="[" line="228" column="17" />
-        <mark key="]" line="228" column="31" />
-        <mark key="." line="228" column="31" />
-        <mark key="^" line="228" column="31" />
+        <mark key="[" line="237" column="20" />
+        <mark key="]" line="237" column="21" />
+        <mark key="." line="237" column="21" />
+        <mark key="^" line="238" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/daemon/PrintUsageOfLastYear.java" timestamp="1492562082257">
         <mark key="[" line="14" column="0" />
@@ -202,6 +202,13 @@
         <mark key="." line="231" column="151" />
         <mark key="^" line="231" column="151" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dto/SearchPrintUsageVO.java" timestamp="1495000055236">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/FnU/src/test/java/FnuFAX_SendTest.java" timestamp="1491205189236">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="21" column="0" />
@@ -309,12 +316,12 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1494996624369">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1495000142500">
         <mark key="'" line="44" column="34" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
+        <mark key="[" line="160" column="93" />
+        <mark key="]" line="160" column="99" />
+        <mark key="^" line="160" column="99" />
+        <mark key="." line="160" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/log4j.xml" timestamp="1492671733052">
         <mark key="'" line="6" column="43" />
@@ -385,10 +392,6 @@
         <mark key="]" line="196" column="80" />
         <mark key="." line="196" column="80" />
         <mark key="^" line="196" column="80" />
-      </file>
-      <file name="/a.sql" timestamp="1494920207392">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/dao/Fnu_work_job-sql-map.xml" timestamp="1491380719924">
         <mark key="'" line="5" column="63" />
@@ -702,10 +705,10 @@
         <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/PrintUsageDao.java" timestamp="1494995886861">
-        <mark key="[" line="18" column="83" />
-        <mark key="]" line="18" column="102" />
-        <mark key="." line="18" column="102" />
-        <mark key="^" line="18" column="102" />
+        <mark key="[" line="17" column="83" />
+        <mark key="]" line="17" column="102" />
+        <mark key="." line="17" column="102" />
+        <mark key="^" line="17" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac_sub.jsp" timestamp="1490005446441">
         <mark key="'" line="173" column="25" />
@@ -775,11 +778,11 @@
         <mark key="^" line="9" column="96" />
         <mark key="." line="9" column="96" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/service/PrintUsageServiceImpl.java" timestamp="1494995810400">
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="24" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/service/PrintUsageServiceImpl.java" timestamp="1495000092826">
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="68" column="72" />
+        <mark key="^" line="68" column="72" />
+        <mark key="." line="68" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/SQL/update_menu_sql.sql" timestamp="1490148351989">
         <mark key="'" line="78" column="0" />
@@ -804,11 +807,6 @@
       </file>
       <file name="$USER_HOME$/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/daemon/HttpRequest.java" timestamp="1491368142403">
         <mark key="[" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" timestamp="1494978153393">
-        <mark key="'" line="380" column="44" />
-        <mark key="[" line="121" column="17" />
-        <mark key="]" line="121" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" timestamp="1490335859269">
         <mark key="'" line="20" column="39" />
@@ -1194,11 +1192,11 @@
         <mark key="^" line="242" column="84" />
         <mark key="." line="242" column="84" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/PrintUsageDaoImpl.java" timestamp="1494995910287">
-        <mark key="[" line="30" column="70" />
-        <mark key="]" line="30" column="96" />
-        <mark key="." line="29" column="112" />
-        <mark key="^" line="29" column="112" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/PrintUsageDaoImpl.java" timestamp="1495000121279">
+        <mark key="[" line="28" column="79" />
+        <mark key="]" line="28" column="78" />
+        <mark key="." line="28" column="78" />
+        <mark key="^" line="28" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/awils/secmgt/pattern/dao/querySecurityPattern.xml" timestamp="1490230010432">
         <mark key="'" line="694" column="64" />
@@ -1214,12 +1212,11 @@
         <mark key="." line="37" column="52" />
         <mark key="^" line="37" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1494486964470">
+      <file name="/fragment.java" timestamp="1495000095909">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="127" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dto/TLxUserM.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dto/TLxUserM.java" />
       <jump line="8" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dto/TLxUserM.java" />
@@ -1319,10 +1316,11 @@
       <jump line="44" column="34" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="220" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="218" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="9" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dto/SearchPrintUsageVO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>printUsageVO</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1445,7 +1443,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>printUsageVO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdW1teVByaW50dXNhZ2VcPg==</text>
@@ -1454,10 +1452,10 @@
         <text encoding="base64">ICAgICAgdF9seF9tZXRlcl9zdW1fc25tcF9tb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb24uKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1587,16 +1585,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gR1JPVVAgQlkKLS0gICBqb2IucHJpbnRjb2xvciwKLS0gICBtb24ubWV0ZXJfYSwKLS0gICBqb2IucHJpbnRtb25vY2hyb21lLAotLSAgIG1vbi5tZXRlcl9iCgoKU0VMRUNUICoKRlJPTSB0X2x4X2pvYl9hdXRoOwoK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb24uKgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
