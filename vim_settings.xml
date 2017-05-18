@@ -433,12 +433,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20/pom.xml" timestamp="1495007935926">
         <mark key="'" line="168" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" timestamp="1495090378404">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="54" />
-        <mark key="]" line="95" column="59" />
-        <mark key="." line="95" column="59" />
-        <mark key="^" line="95" column="59" />
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" timestamp="1495092680823">
+        <mark key="'" line="61" column="54" />
+        <mark key="[" line="61" column="54" />
+        <mark key="]" line="61" column="55" />
+        <mark key="." line="61" column="55" />
+        <mark key="^" line="61" column="55" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/DOC/server.txt" timestamp="1495086787604">
         <mark key="[" line="3" column="0" />
@@ -1226,7 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1969" column="22" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="252" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="650" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
@@ -1326,10 +1325,11 @@
       <jump line="59" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="107" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="60" column="54" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChDbG9zZWFibGVIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBodHRwLmV4ZWN1dGUocG9zdCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigKICAgICAgICAgICAgICAgICAgICAgICAgRW50aXR5VXRpbHMudG9TdHJpbmcocmVzcG9uc2UuZ2V0RW50aXR5KCkpCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1452,13 +1452,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGVmYXVsdEh0dHBDbGllbnQg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>BR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChDbG9zZWFibGVIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBodHRwLmV4ZWN1dGUocG9zdCkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigKICAgICAgICAgICAgICAgICAgICAgICAgRW50aXR5VXRpbHMudG9TdHJpbmcocmVzcG9uc2UuZ2V0RW50aXR5KCkpCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW5fc2VydmVyX3VybCA9ICJodHRwOi8vMTcyLjI4LjI4LjE1Mzo5MDkwL0V2YUltZy90b2tlbi5kbyI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
