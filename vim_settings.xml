@@ -433,11 +433,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20/pom.xml" timestamp="1495007935926">
         <mark key="'" line="168" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" timestamp="1495082663490">
-        <mark key="'" line="123" column="21" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" timestamp="1495089275837">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="102" />
+        <mark key="]" line="66" column="128" />
+        <mark key="." line="66" column="128" />
+        <mark key="^" line="66" column="128" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/DOC/server.txt" timestamp="1495086787604">
         <mark key="[" line="3" column="0" />
@@ -1225,8 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="37" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
-      <jump line="1181" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="1344" column="46" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="1969" column="22" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
@@ -1325,10 +1324,12 @@
       <jump line="37" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="99" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="123" column="21" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>STRICT_HOSTNAME_VERIFIER</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1451,19 +1452,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>overColorUsage</text>
+        <text>STRICT_HOSTNAME_VERIFIER</text>
       </register>
       <register name="/" type="4">
         <text>BR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE6WzAsIG92ZXJDb2xvclVzYWdlXQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU1NMU29ja2V0RmFjdG9yeSBzc2xTb2NrZXRGYWN0b3J5ID0gbmV3IFNTTFNvY2tldEZhY3Rvcnkoc3NsQ29udGV4dCwgU1NMU29ja2V0RmFjdG9yeS5TVFJJQ1RfSE9TVE5BTUVfVkVSSUZJRVIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZy5hcGFjaGUuaHR0cC5jb25uLnNzbC5TU0xTb2NrZXRGYWN0b3J5Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eHBtc2FkbWluCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1590,19 +1591,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eHBtc2FkbWluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNTTFNvY2tldEZhY3Rvcnkgc3NsU29ja2V0RmFjdG9yeSA9IG5ldyBTU0xTb2NrZXRGYWN0b3J5KCkgewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIFN0cmluZ1tdIGdldERlZmF1bHRDaXBoZXJTdWl0ZXMoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU3RyaW5nWzBdOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIFN0cmluZ1tdIGdldFN1cHBvcnRlZENpcGhlclN1aXRlcygpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBTdHJpbmdbMF07CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgU29ja2V0IGNyZWF0ZVNvY2tldChTb2NrZXQgc29ja2V0LCBTdHJpbmcgcywgaW50IGksIGJvb2xlYW4gYikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgU29ja2V0IGNyZWF0ZVNvY2tldChTdHJpbmcgcywgaW50IGkpIHRocm93cyBJT0V4Y2VwdGlvbiwgVW5rbm93bkhvc3RFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBTb2NrZXQgY3JlYXRlU29ja2V0KFN0cmluZyBzLCBpbnQgaSwgSW5ldEFkZHJlc3MgaW5ldEFkZHJlc3MsIGludCBpMSkgdGhyb3dzIElPRXhjZXB0aW9uLCBVbmtub3duSG9zdEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIFNvY2tldCBjcmVhdGVTb2NrZXQoSW5ldEFkZHJlc3MgaW5ldEFkZHJlc3MsIGludCBpKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBTb2NrZXQgY3JlYXRlU29ja2V0KEluZXRBZGRyZXNzIGluZXRBZGRyZXNzLCBpbnQgaSwgSW5ldEFkZHJlc3MgaW5ldEFkZHJlc3MxLCBpbnQgaTEpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNTTFNvY2tldEZhY3Rvcnkoc3NsQ29udGV4dCwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1621,10 +1622,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eHBtc2FkbWluCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eHBtc2FkbWluCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
