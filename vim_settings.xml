@@ -433,12 +433,11 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20/pom.xml" timestamp="1495007935926">
         <mark key="'" line="168" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" timestamp="1495092680823">
-        <mark key="'" line="61" column="54" />
-        <mark key="[" line="61" column="54" />
-        <mark key="]" line="61" column="55" />
-        <mark key="." line="61" column="55" />
-        <mark key="^" line="61" column="55" />
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" timestamp="1495095440381">
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="102" />
+        <mark key="^" line="42" column="46" />
+        <mark key="." line="42" column="46" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/DOC/server.txt" timestamp="1495086787604">
         <mark key="[" line="3" column="0" />
@@ -660,6 +659,9 @@
         <mark key="'" line="908" column="47" />
         <mark key="[" line="835" column="0" />
         <mark key="]" line="841" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495095140618">
+        <mark key="'" line="37" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/approve/apprend/apprEndList.jsp" timestamp="1490079826129">
         <mark key="'" line="206" column="20" />
@@ -1226,12 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
-      <jump line="252" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
-      <jump line="650" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
-      <jump line="662" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
-      <jump line="827" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
-      <jump line="921" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="991" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="1156" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="1165" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
@@ -1326,10 +1322,16 @@
       <jump line="107" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="60" column="54" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="54" column="31" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="8" column="23" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="11" column="32" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="55" column="16" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
+      <jump line="37" column="32" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>PoolingHttpClientConnectionManager</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1452,19 +1454,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>naver</text>
       </register>
       <register name="/" type="4">
-        <text>BR</text>
+        <text>SSL</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW5fc2VydmVyX3VybCA9ICJodHRwOi8vMTcyLjI4LjI4LjE1Mzo5MDkwL0V2YUltZy90b2tlbi5kbyI7Cg==</text>
+      <register name="0" type="4">
+        <text>PoolingHttpClientConnectionManager</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcnVzdFN0cmF0ZWd5IGFjY2VwdGluZ1RydXN0U3RyYXRlZ3kgPSBuZXcgVHJ1c3RTdHJhdGVneSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzVHJ1c3RlZChYNTA5Q2VydGlmaWNhdGVbXSB4NTA5Q2VydGlmaWNhdGVzLCBTdHJpbmcgcykgdGhyb3dzIENlcnRpZmljYXRlRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1594,19 +1596,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cENsaWVudC5leGVjdXRlKHBvc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NtID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoS2V5TWFuYWdlbWVudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGNhdGNoIChLZXlTdG9yZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGNhdGNoIChVbnJlY292ZXJhYmxlS2V5RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQgPSBTU0xDb250ZXh0LmdldEluc3RhbmNlKCJTU0wiKTsKICAgICAgICAgICAgICAgIHNzbENvbnRleHQuaW5pdChudWxsLCBuZXcgVHJ1c3RNYW5hZ2VyW117ZWFzeVRydXN0TWFuYWdlcn0sIG5ldyBqYXZhLnNlY3VyaXR5LlNlY3VyZVJhbmRvbSgpKTsKCgovLyAgICAgICAgICAgICAgICBTU0xTb2NrZXRGYWN0b3J5IHNzbFNvY2tldEZhY3RvcnkgPSBuZXcgU1NMU29ja2V0RmFjdG9yeShzc2xDb250ZXh0LCBTU0xTb2NrZXRGYWN0b3J5LlNUUklDVF9IT1NUTkFNRV9WRVJJRklFUik7Ci8vICAgICAgICAgICAgICAgIFNTTFNvY2tldEZhY3Rvcnkgc3NsU29ja2V0RmFjdG9yeSA9IG5ldyBTU0xTb2NrZXRGYWN0b3J5KHNzbENvbnRleHQsIFNTTFNvY2tldEZhY3RvcnkuQUxMT1dfQUxMX0hPU1ROQU1FX1ZFUklGSUVSKTsKICAgICAgICAgICAgICAgIC8vU2NoZW1lIHNjaCA9IG5ldyBTY2hlbWUoImh0dHBzIiwgOTA5MCwgc3NsU29ja2V0RmFjdG9yeSk7Ci8vICAgICAgICAgICAgICAgIFNjaGVtZSBzY2ggPSBuZXcgU2NoZW1lKCJodHRwcyIsIDkwOTAsIHNzbFNvY2tldEZhY3RvcnkpOwoKLy8gICAgICAgICAgICAgICAgaHR0cC5nZXRDb25uZWN0aW9uTWFuYWdlcigpLmdldFNjaGVtZVJlZ2lzdHJ5KCkucmVnaXN0ZXIoc2NoKTsKICAgICAgICAgICAgICAgIEh0dHBzVVJMQ29ubmVjdGlvbi5zZXREZWZhdWx0U1NMU29ja2V0RmFjdG9yeShzc2xDb250ZXh0LmdldFNvY2tldEZhY3RvcnkoKSk7CgogICAgICAgICAgICAgICAgSG9zdG5hbWVWZXJpZmllciBob3N0bmFtZVZlcmlmaWVyID0gbmV3IEhvc3RuYW1lVmVyaWZpZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gdmVyaWZ5KFN0cmluZyBzLCBTU0xTZXNzaW9uIHNzbFNlc3Npb24pIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgSHR0cHNVUkxDb25uZWN0aW9uLnNldERlZmF1bHRIb3N0bmFtZVZlcmlmaWVyKGhvc3RuYW1lVmVyaWZpZXIpOwogICAgICAgICAgICAgICAgCgogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1622,26 +1624,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBUcnVzdE1hbmFnZXIgZWFzeVRydXN0TWFuYWdlciA9IG5ldyBYNTA5VHJ1c3RNYW5hZ2VyKCkgewogICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2hlY2tDbGllbnRUcnVzdGVkKFg1MDlDZXJ0aWZpY2F0ZVtdIHg1MDlDZXJ0aWZpY2F0ZXMsIFN0cmluZyBzKSB0aHJvd3MgQ2VydGlmaWNhdGVFeGNlcHRpb24gewoKICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGNoZWNrU2VydmVyVHJ1c3RlZChYNTA5Q2VydGlmaWNhdGVbXSB4NTA5Q2VydGlmaWNhdGVzLCBTdHJpbmcgcykgdGhyb3dzIENlcnRpZmljYXRlRXhjZXB0aW9uIHsKCiAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICBwdWJsaWMgWDUwOUNlcnRpZmljYXRlW10gZ2V0QWNjZXB0ZWRJc3N1ZXJzKCkgewogICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBYNTA5Q2VydGlmaWNhdGVbMF07CiAgICAgICAgICAgICAgIH0KICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZy5hcGFjaGUuaHR0cC5jb25uLnNzbC5TU0xTb2NrZXRGYWN0b3J5Lgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>0,$d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BR</last-search>
+      <last-search>SSL</last-search>
       <last-offset />
-      <last-pattern>BR</last-pattern>
+      <last-pattern>SSL</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
-        <entry>update</entry>
         <entry>goDetail</entry>
         <entry>insert</entry>
         <entry encoding="base64">XDxtYXN0ZXJcPg==</entry>
@@ -1660,6 +1660,8 @@
         <entry encoding="base64">XDxiYXJcPg==</entry>
         <entry encoding="base64">XDxiYXJDb2xvclVzYWdlQ2hhcnRcPg==</entry>
         <entry>BR</entry>
+        <entry>con</entry>
+        <entry>SSL</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
@@ -1673,7 +1675,6 @@
         <entry>275</entry>
         <entry>145</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>regs</entry>
         <entry>reg</entry>
         <entry>buffer</entry>
@@ -1682,6 +1683,7 @@
         <entry>buf</entry>
         <entry>18</entry>
         <entry>0,$d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
