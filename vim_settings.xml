@@ -958,6 +958,12 @@
         <mark key="^" line="322" column="67" />
         <mark key="." line="322" column="67" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/daemon/FnUFaxConsumer.java" timestamp="1495080999966">
+        <mark key="[" line="178" column="73" />
+        <mark key="]" line="178" column="18" />
+        <mark key="." line="178" column="18" />
+        <mark key="^" line="178" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/main/webapp/usage/deptcode/usage_dept.jsp" timestamp="1490076132350">
         <mark key="'" line="313" column="67" />
         <mark key="[" line="315" column="65" />
@@ -1304,7 +1310,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE6WzAsIDgwMDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGVudFR5cGUuCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1430,16 +1436,16 @@
         <text>overColorUsage</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXJDb2xvclVzYWdlQ2hhcnRcPg==</text>
+        <text>BR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE6WzAsIG92ZXJDb2xvclVzYWdlXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE6WzAsIDgwMDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGVudFR5cGUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJd2lkdGg6IDU5MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGE6WzAsIDgwMDBdCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1566,22 +1572,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJd2lkdGg6IDU5MHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3ZlckNvbG9yVXNhZ2UgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3ZlckNvbG9yVXNhZ2UgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1597,25 +1603,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBjb2xvclVzYWdlID0gdXNhZ2U7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBjb2xvclVzYWdlID0gdXNhZ2U7IAo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXJDb2xvclVzYWdlQ2hhcnRcPg==</last-search>
+      <last-search>BR</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXJDb2xvclVzYWdlQ2hhcnRcPg==</last-pattern>
+      <last-pattern>BR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnb0RldGFpbERpc3BsYXlcPg==</entry>
         <entry>submit</entry>
         <entry>update</entry>
         <entry>goDetail</entry>
@@ -1635,6 +1640,7 @@
         <entry>compile</entry>
         <entry encoding="base64">XDxiYXJcPg==</entry>
         <entry encoding="base64">XDxiYXJDb2xvclVzYWdlQ2hhcnRcPg==</entry>
+        <entry>BR</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
