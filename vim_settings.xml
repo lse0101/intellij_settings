@@ -12,12 +12,12 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495184010228">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495185046365">
         <mark key="'" line="257" column="14" />
-        <mark key="[" line="325" column="19" />
-        <mark key="]" line="325" column="32" />
-        <mark key="." line="325" column="32" />
-        <mark key="^" line="325" column="32" />
+        <mark key="[" line="319" column="21" />
+        <mark key="]" line="320" column="62" />
+        <mark key="." line="320" column="62" />
+        <mark key="^" line="320" column="62" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
@@ -116,9 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="40" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" />
-      <jump line="106" column="72" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" />
-      <jump line="107" column="87" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" />
       <jump line="78" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="7" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="8" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
@@ -215,11 +212,14 @@
       <jump line="146" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="258" column="74" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="306" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="319" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="294" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="293" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="257" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>*</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -342,19 +342,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>thisYear</text>
       </register>
       <register name="0" type="4">
-        <text>TC100394183312</text>
+        <text>color_lr_sum + color_sm_sum</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMRUZUIE9VVEVSIEpPSU4K</text>
+        <text encoding="base64">U0VMRUNUIG1ldGVyX2EsCiAgICAgICAgY29sb3JfbHJfc3VtK2NvbG9yX3NtX3N1bQpGUk9NIHRfbHhfbWV0ZXJfc3VtX3NubXBfbW9uCldIRVJFIGpvYl9tb250aCA9ICcyMDE3MDQnIGFuZCBtYWNfY29kZSA9ICdUQzEwMDUxODg1MDcyMyc7CgoKc2VsZWN0IG1heChtZXRlcl9hKSAtIG1pbihtZXRlcl9hKSBmcm9tIFRfTFhfTUVURVJfSElTX1NOTVAKd2hlcmUgYmFzZV9kYXRlIGxpa2UgJzIwMTcwNCUnIGFuZCBtYWNfY29kZSA9ICdUQzEwMDUxODg1MDcyMycKOwoKCnNlbGVjdCAzMDc3NTcgLSAzMDQ5MzMKCgpTRUxFQ1QgKgpGUk9NIHRfbHhfbWV0ZXJfc3VtX3NubXBfbW9uOwoKCgpTRUxFQ1QgKgpGUk9NIHRfbHhfbWV0ZXJfc3VtX3NubXBfbW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -481,10 +481,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICApIHRoaXNZZWFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9OIHN1YnN0cmluZyhsYXN0eWVhci5tb25PZkxhc3R5ZWFyLDUsMikgPSBzdWJzdHJpbmcodGhpc1llYXIubW9ub2Z0aGlzeWVhciwgNSwgMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -493,10 +493,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMRUZUIE9VVEVSIEpPSU4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0IHN1YnN0cmluZygnMjAxNzAxJywgNSwgMikK</text>
+        <text encoding="base64">ICAoCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,10 +512,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuaW9uIGFsbAo=</text>
+        <text encoding="base64">ICApIHRoaXNZZWFyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMRUZUIE9VVEVSIEpPSU4K</text>
+        <text encoding="base64">ICAgIE9OIHN1YnN0cmluZyhsYXN0eWVhci5tb25PZkxhc3R5ZWFyLDUsMikgPSBzdWJzdHJpbmcodGhpc1llYXIubW9ub2Z0aGlzeWVhciwgNSwgMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
