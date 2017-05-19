@@ -26,12 +26,12 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1494999859173">
-        <mark key="'" line="218" column="8" />
-        <mark key="[" line="237" column="20" />
-        <mark key="]" line="237" column="21" />
-        <mark key="." line="237" column="21" />
-        <mark key="^" line="238" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495181786608">
+        <mark key="'" line="193" column="13" />
+        <mark key="[" line="245" column="17" />
+        <mark key="]" line="245" column="18" />
+        <mark key="." line="245" column="18" />
+        <mark key="^" line="245" column="17" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
@@ -60,12 +60,12 @@
         <mark key="^" line="92" column="39" />
         <mark key="." line="87" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495178408326">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="431" column="0" />
-        <mark key="]" line="431" column="0" />
-        <mark key="." line="431" column="0" />
-        <mark key="^" line="392" column="26" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495181275617">
+        <mark key="'" line="334" column="28" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/kumhotire/XPMS_20_CORE_WEB/src/test/java/CharacterEncodingExample.java" timestamp="1490332672849">
         <mark key="'" line="19" column="0" />
@@ -286,8 +286,8 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1495178322792">
-        <mark key="'" line="52" column="50" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1495181437163">
+        <mark key="'" line="65" column="12" />
         <mark key="[" line="40" column="84" />
         <mark key="]" line="40" column="85" />
         <mark key="^" line="172" column="27" />
@@ -1082,14 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="218" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="49" column="29" filename="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" />
-      <jump line="87" column="132" filename="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" />
-      <jump line="97" column="133" filename="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" />
-      <jump line="115" column="37" filename="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" />
-      <jump line="116" column="43" filename="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" />
-      <jump line="7" column="2" filename="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" />
       <jump line="34" column="45" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" />
       <jump line="54" column="102" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" />
       <jump line="55" column="110" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" />
@@ -1182,10 +1174,18 @@
       <jump line="32" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="117" column="32" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="52" column="50" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="317" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="30" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="106" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="334" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="66" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="65" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="173" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="193" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>color_lr_sum + color_sm_sum</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1308,7 +1308,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>color_lr_sum + color_sm_sum</text>
       </register>
       <register name="/" type="4">
         <text>thisYear</text>
@@ -1317,10 +1317,10 @@
         <text>line-color-usage-year</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">d2hlcmUgam9iX21vbnRoID0gJzIwMTcwMyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQl2YXIgdmFsID0gcGFyc2VJbnQob2JqW3Byb3BOYW1lXSwgMTApOwoJCQkJCWRhdGFBcnIucHVzaCh2YWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1447,7 +1447,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1456,13 +1456,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhTWFwKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG9iaik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1478,10 +1478,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gc2hvdyhkYXRhKXsKICAgICAgICAgIAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
