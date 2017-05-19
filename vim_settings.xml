@@ -42,8 +42,8 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495154535076">
-        <mark key="'" line="210" column="13" />
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495157720206">
+        <mark key="'" line="433" column="43" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/web.xml" timestamp="1495002094870">
         <mark key="'" line="209" column="36" />
@@ -71,6 +71,9 @@
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495157824243">
+        <mark key="'" line="390" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/daemon/FnUFaxConsumer.java" timestamp="1495155510132">
         <mark key="[" line="72" column="29" />
         <mark key="]" line="72" column="30" />
@@ -93,18 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="526" column="13" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
-      <jump line="89" column="58" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="56" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="90" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="36" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/bar그래프(흑백 및 컬러).js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/bar그래프(흑백 및 컬러).js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/bar그래프(흑백 및 컬러).js" />
-      <jump line="37" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="99" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="123" column="21" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="60" column="54" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
       <jump line="54" column="31" filename="$USER_HOME$/Development/workspace/FnU/src/main/java/FnURequestAndResponseTest.java" />
@@ -193,6 +184,18 @@
       <jump line="120" column="3" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
       <jump line="121" column="3" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
       <jump line="122" column="8" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
+      <jump line="476" column="31" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="646" column="69" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="439" column="35" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="440" column="20" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="443" column="35" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="444" column="13" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="751" column="52" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="131" column="20" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="433" column="43" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
+      <jump line="382" column="67" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
+      <jump line="389" column="16" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
+      <jump line="390" column="18" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -322,7 +325,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>SMB_</text>
+        <text encoding="base64">XDxzZXRWYWxpZGF0ZUFmdGVySW5hY3Rpdml0eVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgKENsb3NlYWJsZUh0dHBDbGllbnQgaHR0cCA9IEh0dHBDbGllbnRzLmNyZWF0ZURlZmF1bHQoKSl7Cg==</text>
@@ -499,19 +502,14 @@
       </register>
     </registers>
     <search>
-      <last-search>SMB_</last-search>
+      <last-search encoding="base64">XDxzZXRWYWxpZGF0ZUFmdGVySW5hY3Rpdml0eVw+</last-search>
       <last-offset />
-      <last-pattern>SMB_</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRWYWxpZGF0ZUFmdGVySW5hY3Rpdml0eVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>con</entry>
-        <entry>SSL</entry>
-        <entry>Regi</entry>
-        <entry encoding="base64">XDxSZWdpc3RyeVw+</entry>
-        <entry>Scheme</entry>
         <entry>static</entry>
         <entry>Sche</entry>
         <entry>sch</entry>
@@ -527,6 +525,11 @@
         <entry encoding="base64">XDxkZWZhdWx0Q29ubmVjdGlvbkNvbmZpZ1w+</entry>
         <entry>c:</entry>
         <entry>SMB_</entry>
+        <entry>Val</entry>
+        <entry encoding="base64">XDxldmljdElkbGVDb25uZWN0aW9uc1w+</entry>
+        <entry>Vali</entry>
+        <entry>Pool</entry>
+        <entry encoding="base64">XDxzZXRWYWxpZGF0ZUFmdGVySW5hY3Rpdml0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
