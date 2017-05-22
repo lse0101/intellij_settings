@@ -57,14 +57,14 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495420999844">
-        <mark key="a" line="571" column="79" />
-        <mark key="'" line="51" column="4" />
-        <mark key="j" line="571" column="79" />
-        <mark key="[" line="82" column="28" />
-        <mark key="]" line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-        <mark key="." line="83" column="21" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495423593757">
+        <mark key="a" line="573" column="79" />
+        <mark key="'" line="53" column="4" />
+        <mark key="j" line="573" column="79" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" timestamp="1495173304983">
         <mark key="'" line="858" column="27" />
@@ -231,7 +231,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
+        <text encoding="base64">CQkJZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -363,10 +363,10 @@
         <text encoding="base64">CQkJPGJ1dHRvbiBjbGFzcz0iYnRuIj60673Duri15TwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
+        <text encoding="base64">CQkJZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZmxvYXQ6IHJpZ2h0Owo=</text>
+        <text encoding="base64">CQkJbWFyZ2luLXJpZ2h0OiA1JTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -493,22 +493,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZmxvYXQ6IGxlZnQ7Cg==</text>
+        <text encoding="base64">CQkJZGlzcGxheTogOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdGV4dC1hbGlnbjogbGVmdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkjY2hhcnR7CgkJCWNsZWFyOiBib3RoOwoJCX0K</text>
+        <text encoding="base64">CQkJdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZmxvYXQ6IHJpZ2h0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -524,10 +524,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJZmxvYXQ6IGxlZnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLXJpZ2h0OiA1JTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
