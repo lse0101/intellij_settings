@@ -57,14 +57,21 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495423593757">
-        <mark key="a" line="573" column="79" />
-        <mark key="'" line="53" column="4" />
-        <mark key="j" line="573" column="79" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="52" column="15" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1495430324714">
+        <mark key="'" line="44" column="66" />
+        <mark key="[" line="91" column="42" />
+        <mark key="]" line="91" column="42" />
+        <mark key="." line="91" column="42" />
+        <mark key="^" line="91" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495430353240">
+        <mark key="a" line="574" column="79" />
+        <mark key="'" line="409" column="11" />
+        <mark key="j" line="574" column="79" />
+        <mark key="[" line="619" column="37" />
+        <mark key="]" line="619" column="48" />
+        <mark key="." line="619" column="48" />
+        <mark key="^" line="619" column="48" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" timestamp="1495173304983">
         <mark key="'" line="858" column="27" />
@@ -112,6 +119,16 @@
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" timestamp="1495429771250">
+        <mark key="'" line="37" column="41" />
+        <mark key="[" line="258" column="44" />
+        <mark key="]" line="259" column="50" />
+        <mark key="." line="259" column="50" />
+        <mark key="^" line="259" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" timestamp="1495427269374">
+        <mark key="'" line="8" column="30305" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" timestamp="1495152671920">
         <mark key="'" line="29" column="2" />
       </file>
@@ -126,21 +143,11 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495157824243">
         <mark key="'" line="390" column="18" />
       </file>
+      <file name="/fragment.java" timestamp="1495430202545">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="403" column="32" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="407" column="55" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="423" column="11" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="428" column="47" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="442" column="53" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="443" column="47" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="445" column="12" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="509" column="47" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="511" column="16" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="515" column="16" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="128" column="29" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="210" column="13" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="1" column="60" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
       <jump line="70" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/403eef15-2484-435c-9a1b-4e6e769acc77/console.sql" />
       <jump line="278" column="16" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
@@ -228,10 +235,23 @@
       <jump line="31" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="20" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="50" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="118" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" />
+      <jump line="2" column="167" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" />
+      <jump line="183" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="5" column="3553" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" />
+      <jump line="8" column="30305" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" />
+      <jump line="182" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="544" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="244" column="13" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="409" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="45" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
+      <jump line="42" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
+      <jump line="37" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -354,19 +374,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>float</text>
+        <text>datepicker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPGJ1dHRvbiBjbGFzcz0iYnRuIj60673Duri15TwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+        <text encoding="base64">CQkgICAgY29uc29sZS5sb2cobW9udGgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLXJpZ2h0OiA1JTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh5ZWFyKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -493,22 +513,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGlzcGxheTogOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgZGF0ZSA9ICIyMDA5MDgwNyI7CgkJU3RyaW5nIG5ld0Zvcm1hdCA9ICJ5eXl5L01NL2RkIjsKCQlTdHJpbmcgb2xkRm9ybWF0ID0gInl5eXlNTWRkIjsKCgkJLy8gU3RyaW5nIG5ld0RhdGUgPSBEYXRlVXRpbC5jb252ZXJ0Rm9ybWF0KCBkYXRlLCBvbGRGb3JtYXQsIG5ld0Zvcm1hdCk7CgkJU3lzdGVtLm91dC5wcmludGxuKERhdGVVdGlsLmdldEN1cnJlbnREYXRlKCJ5eXl5TU1kZCIpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZVV0aWwuZ2V0RGF5SW50ZXJ2YWwoIk1NLWRkLXl5eXkiLCAxKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKERhdGVVdGlsLmdldE1vbnRoSW50ZXJ2YWwoIk1NLWRkLXl5eXkiLCA5KSk7CgoJCVN0cmluZ1tdIHllYXJzID0gRGF0ZVV0aWwuZ2V0WWVhcnMoMjAxMiwgNSk7CgoJCVN5c3RlbS5vdXQucHJpbnRsbihEYXRlVXRpbC5nZXRIb3VySW50ZXJ2YWwoInl5eXlNTWRkSEhtbSIsIDkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdGV4dC1hbGlnbjogbGVmdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
+        <text encoding="base64">CQkgICAgLnNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZmxvYXQ6IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -524,26 +544,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZmxvYXQ6IGxlZnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2hhbmdlIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>float</last-search>
+      <last-search>datepicker</last-search>
       <last-offset />
-      <last-pattern>float</last-pattern>
+      <last-pattern>datepicker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ConnectionMana</entry>
-        <entry encoding="base64">XDxwb29saW5nbWdyXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q29ubmVjdGlvbkNvbmZpZ1w+</entry>
         <entry>c:</entry>
         <entry>SMB_</entry>
@@ -560,8 +578,10 @@
         <entry>meter</entry>
         <entry>meter_a</entry>
         <entry encoding="base64">XDxibGFja1VzYWdlXD4=</entry>
-        <entry>date</entry>
         <entry>float</entry>
+        <entry>date</entry>
+        <entry>datePicker</entry>
+        <entry>datepicker</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
