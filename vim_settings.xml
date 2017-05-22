@@ -57,14 +57,14 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495419323928">
-        <mark key="a" line="550" column="79" />
-        <mark key="'" line="329" column="33" />
-        <mark key="j" line="550" column="79" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="18" />
-        <mark key="." line="54" column="18" />
-        <mark key="^" line="54" column="18" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495420999844">
+        <mark key="a" line="571" column="79" />
+        <mark key="'" line="51" column="4" />
+        <mark key="j" line="571" column="79" />
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="83" column="21" />
+        <mark key="^" line="83" column="21" />
+        <mark key="." line="83" column="21" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" timestamp="1495173304983">
         <mark key="'" line="858" column="27" />
@@ -128,10 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="26" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="27" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="28" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="29" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="403" column="32" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="407" column="55" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
@@ -228,10 +224,14 @@
       <jump line="89" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="121" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="349" column="33" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="267" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="31" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="20" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="50" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -354,64 +354,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>float</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPGJ1dHRvbiBjbGFzcz0iYnRuIj60673Duri15TwvYnV0dG9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.tab-btn{
-			-moz-box-shadow:inset 0px 1px 0px 0px #97c4fe;
-			-webkit-box-shadow:inset 0px 1px 0px 0px #97c4fe;
-			box-shadow:inset 0px 1px 0px 0px #97c4fe;
-			background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #3d94f6), color-stop(1, #1e62d0));
-			background:-moz-linear-gradient(top, #3d94f6 5%, #1e62d0 100%);
-			background:-webkit-linear-gradient(top, #3d94f6 5%, #1e62d0 100%);
-			background:-o-linear-gradient(top, #3d94f6 5%, #1e62d0 100%);
-			background:-ms-linear-gradient(top, #3d94f6 5%, #1e62d0 100%);
-			background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
-			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0',GradientType=0);
-			background-color:#3d94f6;
-			-moz-border-radius:6px;
-			-webkit-border-radius:6px;
-			border-radius:6px;
-			border:1px solid #337fed;
-			display:inline-block;
-			cursor:pointer;
-			color:#ffffff;
-			font-family:Arial;
-			font-size:15px;
-			font-weight:bold;
-			padding:6px 24px;
-			text-decoration:none;
-			text-shadow:0px 1px 0px #1570cd;
-		}
-
-		.tab-btn:hover {
-			background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #1e62d0), color-stop(1, #3d94f6));
-			background:-moz-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
-			background:-webkit-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
-			background:-o-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
-			background:-ms-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);
-			background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
-			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6',GradientType=0);
-			background-color:#1e62d0;
-		}
-
-		.tab-btn:active {
-			position:relative;
-			top:1px;
-		}
-
-		.tab-btn a  {
-			color: white !important;
-		}</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJdGV4dC1hbGlnbjogcmlnaHQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkuYnRuIHsKCQkJYmFja2dyb3VuZDogIzM0OThkYjsKCQkJYmFja2dyb3VuZC1pbWFnZTogLXdlYmtpdC1saW5lYXItZ3JhZGllbnQodG9wLCAjMzQ5OGRiLCAjMjk4MGI5KTsKCQkJYmFja2dyb3VuZC1pbWFnZTogLW1vei1saW5lYXItZ3JhZGllbnQodG9wLCAjMzQ5OGRiLCAjMjk4MGI5KTsKCQkJYmFja2dyb3VuZC1pbWFnZTogLW1zLWxpbmVhci1ncmFkaWVudCh0b3AsICMzNDk4ZGIsICMyOTgwYjkpOwoJCQliYWNrZ3JvdW5kLWltYWdlOiAtby1saW5lYXItZ3JhZGllbnQodG9wLCAjMzQ5OGRiLCAjMjk4MGI5KTsKCQkJYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHRvIGJvdHRvbSwgIzM0OThkYiwgIzI5ODBiOSk7CgkJCS13ZWJraXQtYm9yZGVyLXJhZGl1czogODsKCQkJLW1vei1ib3JkZXItcmFkaXVzOiA4OwoJCQlib3JkZXItcmFkaXVzOiA4cHg7CgkJCWZvbnQtZmFtaWx5OiBBcmlhbDsKCQkJY29sb3I6ICNmZmZmZmY7CgkJCWZvbnQtc2l6ZTogMjBweDsKCQkJcGFkZGluZzogMTBweCAyMHB4IDEwcHggMjBweDsKCQkJdGV4dC1kZWNvcmF0aW9uOiBub25lOwoJCX0KCgkJLmJ0bjpob3ZlciB7CgkJCWJhY2tncm91bmQ6ICMzY2IwZmQ7CgkJCWJhY2tncm91bmQtaW1hZ2U6IC13ZWJraXQtbGluZWFyLWdyYWRpZW50KHRvcCwgIzNjYjBmZCwgIzM0OThkYik7CgkJCWJhY2tncm91bmQtaW1hZ2U6IC1tb3otbGluZWFyLWdyYWRpZW50KHRvcCwgIzNjYjBmZCwgIzM0OThkYik7CgkJCWJhY2tncm91bmQtaW1hZ2U6IC1tcy1saW5lYXItZ3JhZGllbnQodG9wLCAjM2NiMGZkLCAjMzQ5OGRiKTsKCQkJYmFja2dyb3VuZC1pbWFnZTogLW8tbGluZWFyLWdyYWRpZW50KHRvcCwgIzNjYjBmZCwgIzM0OThkYik7CgkJCWJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCh0byBib3R0b20sICMzY2IwZmQsICMzNDk4ZGIpOwoJCQl0ZXh0LWRlY29yYXRpb246IG5vbmU7CgkJfQo=</text>
+        <text encoding="base64">CQkJZmxvYXQ6IHJpZ2h0Owo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -538,10 +493,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZmxvYXQ6IGxlZnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8YnV0dG9uIGNsYXNzPSJidG4iPrTrvcO6uLXlPC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -550,10 +505,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBpZD0iY2hhcnQiPgoJPGRpdiBjbGFzcz0iY2hhcnRJdGVtIj4KCQk8ZGw+CgkJCTxkdD4KCQkJCcTDt68gu+e/67euPGJyLz4KCQkJCTxzcGFuIGNsYXNzPSJjdXJVc2FnZSI+PC9zcGFuPiAvIDEwMDAKCQkJPC9kdD4KCQkJPGRkPgoJCQkJPGRpdiBjbGFzcz0iY2hhcnRDb250YWluZXIiPgoJCQkJCTxkaXYgaWQ9ImJhci1jb2xvci11c2FnZSI+PC9kaXY+CgkJCQk8L2Rpdj4KCQkJPC9kZD4KCQk8L2RsPgoJPC9kaXY+CgoJPGRpdiBjbGFzcz0iY2hhcnRJdGVtIj4KCQk8ZGw+CgkJCTxkdD4KCQkJCcjmuekgu+e/67euPGJyLz4KCQkJCTxzcGFuIGNsYXNzPSJjdXJVc2FnZSI+PC9zcGFuPiAvIDEwMDAKCQkJPC9kdD4KCQkJPGRkPgoJCQkJPGRpdiBjbGFzcz0iY2hhcnRDb250YWluZXIiPgoJCQkJCTxkaXYgaWQ9ImJhci1ibGFjay11c2FnZSI+PC9kaXY+CgkJCQk8L2Rpdj4KCQkJPC9kZD4KCQk8L2RsPgoJPC9kaXY+CgoJPGRpdiBjbGFzcz0iY2hhcnRJdGVtIj4KCQk8ZGw+CgkJCTxkdD4KCQkJCb/5urAgxMO3ryDD4rfCx/bIsgoJCQk8L2R0PgoJCQk8ZGQ+CgkJCQk8ZGl2IGNsYXNzPSJjaGFydENvbnRhaW5lciI+CgkJCQkJPGRpdiBpZD0ibGluZS1jb2xvci11c2FnZS15ZWFyIj48L2Rpdj4KCQkJCTwvZGl2PgoJCQk8L2RkPgoJCTwvZGw+Cgk8L2Rpdj4KCgk8ZGl2IGNsYXNzPSJjaGFydEl0ZW0iPgoJCTxkbD4KCQkJPGR0PgoJCQkJv/m6sCDEw7evIMPit8LH9siyCgkJCTwvZHQ+CgkJCTxkZD4KCQkJCTxkaXYgY2xhc3M9ImNoYXJ0Q29udGFpbmVyIj4KCQkJCQk8ZGl2IGlkPSJsaW5lLWJsYWNrLXVzYWdlLXllYXIiPjwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGQ+CgkJPC9kbD4KCTwvZGl2Pgo8L2Rpdj4KCjxkaXYgaWQ9Imxpc3QiPgoJbGlzdAo8L2Rpdj4K</text>
+        <text encoding="base64">CQkjY2hhcnR7CgkJCWNsZWFyOiBib3RoOwoJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXJ0aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -569,25 +524,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWFyZ2luLXJpZ2h0OiA1JTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>float</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>float</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXhcPg==</entry>
         <entry>ConnectionMana</entry>
         <entry encoding="base64">XDxwb29saW5nbWdyXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q29ubmVjdGlvbkNvbmZpZ1w+</entry>
@@ -607,6 +561,7 @@
         <entry>meter_a</entry>
         <entry encoding="base64">XDxibGFja1VzYWdlXD4=</entry>
         <entry>date</entry>
+        <entry>float</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
