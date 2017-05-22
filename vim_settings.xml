@@ -64,14 +64,13 @@
         <mark key="." line="91" column="42" />
         <mark key="^" line="91" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495430353240">
-        <mark key="a" line="574" column="79" />
-        <mark key="'" line="409" column="11" />
-        <mark key="j" line="574" column="79" />
-        <mark key="[" line="619" column="37" />
-        <mark key="]" line="619" column="48" />
-        <mark key="." line="619" column="48" />
-        <mark key="^" line="619" column="48" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495434559749">
+        <mark key="'" line="143" column="4" />
+        <mark key="j" line="583" column="79" />
+        <mark key="[" line="602" column="27" />
+        <mark key="]" line="602" column="27" />
+        <mark key="." line="602" column="27" />
+        <mark key="^" line="602" column="27" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" timestamp="1495173304983">
         <mark key="'" line="858" column="27" />
@@ -148,12 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="60" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
-      <jump line="70" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/403eef15-2484-435c-9a1b-4e6e769acc77/console.sql" />
-      <jump line="278" column="16" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
-      <jump line="18" column="19" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
-      <jump line="10" column="8" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
-      <jump line="13" column="7" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
       <jump line="23" column="13" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
       <jump line="15" column="19" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
       <jump line="84" column="15" filename="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" />
@@ -195,7 +188,6 @@
       <jump line="32" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="117" column="32" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="317" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="30" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="106" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="334" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="66" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
@@ -248,10 +240,17 @@
       <jump line="45" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
       <jump line="42" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
       <jump line="37" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" />
+      <jump line="592" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="425" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="584" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="116" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="30" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="22" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="143" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -374,19 +373,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>datepicker</text>
+        <text>400</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJPGJ1dHRvbiBjbGFzcz0iYnRuIj60673Duri15TwvYnV0dG9uPgo=</text>
+      <register name="0" type="4">
+        <text>$(this).val()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgY29uc29sZS5sb2cobW9udGgpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh5ZWFyKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -513,22 +512,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZGF0ZSA9ICIyMDA5MDgwNyI7CgkJU3RyaW5nIG5ld0Zvcm1hdCA9ICJ5eXl5L01NL2RkIjsKCQlTdHJpbmcgb2xkRm9ybWF0ID0gInl5eXlNTWRkIjsKCgkJLy8gU3RyaW5nIG5ld0RhdGUgPSBEYXRlVXRpbC5jb252ZXJ0Rm9ybWF0KCBkYXRlLCBvbGRGb3JtYXQsIG5ld0Zvcm1hdCk7CgkJU3lzdGVtLm91dC5wcmludGxuKERhdGVVdGlsLmdldEN1cnJlbnREYXRlKCJ5eXl5TU1kZCIpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZVV0aWwuZ2V0RGF5SW50ZXJ2YWwoIk1NLWRkLXl5eXkiLCAxKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKERhdGVVdGlsLmdldE1vbnRoSW50ZXJ2YWwoIk1NLWRkLXl5eXkiLCA5KSk7CgoJCVN0cmluZ1tdIHllYXJzID0gRGF0ZVV0aWwuZ2V0WWVhcnMoMjAxMiwgNSk7CgoJCVN5c3RlbS5vdXQucHJpbnRsbihEYXRlVXRpbC5nZXRIb3VySW50ZXJ2YWwoInl5eXlNTWRkSEhtbSIsIDkpKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkuY3VyVXNhZ2UgewoJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgLnNldAo=</text>
+        <text encoding="base64">CQkJZm9udC1zaXplOiA0MHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJZm9udC1zaXplOiAzMHB4Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -544,26 +543,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2hhbmdlIikK</text>
+        <text encoding="base64">CQkuY3VyVXNhZ2UgewoJCQlwYWRkaW5nLXRvcDogMjBweDsKCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>datepicker</last-search>
+      <last-search>400</last-search>
       <last-offset />
-      <last-pattern>datepicker</last-pattern>
+      <last-pattern>400</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0Q29ubmVjdGlvbkNvbmZpZ1w+</entry>
-        <entry>c:</entry>
         <entry>SMB_</entry>
         <entry>Val</entry>
         <entry encoding="base64">XDxldmljdElkbGVDb25uZWN0aW9uc1w+</entry>
@@ -582,6 +579,8 @@
         <entry>date</entry>
         <entry>datePicker</entry>
         <entry>datepicker</entry>
+        <entry>ui-bg</entry>
+        <entry>400</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
