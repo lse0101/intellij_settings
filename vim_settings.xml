@@ -52,12 +52,13 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495413189328">
-        <mark key="'" line="334" column="28" />
-        <mark key="[" line="455" column="20" />
-        <mark key="]" line="455" column="23" />
-        <mark key="." line="455" column="23" />
-        <mark key="^" line="455" column="23" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495415036096">
+        <mark key="a" line="508" column="79" />
+        <mark key="j" line="508" column="79" />
+        <mark key="[" line="489" column="0" />
+        <mark key="]" line="489" column="0" />
+        <mark key="." line="489" column="0" />
+        <mark key="^" line="491" column="12" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" timestamp="1495173304983">
         <mark key="'" line="858" column="27" />
@@ -116,10 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="14" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="15" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
-      <jump line="16" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="17" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="18" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
       <jump line="19" column="2" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" />
@@ -216,10 +213,14 @@
       <jump line="111" column="38" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="140" column="38" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="39" column="72" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="310" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="313" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="322" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="500" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>show</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -342,19 +343,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>init(blackLineChartId, blackLineData)</text>
       </register>
       <register name="/" type="4">
-        <text>meter_a</text>
+        <text encoding="base64">XDxibGFja1VzYWdlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>color_lr_sum + color_sm_sum</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCW9wdGlvbi5zZXJpZXNbMF0uZGF0YSA9IGRhdGFBcnJbMF07CgkJCQlvcHRpb24uc2VyaWVzWzFdLmRhdGEgPSBkYXRhQXJyWzFdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIG1ldGVyX2EsCiAgICAgICAgY29sb3JfbHJfc3VtK2NvbG9yX3NtX3N1bQpGUk9NIHRfbHhfbWV0ZXJfc3VtX3NubXBfbW9uCldIRVJFIGpvYl9tb250aCA9ICcyMDE3MDQnIGFuZCBtYWNfY29kZSA9ICdUQzEwMDUxODg1MDcyMyc7CgoKc2VsZWN0IG1heChtZXRlcl9hKSAtIG1pbihtZXRlcl9hKSBmcm9tIFRfTFhfTUVURVJfSElTX1NOTVAKd2hlcmUgYmFzZV9kYXRlIGxpa2UgJzIwMTcwNCUnIGFuZCBtYWNfY29kZSA9ICdUQzEwMDUxODg1MDcyMycKOwoKCnNlbGVjdCAzMDc3NTcgLSAzMDQ5MzMKCgpTRUxFQ1QgKgpGUk9NIHRfbHhfbWV0ZXJfc3VtX3NubXBfbW9uOwoKCgpTRUxFQ1QgKgpGUk9NIHRfbHhfbWV0ZXJfc3VtX3NubXBfbW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -481,22 +482,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBMRUZUIE9VVEVSIEpPSU4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoCg==</text>
+        <text encoding="base64">CQkJaWYoSU5TVEFOQ0VTW2JsYWNrTGluZUNoYXJ0SWRdKSB7CgkJCSAgCgkJCX0gZWxzZSB7CiAgICAgICAgOwoJCQl9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,25 +513,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApIHRoaXNZZWFyCg==</text>
+        <text encoding="base64">CQkJaWYoSU5TVEFOQ0VTW2NvbG9yTGluZUNoYXJ0SWRdKSB7CiAgICAgICAgCgkJCX0gZWxzZSB7CiAgICAgICAgOwoJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9OIHN1YnN0cmluZyhsYXN0eWVhci5tb25PZkxhc3R5ZWFyLDUsMikgPSBzdWJzdHJpbmcodGhpc1llYXIubW9ub2Z0aGlzeWVhciwgNSwgMikK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>meter_a</last-search>
+      <last-search encoding="base64">XDxibGFja1VzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>meter_a</last-pattern>
+      <last-pattern encoding="base64">XDxibGFja1VzYWdlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Polling</entry>
         <entry>Mana</entry>
         <entry encoding="base64">XDxtYXhcPg==</entry>
         <entry>ConnectionMana</entry>
@@ -550,6 +550,7 @@
         <entry>thisYear</entry>
         <entry>meter</entry>
         <entry>meter_a</entry>
+        <entry encoding="base64">XDxibGFja1VzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
