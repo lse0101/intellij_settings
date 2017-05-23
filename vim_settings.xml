@@ -59,12 +59,12 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495517680606">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495518972718">
         <mark key="a" line="628" column="25" />
-        <mark key="'" line="226" column="0" />
-        <mark key="[" line="421" column="0" />
-        <mark key="]" line="421" column="0" />
-        <mark key="." line="421" column="0" />
+        <mark key="'" line="253" column="35" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
         <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
@@ -192,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" />
-      <jump line="162" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" />
       <jump line="163" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" />
       <jump line="164" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" />
       <jump line="165" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" />
@@ -292,10 +290,12 @@
       <jump line="261" column="50" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="437" column="56" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="226" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="313" column="49" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="253" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8YSBocmVmPSJqYXZhc2NyaXB0OmNsZWFyQ29uZGl0aW9uKCk7Ij48aW1nIHNyYz0iL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2J0bi9CVE5fcmVzZXQuZ2lmIiB3aWR0aD0iNDkiIGhlaWdodD0iNDMiIGJvcmRlcj0iMCIgLz48L2E+Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -421,16 +421,16 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>pattern</text>
+        <text>reset</text>
       </register>
       <register name="0" type="4">
         <text>selectYearMonth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8YSBocmVmPSJqYXZhc2NyaXB0OmNsZWFyQ29uZGl0aW9uKCk7Ij48aW1nIHNyYz0iL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2J0bi9CVE5fcmVzZXQuZ2lmIiB3aWR0aD0iNDkiIGhlaWdodD0iNDMiIGJvcmRlcj0iMCIgLz48L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUKCVN0cmluZyB0b2RheSA9IFV0aWwuZ2V0RGF0ZSgpOwoJU3RyaW5nIHRvX3llYXIgPSB0b2RheS5zdWJzdHJpbmcoMCw0KTsKCVN0cmluZyB0b19tb250aCA9IHRvZGF5LnN1YnN0cmluZyg0LDYpOwoKCVN0cmluZyBzdGFydERhdGUgPSB0b2RheS5zdWJzdHJpbmcoMCw0KSArICItIiArIHRvZGF5LnN1YnN0cmluZyg0LDYpICsgIi0wMSI7CglTdHJpbmcgZW5kRGF0ZSA9IHRvZGF5LnN1YnN0cmluZygwLDQpICsgIi0iICsgdG9kYXkuc3Vic3RyaW5nKDQsNikgKyAiLSIgKyB0b2RheS5zdWJzdHJpbmcoNiw4KTsKCVN0cmluZyBzdGRhdGUgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigic3RkYXRlIikgPT0gbnVsbCA/IHN0YXJ0RGF0ZSA6IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJzdGRhdGUiKTsKCVN0cmluZyBlZGRhdGUgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiZWRkYXRlIikgPT0gbnVsbCA/IGVuZERhdGUgOiByZXF1ZXN0LmdldFBhcmFtZXRlcigiZWRkYXRlIik7CiU+Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -560,19 +560,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGEgaHJlZj0iamF2YXNjcmlwdDpnZXRFeGNlbCgnZG9jJyk7IiBjbGFzcz0iaW5mb19kb3dubG9hZF93b3JkIj48aW1nIHNyYz0iL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2J0bi9CVE5fc2F2ZTJkb2MuZ2lmIiAvPjwvYT4KCQkJCQkJCQkJPGEgaHJlZj0iamF2YXNjcmlwdDpnZXRFeGNlbCgnaHRtbCcpOyI+PGltZyBzcmM9Ii9kZXNpZ24vaW1hZ2VzL2NvbW1vbi9idG4vQlROX3NhdmUyaHRtbC5naWYiIC8+PC9hPgoJCQkJCQkJCQk8YSBocmVmPSJqYXZhc2NyaXB0OmdldEV4Y2VsKCdwZGYnKTsiPjxpbWcgc3JjPSIvZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zYXZlMnBkZi5naWYiIC8+PC9hPgoJCQkJCQkJCQk8YSBocmVmPSJqYXZhc2NyaXB0OmdldEV4Y2VsKCd4bWwnKTsiPjxpbWcgc3JjPSIvZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zYXZlMnhtbC5naWYiIC8+PC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTx0ZCBiYWNrZ3JvdW5kPSIvZGVzaWduL2ltYWdlcy9ib2R5L0JvZHlfbWlkZGxlLXBhdHRlcm4tUi5naWYiIHdpZHRoPSIxOSI+PGltZyBzcmM9Ii9kZXNpZ24vaW1hZ2VzL21haW4vc3BhY2VyLmdpZiIgaGVpZ2h0PSI1OTAiIHdpZHRoPSIxOSIgLz48L3RkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTx0ZCBiYWNrZ3JvdW5kPSIvZGVzaWduL2ltYWdlcy9ib2R5L0JvZHlfbWlkZGxlLXBhdHRlcm4tTC5naWYiIHdpZHRoPSIxNiI+CgkJCQkJPGltZyBzcmM9Ii9kZXNpZ24vaW1hZ2VzL21haW4vc3BhY2VyLmdpZiIgaGVpZ2h0PSI1OTAiIHdpZHRoPSIxNiIvPgoJCQkJPC90ZD4K</text>
+        <text encoding="base64">CQkJCQkJCQkJPGEgaHJlZj0iamF2YXNjcmlwdDpnZXRFeGNlbCgnZG9jJyk7IiBjbGFzcz0iaW5mb19kb3dubG9hZF93b3JkIj48aW1nIHNyYz0iL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2J0bi9CVE5fc2F2ZTJkb2MuZ2lmIiAvPjwvYT4KCQkJCQkJCQkJPGEgaHJlZj0iamF2YXNjcmlwdDpnZXRFeGNlbCgnaHRtbCcpOyI+PGltZyBzcmM9Ii9kZXNpZ24vaW1hZ2VzL2NvbW1vbi9idG4vQlROX3NhdmUyaHRtbC5naWYiIC8+PC9hPgoJCQkJCQkJCQk8YSBocmVmPSJqYXZhc2NyaXB0OmdldEV4Y2VsKCdwZGYnKTsiPjxpbWcgc3JjPSIvZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zYXZlMnBkZi5naWYiIC8+PC9hPgoJCQkJCQkJCQk8YSBocmVmPSJqYXZhc2NyaXB0OmdldEV4Y2VsKCd4bWwnKTsiPjxpbWcgc3JjPSIvZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zYXZlMnhtbC5naWYiIC8+PC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTx0ZCBiYWNrZ3JvdW5kPSIvZGVzaWduL2ltYWdlcy9ib2R5L0JvZHlfbWlkZGxlLXBhdHRlcm4tUi5naWYiIHdpZHRoPSIxOSI+PGltZyBzcmM9Ii9kZXNpZ24vaW1hZ2VzL21haW4vc3BhY2VyLmdpZiIgaGVpZ2h0PSI1OTAiIHdpZHRoPSIxOSIgLz48L3RkPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -588,7 +588,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTx0ZCBiYWNrZ3JvdW5kPSIvZGVzaWduL2ltYWdlcy9ib2R5L0JvZHlfbWlkZGxlLXBhdHRlcm4tTC5naWYiIHdpZHRoPSIxNiI+CgkJCQkJPGltZyBzcmM9Ii9kZXNpZ24vaW1hZ2VzL21haW4vc3BhY2VyLmdpZiIgaGVpZ2h0PSI1OTAiIHdpZHRoPSIxNiIvPgoJCQkJPC90ZD4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -598,15 +598,14 @@
       </register>
     </registers>
     <search>
-      <last-search>pattern</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern>pattern</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\$</entry>
         <entry>for</entry>
         <entry>searchYearMon</entry>
         <entry>design</entry>
@@ -626,6 +625,7 @@
         <entry>listTable02</entry>
         <entry>body</entry>
         <entry>pattern</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
