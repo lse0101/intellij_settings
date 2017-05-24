@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/web.xml" timestamp="1495002094870">
         <mark key="'" line="209" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1495442691264">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1495589255641">
         <mark key="a" line="58" column="95" />
         <mark key="'" line="171" column="58" />
         <mark key="[" line="22" column="30" />
@@ -33,13 +33,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495587726578">
-        <mark key="a" line="333" column="5" />
-        <mark key="'" line="39" column="72" />
-        <mark key="[" line="336" column="35" />
-        <mark key="]" line="336" column="36" />
-        <mark key="." line="336" column="36" />
-        <mark key="^" line="334" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495590020390">
+        <mark key="'" line="4" column="51" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/daemon/FnUFaxConsumer.java" timestamp="1495155510132">
         <mark key="[" line="72" column="29" />
@@ -214,20 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="16" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="600" column="9" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="595" column="9" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="608" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="105" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="598" column="9" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="6" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="102" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="603" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="100" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="138" column="60" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="84" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="628" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="135" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="610" column="44" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="137" column="39" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="201" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
@@ -314,10 +299,24 @@
       <jump line="208" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
       <jump line="209" column="7" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
       <jump line="211" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
+      <jump line="202" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="35" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="66" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="77" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="1" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="6" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="79" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="20" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="13" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="4" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X21hY19tOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -440,19 +439,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>page</text>
       </register>
       <register name="0" type="4">
-        <text>width: 49px;height: 43px;border: 0px;margin-right: 5px;</text>
+        <text>last_year.model_code</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiBwcmVmaXg9ImZvcm0iIHVyaT0iaHR0cDovL3N0cnV0cy5hcGFjaGUub3JnL3RhZ3MtaHRtbCIgJT4K</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X21hY19tOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAsIG1hYy5tYWNfY29kZQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -579,22 +578,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQk8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICByb3dudW0gQkVUV0VFTiAxIGFuZCAxMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQk8Zm9ybSBuYW1lPSJzZWFyY2hGb3JtIiBhY3Rpb249Ii9zdGF0aXN0aWNzL21hYy9zdGF0aXN0aWNzX3VzYWdlTGlzdC5kbz9tZXRob2Q9bGlzdCIgbWV0aG9kPSJwb3N0Ij4KCQkJCQkJCQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic0N1clBhZ2VObyIgdmFsdWU9IjEiIC8+CgkJCQkJCQkJCTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InNQYWdlVmlld05vIiB2YWx1ZT0iMjAiPgo=</text>
+        <text encoding="base64">ICByb3dfbnVtYmVyIEFTIHJvd251bSwK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQk8aW5wdXQgdHlwZT0iaW1hZ2UiIHNyYz0iL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2J0bi9CVE5fc2VhcmNoLWJpZy5naWYiIGFsdD0ic2VhcmNoIiBzdHlsZT0id2lkdGg6IDQ5cHg7aGVpZ2h0OiA0M3B4O2JvcmRlcjogMHB4O21hcmdpbi1yaWdodDogNXB4OyI+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvd19udW1iZXIgQVMgcm93bnVtLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBXSEVSRSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -610,13 +609,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFyY2hQcmludFVzYWdlVk8gc2VhcmNoVk8gPSAoU2VhcmNoUHJpbnRVc2FnZVZPKWZvcm07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhzZWFyY2hWTy50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">U0VMRUNUCiAgZGJvLkZOX1BMQUNFTkFNRSh0aGlzX3llYXIucGxhY2Vjb2RlKSAgIEFTIG1hY19sb2NhdGlvbiwKICB0aGlzX3llYXIubWFjX2NvZGUgICAgICAgICAgICAgICAgICAgICAgQVMgbWFjX2NvZGUsCiAgbGFzdF95ZWFyLm1ldGVyYW9mbGFzdHllYXIgICAgICAgICAgICAgIEFTIE1FVEVSX0ExLAogIGxhc3RfeWVhci5tZXRlcmJvZmxhc3R5ZWFyICAgICAgICAgICAgICBBUyBNRVRFUl9CMSwKICBsYXN0X3llYXIubWV0ZXJjb2ZsYXN0eWVhciAgICAgICAgICAgICAgQVMgTUVURVJfQzEsCiAgbGFzdF95ZWFyLm1ldGVyZG9mbGFzdHllYXIgICAgICAgICAgICAgIEFTIE1FVEVSX0QxLAoKICB0aGlzX3llYXIubWV0ZXJhb2Z0aGlzeWVhciAgICAgICAgICAgICAgQVMgTUVURVJfQTIsCiAgdGhpc195ZWFyLm1ldGVyYm9mdGhpc3llYXIgICAgICAgICAgICAgIEFTIE1FVEVSX0IyLAogIHRoaXNfeWVhci5tZXRlcmNvZnRoaXN5ZWFyICAgICAgICAgICAgICBBUyBNRVRFUl9DMiwKICB0aGlzX3llYXIubWV0ZXJkb2Z0aGlzeWVhciAgICAgICAgICAgICAgQVMgTUVURVJfRDIKRlJPTQogICgKICAgIFNFTEVDVAogICAgICBtYWMubWFjX2NvZGUKICAgICAgLCBtYWMucGxhY2Vjb2RlCiAgICAgICwgSVNOVUxMKG1ldGVyYW9mbGFzdHllYXIsIDApIEFTIG1ldGVyYW9mbGFzdHllYXIKICAgICAgLCBJU05VTEwobWV0ZXJib2ZsYXN0eWVhciwgMCkgQVMgbWV0ZXJib2ZsYXN0eWVhcgogICAgICAsIElTTlVMTChtZXRlcmNvZmxhc3R5ZWFyLCAwKSBBUyBtZXRlcmNvZmxhc3R5ZWFyCiAgICAgICwgSVNOVUxMKG1ldGVyZG9mbGFzdHllYXIsIDApIEFTIG1ldGVyZG9mbGFzdHllYXIKICAgIEZST00gKAogICAgICAgIHRfbHhfbWFjX20gbWFjCiAgICAgICAgTEVGVCBPVVRFUiBKT0lOCiAgICAgICAgKAogICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgIG1hY19jb2RlCiAgICAgICAgICAgICwgU1VNKG1ldGVyX2EpIEFTIG1ldGVyYW9mbGFzdHllYXIKICAgICAgICAgICAgLCBTVU0obWV0ZXJfYikgQVMgbWV0ZXJib2ZsYXN0eWVhcgogICAgICAgICAgICAsIFNVTShtZXRlcl9jKSBBUyBtZXRlcmNvZmxhc3R5ZWFyCiAgICAgICAgICAgICwgU1VNKG1ldGVyX2QpIEFTIG1ldGVyZG9mbGFzdHllYXIKICAgICAgICAgIEZST00KICAgICAgICAgICAgdF9seF9tZXRlcl9zdW1fc25tcF9kYXkgZAogICAgICAgICAgV0hFUkUKICAgICAgICAgIC0tICBqb2JfZGF0ZSBCRVRXRUVOICNmcm9tRGF0ZUxhc3RZZWFyIyBBTkQgI3RvRGF0ZUxhc3RZZWFyIwogICAgICAgICAgam9iX2RhdGUgQkVUV0VFTiAnMjAxNjA0MDEnIEFORCAnMjAxNjA0MzEnCiAgICAgICAgICBHUk9VUCBCWQogICAgICAgICAgICBtYWNfY29kZQogICAgICAgICkgZGF5CiAgICAgICAgICBPTiBkYXkubWFjX2NvZGUgPSBtYWMubWFjX2NvZGUKICAgICkKICApIGxhc3RfeWVhcgogIEpPSU4KICAoCiAgICBTRUxFQ1QKICAgICAgbWFjLm1hY19jb2RlCiAgICAgICwgbWFjLnBsYWNlY29kZQogICAgICAsIElTTlVMTChtZXRlcmFvZnRoaXN5ZWFyLCAwKSBBUyBtZXRlcmFvZnRoaXN5ZWFyCiAgICAgICwgSVNOVUxMKG1ldGVyYm9mdGhpc3llYXIsIDApIEFTIG1ldGVyYm9mdGhpc3llYXIKICAgICAgLCBJU05VTEwobWV0ZXJjb2Z0aGlzeWVhciwgMCkgQVMgbWV0ZXJjb2Z0aGlzeWVhcgogICAgICAsIElTTlVMTChtZXRlcmRvZnRoaXN5ZWFyLCAwKSBBUyBtZXRlcmRvZnRoaXN5ZWFyCiAgICBGUk9NICgKICAgICAgICB0X2x4X21hY19tIG1hYwogICAgICAgIExFRlQgT1VURVIgSk9JTgogICAgICAgICgKICAgICAgICAgIFNFTEVDVAogICAgICAgICAgICBtYWNfY29kZQogICAgICAgICAgICAsIFNVTShtZXRlcl9hKSBBUyBtZXRlcmFvZnRoaXN5ZWFyCiAgICAgICAgICAgICwgU1VNKG1ldGVyX2IpIEFTIG1ldGVyYm9mdGhpc3llYXIKICAgICAgICAgICAgLCBTVU0obWV0ZXJfYykgQVMgbWV0ZXJjb2Z0aGlzeWVhcgogICAgICAgICAgICAsIFNVTShtZXRlcl9kKSBBUyBtZXRlcmRvZnRoaXN5ZWFyCiAgICAgICAgICBGUk9NCiAgICAgICAgICAgIHRfbHhfbWV0ZXJfc3VtX3NubXBfZGF5IGQKICAgICAgICAgIFdIRVJFCi0tICAgICAgICAgICAgIGpvYl9kYXRlIEJFVFdFRU4gI2Zyb21EYXRlVGhpc1llYXIjIEFORCAjdG9EYXRlVGhpc1llYXIjCiAgICAgICAgICBqb2JfZGF0ZSBCRVRXRUVOICcyMDE3MDQwMScgQU5EICcyMDE3MDQzMScKICAgICAgICAgIEdST1VQIEJZCiAgICAgICAgICAgIG1hY19jb2RlCiAgICAgICAgKSBkYXkKICAgICAgICAgIE9OIGRheS5tYWNfY29kZSA9IG1hYy5tYWNfY29kZQogICAgKQogICkgdGhpc195ZWFyCiAgICBPTiBsYXN0X3llYXIubWFjX2NvZGUgPSB0aGlzX3llYXIubWFjX2NvZGUKICBKT0lOIHRfbHhfcGxhY2VfbSBwbGFjZQogICAgT04gcGxhY2UucGxhY2Vjb2RlID0gdGhpc195ZWFyLnBsYWNlY29kZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>0,$d</text>
       </register>
     </registers>
     <search>
@@ -668,8 +667,8 @@
         <entry>bufs</entry>
         <entry>buf</entry>
         <entry>18</entry>
-        <entry>0,$d</entry>
         <entry>w</entry>
+        <entry>0,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
