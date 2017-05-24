@@ -27,12 +27,13 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495412524519">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1495583561641">
+        <mark key="a" line="333" column="5" />
         <mark key="'" line="39" column="72" />
-        <mark key="[" line="325" column="29" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
-        <mark key="^" line="322" column="0" />
+        <mark key="[" line="333" column="5" />
+        <mark key="]" line="333" column="5" />
+        <mark key="." line="333" column="5" />
+        <mark key="^" line="333" column="19" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/daemon/FnUFaxConsumer.java" timestamp="1495155510132">
         <mark key="[" line="72" column="29" />
@@ -55,13 +56,13 @@
         <mark key="^" line="55" column="29" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/meter/action/MeterAction.java" timestamp="1495527761805" />
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495527902850">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495583527905">
         <mark key="a" line="628" column="25" />
         <mark key="'" line="363" column="31" />
-        <mark key="[" line="282" column="67" />
-        <mark key="]" line="282" column="78" />
-        <mark key="." line="282" column="78" />
-        <mark key="^" line="282" column="78" />
+        <mark key="[" line="302" column="35" />
+        <mark key="]" line="302" column="42" />
+        <mark key="." line="302" column="42" />
+        <mark key="^" line="302" column="42" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
         <mark key="'" line="25" column="31" />
@@ -286,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>t_lx_mac_detail</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -409,7 +410,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t_lx_mac_detail</text>
       </register>
       <register name="/" type="4">
         <text>YearDiv</text>
