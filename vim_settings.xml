@@ -631,7 +631,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -665,7 +665,6 @@
         <entry>804</entry>
       </history-search>
       <history-cmd>
-        <entry>163</entry>
         <entry>816</entry>
         <entry>531</entry>
         <entry>784</entry>
@@ -685,6 +684,7 @@
         <entry>q</entry>
         <entry>vs</entry>
         <entry>sp</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
