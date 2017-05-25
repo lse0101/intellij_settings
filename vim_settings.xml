@@ -46,14 +46,12 @@
         <mark key="^" line="88" column="29" />
         <mark key="." line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/meter/action/MeterAction.java" timestamp="1495527761805" />
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495673502155">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495677022690">
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="879" column="23" />
-        <mark key="[" line="983" column="8" />
-        <mark key="]" line="983" column="13" />
-        <mark key="^" line="983" column="13" />
-        <mark key="." line="983" column="13" />
+        <mark key="[" line="420" column="10" />
+        <mark key="]" line="421" column="0" />
+        <mark key="^" line="421" column="0" />
+        <mark key="." line="421" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
         <mark key="'" line="25" column="31" />
@@ -147,6 +145,12 @@
         <mark key="." line="238" column="106" />
         <mark key="^" line="238" column="71" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/js/xerox_printUsage.js" timestamp="1495676803088">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/com/fujixerox/kor/fnu/daemon/FnUFaxConsumer.java" timestamp="1495155510132">
         <mark key="[" line="72" column="29" />
         <mark key="]" line="72" column="30" />
@@ -183,6 +187,11 @@
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1495592195249">
         <mark key="'" line="212" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1495676721482">
+        <mark key="'" line="776" column="31" />
+        <mark key="[" line="2175" column="0" />
+        <mark key="]" line="2180" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1495607823241">
         <mark key="[" line="0" column="0" />
@@ -228,37 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
-      <jump line="513" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
-      <jump line="268" column="68" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="101" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="109" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="173" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="103" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="321" column="53" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="367" column="82" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="613" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="174" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="249" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="250" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="247" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="8" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="152" column="30" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="265" column="51" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="71" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="169" column="7" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="740" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="44" column="43" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="45" column="43" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="46" column="42" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="47" column="42" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="48" column="42" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="206" column="7" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="208" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="209" column="7" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="211" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" />
-      <jump line="202" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="35" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="66" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="77" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
@@ -299,12 +277,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="63" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="213" column="49" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="61" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="28" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/action/MacAction.java" />
       <jump line="701" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="470" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="848" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="407" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="837" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="378" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
@@ -322,16 +298,49 @@
       <jump line="279" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/meter2/meter_year.jsp" />
       <jump line="358" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="398" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="907" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="156" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="391" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="829" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="670" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="879" column="23" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="453" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="368" column="49" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="425" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="262" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="895" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="907" column="3" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="936" column="63" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="329" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="391" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="53" column="22" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="61" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="101" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="109" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="195" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="991" column="9" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="949" column="10" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="734" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="948" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="689" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="644" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="648" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="697" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="953" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="954" column="10" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="619" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="987" column="36" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="767" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="740" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="764" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="765" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="770" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="776" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="300" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="430" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -454,19 +463,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>../js/xerox_printUsage.js</text>
       </register>
       <register name="/" type="4">
-        <text>804</text>
+        <text encoding="base64">XDxwbGFjZUNvZGVJbnNlcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkjbWV0ZXJMaXN0IHRyIHRkOm50aC1sYXN0LWNoaWxkKC1uKzIpewoJCQljb2xvcjogIzAwOGZlMTsKCQkJdGV4dC1hbGlnbjogcmlnaHQ7CgkJfQo=</text>
+        <text encoding="base64">PGRpdiBpZD0icGxhY2VDb2RlSW5zZXJ0IiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyBkaXNwbGF5OiBub25lOyB6LWluZGV4OiA5MDAiPgoJPGlmcmFtZSBpZD0ibGF5ZXJwbGFjZUNvZGVJbnNlcnQiCgkgICAgICAgIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IHdpZHRoOiAyNzVweDsgaGVpZ2h0OiAyNDlweDsgZGlzcGxheTogYmxvY2s7IG92ZXJmbG93LXk6IGhpZGRlbjsgb3ZlcmZsb3cteDogaGlkZGVuOyIKCSAgICAgICAgYm9yZGVyPSIxIiBmcmFtZWJvcmRlcj0iMCIgc3JjPSIvY29tbW9ucy9wbGFjZV90cmVlLmRvP21ldGhvZD10cmVlTGF5ZXJMaXN0Ij4KCTwvaWZyYW1lPgo8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJPCUtLTxzcGFuIGlkPSJvX3BsYWNlX2xvY2F0aW9uWWVhclNwYW4iPjwvc3Bhbj48L3RkPi0tJT4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -593,22 +602,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJPCUtLTxzcGFuIGlkPSJvX21hY19sb2NhdGlvblllYXJTcGFuIj48L3NwYW4+PC90ZD4tLSU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJPCUtLTxzcGFuIGlkPSJvX21hY19jb2RlWWVhclNwYW4iPqHjPC9zcGFuPjwvdGQ+LS0lPgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBsb2FkTGlzdChkYXRhKXsKICAgIHZhciBsaXN0ID0gWwoJCQkJCQkJCQknPHRhYmxlIGNlbGxzcGFjaW5nPSIxIiBzdHlsZT0id2lkdGg6MTE4MnB4OyI+JwoJCQkJCQkJCQksICc8Y29sZ3JvdXA+JwoJCQkJCQkJCQksICc8Y29sIHdpZHRoPSIxMCUiPicKCQkJCQkJCQkJLCAnPGNvbCB3aWR0aD0iMTAlIj4nCgkJCQkJCQkJCSwgJzxjb2wgd2lkdGg9IjE1JSI+JwoJCQkJCQkJCQksICc8Y29sIHdpZHRoPSIqIj4nCgkJCQkJCQkJCSwgJzxjb2wgd2lkdGg9IjEwJSI+JwoJCQkJCQkJCQksICc8Y29sIHdpZHRoPSIxMCUiPicKCQkJCQkJCQkJLCAnPGNvbCB3aWR0aD0iMTAlIj4nCgkJCQkJCQkJCSwgJzwvY29sZ3JvdXA+JwoJCQkJCQkJCQksJzx0Ym9keT4nCgkJCQkJCQkJXTsKCiAgICBmb3IodmFyIGkgPSAwLCBtYXggPSBkYXRhLmxpc3QubGVuZ3RoOyBpIDwgbWF4OyBpKyspIHsKCSAgICB2YXIgaXRlbSwKCQkJICAgIHRyLAoJICAgICAgICB0clN0cjsKCgkgICAgaXRlbSA9IGRhdGEubGlzdFtpXTsKCSAgICB0ciA9IFtdOwoKCSAgICB2YXIgaXNFdmVuUm93ID0gZnVuY3Rpb24oaSl7CgkgICAgICBpZigoaSAlIDIpID09PSAwKQoJICAgICAgICByZXR1cm4gJzx0ciBjbGFzcz0iZXZlblJvdyI+JzsKCgkJICAgIHJldHVybiAnPHRyPic7CgkgICAgfQoKCSAgICB0ci5wdXNoKGlzRXZlblJvdyhpKSk7CgkgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnswfTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzx0ZCByb3dzcGFuPSI0Ij57MX08L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQgcm93c3Bhbj0iNCI+ezJ9PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnszfTwvdGQ+Jyk7CgogICAgICB0ci5wdXNoKCc8dGQ+TUVURVIxPC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkPns0fTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzx0ZD57NX08L3RkPicpOwoJICAgIHRyLnB1c2goJzwvdHI+Jyk7CgogICAgICB0ci5wdXNoKGlzRXZlblJvdyhpKSk7CiAgICAgIHRyLnB1c2goJzx0ZD5NRVRFUjI8L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQ+ezZ9PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkPns3fTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzwvdHI+JykKCiAgICAgIHRyLnB1c2goaXNFdmVuUm93KGkpKTsKICAgICAgdHIucHVzaCgnPHRkPk1FVEVSMzwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzx0ZD57OH08L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQ+ezl9PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPC90cj4nKQoKICAgICAgdHIucHVzaChpc0V2ZW5Sb3coaSkpOwogICAgICB0ci5wdXNoKCc8dGQ+TUVURVI0PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkPnsxMH08L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQ+ezExfTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzwvdHI+JykKCgkgICAgdHJTdHIgPSB0ci5qb2luKCcnKS5mb3JtYXQoIGl0ZW1bJ21vZGVsQ29kZSddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ21hY0NvZGUnXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWydtYWNOYW1lJ10sCgkJCQkJCQkJCQkJCQkJCQkJaXRlbVsnbG9jYXRpb24nXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWydsYXN0WWVhck1ldGVyMSddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ3RoaXNZZWFyTWV0ZXIxJ10sCgkJCQkJCQkJCQkJCQkJCQkJaXRlbVsnbGFzdFllYXJNZXRlcjInXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWyd0aGlzWWVhck1ldGVyMiddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ2xhc3RZZWFyTWV0ZXIzJ10sCgkJCQkJCQkJCQkJCQkJCQkJaXRlbVsndGhpc1llYXJNZXRlcjMnXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWydsYXN0WWVhck1ldGVyNCddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ3RoaXNZZWFyTWV0ZXI0J10pOwoKICAgICAgbGlzdC5wdXNoKHRyU3RyKTsKICAgIH0KCiAgICBsaXN0LnB1c2goJzwvdGJvZHk+Jyk7CgkgIGxpc3QucHVzaCgnPC90YWJsZT4nKTsKCgkgIGpRKCcjbWV0ZXJMaXN0JykuaHRtbChsaXN0LmpvaW4oJyAnKSk7CgkgIGpRKCIjc3BhblBhZ2VZZWFyU2V0IikuaHRtbChkYXRhLnBhZ2luZ1ZpZXcpOwoKICB9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJPCUtLTxzcGFuIGlkPSJvX21vZGVsX25hbWVZZWFyU3BhbiI+PC9zcGFuPjwvdGQ+LS0lPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoIVN0cmluZy5wcm90b3R5cGUuZm9ybWF0KSB7CiAgICBTdHJpbmcucHJvdG90eXBlLmZvcm1hdCA9IGZ1bmN0aW9uKCkgewogICAgICB2YXIgYXJncyA9IGFyZ3VtZW50czsKICAgICAgcmV0dXJuIHRoaXMucmVwbGFjZSgveyhcZCspfS9nLCBmdW5jdGlvbihtYXRjaCwgbnVtYmVyKSB7CiAgICAgICAgcmV0dXJuIHR5cGVvZiBhcmdzW251bWJlcl0gIT0gJ3VuZGVmaW5lZCcKICAgICAgICAgICAgPyBhcmdzW251bWJlcl0KICAgICAgICAgICAgOiBtYXRjaAogICAgICAgICAgICA7CiAgICAgIH0pOwogICAgfTsKICB9CgoJdmFyIGJhckNoYXJ0cyA9IChmdW5jdGlvbigpewoKCSAgdmFyIGJhclVzYWdlQ2hhcnQsCgkJCSAgSU5TVEFOQ0VTOwoKCSAgSU5TVEFOQ0VTID0ge307CgoJCWZ1bmN0aW9uIGRlZmF1bHRCYXJDaGFydE9wdGlvbigpewoJCQkJdmFyIG9wdGlvbjsKCgkJCQlvcHRpb24gPSB7CgkJCQkJCXRvb2x0aXA6ewoJCQkJCQkJCXNob3c6dHJ1ZSwKCQkJCQkJCQl0cmlnZ2VyOidheGlzJywKCgkJCQkJCQkJZm9ybWF0dGVyOiBmdW5jdGlvbiAocGFyYW1zKSB7CgkJCQkJCQkJCQl2YXIgc3RyID0gIiI7CgoJCQkJCQkJCQkJZm9yKHZhciBpPTA7IGkgPCBwYXJhbXMubGVuZ3RoO2krKyl7CgkJCQkJCQkJCQkJCWlmKHBhcmFtc1tpXSAmJiBwYXJhbXNbaV0udmFsdWUgPiAwKXsKCQkJCQkJCQkJCQkJCQlzdHIrPXBhcmFtc1tpXS5zZXJpZXNOYW1lKyIgOiAiK3BhcmFtc1tpXS52YWx1ZSsiPGJyLz4iOwoJCQkJCQkJCQkJCQl9CgkJCQkJCQkJCQl9CgoJCQkJCQkJCQkJcmV0dXJuIHN0cjsKCQkJCQkJCQl9CgkJCQkJCX0sCgoJCQkJCQlsZWdlbmQ6IHsgZGF0YTpbJ8fStOe3ricsJ7vnv+u3ricsJ8PKsPogu+e/67euJ10sIHNlbGVjdGVkTW9kZTpmYWxzZSwgcmlnaHQ6JzUlJywgdG9wOic1MCUnLCBvcmllbnQ6J3ZlcnRpY2FsJyB9LAoJCQkJCQlncmlkOiB7IGxlZnQ6ICczJScsIHJpZ2h0OiAnNCUnLCBib3R0b206ICczJScsIHRvcDonMjAlJywgd2lkdGg6JzcwJScsIGNvbnRhaW5MYWJlbDogdHJ1ZSB9LAoJCQkJCQl4QXhpcyA6IFsgeyB0eXBlIDogJ2NhdGVnb3J5JywgZGF0YSA6IFsnx9K057euJywgJ7vnv+u3riddIH0gXSwKCQkJCQkJeUF4aXMgOiBbIHsgdHlwZSA6ICd2YWx1ZScgfSBdLAoJCQkJCQlzZXJpZXMgOiBbCgkJCQkJCQkJewoJCQkJCQkJCQkJbmFtZTonx9K057euJywKCQkJCQkJCQkJCXR5cGU6J2JhcicsCgkJCQkJCQkJCQliYXJHYXA6ICctMTAwJScsCgkJCQkJCQkJCQlpdGVtU3R5bGU6ewoJCQkJCQkJCQkJCQlub3JtYWw6ewoJCQkJCQkJCQkJCQkJCWNvbG9yOicjNDE1ZWY0JwoJCQkJCQkJCQkJCQl9CgkJCQkJCQkJCQl9LAoJCQkJCQkJCQkJbGFiZWw6ewoJCQkJCQkJCQkJCQlub3JtYWw6IHsKCQkJCQkJCQkJCQkJCQlzaG93OnRydWUsCgkJCQkJCQkJCQkJCQkJcG9zaXRpb246ICdpbnNpZGVUb3AnLAoJCQkJCQkJCQkJCQkJCWZvcm1hdHRlcjogZnVuY3Rpb24ocGFyYW1zKXsKCQkJCQkJCQkJCQkJCQkJCWlmKHBhcmFtcy52YWx1ZSA9PT0gMCkKCQkJCQkJCQkJCQkJCQkJCQkJcmV0dXJuICIiOwoJCQkJCQkJCQkJCQkJCX0KCQkJCQkJCQkJCQkJfQoKCQkJCQkJCQkJCX0sCgkJCQkJCQkJCQlkYXRhOlswLDBdIC8vZmlyc3QKCQkJCQkJCQl9LAoKCQkJCQkJCQl7CgkJCQkJCQkJCQluYW1lOie757/rt64nLAoJCQkJCQkJCQkJdHlwZTonYmFyJywKCQkJCQkJCQkJCXN0YWNrOiAndXNhZ2UnLAoJCQkJCQkJCQkJaXRlbVN0eWxlOnsKCQkJCQkJCQkJCQkJbm9ybWFsOnsKCQkJCQkJCQkJCQkJCQljb2xvcjonI2Y0OTU0MScKCQkJCQkJCQkJCQkJfQoJCQkJCQkJCQkJfSwKCQkJCQkJCQkJCWxhYmVsOnsKCQkJCQkJCQkJCQkJbm9ybWFsOiB7CgkJCQkJCQkJCQkJCQkJc2hvdzp0cnVlLAoJCQkJCQkJCQkJCQkJCXBvc2l0aW9uOiAnaW5zaWRlVG9wJywKCQkJCQkJCQkJCQkJCQlmb3JtYXR0ZXI6IGZ1bmN0aW9uKHBhcmFtcyl7CgkJCQkJCQkJCQkJCQkJCQlpZihwYXJhbXMudmFsdWUgPT09IDApCgkJCQkJCQkJCQkJCQkJCQkJCXJldHVybiAiIjsKCQkJCQkJCQkJCQkJCQl9CgkJCQkJCQkJCQkJCX0KCQkJCQkJCQkJCX0sCgkJCQkJCQkJCQlkYXRhOlswLDBdIC8vc2Vjb25kCgkJCQkJCQkJfSwKCQkJCQkJCQl7CgkJCQkJCQkJCQluYW1lOifDyrD6ILvnv+u3ricsCgkJCQkJCQkJCQl0eXBlOidiYXInLAoJCQkJCQkJCQkJc3RhY2s6ICd1c2FnZScsCgkJCQkJCQkJCQlpdGVtU3R5bGU6ewoJCQkJCQkJCQkJCQlub3JtYWw6ewoJCQkJCQkJCQkJCQkJCWNvbG9yOicjZjQ0MTQxJwoJCQkJCQkJCQkJCQl9CgkJCQkJCQkJCQl9LAoJCQkJCQkJCQkJbGFiZWw6ewoJCQkJCQkJCQkJCQlub3JtYWw6IHsKCQkJCQkJCQkJCQkJCQlzaG93OnRydWUsCgkJCQkJCQkJCQkJCQkJcG9zaXRpb246ICd0b3AnLAoJCQkJCQkJCQkJCQkJCWZvcm1hdHRlcjpmdW5jdGlvbihwYXJhbXMpewoJCQkJCQkJCQkJCQkJCQkJaWYocGFyYW1zLnZhbHVlID09PSAwKQoJCQkJCQkJCQkJCQkJCQkJCQlyZXR1cm4gIiI7CgkJCQkJCQkJCQkJCQkJfQoJCQkJCQkJCQkJCQl9CgkJCQkJCQkJCQl9LAoJCQkJCQkJCQkJZGF0YTpbMCwgMF0gLy9zZWNvbmQKCQkJCQkJCQl9CgkJCQkJCV0sCgkJCQkJCWNvbG9yOlsnIzQyODZmNCcsJyMyZjQ1NTQnXQoJCQkJfTsKCgkJCQlyZXR1cm4gb3B0aW9uOwoJCX0KCgoJCWZ1bmN0aW9uIGNhbGN1bGF0ZVVzYWdlKHF1b3RhLCB1c2FnZSl7CgkJCQl2YXIgZXhjZXNzVXNhZ2U7CgoJCQkJaWYodXNhZ2U+IHF1b3RhKXsKCQkJCQkJZXhjZXNzVXNhZ2UgPSB1c2FnZSAtIHF1b3RhOwoJCQkJCQl1c2FnZSA9IHF1b3RhOwoJCQkJfSBlbHNlIHsKCQkJCQkJZXhjZXNzVXNhZ2UgPSAwOwoJCQkJfQoKCQkJCXJldHVybiB7CgkJCQkJJ2V4Y2Vzc1VzYWdlJyA6IGV4Y2Vzc1VzYWdlLAoJCQkJCSd1c2FnZScgOiB1c2FnZQoJCQkJfTsKCQl9CgoKCQlmdW5jdGlvbiBpbml0KGNoYXJ0SUQsIHF1b3RhLCB1c2FnZSl7CgoJCQkJdmFyIG9wdGlvbiwKCQkJCQkJYmFyVXNhZ2VEb20sCgkJCQkJCWV4Y2Vzc0FuZFVzYWdlOwoKCQkJCW9wdGlvbiA9IGRlZmF1bHRCYXJDaGFydE9wdGlvbigpOwoKCQkJCWJhclVzYWdlRG9tID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoY2hhcnRJRCk7CgkJCQliYXJVc2FnZUNoYXJ0ID0gZWNoYXJ0cy5pbml0KGJhclVzYWdlRG9tKTsKCgkJCQlleGNlc3NBbmRVc2FnZSA9IGNhbGN1bGF0ZVVzYWdlKHF1b3RhLCB1c2FnZSk7CgoJCQkJb3B0aW9uLnNlcmllc1swXS5kYXRhWzBdID0gcXVvdGE7CgkJCQlvcHRpb24uc2VyaWVzWzFdLmRhdGFbMV0gPSBleGNlc3NBbmRVc2FnZS51c2FnZTsKCQkJCW9wdGlvbi5zZXJpZXNbMl0uZGF0YVsxXSA9IGV4Y2Vzc0FuZFVzYWdlLmV4Y2Vzc1VzYWdlOwoKCQkJCWJhclVzYWdlQ2hhcnQuc2V0T3B0aW9uKG9wdGlvbiwgdHJ1ZSk7CgoJCQkJSU5TVEFOQ0VTW2NoYXJ0SURdID0gewoJCQkJCWNoYXJ0IDogYmFyVXNhZ2VDaGFydCwKCQkJCQlvcHRpb25zIDogb3B0aW9uCgkJCQl9OwoKCQl9CgoKCQlmdW5jdGlvbiByZURyYXcoY2hhcnRJRCwgcXVvdGEsIHVzYWdlKSB7CgkJICB2YXIgY2hhcnQsCgkJCQkgIG9wdGlvbnMsCgkJICAgICAgZXhjZXNzQW5kVXNhZ2U7CgoJCSAgY2hhcnQgPSBJTlNUQU5DRVNbY2hhcnRJRF0uY2hhcnQ7CgkJICBvcHRpb25zID0gSU5TVEFOQ0VTW2NoYXJ0SURdLm9wdGlvbnM7CgogICAgICBleGNlc3NBbmRVc2FnZSA9IGNhbGN1bGF0ZVVzYWdlKHF1b3RhLCB1c2FnZSk7CgogICAgICBvcHRpb25zLnNlcmllc1swXS5kYXRhWzBdID0gcXVvdGE7CiAgICAgIG9wdGlvbnMuc2VyaWVzWzFdLmRhdGFbMV0gPSBleGNlc3NBbmRVc2FnZS51c2FnZTsKICAgICAgb3B0aW9ucy5zZXJpZXNbMl0uZGF0YVsxXSA9IGV4Y2Vzc0FuZFVzYWdlLmV4Y2Vzc1VzYWdlOwoKICAgICAgY2hhcnQuc2V0T3B0aW9uKG9wdGlvbnMsIHRydWUpOwoJCX0KCgoJCWZ1bmN0aW9uIGNoYXJ0VGl0bGUoY2hhcnRJZCwgcXVvdGEsIHVzYWdlKSB7CgkJICB2YXIgJHRpdGxlLAoJCQkJICAkY3VyVXNhZ2UsCgkJCQkgICRxdW90YTsKCgkJCSR0aXRsZSA9IGpRKCIjIitjaGFydElkKTsKCQkJJGN1clVzYWdlID0gJHRpdGxlLmNsb3Nlc3QoImRsIikuZmluZCgnLmN1clVzYWdlJyk7CgkJCSRxdW90YSA9ICR0aXRsZS5jbG9zZXN0KCJkbCIpLmZpbmQoJy5xdW90YScpOwoKCQkgICRjdXJVc2FnZS50ZXh0KHVzYWdlKTsKCQkgICRxdW90YS50ZXh0KHF1b3RhKTsKCgkJICBpZihxdW90YSA8IHVzYWdlKSB7CiAgICAgICAgJGN1clVzYWdlLmNzcygnY29sb3InLCAncmVkJyk7CgkJICB9IGVsc2UgewogICAgICAgICRjdXJVc2FnZS5jc3MoJ2NvbG9yJywgJ2JsYWNrJyk7CgkJICB9CgoJCX0KCgoJCWZ1bmN0aW9uIGRyYXdDaGFydChjaGFydElkLCBxdW90YSwgdXNhZ2UpIHsKCgkJICBjaGFydFRpdGxlKGNoYXJ0SWQsIHF1b3RhLCB1c2FnZSk7CgoJCQlpZihJTlNUQU5DRVNbY2hhcnRJZF0pIHsKCQkJIHJlRHJhdyhjaGFydElkLCBxdW90YSwgdXNhZ2UpOwoJCQl9IGVsc2UgewoJCQkJaW5pdChjaGFydElkLCBxdW90YSwgdXNhZ2UpOwoJCQl9CgoJCX0KCgkJcmV0dXJuIHsKCQkJCXNob3cgOiBkcmF3Q2hhcnQKCQl9OwoKCX0pKCk7CgoKICB2YXIgTGluZUNoYXJ0cyA9IChmdW5jdGlvbiAocmVxVXJsLCBibGFja0xpbmVDaGFydElkLCBjb2xvckxpbmVDaGFydElkKSB7CgogICAgdmFyIElOU1RBTkNFUywKICAgICAgICBzZWFyY2hlZFllYXI7CgogICAgSU5TVEFOQ0VTID0ge307CiAgICBzZWFyY2hlZFllYXIgPSAwOwoKCQlmdW5jdGlvbiBkZWZhdWx0Q2hhcnRPcHRpb24oKXsKCQkJdmFyIG9wdGlvbjsKCgkJCW9wdGlvbiA9IHsKCgkJCQkJdG9vbHRpcDogeyB0cmlnZ2VyOiAnYXhpcycgfSwKCQkJCQlsZWdlbmQ6IHsgZGF0YTpbJ8D8s+InLCAnsd2z4iddLCBib3R0b206ICcwJScgfSwKCQkJCQlncmlkOiB7IGxlZnQ6ICczJScsIHJpZ2h0OiAnNCUnLCBib3R0b206ICc2JScsIGNvbnRhaW5MYWJlbDogdHJ1ZSB9LAoJCQkJCXhBeGlzOiB7IHR5cGU6ICdjYXRlZ29yeScsIGJvdW5kYXJ5R2FwOiB0cnVlLCBkYXRhOiBbJzG/+ScsJzK/+ScsJzO/+ScsJzS/+ScsJzW/+ScsJza/+ScsJze/+ScsICc4v/knLCAnOb/5JywgJzEwv/knLCAnMTG/+ScsICcxMr/5J10gfSwKCQkJCQl5QXhpczogeyB0eXBlOiAndmFsdWUnIH0sCgkJCQkJc2VyaWVzOiBbCgkJCQkJCQl7CgkJCQkJCQkJCW5hbWU6J8D8s+InLAoJCQkJCQkJCQl0eXBlOidsaW5lJywKCQkJCQkJCQkJc3ltYm9sOidyb3VuZFJlY3QnLAoJCQkJCQkJCQlzeW1ib2xTaXplOjgsCgkJCQkJCQkJCWxpbmVTdHlsZTp7CgkJCQkJCQkJCQkJbm9ybWFsOiB7CgkJCQkJCQkJCQkJCQljb2xvcjogewoJCQkJCQkJCQkJCQkJCQl0eXBlOiAncmFkaWFsJywKCQkJCQkJCQkJCQkJCQkJeDogMCwKCQkJCQkJCQkJCQkJCQkJeTogMCwKCQkJCQkJCQkJCQkJCQkJeDI6IDAsCgkJCQkJCQkJCQkJCQkJCXkyOiAxLAoJCQkJCQkJCQkJCQkJCQljb2xvclN0b3BzOiBbIHsgb2Zmc2V0OiAwLCBjb2xvcjogJyNDQjVFMEInIH0sCgkJCQkJCQkJCQkJCQkJCQkJCQkJCQl7IG9mZnNldDogMSwgY29sb3I6ICcjQ0I1RTBCJyB9CgkJCQkJCQkJCQkJCQkJCQkJCQkJCV0sCgkJCQkJCQkJCQkJCQkJCWdsb2JhbENvb3JkOiBmYWxzZQoJCQkJCQkJCQkJCQkJfQoJCQkJCQkJCQkJCX0KCQkJCQkJCQkJfSwKCQkJCQkJCQkJZGF0YTpbXQoJCQkJCQkJfSwKCQkJCQkJCXsKCQkJCQkJCQkJbmFtZTonsd2z4icsCgkJCQkJCQkJCXR5cGU6J2xpbmUnLAoJCQkJCQkJCQlzeW1ib2w6J3JvdW5kUmVjdCcsCgkJCQkJCQkJCXN5bWJvbFNpemU6OCwKCQkJCQkJCQkJbGluZVN0eWxlOnsKCQkJCQkJCQkJCQlub3JtYWw6IHsKCQkJCQkJCQkJCQkJCWNvbG9yOiB7CgkJCQkJCQkJCQkJCQkJCXR5cGU6ICdyYWRpYWwnLAoJCQkJCQkJCQkJCQkJCQl4OiAwLAoJCQkJCQkJCQkJCQkJCQl5OiAwLAoJCQkJCQkJCQkJCQkJCQl4MjogMCwKCQkJCQkJCQkJCQkJCQkJeTI6IDEsCgkJCQkJCQkJCQkJCQkJCWNvbG9yU3RvcHM6IFsgeyBvZmZzZXQ6IDAsIGNvbG9yOiAnIzExNjRDQicgfSwKCQkJCQkJCQkJCQkJCQkJCQkJCQkJCXsgb2Zmc2V0OiAxLCBjb2xvcjogJyMxMTY0Q0InIH0KCQkJCQkJCQkJCQkJCQkJCQkJCQkJXSwKCQkJCQkJCQkJCQkJCQkJZ2xvYmFsQ29vcmQ6IGZhbHNlIC8vIGZhbHNlIGJ5IGRlZmF1bHQKCQkJCQkJCQkJCQkJCX0KCQkJCQkJCQkJCQl9CgkJCQkJCQkJCX0sCgkJCQkJCQkJCWRhdGE6W10KCQkJCQkJCX0KCQkJCQldCgkJCX07CgoJCQlyZXR1cm4gb3B0aW9uOwoJCX0KCgkJZnVuY3Rpb24gZ2V0UHJvY2Vzc2luZ0RhdGEodXNhZ2VEYXRhLCBwcm9wTmFtZXMpIHsKCQkJdmFyIGRhdGFNYXAgPSB7fTsKCgkJCWpRLmVhY2godXNhZ2VEYXRhLCBmdW5jdGlvbihpLCBvYmopewoJCQkJZm9yKHZhciBqID0gMCwgbWF4ID0gcHJvcE5hbWVzLmxlbmd0aDsgaiA8IG1heDsgaisrKSB7CgkJCQkJdmFyIHByb3BOYW1lID0gcHJvcE5hbWVzW2pdOwoKCQkJCQlpZighZGF0YU1hcFtwcm9wTmFtZV0pIGRhdGFNYXBbcHJvcE5hbWVdID0gW107CgoJCQkJCWRhdGFNYXBbcHJvcE5hbWVdLnB1c2gocGFyc2VJbnQob2JqW3Byb3BOYW1lXSwgMTApIHx8IDApOwoJCQkJfQoJCQl9KTsKCgkJCXJldHVybiBkYXRhTWFwOwoJCX0KCgoJCWZ1bmN0aW9uIGluaXQoY2hhcnRJZCwgZGF0YUFycikgewoJCQkgdmFyIG9wdGlvbiwKCQkJCQkgbGluZVVzYWdlRG9tLAoJCQkJCSBsaW5lVXNhZ2VDaGFydDsKCgkJCQlvcHRpb24gPSBkZWZhdWx0Q2hhcnRPcHRpb24oKTsKCQkJCWxpbmVVc2FnZURvbSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGNoYXJ0SWQpOwoJCQkJbGluZVVzYWdlQ2hhcnQgPSBlY2hhcnRzLmluaXQobGluZVVzYWdlRG9tKTsKCgkJCQlvcHRpb24uc2VyaWVzWzBdLmRhdGEgPSBkYXRhQXJyWzBdOwoJCQkJb3B0aW9uLnNlcmllc1sxXS5kYXRhID0gZGF0YUFyclsxXTsKCgkJCQlsaW5lVXNhZ2VDaGFydC5zZXRPcHRpb24ob3B0aW9uLCB0cnVlKTsKCgkJCQlJTlNUQU5DRVNbY2hhcnRJZF0gPSB7CgkJCQkgIGNoYXJ0IDogbGluZVVzYWdlQ2hhcnQsCgkJCQkJb3B0aW9ucyA6IG9wdGlvbgoJCQkJfTsKCQl9CgoKCQlmdW5jdGlvbiByZURyYXcoY2hhcnRJZCwgZGF0YUFycikgewoJCSAgdmFyIGNoYXJ0LAoJCQkJICBvcHRpb25zOwoKCQkgIGNoYXJ0ID0gSU5TVEFOQ0VTW2NoYXJ0SWRdLmNoYXJ0OwoJCSAgb3B0aW9ucyA9IElOU1RBTkNFU1tjaGFydElkXS5vcHRpb25zOwoKICAgICAgb3B0aW9ucy5zZXJpZXNbMF0uZGF0YSA9IGRhdGFBcnJbMF07CiAgICAgIG9wdGlvbnMuc2VyaWVzWzFdLmRhdGEgPSBkYXRhQXJyWzFdOwoKICAgICAgY2hhcnQuc2V0T3B0aW9uKG9wdGlvbnMsIHRydWUpOwoJCX0KCgoJCWZ1bmN0aW9uIGRyYXdDaGFydCh5ZWFyLCBkYXRhKXsKCQkJdmFyIGRhdGFNYXAsCgkJCQkJY29sb3JMaW5lRGF0YSwKCQkJCQlibGFja0xpbmVEYXRhOwoKCQkJaWYoc2VhcmNoZWRZZWFyID09PSB5ZWFyKQoJCQkgIHJldHVybjsKCgkJCXNlYXJjaGVkWWVhciA9IHllYXI7CgoJCQlkYXRhTWFwID0gZ2V0UHJvY2Vzc2luZ0RhdGEoZGF0YS51c2FnZSwgWydibGFja1VzYWdlT2ZMYXN0WWVhcicsICdibGFja1VzYWdlT2ZUaGlzWWVhcicsICdjb2xvclVzYWdlT2ZMYXN0WWVhcicsICdjb2xvclVzYWdlT2ZUaGlzWWVhciddKTsKCgkJCWNvbG9yTGluZURhdGEgPSBbZGF0YU1hcFsnY29sb3JVc2FnZU9mTGFzdFllYXInXSwgZGF0YU1hcFsnY29sb3JVc2FnZU9mVGhpc1llYXInXV07CgkJCWJsYWNrTGluZURhdGEgPSBbZGF0YU1hcFsnYmxhY2tVc2FnZU9mTGFzdFllYXInXSwgZGF0YU1hcFsnYmxhY2tVc2FnZU9mVGhpc1llYXInXV07CgoJCQkoSU5TVEFOQ0VTW2NvbG9yTGluZUNoYXJ0SWRdKSA/CgkJCQkJcmVEcmF3KGNvbG9yTGluZUNoYXJ0SWQsIGNvbG9yTGluZURhdGEpIDogaW5pdChjb2xvckxpbmVDaGFydElkLCBjb2xvckxpbmVEYXRhKTsKCgkJCShJTlNUQU5DRVNbYmxhY2tMaW5lQ2hhcnRJZF0pID8KCQkJCQlyZURyYXcoYmxhY2tMaW5lQ2hhcnRJZCwgYmxhY2tMaW5lRGF0YSkgOiBpbml0KGJsYWNrTGluZUNoYXJ0SWQsIGJsYWNrTGluZURhdGEpOwoKCQl9CgoJCWZ1bmN0aW9uIHNob3coeWVhcikgewogICAgICBqUS5hamF4KHsKICAgICAgICB1cmwgOiByZXFVcmwsCiAgICAgICAgZGF0YSA6IHsneWVhcicgOiB5ZWFyfSwKICAgICAgICBkYXRhVHlwZSA6ICdqc29uJwogICAgICB9KS5kb25lKGZ1bmN0aW9uKGRhdGEpewogICAgICAgIGRyYXdDaGFydCh5ZWFyLCBkYXRhKTsKICAgICAgfSk7CgkJfQoKCQlyZXR1cm4gewoJCQkJc2hvdyA6IHNob3cKCQl9OwoKICB9KSgnL3N0YXRpc3RpY3MvbWFjL3N0YXRpc3RpY3NfdXNhZ2VMaXN0LmRvP21ldGhvZD1zZWxlY3RQcmludFVzYWdlV2l0aExhc3RZZWFyJywgJ2xpbmUtYmxhY2stdXNhZ2UteWVhcicsICdsaW5lLWNvbG9yLXVzYWdlLXllYXInKTsKCiAgdmFyIEJvYXJkID0gKGZ1bmN0aW9uKGZvcm0sIGJvZHlJRCwgcGFnaW5nSUQpewoKICAgIHZhciAkZm9ybSwKCQkgICAgJGNvbnRlbnRBcmVhLAoJCSAgICAkcGFnaW5nQXJlYTsKCiAgICAkZm9ybSA9IGpRKGZvcm0pOwogICAgJGNvbnRlbnRBcmVhID0galEoYm9keUlEKTsKICAgICRwYWdpbmdBcmVhID0galEocGFnaW5nSUQpOwoKICAgIGZ1bmN0aW9uIGluc2VydFJvd1RvQm9keShkYXRhKXsKICAgICAgdmFyIGxpc3QgPSBbCiAgICAgICAgJzx0YWJsZSBjZWxsc3BhY2luZz0iMSIgc3R5bGU9IndpZHRoOjExODJweDsiPicKICAgICAgICAsICc8Y29sZ3JvdXA+JwogICAgICAgICwgJzxjb2wgd2lkdGg9IjEwJSI+JwogICAgICAgICwgJzxjb2wgd2lkdGg9IjEwJSI+JwogICAgICAgICwgJzxjb2wgd2lkdGg9IjE1JSI+JwogICAgICAgICwgJzxjb2wgd2lkdGg9IioiPicKICAgICAgICAsICc8Y29sIHdpZHRoPSIxMCUiPicKICAgICAgICAsICc8Y29sIHdpZHRoPSIxMCUiPicKICAgICAgICAsICc8Y29sIHdpZHRoPSIxMCUiPicKICAgICAgICAsICc8L2NvbGdyb3VwPicKICAgICAgICAsJzx0Ym9keT4nCiAgICAgIF07CgogICAgICBmb3IodmFyIGkgPSAwLCBtYXggPSBkYXRhLmxpc3QubGVuZ3RoOyBpIDwgbWF4OyBpKyspIHsKICAgICAgICB2YXIgaXRlbSwKICAgICAgICAgICAgdHIsCiAgICAgICAgICAgIHRyU3RyOwoKICAgICAgICBpdGVtID0gZGF0YS5saXN0W2ldOwogICAgICAgIHRyID0gW107CgogICAgICAgIHZhciBpc0V2ZW5Sb3cgPSBmdW5jdGlvbihpKXsKICAgICAgICAgIGlmKChpICUgMikgPT09IDApCiAgICAgICAgICAgIHJldHVybiAnPHRyIGNsYXNzPSJldmVuUm93Ij4nOwoKICAgICAgICAgIHJldHVybiAnPHRyPic7CiAgICAgICAgfQoKICAgICAgICB0ci5wdXNoKGlzRXZlblJvdyhpKSk7CiAgICAgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnswfTwvdGQ+Jyk7CiAgICAgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnsxfTwvdGQ+Jyk7CiAgICAgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnsyfTwvdGQ+Jyk7CiAgICAgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnszfTwvdGQ+Jyk7CgogICAgICAgIHRyLnB1c2goJzx0ZD5NRVRFUjE8L3RkPicpOwogICAgICAgIHRyLnB1c2goJzx0ZD57NH08L3RkPicpOwogICAgICAgIHRyLnB1c2goJzx0ZD57NX08L3RkPicpOwogICAgICAgIHRyLnB1c2goJzwvdHI+Jyk7CgogICAgICAgIHRyLnB1c2goaXNFdmVuUm93KGkpKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+TUVURVIyPC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+ezZ9PC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+ezd9PC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8L3RyPicpCgogICAgICAgIHRyLnB1c2goaXNFdmVuUm93KGkpKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+TUVURVIzPC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+ezh9PC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+ezl9PC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8L3RyPicpCgogICAgICAgIHRyLnB1c2goaXNFdmVuUm93KGkpKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+TUVURVI0PC90ZD4nKTsKICAgICAgICB0ci5wdXNoKCc8dGQ+ezEwfTwvdGQ+Jyk7CiAgICAgICAgdHIucHVzaCgnPHRkPnsxMX08L3RkPicpOwogICAgICAgIHRyLnB1c2goJzwvdHI+JykKCiAgICAgICAgdHJTdHIgPSB0ci5qb2luKCcnKS5mb3JtYXQoIGl0ZW1bJ21vZGVsQ29kZSddLAogICAgICAgICAgICBpdGVtWydtYWNDb2RlJ10sCiAgICAgICAgICAgIGl0ZW1bJ21hY05hbWUnXSwKICAgICAgICAgICAgaXRlbVsnbG9jYXRpb24nXSwKICAgICAgICAgICAgaXRlbVsnbGFzdFllYXJNZXRlcjEnXSwKICAgICAgICAgICAgaXRlbVsndGhpc1llYXJNZXRlcjEnXSwKICAgICAgICAgICAgaXRlbVsnbGFzdFllYXJNZXRlcjInXSwKICAgICAgICAgICAgaXRlbVsndGhpc1llYXJNZXRlcjInXSwKICAgICAgICAgICAgaXRlbVsnbGFzdFllYXJNZXRlcjMnXSwKICAgICAgICAgICAgaXRlbVsndGhpc1llYXJNZXRlcjMnXSwKICAgICAgICAgICAgaXRlbVsnbGFzdFllYXJNZXRlcjQnXSwKICAgICAgICAgICAgaXRlbVsndGhpc1llYXJNZXRlcjQnXSk7CgogICAgICAgIGxpc3QucHVzaCh0clN0cik7CiAgICAgIH0KCiAgICAgIGxpc3QucHVzaCgnPC90Ym9keT4nKTsKICAgICAgbGlzdC5wdXNoKCc8L3RhYmxlPicpOwoKICAgICAgJGNvbnRlbnRBcmVhLmh0bWwobGlzdC5qb2luKCcgJykpOwogICAgICAkcGFnaW5nQXJlYS5odG1sKGRhdGEucGFnaW5nVmlldyk7CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0UmVxdWVzdFVybCgpewogICAgICByZXR1cm4gJGZvcm0uYXR0cignYWN0aW9uJyk7CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0UmVxdWVzdFBhcmFtKCl7CiAgICAgIHJldHVybiAkZm9ybS5zZXJpYWxpemUoKTsKICAgIH0KCiAgICBmdW5jdGlvbiBsb2FkTGlzdCgpewogICAgICBqUS5hamF4KHsKICAgICAgICB1cmw6IGdldFJlcXVlc3RVcmwoKSwKICAgICAgICBkYXRhOiBnZXRSZXF1ZXN0UGFyYW0oKSwKICAgICAgICBkYXRhVHlwZTogJ2pzb24nCiAgICAgIH0pLmRvbmUoZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICBpbnNlcnRSb3dUb0JvZHkoZGF0YSk7CiAgICAgIH0pOwogICAgfQoKCiAgICByZXR1cm4gewogICAgICBsb2FkTGlzdDogbG9hZExpc3QKICAgIH07CgogIH0pKCcjc2VhcmNoRm9ybScsICcjbWV0ZXJMaXN0JywgJyNzcGFuUGFnZVllYXJTZXQnKTsKCgogIGZ1bmN0aW9uIGxvYWRCYXJDaGFydCh5ZWFyLCBtb250aCkgewoKICAgIGpRLmFqYXgoewogICAgICB1cmw6Jy9zdGF0aXN0aWNzL21hYy9zdGF0aXN0aWNzX3VzYWdlTGlzdC5kbz9tZXRob2Q9c2VsZWN0UHJpbnRVc2FnZU9mVGhpc01vbnRoJywKCSAgICBkYXRhOiB7J3NlYXJjaERhdGUnIDogeWVhciArIG1vbnRofSwKICAgICAgZGF0YVR5cGU6J2pzb24nCiAgICB9KS5kb25lKGZ1bmN0aW9uKGRhdGEpewoKICAgICAgdmFyIGNvbG9yUXVvdGEsCiAgICAgICAgICBjb2xvclVzYWdlLAogICAgICAgICAgYmxhY2tRdW90YSwKICAgICAgICAgIGJsYWNrVXNhZ2U7CgogICAgICBjb2xvclF1b3RhID0gcGFyc2VJbnQoZGF0YS51c2FnZS5jb2xvclF1b3RhLCAxMCkgfHwgMDsKICAgICAgY29sb3JVc2FnZSA9IHBhcnNlSW50KGRhdGEudXNhZ2UuY29sb3JVc2FnZSwgMTApIHx8IDA7CgogICAgICBibGFja1F1b3RhID0gcGFyc2VJbnQoZGF0YS51c2FnZS5ibGFja1F1b3RhLCAxMCkgfHwgMDsKICAgICAgYmxhY2tVc2FnZSA9IHBhcnNlSW50KGRhdGEudXNhZ2UuYmxhY2tVc2FnZSwgMTApIHx8IDA7CgogICAgICBiYXJDaGFydHMuc2hvdygiYmFyLWJsYWNrLXVzYWdlIiwgYmxhY2tRdW90YSwgYmxhY2tVc2FnZSk7CiAgICAgIGJhckNoYXJ0cy5zaG93KCJiYXItY29sb3ItdXNhZ2UiLCBjb2xvclF1b3RhLCBjb2xvclVzYWdlKTsKICAgIH0pOwogIH0KCiAgZnVuY3Rpb24gaW5wdXRTZWFyY2hEYXRlKHllYXJNb24pewogICAgalEoIi5zZWFyY2hZZWFyTW9udGgiKS50ZXh0KHllYXJNb24pOwogIH0KCgoJalEoZnVuY3Rpb24oKXsKICAgIGpRKCcuZGF0ZS1waWNrZXInKS5kYXRlcGlja2VyKCB7CiAgICAgIGNoYW5nZU1vbnRoOiB0cnVlLAogICAgICBjaGFuZ2VZZWFyOiB0cnVlLAogICAgICBtb250aE5hbWVzU2hvcnQ6IFsnMb/5JywnMr/5JywnM7/5JywnNL/5JywnNb/5JywnNr/5JywnN7/5JywnOL/5JywnOb/5JywnMTC/+ScsJzExv/knLCcxMr/5J10sCiAgICAgIHNob3dNb250aEFmdGVyWWVhcjp0cnVlLAogICAgICBoaWRlSWZOb1ByZXZOZXh0OnRydWUsCiAgICAgIGRhdGVGb3JtYXQ6ICd5eS1tbScsCgkgICAgYmVmb3JlU2hvdzogZnVuY3Rpb24oaW5wdXQsIGluc3QpeyBpbnN0LmRwRGl2LmFkZENsYXNzKCdvbmx5LXllYXItbW9udGgnKTsgfSwKICAgICAgb25DbG9zZTogZnVuY3Rpb24oZGF0ZVRleHQsIGluc3QpIHsgalEodGhpcykuZGF0ZXBpY2tlcignc2V0RGF0ZScsIG5ldyBEYXRlKGluc3Quc2VsZWN0ZWRZZWFyLCBpbnN0LnNlbGVjdGVkTW9udGgsIDEpKTsgfSwKCSAgICBvbkNoYW5nZU1vbnRoWWVhcjpmdW5jdGlvbih5ZWFyLCBtb250aCl7CiAgICAgICAgbG9hZEJhckNoYXJ0KHllYXIudG9TdHJpbmcoKSwgKCcwJyttb250aCkuc3Vic3RyKDAsMikpOwogICAgICAgIExpbmVDaGFydHMuc2hvdyh5ZWFyKTsKCiAgICAgICAgaW5wdXRTZWFyY2hEYXRlKHllYXIrJy0nKygnMCcrbW9udGgpLnN1YnN0cigwLDIpKTsKCSAgICB9CiAgICB9KQoJCS5kYXRlcGlja2VyKCdzZXREYXRlJywgbmV3IERhdGUoKSk7CgogICAgalEoJy5kYXRlJykKCQkgICAgLmRhdGVwaWNrZXIoewogICAgICAgICAgY2hhbmdlTW9udGg6IHRydWUsCiAgICAgICAgICBjaGFuZ2VZZWFyOiB0cnVlLAogICAgICAgICAgbW9udGhOYW1lc1Nob3J0OiBbJzG/+ScsJzK/+ScsJzO/+ScsJzS/+ScsJzW/+ScsJza/+ScsJze/+ScsJzi/+ScsJzm/+ScsJzEwv/knLCcxMb/5JywnMTK/+SddLAogICAgICAgICAgc2hvd01vbnRoQWZ0ZXJZZWFyOnRydWUsCiAgICAgICAgICBoaWRlSWZOb1ByZXZOZXh0OnRydWUsCiAgICAgICAgICBkYXRlRm9ybWF0OiAneXktbW0tZGQnLAogICAgICAgICAgYmVmb3JlU2hvdzogZnVuY3Rpb24oaW5wdXQsIGluc3QpeyBpbnN0LmRwRGl2LnJlbW92ZUNsYXNzKCdvbmx5LXllYXItbW9udGgnKTsgfQoJCSAgICB9KQogICAgICAgIC5kYXRlcGlja2VyKCdzZXREYXRlJywgbmV3IERhdGUoKSk7CgogICAgalEoJy50YWItYnRucycpLm9uKCdjbGljaycsICdidXR0b24nLCBmdW5jdGlvbihlKXsKICAgICAgdmFyICRlbGUsCgkJICAgICAgdGFiOwoKICAgICAgJGVsZT0galEodGhpcyk7CiAgICAgIHRhYiA9IGpRKHRoaXMpLmRhdGEoInRhYm5hbWUiKTsKCiAgICAgIGpRKCIudGFiLWJ0bnMgYnV0dG9uIikucmVtb3ZlQ2xhc3MoImJ0bi1zZWxlY3RlZCIpOwogICAgICAkZWxlLmFkZENsYXNzKCJidG4tc2VsZWN0ZWQiKTsKICAgICAgalEoJy50YWInKS5oaWRlKCk7CiAgICAgIGpRKCcjJyt0YWIpLnNob3coKTsKICAgIH0pOwoKICAgIGpRKCcjbGlzdCcpLnN1Ym1pdChmdW5jdGlvbihlKXsKICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICBCb2FyZC5sb2FkTGlzdCgpOwogICAgfSk7CgoJfSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -627,27 +636,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyogICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgICAgcGFyYW1zLnB1dCgiZnJvbURhdGVMYXN0WWVhciIsIHByaW50VXNhZ2VWTy5nZXRGcm9tRGF0ZUxhc3RZZWFyVG9EQlBhcmFtKCkpOwogICAgICAgIHBhcmFtcy5wdXQoInRvRGF0ZUxhc3RZZWFyIiwgcHJpbnRVc2FnZVZPLmdldFRvRGF0ZUxhc3RZZWFyVG9EQlBhcmFtKCkpOwogICAgICAgIHBhcmFtcy5wdXQoImZyb21EYXRlVGhpc1llYXIiLCBwcmludFVzYWdlVk8uZ2V0RnJvbURhdGVUb0RCUGFyYW0oKSk7CiAgICAgICAgcGFyYW1zLnB1dCgidG9EYXRlVGhpc1llYXIiLCBwcmludFVzYWdlVk8uZ2V0VG9EYXRlVG9EQlBhcmFtKCkpOyovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>804</last-search>
+      <last-search encoding="base64">XDxwbGFjZUNvZGVJbnNlcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>804</last-pattern>
+      <last-pattern encoding="base64">XDxwbGFjZUNvZGVJbnNlcnRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rownum</entry>
-        <entry>row</entry>
-        <entry>ROW</entry>
-        <entry>bet</entry>
-        <entry>start</entry>
-        <entry>form</entry>
         <entry>count</entry>
         <entry>DB</entry>
         <entry>fromDate</entry>
@@ -662,6 +665,12 @@
         <entry>span</entry>
         <entry>spanYear</entry>
         <entry>804</entry>
+        <entry>form</entry>
+        <entry>year</entry>
+        <entry>date</entry>
+        <entry>사용일자</entry>
+        <entry encoding="base64">XDxzZWxlY3RQbGFjZUNvZGVcPg==</entry>
+        <entry encoding="base64">XDxwbGFjZUNvZGVJbnNlcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>816</entry>
