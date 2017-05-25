@@ -47,14 +47,13 @@
         <mark key="." line="88" column="29" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/meter/action/MeterAction.java" timestamp="1495527761805" />
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495669373153">
-        <mark key="a" line="859" column="39" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495673502155">
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="670" column="28" />
-        <mark key="[" line="874" column="0" />
-        <mark key="]" line="849" column="0" />
-        <mark key="^" line="149" column="2" />
-        <mark key="." line="926" column="80" />
+        <mark key="'" line="879" column="23" />
+        <mark key="[" line="983" column="8" />
+        <mark key="]" line="983" column="13" />
+        <mark key="^" line="983" column="13" />
+        <mark key="." line="983" column="13" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
         <mark key="'" line="25" column="31" />
@@ -229,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="922" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
       <jump line="464" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
       <jump line="513" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
@@ -329,10 +327,11 @@
       <jump line="391" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="829" column="25" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="670" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="879" column="23" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -455,7 +454,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>804</text>
@@ -467,7 +466,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgICAgcGFyYW1zLnB1dCgiZnJvbURhdGVMYXN0WWVhciIsIHByaW50VXNhZ2VWTy5nZXRGcm9tRGF0ZUxhc3RZZWFyVG9EQlBhcmFtKCkpOwogICAgICAgIHBhcmFtcy5wdXQoInRvRGF0ZUxhc3RZZWFyIiwgcHJpbnRVc2FnZVZPLmdldFRvRGF0ZUxhc3RZZWFyVG9EQlBhcmFtKCkpOwogICAgICAgIHBhcmFtcy5wdXQoImZyb21EYXRlVGhpc1llYXIiLCBwcmludFVzYWdlVk8uZ2V0RnJvbURhdGVUb0RCUGFyYW0oKSk7CiAgICAgICAgcGFyYW1zLnB1dCgidG9EYXRlVGhpc1llYXIiLCBwcmludFVzYWdlVk8uZ2V0VG9EYXRlVG9EQlBhcmFtKCkpOyovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -597,16 +596,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEubGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBsb2FkTGlzdChkYXRhKXsKICAgIHZhciBsaXN0ID0gWwoJCQkJCQkJCQknPHRhYmxlIGNlbGxzcGFjaW5nPSIxIiBzdHlsZT0id2lkdGg6MTE4MnB4OyI+JwoJCQkJCQkJCQksICc8Y29sZ3JvdXA+JwoJCQkJCQkJCQksICc8Y29sIHdpZHRoPSIxMCUiPicKCQkJCQkJCQkJLCAnPGNvbCB3aWR0aD0iMTAlIj4nCgkJCQkJCQkJCSwgJzxjb2wgd2lkdGg9IjE1JSI+JwoJCQkJCQkJCQksICc8Y29sIHdpZHRoPSIqIj4nCgkJCQkJCQkJCSwgJzxjb2wgd2lkdGg9IjEwJSI+JwoJCQkJCQkJCQksICc8Y29sIHdpZHRoPSIxMCUiPicKCQkJCQkJCQkJLCAnPGNvbCB3aWR0aD0iMTAlIj4nCgkJCQkJCQkJCSwgJzwvY29sZ3JvdXA+JwoJCQkJCQkJCQksJzx0Ym9keT4nCgkJCQkJCQkJXTsKCiAgICBmb3IodmFyIGkgPSAwLCBtYXggPSBkYXRhLmxpc3QubGVuZ3RoOyBpIDwgbWF4OyBpKyspIHsKCSAgICB2YXIgaXRlbSwKCQkJICAgIHRyLAoJICAgICAgICB0clN0cjsKCgkgICAgaXRlbSA9IGRhdGEubGlzdFtpXTsKCSAgICB0ciA9IFtdOwoKCSAgICB2YXIgaXNFdmVuUm93ID0gZnVuY3Rpb24oaSl7CgkgICAgICBpZigoaSAlIDIpID09PSAwKQoJICAgICAgICByZXR1cm4gJzx0ciBjbGFzcz0iZXZlblJvdyI+JzsKCgkJICAgIHJldHVybiAnPHRyPic7CgkgICAgfQoKCSAgICB0ci5wdXNoKGlzRXZlblJvdyhpKSk7CgkgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnswfTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzx0ZCByb3dzcGFuPSI0Ij57MX08L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQgcm93c3Bhbj0iNCI+ezJ9PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkIHJvd3NwYW49IjQiPnszfTwvdGQ+Jyk7CgogICAgICB0ci5wdXNoKCc8dGQ+TUVURVIxPC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkPns0fTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzx0ZD57NX08L3RkPicpOwoJICAgIHRyLnB1c2goJzwvdHI+Jyk7CgogICAgICB0ci5wdXNoKGlzRXZlblJvdyhpKSk7CiAgICAgIHRyLnB1c2goJzx0ZD5NRVRFUjI8L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQ+ezZ9PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkPns3fTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzwvdHI+JykKCiAgICAgIHRyLnB1c2goaXNFdmVuUm93KGkpKTsKICAgICAgdHIucHVzaCgnPHRkPk1FVEVSMzwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzx0ZD57OH08L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQ+ezl9PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPC90cj4nKQoKICAgICAgdHIucHVzaChpc0V2ZW5Sb3coaSkpOwogICAgICB0ci5wdXNoKCc8dGQ+TUVURVI0PC90ZD4nKTsKICAgICAgdHIucHVzaCgnPHRkPnsxMH08L3RkPicpOwogICAgICB0ci5wdXNoKCc8dGQ+ezExfTwvdGQ+Jyk7CiAgICAgIHRyLnB1c2goJzwvdHI+JykKCgkgICAgdHJTdHIgPSB0ci5qb2luKCcnKS5mb3JtYXQoIGl0ZW1bJ21vZGVsQ29kZSddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ21hY0NvZGUnXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWydtYWNOYW1lJ10sCgkJCQkJCQkJCQkJCQkJCQkJaXRlbVsnbG9jYXRpb24nXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWydsYXN0WWVhck1ldGVyMSddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ3RoaXNZZWFyTWV0ZXIxJ10sCgkJCQkJCQkJCQkJCQkJCQkJaXRlbVsnbGFzdFllYXJNZXRlcjInXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWyd0aGlzWWVhck1ldGVyMiddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ2xhc3RZZWFyTWV0ZXIzJ10sCgkJCQkJCQkJCQkJCQkJCQkJaXRlbVsndGhpc1llYXJNZXRlcjMnXSwKCQkJCQkJCQkJCQkJCQkJCQlpdGVtWydsYXN0WWVhck1ldGVyNCddLAoJCQkJCQkJCQkJCQkJCQkJCWl0ZW1bJ3RoaXNZZWFyTWV0ZXI0J10pOwoKICAgICAgbGlzdC5wdXNoKHRyU3RyKTsKICAgIH0KCiAgICBsaXN0LnB1c2goJzwvdGJvZHk+Jyk7CgkgIGxpc3QucHVzaCgnPC90YWJsZT4nKTsKCgkgIGpRKCcjbWV0ZXJMaXN0JykuaHRtbChsaXN0LmpvaW4oJyAnKSk7CgkgIGpRKCIjc3BhblBhZ2VZZWFyU2V0IikuaHRtbChkYXRhLnBhZ2luZ1ZpZXcpOwoKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29sb3I6ICMwMDhmZTE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -625,10 +624,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkjbWV0ZXJMaXN0IHRyIHRkOm50aC1jaGlsZChuKzYpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgICAgcGFyYW1zLnB1dCgiZnJvbURhdGVMYXN0WWVhciIsIHByaW50VXNhZ2VWTy5nZXRGcm9tRGF0ZUxhc3RZZWFyVG9EQlBhcmFtKCkpOwogICAgICAgIHBhcmFtcy5wdXQoInRvRGF0ZUxhc3RZZWFyIiwgcHJpbnRVc2FnZVZPLmdldFRvRGF0ZUxhc3RZZWFyVG9EQlBhcmFtKCkpOwogICAgICAgIHBhcmFtcy5wdXQoImZyb21EYXRlVGhpc1llYXIiLCBwcmludFVzYWdlVk8uZ2V0RnJvbURhdGVUb0RCUGFyYW0oKSk7CiAgICAgICAgcGFyYW1zLnB1dCgidG9EYXRlVGhpc1llYXIiLCBwcmludFVzYWdlVk8uZ2V0VG9EYXRlVG9EQlBhcmFtKCkpOyovCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
