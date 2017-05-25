@@ -46,12 +46,12 @@
         <mark key="^" line="88" column="29" />
         <mark key="." line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495677022690">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495677862407">
         <mark key="b" line="156" column="4" />
-        <mark key="[" line="420" column="10" />
-        <mark key="]" line="421" column="0" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="427" column="6" />
         <mark key="^" line="421" column="0" />
-        <mark key="." line="421" column="0" />
+        <mark key="." line="422" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
         <mark key="'" line="25" column="31" />
@@ -163,6 +163,13 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495154035846">
         <mark key="'" line="445" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" timestamp="1495678184700">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="761" column="0" />
+        <mark key="]" line="762" column="0" />
+        <mark key="^" line="762" column="0" />
+        <mark key="." line="762" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20/pom.xml" timestamp="1495007935926">
         <mark key="'" line="168" column="28" />
       </file>
@@ -188,7 +195,7 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1495592195249">
         <mark key="'" line="212" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1495676721482">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1495677941179">
         <mark key="'" line="776" column="31" />
         <mark key="[" line="2175" column="0" />
         <mark key="]" line="2180" column="5" />
@@ -237,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="66" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="77" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="1" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
@@ -337,10 +343,11 @@
       <jump line="776" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="300" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="430" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0icGxhY2VDb2RlSW5zZXJ0IiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyBkaXNwbGF5OiBub25lOyB6LWluZGV4OiA5MDAiPgoJPGlmcmFtZSBpZD0ibGF5ZXJwbGFjZUNvZGVJbnNlcnQiCgkgICAgICAgIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IHdpZHRoOiAyNzVweDsgaGVpZ2h0OiAyNDlweDsgZGlzcGxheTogYmxvY2s7IG92ZXJmbG93LXk6IGhpZGRlbjsgb3ZlcmZsb3cteDogaGlkZGVuOyIKCSAgICAgICAgYm9yZGVyPSIxIiBmcmFtZWJvcmRlcj0iMCIgc3JjPSIvY29tbW9ucy9wbGFjZV90cmVlLmRvP21ldGhvZD10cmVlTGF5ZXJMaXN0Ij4KCTwvaWZyYW1lPgo8L2Rpdj4K</text>
       </register>
       <register name="e" type="4">
         <keys>
