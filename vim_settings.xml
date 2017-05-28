@@ -46,13 +46,13 @@
         <mark key="^" line="88" column="29" />
         <mark key="." line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1495680505557">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496015053109">
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="305" column="26" />
-        <mark key="[" line="512" column="58" />
-        <mark key="]" line="512" column="61" />
-        <mark key="." line="512" column="61" />
-        <mark key="^" line="512" column="61" />
+        <mark key="'" line="423" column="4" />
+        <mark key="[" line="306" column="82" />
+        <mark key="]" line="306" column="90" />
+        <mark key="." line="306" column="90" />
+        <mark key="^" line="306" column="90" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
         <mark key="'" line="25" column="31" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="838" column="34" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="798" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="799" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
@@ -353,6 +352,7 @@
       <jump line="20" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/left_menu/layer_place_tree.jsp" />
       <jump line="24" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/left_menu/layer_place_tree.jsp" />
       <jump line="28" column="7" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/left_menu/layer_place_tree.jsp" />
+      <jump line="423" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -482,7 +482,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGFjZUNvZGVFbGVcPg==</text>
+        <text>사업장</text>
       </register>
       <register name="0" type="4">
         <text>placeCodeEle</text>
@@ -659,9 +659,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGFjZUNvZGVFbGVcPg==</last-search>
+      <last-search>사업장</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGFjZUNvZGVFbGVcPg==</last-pattern>
+      <last-pattern>사업장</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -684,9 +684,9 @@
         <entry>iframe</entry>
         <entry>place</entry>
         <entry>placecode</entry>
-        <entry>사업장</entry>
         <entry>hidden</entry>
         <entry encoding="base64">XDxwbGFjZUNvZGVFbGVcPg==</entry>
+        <entry>사업장</entry>
       </history-search>
       <history-cmd>
         <entry>816</entry>
