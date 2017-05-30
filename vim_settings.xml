@@ -22,21 +22,21 @@
         <mark key="'" line="107" column="87" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/service/PrintUsageService.java" timestamp="1496118202193">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="19" column="7" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/lin그래프(흑백 및 컬러).js" timestamp="1495175632436">
         <mark key="'" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496130959914">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496133745626">
         <mark key="a" line="58" column="33" />
-        <mark key="'" line="143" column="18" />
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="84" column="30" />
-        <mark key="^" line="84" column="30" />
-        <mark key="." line="84" column="30" />
+        <mark key="'" line="144" column="18" />
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="81" column="32" />
+        <mark key="^" line="81" column="32" />
+        <mark key="." line="81" column="32" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496130454330">
         <mark key="b" line="156" column="4" />
@@ -62,11 +62,16 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/awils/rptmgt/search/action/SearchLogAction.java" timestamp="1496133675078">
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/service/PrintUsageServiceImpl.java" timestamp="1496118195608">
-        <mark key="[" line="80" column="11" />
-        <mark key="]" line="80" column="11" />
-        <mark key="." line="80" column="11" />
-        <mark key="^" line="84" column="29" />
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
+        <mark key="^" line="83" column="29" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" timestamp="1495502931961">
         <mark key="'" line="203" column="16" />
@@ -223,17 +228,19 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495157720206">
         <mark key="'" line="433" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/PrintUsageDaoImpl.java" timestamp="1496119819241">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="40" column="72" />
-        <mark key="." line="40" column="72" />
-        <mark key="^" line="40" column="72" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/PrintUsageDaoImpl.java" timestamp="1496133332300">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/meter2/meter_year_ok.jsp" timestamp="1495523757375">
         <mark key="'" line="5" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1496119785389">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1496133394146">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -340,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -463,19 +470,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>selectPrintUsageWithLastYear</text>
+        <text>MeterYearVO</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="0" type="4">
-        <text>downloadPrintUsageListWithLastYearXls</text>
+        <text>printUsageService.selectPrintUsageListWithLastYear(searchVO)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -602,10 +609,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgV0hFUkUKICAgICAgICByb3dudW0gQkVUV0VFTiAjc3RhcnROdW0jIEFORCAjZW5kTnVtIwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgV0hFUkUKICAgICAgICByb3dudW0gQkVUV0VFTiAjc3RhcnROdW0jIEFORCAjZW5kTnVtIwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -614,7 +621,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -633,10 +640,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
