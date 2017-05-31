@@ -31,12 +31,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/lin그래프(흑백 및 컬러).js" timestamp="1495175632436">
         <mark key="'" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496197208848">
-        <mark key="'" line="68" column="21" />
-        <mark key="[" line="77" column="29" />
-        <mark key="]" line="77" column="29" />
-        <mark key="^" line="153" column="73" />
-        <mark key="." line="77" column="29" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496198077466">
+        <mark key="'" line="71" column="21" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="12" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="46" column="12" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496195598063">
         <mark key="b" line="156" column="4" />
@@ -348,8 +348,8 @@
       <jump line="56" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFyY2hWTy5zZXRBZG1pblR5cGVJZChsb2dpbkluZm8uZ2V0QWRtaW50eXBlSWQoKSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -481,10 +481,10 @@
         <text encoding="base64">c2VhcmNoVk8g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hWTy5zZXRBZG1pblR5cGVJZChsb2dpbkluZm8uZ2V0QWRtaW50eXBlSWQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -611,22 +611,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VhcmNoRGF0ZTogIisgY3VyWVlfTU0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VhcmNoRGF0ZTogIisgY3VyWVlfTU0pOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -642,10 +642,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc1BhZ2VWaWV3Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
