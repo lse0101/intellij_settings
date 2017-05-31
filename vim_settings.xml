@@ -31,12 +31,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/lin그래프(흑백 및 컬러).js" timestamp="1495175632436">
         <mark key="'" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496198077466">
-        <mark key="'" line="71" column="21" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="12" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496205307451">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="44" column="11" />
-        <mark key="." line="46" column="12" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496195598063">
         <mark key="b" line="156" column="4" />
@@ -138,12 +138,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/meter2/meter_year.jsp" timestamp="1496107613809">
         <mark key="'" line="663" column="80" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1496195282619">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1496205568499">
         <mark key="'" line="240" column="52" />
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="81" column="22" />
-        <mark key="^" line="82" column="18" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="20" />
+        <mark key="." line="80" column="20" />
+        <mark key="^" line="58" column="72" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui.css" timestamp="1495502383199">
         <mark key="'" line="238" column="110" />
@@ -349,7 +349,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hWTy5zZXRBZG1pblR5cGVJZChsb2dpbkluZm8uZ2V0QWRtaW50eXBlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXNOb3RFcXVhbCBwcmVwZW5kPSJBTkQiIHByb3BlcnR5PSJhZG1pblR5cGVJZCIgY29tcGFyZVZhbHVlPSIyIj4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -472,19 +472,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>adminTypeId</text>
       </register>
       <register name="/" type="4">
         <text>setSearchYear</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2VhcmNoVk8g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpc05vdEVtcHR5IHByZXBlbmQ9IkFORCIgcHJvcGVydHk9InBsYWNlQ29kZSI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hWTy5zZXRBZG1pblR5cGVJZChsb2dpbkluZm8uZ2V0QWRtaW50eXBlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXNOb3RFcXVhbCBwcmVwZW5kPSJBTkQiIHByb3BlcnR5PSJhZG1pblR5cGVJZCIgY29tcGFyZVZhbHVlPSIyIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -611,10 +611,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hWTy5zZXRBZG1pblR5cGVJZChsb2dpbkluZm8uZ2V0QWRtaW50eXBlSWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VhcmNoRGF0ZTogIisgY3VyWVlfTU0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -623,10 +623,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VhcmNoRGF0ZTogIisgY3VyWVlfTU0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -642,10 +642,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
