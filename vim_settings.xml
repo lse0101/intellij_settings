@@ -31,8 +31,8 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/lin그래프(흑백 및 컬러).js" timestamp="1495175632436">
         <mark key="'" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496205307451">
-        <mark key="'" line="70" column="21" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496208130000">
+        <mark key="'" line="159" column="12" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="44" column="11" />
@@ -46,8 +46,8 @@
         <mark key="." line="591" column="142" />
         <mark key="^" line="591" column="142" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1495441073696">
-        <mark key="'" line="25" column="31" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496208135623">
+        <mark key="'" line="2" column="19" />
         <mark key="[" line="134" column="5" />
         <mark key="]" line="136" column="36" />
         <mark key="^" line="136" column="36" />
@@ -109,8 +109,8 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" timestamp="1495427269374">
         <mark key="'" line="8" column="30305" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" timestamp="1495441133480">
-        <mark key="'" line="224" column="20" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" timestamp="1496208250195">
+        <mark key="'" line="211" column="12" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495157824243">
         <mark key="'" line="390" column="18" />
@@ -245,16 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="517" column="9" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="354" column="53" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="380" column="39" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="526" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="518" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="491" column="31" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="478" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="472" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="459" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="337" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="330" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="309" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="308" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
@@ -345,6 +335,16 @@
       <jump line="55" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
       <jump line="56" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
       <jump line="251" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="159" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" />
+      <jump line="2" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" />
+      <jump line="94" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="146" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="192" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="197" column="16" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="204" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="224" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="210" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
+      <jump line="211" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -474,7 +474,7 @@
         <text encoding="base64">QU5EIA==</text>
       </register>
       <register name="/" type="4">
-        <text>setSearchYear</text>
+        <text encoding="base64">XDx0THhVc2VyTVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIHRfbHhfbWV0ZXJfc3VtX3NubXBfZGF5IGRheSBKT0lOIHRfbHhfbWFjX20gbWFjCiAgICAgICAgICAgICAgICBPTiBkYXkubWFjX2NvZGUgPSBtYWMubWFjX2NvZGUK</text>
@@ -651,18 +651,14 @@
       </register>
     </registers>
     <search>
-      <last-search>setSearchYear</last-search>
+      <last-search encoding="base64">XDx0THhVc2VyTVw+</last-search>
       <last-offset />
-      <last-pattern>setSearchYear</last-pattern>
+      <last-pattern encoding="base64">XDx0THhVc2VyTVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>divLoad</entry>
-        <entry>divLo</entry>
-        <entry>divLoa</entry>
-        <entry>div</entry>
         <entry>Load</entry>
         <entry>divLoading</entry>
         <entry>load</entry>
@@ -679,6 +675,10 @@
         <entry>last</entry>
         <entry encoding="base64">XDxsb2FkQmFyQ2hhcnRcPg==</entry>
         <entry>setSearchYear</entry>
+        <entry>place</entry>
+        <entry>LoginInfo</entry>
+        <entry encoding="base64">XDxsb2dpbkluZm9cPg==</entry>
+        <entry encoding="base64">XDx0THhVc2VyTVw+</entry>
       </history-search>
       <history-cmd>
         <entry>531</entry>
