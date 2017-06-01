@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1496292921036">
-        <mark key="'" line="17" column="39" />
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="56" />
-        <mark key="^" line="32" column="56" />
-        <mark key="." line="32" column="56" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1496303807237">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="20" />
+        <mark key="^" line="59" column="8" />
+        <mark key="." line="57" column="20" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
@@ -174,12 +174,12 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1496302890183">
-        <mark key="'" line="480" column="79" />
-        <mark key="[" line="517" column="57" />
-        <mark key="]" line="517" column="68" />
-        <mark key="." line="517" column="57" />
-        <mark key="^" line="511" column="67" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1496304026184">
+        <mark key="'" line="473" column="79" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" timestamp="1496214273457">
         <mark key="'" line="26" column="16" />
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
       <jump line="215" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
       <jump line="218" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
       <jump line="224" column="36" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
@@ -342,10 +341,11 @@
       <jump line="547" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="480" column="79" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="526" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -468,19 +468,24 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.to</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>date-picker</text>
       </register>
       <register name="0" type="4">
-        <text>.toString()</text>
+        <text encoding="base64">dmFsdWVGb3JtYXR0ZXIKICAgICAgICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>function(params){
+                if(params.value === 0)
+                  return &quot;&quot;;
+
+                return params.value.toString().commaFormat();
+              }</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -607,22 +612,33 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZW9mIGl0ZW1bJ2xhc3RZZWFyTWV0ZXIxJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiB0b3RhbFN1bVswXS5jb2xvclN1bSk7Cg==</text>
+      <register name="4" type="4">
+        <text>function(params){
+                if(params.value === 0)
+                  return &quot;&quot;;
+
+                return params.value.toString().commaFormat();
+              }</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>function(params){
+                if(params.value === 0)
+                  return &quot;&quot;;
+
+                return params.value.toString().commaFormat();
+
+              }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -638,10 +654,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZW9mIGl0ZW1bJ2xhc3RZZWFyTWV0ZXIxJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
