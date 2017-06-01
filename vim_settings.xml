@@ -135,6 +135,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/meter2/meter_year.jsp" timestamp="1496107613809">
         <mark key="'" line="663" column="80" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1496275133691">
+        <mark key="'" line="254" column="15" />
+        <mark key="[" line="186" column="56" />
+        <mark key="]" line="186" column="78" />
+        <mark key="." line="238" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui.css" timestamp="1495502383199">
         <mark key="'" line="238" column="110" />
         <mark key="[" line="238" column="106" />
@@ -329,7 +335,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>서</text>
+        <text>t_lx_meter_sum_snmp_day</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -458,7 +464,7 @@
         <text>일반사용자</text>
       </register>
       <register name="0" type="4">
-        <text>sessionScope.user.admintypeId</text>
+        <text>t_lx_meter_sum_snmp_day</text>
       </register>
       <register name="1" type="4">
         <text>SELECT *
