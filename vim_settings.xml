@@ -36,14 +36,14 @@
         <mark key="^" line="44" column="11" />
         <mark key="." line="138" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496379325136">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496381709965">
         <mark key="a" line="204" column="4" />
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="16" column="13" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="157" column="14" />
+        <mark key="]" line="157" column="15" />
+        <mark key="^" line="194" column="37" />
+        <mark key="." line="157" column="15" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -249,10 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="524" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="672" column="42" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="1155" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="33" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="38" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
@@ -329,7 +325,6 @@
       <jump line="115" column="10" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="244" column="64" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="549" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="330" column="33" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="547" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="480" column="79" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
@@ -349,10 +344,15 @@
       <jump line="503" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="16" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="14" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="239" column="46" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="194" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="466" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>-bottom</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -475,19 +475,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>-bottom</text>
       </register>
       <register name="/" type="4">
-        <text>tab-btns</text>
+        <text>meterList</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dmFsdWVGb3JtYXR0ZXIKICAgICAgICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
+        <text encoding="base64">CQkJYm9yZGVyLWJvdHRvbTogM3B4IHNvbGlkICM5ZTllOWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -613,27 +613,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>function(params){
                 if(params.value === 0)
                   return &quot;&quot;;
 
                 return params.value.toString().commaFormat();
               }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
-      <register name="5" type="4">
-        <text>function(params){
-                if(params.value === 0)
-                  return &quot;&quot;;
-
-                return params.value.toString().commaFormat();
-              }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
         <text>function(params){
@@ -641,11 +636,16 @@
                   return &quot;&quot;;
 
                 return params.value.toString().commaFormat();
-
               }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>function(params){
+                if(params.value === 0)
+                  return &quot;&quot;;
+
+                return params.value.toString().commaFormat();
+
+              }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -661,26 +661,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>tab-btns</last-search>
+      <last-search>meterList</last-search>
       <last-offset />
-      <last-pattern>tab-btns</last-pattern>
+      <last-pattern>meterList</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>XPMS_JOB</entry>
-        <entry>noexpand</entry>
         <entry>NOEX</entry>
         <entry>with</entry>
         <entry>WITH</entry>
@@ -699,6 +697,8 @@
         <entry>CDATA</entry>
         <entry>select</entry>
         <entry>tab-btns</entry>
+        <entry>table</entry>
+        <entry>meterList</entry>
       </history-search>
       <history-cmd>
         <entry>531</entry>
