@@ -668,7 +668,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>0,$d</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -716,12 +716,12 @@
         <entry>buf</entry>
         <entry>18</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>sp</entry>
         <entry>actionlist</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz4wLCRk</entry>
         <entry>0,$d</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
