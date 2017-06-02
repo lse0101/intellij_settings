@@ -60,14 +60,14 @@
         <mark key="^" line="44" column="11" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496302907084">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496364037408">
         <mark key="a" line="204" column="4" />
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="525" column="2" />
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="0" />
-        <mark key="^" line="548" column="27" />
-        <mark key="." line="311" column="0" />
+        <mark key="'" line="422" column="24" />
+        <mark key="[" line="253" column="64" />
+        <mark key="]" line="253" column="64" />
+        <mark key="^" line="293" column="39" />
+        <mark key="." line="253" column="64" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
       <jump line="218" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
       <jump line="224" column="36" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
       <jump line="257" column="36" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" />
@@ -342,10 +341,11 @@
       <jump line="480" column="79" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="526" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="422" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -468,10 +468,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>date-picker</text>
+        <text>월별</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dmFsdWVGb3JtYXR0ZXIKICAgICAgICAgICAg</text>
@@ -664,15 +664,14 @@
       </register>
     </registers>
     <search>
-      <last-search>date-picker</last-search>
+      <last-search>월별</last-search>
       <last-offset />
-      <last-pattern>date-picker</last-pattern>
+      <last-pattern>월별</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jQ</entry>
         <entry>common.js</entry>
         <entry>include</entry>
         <entry>script</entry>
@@ -692,6 +691,7 @@
         <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry encoding="base64">XDxwaWNrZXJcPg==</entry>
         <entry>date-picker</entry>
+        <entry>월별</entry>
       </history-search>
       <history-cmd>
         <entry>531</entry>
