@@ -55,7 +55,7 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-struts/3.2.13.RELEASE/spring-struts-3.2.13.RELEASE.jar!/org/springframework/web/struts/DelegatingActionProxy.class" timestamp="1496365049141" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-struts/3.2.13.RELEASE/spring-struts-3.2.13.RELEASE.jar!/org/springframework/web/struts/DelegatingActionProxy.class" timestamp="1496365414527" />
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/awils/rptmgt/search/action/SearchLogAction.java" timestamp="1496133675078">
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
@@ -208,6 +208,11 @@
       <file name="/dummy.sql" timestamp="1496216266537">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1496365751897">
+        <mark key="[" line="990" column="0" />
+        <mark key="]" line="990" column="0" />
+        <mark key="." line="990" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1496215089577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -345,8 +350,8 @@
       <jump line="422" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -478,15 +483,10 @@
         <text encoding="base64">dmFsdWVGb3JtYXR0ZXIKICAgICAgICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
       </register>
-      <register name="2" type="4">
-        <text>function(params){
-                if(params.value === 0)
-                  return &quot;&quot;;
-
-                return params.value.toString().commaFormat();
-              }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -612,16 +612,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>function(params){
                 if(params.value === 0)
                   return &quot;&quot;;
 
                 return params.value.toString().commaFormat();
               }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -632,14 +632,19 @@
                   return &quot;&quot;;
 
                 return params.value.toString().commaFormat();
+              }</text>
+      </register>
+      <register name="6" type="4">
+        <text>function(params){
+                if(params.value === 0)
+                  return &quot;&quot;;
+
+                return params.value.toString().commaFormat();
 
               }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -655,10 +660,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImRhdGVwaWNrZXIiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZW9mIGl0ZW1bJ2xhc3RZZWFyTWV0ZXIxJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
