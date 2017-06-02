@@ -36,14 +36,14 @@
         <mark key="^" line="44" column="11" />
         <mark key="." line="138" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496368191249">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496377838531">
         <mark key="a" line="204" column="4" />
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="422" column="24" />
-        <mark key="[" line="253" column="64" />
-        <mark key="]" line="253" column="64" />
-        <mark key="^" line="293" column="39" />
-        <mark key="." line="253" column="64" />
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="14" />
+        <mark key="^" line="36" column="14" />
+        <mark key="." line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -249,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="60" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="1192" column="64" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="1217" column="50" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="150" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="524" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
@@ -349,10 +347,12 @@
       <jump line="1967" column="3" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="2115" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="2207" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="503" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -475,10 +475,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>CDATA</text>
+        <text>select</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dmFsdWVGb3JtYXR0ZXIKICAgICAgICAgICAg</text>
@@ -671,15 +671,14 @@
       </register>
     </registers>
     <search>
-      <last-search>CDATA</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>CDATA</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>script</entry>
         <entry>jquery</entry>
         <entry>XPMS_JOB</entry>
         <entry>noexpand</entry>
@@ -699,6 +698,7 @@
         <entry>월별</entry>
         <entry encoding="base64">XV0+</entry>
         <entry>CDATA</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>531</entry>
