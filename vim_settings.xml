@@ -36,12 +36,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496904381235">
-        <mark key="'" line="197" column="0" />
-        <mark key="[" line="186" column="57" />
-        <mark key="]" line="186" column="76" />
-        <mark key="." line="186" column="76" />
-        <mark key="^" line="186" column="76" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496907348411">
+        <mark key="'" line="222" column="15" />
+        <mark key="[" line="226" column="67" />
+        <mark key="]" line="226" column="67" />
+        <mark key="." line="226" column="67" />
+        <mark key="^" line="226" column="74" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -217,12 +217,12 @@
       <file name="/Dummy.txt" timestamp="1496895523889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496904168442">
-        <mark key="'" line="29" column="1" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="32" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496907408061">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="30" column="53" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" timestamp="1495429771250">
         <mark key="'" line="37" column="41" />
@@ -251,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/Messages.properties" />
-      <jump line="599" column="44" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/Messages.properties" />
-      <jump line="442" column="37" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="496" column="9" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="354" column="130" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="204" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="27" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
@@ -351,10 +347,14 @@
       <jump line="31" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
       <jump line="29" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
       <jump line="197" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="14" column="78" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="16" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="201" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="222" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>width: 100%; font-size: 16px;font-family: Arial;height: 23px;</text>
+        <text>5</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -477,19 +477,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>width: 100%; font-size: 16px;font-family: Arial;height: 23px;</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>fbar</text>
+        <text>804</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSBzZWxlY3Qge3dpZHRoOiAxMDAlOyBmb250LXNpemU6IDE2cHg7Zm9udC1mYW1pbHk6IEFyaWFsO2hlaWdodDogMjNweDt9Cg==</text>
+      <register name="0" type="4">
+        <text>width:1200px;margin-bottom:2px;text-align: center;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTxjb2wgd2lkdGg9IioiLz4K</text>
+        <text encoding="base64">CTwlLS0JCQkJCQkJPHRkPgoJCQkJCQkJCQk8aW5wdXQgdHlwZT0iaW1hZ2UiIHNyYz0iLi4vLi4vZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zZWFyY2gtYmlnLmdpZiIgYWx0PSJzZWFyY2giIHN0eWxlPSJ3aWR0aDogNDlweDtoZWlnaHQ6IDQzcHg7Ym9yZGVyOiAwcHg7bWFyZ2luLXJpZ2h0OiA1cHg7Ij4KCQkJCQkJCQk8L3RkPi0tJT4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -615,23 +615,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTx0ZCBhbGlnbj0icmlnaHQiPlRvdGFsIDogJm5ic3A7IDwvdGQ+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PgoJCQkJCQkJCQk8aW5wdXQgdHlwZT0iaW1hZ2UiIHNyYz0iLi4vLi4vZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zZWFyY2gtYmlnLmdpZiIgYWx0PSJzZWFyY2giIHN0eWxlPSJ3aWR0aDogNDlweDtoZWlnaHQ6IDQzcHg7Ym9yZGVyOiAwcHg7bWFyZ2luLXJpZ2h0OiA1cHg7Ij4KCQkJCQkJCQk8L3RkPi0tJT4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2xpc3RUYWJsZUlkIHRhYmxlIHRkOm50aC1jaGlsZCgyKSB7dGV4dC1hbGlnbjogcmlnaHQ7fQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7fQo=</text>
+        <text encoding="base64">CQkJCQkJPC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7Ym9yZGVyLXRvcDogM3B4IHNvbGlkICNkZGQ7fQo=</text>
+        <text encoding="base64">CQkJCQkJCTwlLS08aW5wdXQgdHlwZT0iaW1hZ2UiIHNyYz0iLi4vLi4vZGVzaWduL2ltYWdlcy9jb21tb24vYnRuL0JUTl9zZWFyY2gtYmlnLmdpZiIgYWx0PSJzZWFyY2giIHN0eWxlPSJ3aWR0aDogNDlweDtoZWlnaHQ6IDQzcHg7Ym9yZGVyOiAwcHg7bWFyZ2luLXJpZ2h0OiA1cHg7Ij4tLSU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJPHA+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -650,23 +650,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxidXR0b24+sMu79jwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>fbar</last-search>
+      <last-search>804</last-search>
       <last-offset />
-      <last-pattern>fbar</last-pattern>
+      <last-pattern>804</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CDATA</entry>
-        <entry>select</entry>
         <entry>tab-btns</entry>
         <entry>table</entry>
         <entry>spac</entry>
@@ -682,9 +680,11 @@
         <entry>list</entry>
         <entry>listTable</entry>
         <entry>listTableId</entry>
-        <entry>year</entry>
         <entry encoding="base64">XDxTZWFyY2hfbGlzdFRhYmxlMDFcPg==</entry>
         <entry>fbar</entry>
+        <entry>year</entry>
+        <entry>yearTitle</entry>
+        <entry>804</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
