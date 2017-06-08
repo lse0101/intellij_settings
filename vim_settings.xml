@@ -217,12 +217,12 @@
       <file name="/Dummy.txt" timestamp="1496895523889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496901885988">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496902744488">
         <mark key="'" line="29" column="1" />
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="46" />
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" timestamp="1495429771250">
         <mark key="'" line="37" column="41" />
@@ -354,7 +354,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -477,7 +477,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>fbar</text>
