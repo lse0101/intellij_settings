@@ -55,11 +55,6 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/awils/rptmgt/search/action/SearchLogAction.java" timestamp="1496133675078">
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="0" />
-        <mark key="." line="294" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/environment/auth_main.jsp" timestamp="1496273319548">
         <mark key="'" line="20" column="71" />
         <mark key="[" line="123" column="0" />
@@ -97,7 +92,8 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/2017-04-18.sql" timestamp="1496215114603">
         <mark key="'" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/base/Constants.java" timestamp="1496273235269">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/base/Constants.java" timestamp="1496881388515">
+        <mark key="'" line="52" column="44" />
         <mark key="[" line="53" column="44" />
         <mark key="]" line="53" column="45" />
         <mark key="." line="53" column="45" />
@@ -242,14 +238,8 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/meter2/meter_year_ok.jsp" timestamp="1495523757375">
         <mark key="'" line="5" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1496197066495">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="62" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="138" column="73" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="139" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="140" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
@@ -349,6 +339,7 @@
       <jump line="415" column="47" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="409" column="80" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="344" column="82" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="52" column="44" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/base/Constants.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
