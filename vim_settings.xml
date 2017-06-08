@@ -36,12 +36,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496901359038">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496904381235">
         <mark key="'" line="197" column="0" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-        <mark key="^" line="209" column="34" />
+        <mark key="[" line="186" column="57" />
+        <mark key="]" line="186" column="76" />
+        <mark key="." line="186" column="76" />
+        <mark key="^" line="186" column="76" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -217,12 +217,12 @@
       <file name="/Dummy.txt" timestamp="1496895523889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496902744488">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496904168442">
         <mark key="'" line="29" column="1" />
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="33" />
-        <mark key="^" line="31" column="33" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" timestamp="1495429771250">
         <mark key="'" line="37" column="41" />
@@ -354,7 +354,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>width: 100%; font-size: 16px;font-family: Arial;height: 23px;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -477,19 +477,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>width: 100%; font-size: 16px;font-family: Arial;height: 23px;</text>
       </register>
       <register name="/" type="4">
         <text>fbar</text>
       </register>
-      <register name="0" type="4">
-        <text>Total :</text>
+      <register name="0" type="2">
+        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSBzZWxlY3Qge3dpZHRoOiAxMDAlOyBmb250LXNpemU6IDE2cHg7Zm9udC1mYW1pbHk6IEFyaWFsO2hlaWdodDogMjNweDt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTxjb2wgd2lkdGg9IioiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTx0ZCBhbGlnbj0icmlnaHQiPlRvdGFsIDogJm5ic3A7IDwvdGQ+Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCTxjb2wgd2lkdGg9IioiLz4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -616,19 +616,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCTx0ZCBhbGlnbj0icmlnaHQiPlRvdGFsIDogJm5ic3A7IDwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7Ym9yZGVyLXRvcDogM3B4IHNvbGlkICNkZGQ7fQo=</text>
+        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7Ym9yZGVyLXRvcDogM3B4IHNvbGlkICNkZGQ7fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
