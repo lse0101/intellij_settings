@@ -36,12 +36,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496898614862">
-        <mark key="'" line="133" column="29" />
-        <mark key="[" line="229" column="106" />
-        <mark key="]" line="229" column="124" />
-        <mark key="." line="229" column="124" />
-        <mark key="^" line="229" column="124" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496901359038">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
+        <mark key="^" line="209" column="34" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -217,12 +217,12 @@
       <file name="/Dummy.txt" timestamp="1496895523889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496898464734">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="51" column="101" />
-        <mark key="]" line="51" column="126" />
-        <mark key="." line="51" column="126" />
-        <mark key="^" line="51" column="126" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496901885988">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" timestamp="1495429771250">
         <mark key="'" line="37" column="41" />
@@ -251,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
-      <jump line="20" column="71" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/environment/auth_main.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/Messages.properties" />
       <jump line="599" column="44" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/Messages.properties" />
       <jump line="442" column="37" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
@@ -344,17 +340,21 @@
       <jump line="117" column="42" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="144" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="10" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
-      <jump line="35" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
       <jump line="120" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="5" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
       <jump line="44" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="133" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="35" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="34" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="31" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="29" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="197" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -477,19 +477,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>year</text>
+        <text>fbar</text>
       </register>
       <register name="0" type="4">
-        <text>-bottom</text>
+        <text>Total :</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCTxjb2wgd2lkdGg9IioiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCTx0ZCBhbGlnbj0icmlnaHQiPlRvdGFsIDogJm5ic3A7IDwvdGQ+Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -616,16 +616,16 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmZvcm1UYWJsZSB7d2lkdGg6MTAwJTttYXJnaW4tYm90dG9tOjIwcHg7Ym9yZGVyLXRvcDozcHggc29saWQgI2M1YzVjNTtib3JkZXItYm90dG9tOjNweCBzb2xpZCAjYzVjNWM1fQouZm9ybVRhYmxlIHRoIHt3aWR0aDoxNSU7cGFkZGluZzoxMnB4IDAgMTFweCAwO2JhY2tncm91bmQ6I2U4ZTllYTtib3JkZXItdG9wOjFweCBzb2xpZCAjZmZmO2NvbG9yOiM0NTQ1NDU7dGV4dC1pbmRlbnQ6MTVweDt0ZXh0LWFsaWduOmxlZnQ7Zm9udC13ZWlnaHQ6bm9ybWFsO3ZlcnRpY2FsLWFsaWduOnRvcH0KLmZvcm1UYWJsZSB0ZCB7d2lkdGg6MzUlO2JvcmRlci10b3A6MXB4IHNvbGlkICNkZmRmZGZ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7fQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ym9keSwgZGl2LCBwLCBoMSwgaDIsIGgzLCBoNCwgaDUsIGg2LCB1bCwgb2wsIGxpLCBkbCwgZHQsIGRkLCB0YWJsZSwgdHIsIHRoLCB0ZCwgY2FwdGlvbiwgZm9ybSwgZmllbGRzZXQsIGlucHV0LCBzZWxlY3QsIHRleHRhcmVhLCBibG9ja3F1b3RlLCBhZGRyZXNzLCBidXR0b24ge21hcmdpbjowO3BhZGRpbmc6MH0KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7Zm9udC1zaXplOjEwMCV9CnVsLCBvbCwgbGkge2xpc3Qtc3R5bGU6bm9uZX0KaW1nLCBmaWVsZHNldCwgYnV0dG9uIHtib3JkZXI6MCBub25lfQpidXR0b24ge2JhY2tncm91bmQ6bm9uZX0KYWRkcmVzcywgZW0ge2ZvbnQtc3R5bGU6bm9ybWFsfQp0YWJsZSB7Ym9yZGVyLWNvbGxhcHNlOmNvbGxhcHNlO2JvcmRlci1zcGFjaW5nOjB9CnE6YmVmb3JlLCBxOmFmdGVyIHtjb250ZW50OicnfQoKYm9keSwgaW5wdXQsIHNlbGVjdCwgdGV4dGFyZWEge2JhY2tncm91bmQ6I2ZmZjtjb2xvcjojNzk3OTc5O2ZvbnQ6NjIuNSUvMSAiuLzAuiCw7bXxIiwgTWFsZ3VuIEdvdGhpYywgIrW4v/IiLCBEb3R1bSwgQXJpYWwsIHNhbnMtc2VyaWZ9CmlucHV0LCBidXR0b24sIHNlbGVjdCwgb3B0aW9uLCB0ZXh0YXJlYSB7Zm9udC1zaXplOjFlbTtmb250LWZhbWlseToiuLzAuiCw7bXxIiwgTWFsZ3VuIEdvdGhpYywgIrW4v/IiLCBEb3R1bSwgQXJpYWwsIHNhbnMtc2VyaWZ9CmEge2NvbG9yOiM3OTc5Nzk7dGV4dC1kZWNvcmF0aW9uOm5vbmV9CmE6aG92ZXIsIGE6Zm9jdXMge2NvbG9yOiM3OTc5Nzl9CmltZyB7dmVydGljYWwtYWxpZ246dG9wfQouYmxpbmQge3Bvc2l0aW9uOmFic29sdXRlO3RvcDotOTk5OXB4O3Zpc2liaWxpdHk6aGlkZGVuO3dpZHRoOjA7aGVpZ2h0OjA7Zm9udC1zaXplOjElO2xpbmUtaGVpZ2h0OjB9Cg==</text>
+        <text encoding="base64">I1NlYXJjaF9saXN0VGFibGUwMSB7Ym9yZGVyLXRvcDogM3B4IHNvbGlkICNkZGQ7fQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -657,16 +657,14 @@
       </register>
     </registers>
     <search>
-      <last-search>year</last-search>
+      <last-search>fbar</last-search>
       <last-offset />
-      <last-pattern>year</last-pattern>
+      <last-pattern>fbar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>월별</entry>
-        <entry encoding="base64">XV0+</entry>
         <entry>CDATA</entry>
         <entry>select</entry>
         <entry>tab-btns</entry>
@@ -685,6 +683,8 @@
         <entry>listTable</entry>
         <entry>listTableId</entry>
         <entry>year</entry>
+        <entry encoding="base64">XDxTZWFyY2hfbGlzdFRhYmxlMDFcPg==</entry>
+        <entry>fbar</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
