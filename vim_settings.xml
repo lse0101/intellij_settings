@@ -29,21 +29,21 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/lin그래프(흑백 및 컬러).js" timestamp="1495175632436">
         <mark key="'" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496370094582">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1496887123896">
         <mark key="'" line="125" column="37" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="11" />
-        <mark key="." line="138" column="9" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496824800515">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496887778790">
         <mark key="a" line="204" column="4" />
         <mark key="b" line="156" column="4" />
-        <mark key="'" line="344" column="82" />
-        <mark key="[" line="441" column="49" />
-        <mark key="]" line="441" column="50" />
+        <mark key="'" line="601" column="6" />
+        <mark key="[" line="559" column="0" />
+        <mark key="]" line="559" column="0" />
         <mark key="^" line="181" column="24" />
-        <mark key="." line="441" column="50" />
+        <mark key="." line="559" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -110,8 +110,8 @@
       <file name="/Clipboard.txt" timestamp="1496043695204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" timestamp="1496215180139">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" timestamp="1496887539735">
+        <mark key="'" line="73" column="0" />
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
@@ -170,8 +170,8 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1496383273888">
-        <mark key="'" line="415" column="6" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1496887115252">
+        <mark key="'" line="448" column="53" />
         <mark key="[" line="460" column="34" />
         <mark key="]" line="460" column="41" />
         <mark key="." line="460" column="34" />
@@ -240,10 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="73" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="139" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="140" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="142" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="504" column="62" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="529" column="33" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
       <jump line="601" column="47" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
@@ -340,10 +336,14 @@
       <jump line="409" column="80" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="344" column="82" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="52" column="44" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/base/Constants.java" />
+      <jump line="448" column="53" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
+      <jump line="205" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="73" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
+      <jump line="601" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-bottom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICBzaG93QnV0dG9uUGFuZWw6IHRydWUsCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -475,10 +475,10 @@
         <text>-bottom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBzaG93QnV0dG9uUGFuZWw6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkjbWV0ZXJMaXN0IHRyIHRkOm50aC1jaGlsZChuKzMpewoJCQlib3JkZXItYm90dG9tOiAwcHg7CgkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -605,22 +605,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLypib3JkZXI6IDlweCBzb2xpZCAjOWU5ZTllOyovCg==</text>
+        <text encoding="base64">CQkjbWV0ZXJMaXN0IHRyIHRkOm50aC1jaGlsZChuKzMpewoJCQlib3JkZXItYm90dG9tOiAwcHg7CgkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJYm9yZGVyOiAxcHggc29saWQgI2RkZDsK</text>
+        <text encoding="base64">CQkJLypib3JkZXI6IDlweCBzb2xpZCAjOWU5ZTllOyovCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYm9yZGVyOiAxcHggc29saWQgI2RkZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJYm9yZGVyLWJvdHRvbTogM3B4IHNvbGlkICM5ZTllOWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
+        <text encoding="base64">CQkJYm9yZGVyLWJvdHRvbTogM3B4IHNvbGlkICM5ZTllOWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -636,18 +636,13 @@
         </keys>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>function(params){
-                if(params.value === 0)
-                  return &quot;&quot;;
-
-                return params.value.toString().commaFormat();
-              }</text>
-      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -681,8 +676,6 @@
         <entry>cellsp</entry>
       </history-search>
       <history-cmd>
-        <entry>531</entry>
-        <entry>784</entry>
         <entry>56</entry>
         <entry>275</entry>
         <entry>145</entry>
@@ -699,8 +692,10 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz4wLCRk</entry>
         <entry>0,$d</entry>
-        <entry>q</entry>
+        <entry>hs</entry>
+        <entry>split</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
