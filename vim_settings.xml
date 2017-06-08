@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1496376759801">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="59" column="9" />
-        <mark key="]" line="57" column="20" />
-        <mark key="^" line="59" column="8" />
-        <mark key="." line="57" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1496898021059">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="74" column="7" />
+        <mark key="." line="75" column="19" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
@@ -36,14 +36,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496887778790">
-        <mark key="a" line="204" column="4" />
-        <mark key="b" line="156" column="4" />
-        <mark key="'" line="601" column="6" />
-        <mark key="[" line="559" column="0" />
-        <mark key="]" line="559" column="0" />
-        <mark key="^" line="181" column="24" />
-        <mark key="." line="559" column="0" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1496898614862">
+        <mark key="'" line="133" column="29" />
+        <mark key="[" line="229" column="106" />
+        <mark key="]" line="229" column="124" />
+        <mark key="." line="229" column="124" />
+        <mark key="^" line="229" column="124" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -81,6 +79,9 @@
         <mark key="]" line="520" column="13" />
         <mark key="^" line="520" column="13" />
         <mark key="." line="520" column="13" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/security/CSRFTokenAutoInputFilter3.java" timestamp="1496896236069">
+        <mark key="'" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dto/SearchPrintUsageVO.java" timestamp="1496194914817">
         <mark key="'" line="19" column="27" />
@@ -134,12 +135,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/meter2/meter_year.jsp" timestamp="1496107613809">
         <mark key="'" line="663" column="80" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1496889032664">
-        <mark key="'" line="177" column="68" />
-        <mark key="[" line="121" column="32" />
-        <mark key="]" line="121" column="46" />
-        <mark key="." line="121" column="46" />
-        <mark key="^" line="121" column="46" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1496895481660">
+        <mark key="'" line="172" column="35" />
+        <mark key="[" line="131" column="49" />
+        <mark key="]" line="211" column="56" />
+        <mark key="." line="211" column="56" />
+        <mark key="^" line="211" column="56" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui.css" timestamp="1495502383199">
         <mark key="'" line="238" column="110" />
@@ -154,6 +155,9 @@
         <mark key="]" line="476" column="14" />
         <mark key="." line="476" column="14" />
         <mark key="^" line="476" column="14" />
+      </file>
+      <file name="/a.sql" timestamp="1496897518074">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" timestamp="1496214255148">
         <mark key="'" line="0" column="0" />
@@ -170,8 +174,8 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1496887115252">
-        <mark key="'" line="448" column="53" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1496897434414">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="460" column="34" />
         <mark key="]" line="460" column="41" />
         <mark key="." line="460" column="34" />
@@ -210,8 +214,15 @@
         <mark key="." line="2207" column="1" />
         <mark key="^" line="2207" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496215089577">
+      <file name="/Dummy.txt" timestamp="1496895523889">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" timestamp="1496898464734">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="51" column="101" />
+        <mark key="]" line="51" column="126" />
+        <mark key="." line="51" column="126" />
+        <mark key="^" line="51" column="126" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/DateUtil.java" timestamp="1495429771250">
         <mark key="'" line="37" column="41" />
@@ -240,25 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="62" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="529" column="33" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="601" column="47" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="317" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="369" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="393" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="416" column="45" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="420" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="455" column="39" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="460" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="686" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="734" column="71" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="746" column="51" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/include/top_menu.jsp" />
-      <jump line="26" column="16" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" />
-      <jump line="528" column="19" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/mac.jsp" />
-      <jump line="281" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" />
-      <jump line="20" column="1" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/2017-04-18.sql" />
-      <jump line="17" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/2017-04-18.sql" />
       <jump line="48" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="15" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" />
@@ -313,8 +305,6 @@
       <jump line="17" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="194" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="466" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="144" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="225" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="319" column="39" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="328" column="62" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
@@ -340,10 +330,31 @@
       <jump line="205" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="73" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
       <jump line="601" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="78" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="172" column="35" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="169" column="4" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="519" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="25" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
+      <jump line="223" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/security/CSRFTokenAutoInputFilter3.java" />
+      <jump line="22" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/security/CSRFTokenAutoInputFilter3.java" />
+      <jump line="139" column="41" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="51" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="47" column="38" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="117" column="42" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="144" column="28" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="10" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="35" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="120" column="21" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="5" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
+      <jump line="44" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="133" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsIG1vZGVsLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -466,19 +477,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>-bottom</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cellsp</text>
+        <text>year</text>
       </register>
       <register name="0" type="4">
         <text>-bottom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsIG1vZGVsLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBzaG93QnV0dG9uUGFuZWw6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -605,19 +616,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmZvcm1UYWJsZSB7d2lkdGg6MTAwJTttYXJnaW4tYm90dG9tOjIwcHg7Ym9yZGVyLXRvcDozcHggc29saWQgI2M1YzVjNTtib3JkZXItYm90dG9tOjNweCBzb2xpZCAjYzVjNWM1fQouZm9ybVRhYmxlIHRoIHt3aWR0aDoxNSU7cGFkZGluZzoxMnB4IDAgMTFweCAwO2JhY2tncm91bmQ6I2U4ZTllYTtib3JkZXItdG9wOjFweCBzb2xpZCAjZmZmO2NvbG9yOiM0NTQ1NDU7dGV4dC1pbmRlbnQ6MTVweDt0ZXh0LWFsaWduOmxlZnQ7Zm9udC13ZWlnaHQ6bm9ybWFsO3ZlcnRpY2FsLWFsaWduOnRvcH0KLmZvcm1UYWJsZSB0ZCB7d2lkdGg6MzUlO2JvcmRlci10b3A6MXB4IHNvbGlkICNkZmRmZGZ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkjbWV0ZXJMaXN0IHRyIHRkOm50aC1jaGlsZChuKzMpewoJCQlib3JkZXItYm90dG9tOiAwcHg7CgkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLypib3JkZXI6IDlweCBzb2xpZCAjOWU5ZTllOyovCg==</text>
+        <text encoding="base64">Ym9keSwgZGl2LCBwLCBoMSwgaDIsIGgzLCBoNCwgaDUsIGg2LCB1bCwgb2wsIGxpLCBkbCwgZHQsIGRkLCB0YWJsZSwgdHIsIHRoLCB0ZCwgY2FwdGlvbiwgZm9ybSwgZmllbGRzZXQsIGlucHV0LCBzZWxlY3QsIHRleHRhcmVhLCBibG9ja3F1b3RlLCBhZGRyZXNzLCBidXR0b24ge21hcmdpbjowO3BhZGRpbmc6MH0KaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7Zm9udC1zaXplOjEwMCV9CnVsLCBvbCwgbGkge2xpc3Qtc3R5bGU6bm9uZX0KaW1nLCBmaWVsZHNldCwgYnV0dG9uIHtib3JkZXI6MCBub25lfQpidXR0b24ge2JhY2tncm91bmQ6bm9uZX0KYWRkcmVzcywgZW0ge2ZvbnQtc3R5bGU6bm9ybWFsfQp0YWJsZSB7Ym9yZGVyLWNvbGxhcHNlOmNvbGxhcHNlO2JvcmRlci1zcGFjaW5nOjB9CnE6YmVmb3JlLCBxOmFmdGVyIHtjb250ZW50OicnfQoKYm9keSwgaW5wdXQsIHNlbGVjdCwgdGV4dGFyZWEge2JhY2tncm91bmQ6I2ZmZjtjb2xvcjojNzk3OTc5O2ZvbnQ6NjIuNSUvMSAiuLzAuiCw7bXxIiwgTWFsZ3VuIEdvdGhpYywgIrW4v/IiLCBEb3R1bSwgQXJpYWwsIHNhbnMtc2VyaWZ9CmlucHV0LCBidXR0b24sIHNlbGVjdCwgb3B0aW9uLCB0ZXh0YXJlYSB7Zm9udC1zaXplOjFlbTtmb250LWZhbWlseToiuLzAuiCw7bXxIiwgTWFsZ3VuIEdvdGhpYywgIrW4v/IiLCBEb3R1bSwgQXJpYWwsIHNhbnMtc2VyaWZ9CmEge2NvbG9yOiM3OTc5Nzk7dGV4dC1kZWNvcmF0aW9uOm5vbmV9CmE6aG92ZXIsIGE6Zm9jdXMge2NvbG9yOiM3OTc5Nzl9CmltZyB7dmVydGljYWwtYWxpZ246dG9wfQouYmxpbmQge3Bvc2l0aW9uOmFic29sdXRlO3RvcDotOTk5OXB4O3Zpc2liaWxpdHk6aGlkZGVuO3dpZHRoOjA7aGVpZ2h0OjA7Zm9udC1zaXplOjElO2xpbmUtaGVpZ2h0OjB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJYm9yZGVyOiAxcHggc29saWQgI2RkZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -636,35 +647,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYm9yZGVyLWJvdHRvbTogM3B4IHNvbGlkICM5ZTllOWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qIMbQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQoJZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjaygpewoJCXZhciBmcm0gPWRvY3VtZW50LnJlZ2lzdEZvcm07CgoJCWZybS5hY3Rpb24gPSAiL3Bhc3N3b3Jkc2V0dGluZy9wYXNzd29yZHNldHRpbmcuZG8/bWV0aG9kPXB3VmFsaWRDaGVjayI7CgkJZnJtLnRhcmdldCA9ICJoaWRkZW5GcmFtZSI7CgkJZnJtLnN1Ym1pdCgpOwoJfQoJKi8KCgogIC8qICAgZnVuY3Rpb24gcHdDb21wbGV4VmFsaWRDaGVjayhteUZvcm0pIHsvL8bQvbq/9rXlILq5wOK8uiDAr8i/vLogw7zFqQogICAgICAgIHZhciBiQ2hlY2sgPSBmYWxzZTsKCQluZXcgQWpheC5SZXF1ZXN0KAogICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1ZhbGlkQ2hlY2snLAogICAgICAgICAgewogICAgICAgIAlhc3luY2hyb25vdXM6IGZhbHNlLCAKICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCiAgICAgICAgICAgIG9uU3VjY2VzczogZnVuY3Rpb24odHJhbnNwb3J0KXsKCQkgICAgCWlmICh0cmFuc3BvcnQucmVzcG9uc2VUZXh0Lmxlbmd0aCAhPSAwKXsKCQkgICAgICAgICAgICBhbGVydCh0cmFuc3BvcnQucmVzcG9uc2VUZXh0KTsKCQkgICAgICAgIAlyZXR1cm4gYkNoZWNrID0gdHJ1ZTsKCQkgICAgICAgIH0gZWxzZSB7ICAgICAgICAgICAgIAoJCSAgICAgICAJCXJldHVybiBiQ2hlY2sgPSBmYWxzZTsKCQkgICAgICAgIH0KCQkgICAgfQogICAgICAgIH0KICAgICAgKTsKCQlyZXR1cm4gYkNoZWNrOwogICAgfSAqLwoJCgkvKiBmdW5jdGlvbiBwd1BlcmlvZFZhbGlkQ2hlY2sobXlGb3JtKSB7Ly/G0L26v/a15SCx4rCjIMCvyL+8uiDDvMWpCgkJCW5ldyBBamF4LlJlcXVlc3QoCgkgICAgICAgICAgJy9wYXNzd29yZHNldHRpbmcvcGFzc3dvcmRzZXR0aW5nLmRvP21ldGhvZD1wd1BlcmlvZFZhbGlkQ2hlY2snLAoJICAgICAgICAgIHsKCSAgICAgICAgCWFzeW5jaHJvbm91czogZmFsc2UsCgkgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKCSAgICAgICAgICAgIHBhcmFtZXRlcnM6ICQobXlGb3JtKS5zZXJpYWxpemUodHJ1ZSksCgkgICAgICAgICAgICBvblN1Y2Nlc3M6IGZ1bmN0aW9uICh0cmFuc3BvcnQpIHsKCSAgICAgICAgICAgICAgaWYgKHRyYW5zcG9ydC5yZXNwb25zZVRleHQubGVuZ3RoICE9IDApewoJICAgICAgICAgICAgICAgIGFsZXJ0KHRyYW5zcG9ydC5yZXNwb25zZVRleHQpOwoJICAgICAgICAgICAgICB9CgkgICAgICAgICAgfQoJICAgICAgICB9CgkgICAgICApOwoJICAgIH0gKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>cellsp</last-search>
+      <last-search>year</last-search>
       <last-offset />
-      <last-pattern>cellsp</last-pattern>
+      <last-pattern>year</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>WITH</entry>
-        <entry>authinfo</entry>
-        <entry>goRemove</entry>
-        <entry>일반 사용자</entry>
-        <entry>일반사용자</entry>
-        <entry>placeCode</entry>
-        <entry encoding="base64">XDxmaXhQbGFjZU5hbWVcPg==</entry>
-        <entry encoding="base64">XDxmaXhlZFBsYWNlTmFtZVw+</entry>
-        <entry encoding="base64">XDxsaXN0XD4=</entry>
-        <entry encoding="base64">XDxwaWNrZXJcPg==</entry>
-        <entry>date-picker</entry>
         <entry>월별</entry>
         <entry encoding="base64">XV0+</entry>
         <entry>CDATA</entry>
@@ -672,8 +672,19 @@
         <entry>tab-btns</entry>
         <entry>table</entry>
         <entry>spac</entry>
-        <entry>meterList</entry>
         <entry>cellsp</entry>
+        <entry>design</entry>
+        <entry>commons</entry>
+        <entry>meterList</entry>
+        <entry>form</entry>
+        <entry>본사</entry>
+        <entry>사업장</entry>
+        <entry>input</entry>
+        <entry encoding="base64">XDxsaXN0VGFibGVJZFw+</entry>
+        <entry>list</entry>
+        <entry>listTable</entry>
+        <entry>listTableId</entry>
+        <entry>year</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -693,9 +704,9 @@
         <entry encoding="base64">JzwsJz4wLCRk</entry>
         <entry>0,$d</entry>
         <entry>hs</entry>
-        <entry>split</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
