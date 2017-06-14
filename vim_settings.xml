@@ -77,6 +77,9 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/action/UserAction.java" timestamp="1495523786991">
         <mark key="'" line="516" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" timestamp="1497414801854">
+        <mark key="'" line="522" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/util/CommonUtil.java" timestamp="1496197191431">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="520" column="8" />
@@ -257,9 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
-      <jump line="505" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
-      <jump line="508" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="509" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="510" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="511" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
@@ -357,6 +357,9 @@
       <jump line="272" column="37" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="271" column="34" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
       <jump line="220" column="16" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="521" column="22" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="522" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -486,7 +489,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>macIp</text>
+        <text>Json</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">VF9MWF9NRVRFUl9TVU1fU05NUF9NT04g</text>
@@ -664,18 +667,14 @@
       </register>
     </registers>
     <search>
-      <last-search>macIp</last-search>
+      <last-search>Json</last-search>
       <last-offset />
-      <last-pattern>macIp</last-pattern>
+      <last-pattern>Json</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>excel</entry>
-        <entry encoding="base64">XDxkb3dubG9hZEV4Y2VsXD4=</entry>
-        <entry>downloadExcel</entry>
-        <entry>\/</entry>
         <entry>Total</entry>
         <entry>total</entry>
         <entry>nth-child</entry>
@@ -692,6 +691,10 @@
         <entry>count</entry>
         <entry>COUNT</entry>
         <entry>macIp</entry>
+        <entry>json</entry>
+        <entry>jack</entry>
+        <entry>Jack</entry>
+        <entry>Json</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
