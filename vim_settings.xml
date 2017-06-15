@@ -37,12 +37,13 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1497252302947">
-        <mark key="a" line="196" column="14" />
-        <mark key="'" line="335" column="6" />
-        <mark key="[" line="372" column="0" />
-        <mark key="]" line="372" column="0" />
-        <mark key="." line="372" column="0" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1497493036604">
+        <mark key="a" line="193" column="14" />
+        <mark key="'" line="408" column="6" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="^" line="111" column="2" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -145,11 +146,11 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1497426419480">
-        <mark key="'" line="46" column="27" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="16" />
-        <mark key="." line="84" column="16" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1497492969675">
+        <mark key="'" line="289" column="15" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="13" />
+        <mark key="." line="255" column="13" />
         <mark key="^" line="272" column="28" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui.css" timestamp="1495502383199">
@@ -184,12 +185,12 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497252317175">
-        <mark key="'" line="560" column="0" />
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="442" column="0" />
-        <mark key="^" line="476" column="21" />
-        <mark key="." line="442" column="0" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497493144761">
+        <mark key="'" line="336" column="0" />
+        <mark key="[" line="407" column="15" />
+        <mark key="]" line="407" column="28" />
+        <mark key="^" line="407" column="28" />
+        <mark key="." line="407" column="28" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" timestamp="1496214273457">
         <mark key="'" line="26" column="16" />
@@ -260,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
-      <jump line="511" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
-      <jump line="513" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="514" column="17" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="521" column="43" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
@@ -360,10 +358,13 @@
       <jump line="521" column="22" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="522" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="46" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="289" column="15" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
+      <jump line="412" column="6" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="336" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQkJPCUtLTxhIGhyZWY9IiMiPjxpbWcgc3JjPSIuLi8uLi9kZXNpZ24vaW1hZ2VzL2NvbW1vbi9idG4vQlROX3NhdmUyZXhjZWwuZ2lmIiAvPjwvYT4tLSU+Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -495,11 +496,10 @@
         <text encoding="base64">VF9MWF9NRVRFUl9TVU1fU05NUF9NT04g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X21hY19tCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPCUtLTxhIGhyZWY9IiMiPjxpbWcgc3JjPSIuLi8uLi9kZXNpZ24vaW1hZ2VzL2NvbW1vbi9idG4vQlROX3NhdmUyZXhjZWwuZ2lmIiAvPjwvYT4tLSU+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>join t_lx_meter_sum_snmp_day day
-        on m.mac_code = day.mac_code;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIi8+LS0lPgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -626,22 +626,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYWMubWFjSXAgPSAjbWFjSXAjCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIi8+LS0lPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhLm1hY0lwIGxpa2UgJyUnICsgI21hY0lwIyArICUK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIiAvPi0tJT4K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdW0oYmxhYykK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIi8+LS0lPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdW0obWV0ZXJfYTAxKSwKICBzdW0obWV0ZXJfYTAyKSwKICBzdW0obWV0ZXJfYTAzKSwKICBzdW0obWV0ZXJfYTA0KSwKICBzdW0obWV0ZXJfYTA1KSwKICBzdW0obWV0ZXJfYTA2KSwKICBzdW0obWV0ZXJfYTA3KSwKICBzdW0obWV0ZXJfYTA4KSwKICBzdW0obWV0ZXJfYTA5KSwKICBzdW0obWV0ZXJfYTEwKSwKICBzdW0obWV0ZXJfYTExKSwKICBzdW0obWV0ZXJfYTEyKQo=</text>
+        <text encoding="base64">CQkJYWN0aW9uPSIke3BhZ2VDb250ZXh0LnJlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpc3RpY3MvbWFjL3N0YXRpc3RpY3NfdXNhZ2VMaXN0LmRvP21ldGhvZD1zZWxlY3RQcmludFVzYWdlTGlzdFdpdGhMYXN0WWVhciI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYWN0aW9uPSIke3BhZ2VDb250ZXh0LnJlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpc3RpY3MvbWFjL3N0YXRpc3RpY3NfdXNhZ2VMaXN0LmRvP21ldGhvZD1zZWxlY3RQcmludFVzYWdlTGlzdFdpdGhMYXN0WWVhciI+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -657,13 +657,14 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIHN1bShtZXRlcl9hKQpGUk9NIHRfbHhfbWFjX20gbSBqb2luIHRfbHhfbW9kZWxfbSBtbwogICAgICAgIG9uIG0ubW9kZWxfY29kZSA9IG1vLm1vZGVsX2NvZGUKICAgICAgam9pbiBUX0xYX01FVEVSX1NVTV9TTk1QX01PTiBzbm1wCiAgICAgICAgb24gbS5tYWNfY29kZSA9IHNubXAubWFjX2NvZGUKd2hlcmUgam9iX21vbnRoID0gJzIwMTYwNicKICBhbmQgbW8uY29sb3JfdHlwZSA9ICdDJwo=</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X21hY19tCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzdW0obWV0ZXJfYTAxKSwK</text>
+      <register name="9" type="4">
+        <text>join t_lx_meter_sum_snmp_day day
+        on m.mac_code = day.mac_code;</text>
       </register>
       <register name=":" type="4">
-        <text>1,$d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -709,7 +710,6 @@
         <entry>18</entry>
         <entry>sp</entry>
         <entry>actionlist</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4wLCRk</entry>
         <entry>0,$d</entry>
         <entry>hs</entry>
@@ -717,6 +717,7 @@
         <entry>split</entry>
         <entry>vs</entry>
         <entry>1,$d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
