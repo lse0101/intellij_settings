@@ -185,12 +185,12 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497493144761">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497499116095">
         <mark key="'" line="336" column="0" />
-        <mark key="[" line="407" column="15" />
-        <mark key="]" line="407" column="28" />
-        <mark key="^" line="407" column="28" />
-        <mark key="." line="407" column="28" />
+        <mark key="[" line="431" column="19" />
+        <mark key="]" line="431" column="19" />
+        <mark key="^" line="431" column="21" />
+        <mark key="." line="431" column="19" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" timestamp="1496214273457">
         <mark key="'" line="26" column="16" />
@@ -363,8 +363,8 @@
       <jump line="336" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPCUtLTxhIGhyZWY9IiMiPjxpbWcgc3JjPSIuLi8uLi9kZXNpZ24vaW1hZ2VzL2NvbW1vbi9idG4vQlROX3NhdmUyZXhjZWwuZ2lmIiAvPjwvYT4tLSU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -487,7 +487,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Json</text>
