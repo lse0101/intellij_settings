@@ -55,6 +55,9 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/common/daemon/worker/handler/image/ImageConvert.java" timestamp="1497573814506">
+        <mark key="'" line="286" column="61" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/environment/auth_main.jsp" timestamp="1496273319548">
         <mark key="'" line="20" column="71" />
         <mark key="[" line="123" column="0" />
@@ -125,6 +128,9 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/webservice/jfs/action/InvokeRecvFaxSoap.java" timestamp="1497573558206">
+        <mark key="'" line="286" column="59" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/struts-config.xml" timestamp="1496273131623">
         <mark key="'" line="15" column="0" />
@@ -253,6 +259,9 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLContextBuilder.class" timestamp="1495152671920">
         <mark key="'" line="29" column="2" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/common/util/convert/ImageConverter.java" timestamp="1497573808539">
+        <mark key="'" line="409" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495157720206">
         <mark key="'" line="433" column="43" />
       </file>
@@ -267,10 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="54" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/css/hanwa.css" />
-      <jump line="240" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="233" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
-      <jump line="263" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="276" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="267" column="18" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="429" column="39" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
@@ -367,6 +372,10 @@
       <jump line="534" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="45" column="40" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="329" column="5" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
+      <jump line="286" column="59" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/webservice/jfs/action/InvokeRecvFaxSoap.java" />
+      <jump line="332" column="12" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/common/daemon/worker/handler/image/ImageConvert.java" />
+      <jump line="409" column="33" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/common/util/convert/ImageConverter.java" />
+      <jump line="286" column="61" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/common/daemon/worker/handler/image/ImageConvert.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
