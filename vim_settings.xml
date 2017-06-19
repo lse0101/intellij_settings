@@ -16,13 +16,13 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1497336979850">
-        <mark key="a" line="444" column="19" />
-        <mark key="'" line="55" column="30" />
-        <mark key="[" line="348" column="20" />
-        <mark key="]" line="348" column="20" />
-        <mark key="^" line="348" column="20" />
-        <mark key="." line="348" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1497838816932">
+        <mark key="a" line="324" column="19" />
+        <mark key="'" line="45" column="6" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+        <mark key="^" line="244" column="38" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
@@ -90,7 +90,7 @@
       <file name="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" timestamp="1495152449297">
         <mark key="'" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/action/UserAction.java" timestamp="1495523786991">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/action/UserAction.java" timestamp="1497837644838">
         <mark key="'" line="516" column="12" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" timestamp="1497425650959">
@@ -134,8 +134,8 @@
       <file name="/Clipboard.txt" timestamp="1496043695204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" timestamp="1496887539735">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" timestamp="1497837592261">
+        <mark key="'" line="12" column="66" />
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
@@ -150,6 +150,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_DETAIL_SqlMap.xml" timestamp="1497838070170">
+        <mark key="[" line="51" column="100" />
+        <mark key="]" line="51" column="100" />
+        <mark key="." line="51" column="100" />
+        <mark key="^" line="51" column="102" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/dao/T_LX_USER_M_SqlMap.xml" timestamp="1496211906733">
         <mark key="'" line="212" column="8" />
@@ -216,6 +222,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/srv/UserSrvImpl.java" timestamp="1497837760227">
+        <mark key="[" line="488" column="70" />
+        <mark key="]" line="489" column="69" />
+        <mark key="^" line="489" column="69" />
+        <mark key="." line="489" column="71" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/common.js" timestamp="1496214273457">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="791" column="60" />
@@ -248,8 +260,8 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1496377118934">
-        <mark key="'" line="2207" column="1" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1497837561943">
+        <mark key="'" line="541" column="10" />
         <mark key="[" line="2207" column="0" />
         <mark key="]" line="2207" column="1" />
         <mark key="." line="2207" column="1" />
@@ -308,23 +320,11 @@
         <mark key="]" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
-      <file name="/fragment.java" timestamp="1497575132667">
+      <file name="/fragment.java" timestamp="1497836414229">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="871" column="23" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="914" column="75" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="874" column="15" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="71" column="20" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="84" column="15" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="88" column="15" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="109" column="26" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="110" column="27" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="118" column="31" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="119" column="33" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="139" column="12" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="183" column="28" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
       <jump line="184" column="29" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
       <jump line="228" column="24" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
       <jump line="229" column="25" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
@@ -413,10 +413,22 @@
       <jump line="337" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="100" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
       <jump line="327" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="178" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="129" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="45" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="86" column="20" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="142" column="12" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="143" column="51" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="144" column="10" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="294" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="334" column="24" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="541" column="10" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="12" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X2F1dGhfbWVudSB3aGVyZSBtZW51Y29kZSA9ICc0MDgwMCc7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -539,19 +551,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibGFja1w+</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uLy4uL2NvbW1vbnMvanMvanF1ZXJ5LXVpLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIuLi8uLi9jb21tb25zL2pzL2NoYXJ0cy9lY2hhcnRzLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgU0VMRUNUCiAgICAgICAgVE9QIDEgYnVpbGRpbmduYW1lCiAgICAgIEZST00KICAgICAgICB0X2x4X3BsYWNlX20K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZDE3ZjI1ZWNmYmNjNzg1N2Y3YmViZWE0NjkzMDhiZTBiMjU4MDk0M2U5NmQxM2EzYWQ5OGExMzY3NWM0YmZjMgo=</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X2F1dGhfbWVudSB3aGVyZSBtZW51Y29kZSA9ICc0MDgwMCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTllN2Q4ZjAyYTdkOGExOTdhOTRkNDJlMmE5OGQ2YWY1Yzc5ZTJhOGMzMzhjNzMzNDhkN2YyZTU2MWJiCg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X2F1dGhfbWVudTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -678,22 +690,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPCUtLTxhIGhyZWY9IiMiPjxpbWcgc3JjPSIuLi8uLi9kZXNpZ24vaW1hZ2VzL2NvbW1vbi9idG4vQlROX3NhdmUyZXhjZWwuZ2lmIiAvPjwvYT4tLSU+Cg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSB0X2x4X3VzZXJfZGV0YWlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIi8+LS0lPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIi8+LS0lPgo=</text>
+        <text encoding="base64">U0VMRUNUIGJ1aWxkaW5nbmFtZQpGUk9NIHRfbHhfcGxhY2VfbQp3aGVyZSBwbGFjZWNvZGUgPSAnQTAwMDYnCjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIiAvPi0tJT4K</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQk8JS0tPGltZyBzcmM9Ii4uLy4uL2Rlc2lnbi9pbWFnZXMvY29tbW9uL2ljb24vQ2xpcF9zdWJ0aWxlMDMuZ2lmIi8+LS0lPgo=</text>
+        <text encoding="base64">c2VsZWN0CiAgKgpmcm9tCiAgKCAgIFNFTEVDVAogICAgICAgIFJPV19OVU1CRVIoKSBPVkVSKAogICAgICAgICAgT1JERVIgQlkKICAgICAgICAgICAgTC5NQUNfQ09ERSBBU0MgICAgICAgICAgICAgICAgICAgICAgICApIGFzIF9ST1dOVU0sCiAgICAgICAgTC5NQUNfQ09ERSwKICAgICAgICBMLk1BQ19TRVJJQUwsCiAgICAgICAgTC5NT0RFTF9DT0RFLAogICAgICAgIE4uTU9ERUxfTkFNRSwKICAgICAgICBkYm8uRk5fUExBQ0VOQU1FKEwuUExBQ0VDT0RFKSBBUyBQTEFDRV9MT0NBVElPTiwKICAgICAgICBMLk1BQ19MT0NBVElPTiwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4KICAgICAgICAgICAgICAgICAgICAgUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzAxJyBUSEVOIElTTlVMTChNLk1FVEVSX0EsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQTAxLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDInIFRIRU4gSVNOVUxMKE0uTUVURVJfQSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9BMDIsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwMycgVEhFTiBJU05VTEwoTS5NRVRFUl9BLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0EwMywKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA0JyBUSEVOIElTTlVMTChNLk1FVEVSX0EsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQTA0LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDUnIFRIRU4gSVNOVUxMKE0uTUVURVJfQSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9BMDUsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwNicgVEhFTiBJU05VTEwoTS5NRVRFUl9BLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0EwNiwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA3JyBUSEVOIElTTlVMTChNLk1FVEVSX0EsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQTA3LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDgnIFRIRU4gSVNOVUxMKE0uTUVURVJfQSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9BMDgsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwOScgVEhFTiBJU05VTEwoTS5NRVRFUl9BLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0EwOSwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzEwJyBUSEVOIElTTlVMTChNLk1FVEVSX0EsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQTEwLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMTEnIFRIRU4gSVNOVUxMKE0uTUVURVJfQSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9BMTEsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcxMicgVEhFTiBJU05VTEwoTS5NRVRFUl9BLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0ExMiwKICAgICAgICBJU05VTEwoU1VNKElTTlVMTChNLk1FVEVSX0EsCiAgICAgICAgICAgICAgICAgICAgICAgICAgMCkpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9BMTMsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwMScgVEhFTiBJU05VTEwoTS5NRVRFUl9CLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0IwMSwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzAyJyBUSEVOIElTTlVMTChNLk1FVEVSX0IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQjAyLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDMnIFRIRU4gSVNOVUxMKE0uTUVURVJfQiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9CMDMsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwNCcgVEhFTiBJU05VTEwoTS5NRVRFUl9CLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0IwNCwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA1JyBUSEVOIElTTlVMTChNLk1FVEVSX0IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQjA1LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDYnIFRIRU4gSVNOVUxMKE0uTUVURVJfQiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9CMDYsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwNycgVEhFTiBJU05VTEwoTS5NRVRFUl9CLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0IwNywKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA4JyBUSEVOIElTTlVMTChNLk1FVEVSX0IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQjA4LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDknIFRIRU4gSVNOVUxMKE0uTUVURVJfQiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9CMDksCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcxMCcgVEhFTiBJU05VTEwoTS5NRVRFUl9CLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0IxMCwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzExJyBUSEVOIElTTlVMTChNLk1FVEVSX0IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQjExLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMTInIFRIRU4gSVNOVUxMKE0uTUVURVJfQiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9CMTIsCiAgICAgICAgSVNOVUxMKFNVTShJU05VTEwoTS5NRVRFUl9CLAogICAgICAgICAgICAgICAgICAgICAgICAgIDApKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQjEzLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDEnIFRIRU4gSVNOVUxMKE0uTUVURVJfQywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9DMDEsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwMicgVEhFTiBJU05VTEwoTS5NRVRFUl9DLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0MwMiwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzAzJyBUSEVOIElTTlVMTChNLk1FVEVSX0MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQzAzLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDQnIFRIRU4gSVNOVUxMKE0uTUVURVJfQywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9DMDQsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwNScgVEhFTiBJU05VTEwoTS5NRVRFUl9DLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0MwNSwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA2JyBUSEVOIElTTlVMTChNLk1FVEVSX0MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQzA2LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDcnIFRIRU4gSVNOVUxMKE0uTUVURVJfQywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9DMDcsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwOCcgVEhFTiBJU05VTEwoTS5NRVRFUl9DLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0MwOCwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA5JyBUSEVOIElTTlVMTChNLk1FVEVSX0MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQzA5LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMTAnIFRIRU4gSVNOVUxMKE0uTUVURVJfQywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9DMTAsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcxMScgVEhFTiBJU05VTEwoTS5NRVRFUl9DLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0MxMSwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzEyJyBUSEVOIElTTlVMTChNLk1FVEVSX0MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfQzEyLAogICAgICAgIElTTlVMTChTVU0oSVNOVUxMKE0uTUVURVJfQywKICAgICAgICAgICAgICAgICAgICAgICAgICAwKSksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0MxMywKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzAxJyBUSEVOIElTTlVMTChNLk1FVEVSX0QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfRDAxLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDInIFRIRU4gSVNOVUxMKE0uTUVURVJfRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9EMDIsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwMycgVEhFTiBJU05VTEwoTS5NRVRFUl9ELAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0QwMywKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA0JyBUSEVOIElTTlVMTChNLk1FVEVSX0QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfRDA0LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDUnIFRIRU4gSVNOVUxMKE0uTUVURVJfRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9EMDUsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwNicgVEhFTiBJU05VTEwoTS5NRVRFUl9ELAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0QwNiwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzA3JyBUSEVOIElTTlVMTChNLk1FVEVSX0QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfRDA3LAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMDgnIFRIRU4gSVNOVUxMKE0uTUVURVJfRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9EMDgsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcwOScgVEhFTiBJU05VTEwoTS5NRVRFUl9ELAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0QwOSwKICAgICAgICBJU05VTEwoU1VNKENBU0UKICAgICAgICAgICAgICAgICAgIFdIRU4gUklHSFQoTS5KT0JfTU9OVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpID0gJzEwJyBUSEVOIElTTlVMTChNLk1FVEVSX0QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwKQogICAgICAgICAgICAgICAgICAgRU5EKSwKICAgICAgICAgICAgICAgMCkgQVMgTUVURVJfRDEwLAogICAgICAgIElTTlVMTChTVU0oQ0FTRQogICAgICAgICAgICAgICAgICAgV0hFTiBSSUdIVChNLkpPQl9NT05USCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgPSAnMTEnIFRIRU4gSVNOVUxMKE0uTUVURVJfRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAgICAgICAgICAgICAgICBFTkQpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9EMTEsCiAgICAgICAgSVNOVUxMKFNVTShDQVNFCiAgICAgICAgICAgICAgICAgICBXSEVOIFJJR0hUKE0uSk9CX01PTlRILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSA9ICcxMicgVEhFTiBJU05VTEwoTS5NRVRFUl9ELAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgICAgICAgICAgICAgICAgIEVORCksCiAgICAgICAgICAgICAgIDApIEFTIE1FVEVSX0QxMiwKICAgICAgICBJU05VTEwoU1VNKElTTlVMTChNLk1FVEVSX0QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgMCkpLAogICAgICAgICAgICAgICAwKSBBUyBNRVRFUl9EMTMgICBGUk9NCiAgICAgICAgVF9MWF9NQUNfTSBMLAogICAgICAgIFRfTFhfTUVURVJfU1VNX1NOTVBfTU9OIE0sCiAgICAgICAgVF9MWF9NT0RFTF9NIE4KICAgICAgV0hFUkUKICAgICAgICBMLk1BQ19DT0RFID0gTS5NQUNfQ09ERQogICAgICAgIEFORCAgICBMLk1PREVMX0NPREUgPSBOLk1PREVMX0NPREUKICAgICAgICBBTkQgICAgTS5KT0JfTU9OVEggTElLRSAgJzIwMTYnIC8qKlAqLyArICclJwogICAgICAgIEFORCAgICBMLk1BQ19DT0RFIElOICgKICAgICAgICAgIFNFTEVDVAogICAgICAgICAgICAgQS5NQUNfQ09ERQogICAgICAgICAgRlJPTQogICAgICAgICAgICBUX0xYX01BQ19NIEEsCiAgICAgICAgICAgIFRfTFhfTU9ERUxfTSBCLAogICAgICAgICAgICBUX0xYX01FVEVSX1NVTV9TTk1QX01PTiBDCiAgICAgICAgICBXSEVSRQogICAgICAgICAgICBBLk1PREVMX0NPREUgPSBCLk1PREVMX0NPREUKICAgICAgICAgICAgQU5EICAgICAgQS5NQUNfQ09ERSA9IEMuTUFDX0NPREUKICAgICAgICAgICAgQU5EICAgICAgQy5KT0JfTU9OVEggTElLRSAgJzIwMTYnIC8qKlAqLyArICclJwogICAgICAgICAgICBhbmQgYi5jb2xvcl90eXBlID0gJ0InCiAgICAgICAgICBHUk9VUCBCWQogICAgICAgICAgICBBLk1BQ19DT0RFCiAgICAgICAgKQogICAgICBHUk9VUCBCWQogICAgICAgIEwuTUFDX0NPREUsCiAgICAgICAgTC5NQUNfU0VSSUFMLAogICAgICAgIEwuTU9ERUxfQ09ERSwKICAgICAgICBOLk1PREVMX05BTUUsCiAgICAgICAgTC5NQUNfTE9DQVRJT04sCiAgICAgICAgZGJvLkZOX1BMQUNFTkFNRShMLlBMQUNFQ09ERSkKICApdGIKCgpTRUxFQ1QgY291bnQoKikKRlJPTSB0X2x4X21hY19tCndoZXJlIG1hY19pcCBsaWtlICclMTMuMTk3LjIlJwoKU0VMRUNUICoKRlJPTSB0X2x4X21hY19tOwoKCgpTRUxFQ1QKICBDT1VOVCgqKQpGUk9NCiAgdF9seF9tYWNfbSBtYWMKICBKT0lOCiAgdF9seF9tb2RlbF9tIG1vZGVsCiAgICBPTiBtYWMubW9kZWxfY29kZSA9IG1vZGVsLm1vZGVsX2NvZGUKV0hFUkUKICAxID0gMQogIEFORCAgICAgICAgIG1hYy5tYWNfaXAgbGlrZSAnJScgKyAgJzEzLjE5Ny4yJyAvKipQKi8gKyAnJScK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -709,28 +721,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYWN0aW9uPSIke3BhZ2VDb250ZXh0LnJlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpc3RpY3MvbWFjL3N0YXRpc3RpY3NfdXNhZ2VMaXN0LmRvP21ldGhvZD1zZWxlY3RQcmludFVzYWdlTGlzdFdpdGhMYXN0WWVhciI+Cg==</text>
+        <text encoding="base64">ZDE3ZjI1ZWNmYmNjNzg1N2Y3YmViZWE0NjkzMDhiZTBiMjU4MDk0M2U5NmQxM2EzYWQ5OGExMzY3NWM0YmZjMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJYWN0aW9uPSIke3BhZ2VDb250ZXh0LnJlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpc3RpY3MvbWFjL3N0YXRpc3RpY3NfdXNhZ2VMaXN0LmRvP21ldGhvZD1zZWxlY3RQcmludFVzYWdlTGlzdFdpdGhMYXN0WWVhciI+Cg==</text>
+        <text encoding="base64">MTllN2Q4ZjAyYTdkOGExOTdhOTRkNDJlMmE5OGQ2YWY1Yzc5ZTJhOGMzMzhjNzMzNDhkN2YyZTU2MWJiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxibGFja1w+</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibGFja1w+</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>COUNT</entry>
-        <entry>macIp</entry>
-        <entry>json</entry>
-        <entry>jack</entry>
         <entry>Jack</entry>
         <entry>Json</entry>
         <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
@@ -739,7 +747,6 @@
         <entry encoding="base64">XDxkZWZhdWx0XD4=</entry>
         <entry encoding="base64">XDxsb2dpblZPXD4=</entry>
         <entry>jobType</entry>
-        <entry>type</entry>
         <entry>HR</entry>
         <entry>hr</entry>
         <entry>login</entry>
@@ -747,6 +754,11 @@
         <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry>barCharts</entry>
         <entry encoding="base64">XDxibGFja1w+</entry>
+        <entry>mgm_placename</entry>
+        <entry>mgm_place</entry>
+        <entry>detail</entry>
+        <entry>posname</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
