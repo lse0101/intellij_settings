@@ -176,12 +176,12 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1497854299384">
-        <mark key="'" line="300" column="8" />
-        <mark key="[" line="182" column="40" />
-        <mark key="]" line="182" column="36" />
-        <mark key="." line="182" column="36" />
-        <mark key="^" line="182" column="36" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1497941670358">
+        <mark key="'" line="239" column="14" />
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="16" />
+        <mark key="." line="284" column="16" />
+        <mark key="^" line="281" column="9" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui.css" timestamp="1495502383199">
         <mark key="'" line="238" column="110" />
@@ -221,7 +221,7 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497849616002">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497941650327">
         <mark key="'" line="9" column="8" />
         <mark key="[" line="566" column="0" />
         <mark key="]" line="566" column="47" />
@@ -331,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="49" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
       <jump line="376" column="30" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
       <jump line="378" column="26" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
       <jump line="393" column="30" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
@@ -431,6 +430,7 @@
       <jump line="79" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="0" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
       <jump line="115" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" />
+      <jump line="239" column="14" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -733,7 +733,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>1,$d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -785,8 +785,8 @@
         <entry>q</entry>
         <entry>split</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>1,$d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
