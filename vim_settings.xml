@@ -41,20 +41,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1497336493016">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/action/PrintUsageAction.java" timestamp="1498098120172">
         <mark key="'" line="74" column="41" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="12" />
         <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="." line="160" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1498096160455">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" timestamp="1498097814068">
         <mark key="a" line="419" column="9" />
         <mark key="'" line="368" column="8" />
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="340" column="1" />
-        <mark key="." line="340" column="1" />
-        <mark key="^" line="340" column="1" />
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="6" />
+        <mark key="." line="404" column="6" />
+        <mark key="^" line="428" column="2" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/LoginInfo.java" timestamp="1496212119674">
         <mark key="'" line="0" column="0" />
@@ -176,12 +176,11 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1498006398748">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/hanwha/printUsage/dao/hanwha_printUsageDao.xml" timestamp="1498098238468">
         <mark key="'" line="239" column="14" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="6" />
-        <mark key="." line="86" column="6" />
-        <mark key="^" line="281" column="9" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui.css" timestamp="1495502383199">
         <mark key="'" line="238" column="110" />
@@ -221,12 +220,12 @@
         <mark key="]" line="5714" column="0" />
         <mark key="." line="5714" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1497941650327">
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1498097406068">
         <mark key="'" line="9" column="8" />
-        <mark key="[" line="566" column="0" />
-        <mark key="]" line="566" column="47" />
+        <mark key="[" line="497" column="0" />
+        <mark key="]" line="497" column="34" />
         <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="497" column="34" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/srv/UserSrvImpl.java" timestamp="1497837760227">
         <mark key="[" line="488" column="70" />
@@ -563,7 +562,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>TOP</text>
@@ -702,22 +701,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiggeCA8IDAgfHwgeSA8IDAgfHwgeCA9PSBOIHx8IHkgPT0gTikKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIGVsc2UgaWYoIE1BWkVbeF1beV0gIT0gcGF0aHdheSkKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIGVsc2UgaWYoeCA9PSBOLTEgJiYgeSA9PSBOLTEpewoKICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsKICAgICAgICAgICAgaWYoIGZpbmRNYXplKHgtMSwgeSkgfHwgZmluZE1hemUoeCwgeS0xKSB8fCBmaW5kTWF6ZSh4KzEsIHkpIHx8IGZpbmRNYXplKHgsIHkrMSkpewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIE1BWkVbeF1beV09YmxvY2s7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsKICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiggeCA8IDAgfHwgeSA8IDAgfHwgeCA9PSBOIHx8IHkgPT0gTikKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIGVsc2UgaWYoIE1BWkVbeF1beV0gIT0gcGF0aHdheSkKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIGVsc2UgaWYoeCA9PSBOLTEgJiYgeSA9PSBOLTEpewoKICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsKICAgICAgICAgICAgaWYoIGZpbmRNYXplKHgtMSwgeSkgfHwgZmluZE1hemUoeCwgeS0xKSB8fCBmaW5kTWF6ZSh4KzEsIHkpIHx8IGZpbmRNYXplKHgsIHkrMSkpewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIE1BWkVbeF1beV09YmxvY2s7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsKICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -733,10 +732,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggeCA8IDAgfHwgeSA8IDAgfHwgeCA+PSBOIHx8IHkgPj0gTikKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIGVsc2UgaWYoIE1BWkVbeF1beV0gIT0gcGF0aHdheSApCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICBlbHNlIGlmICh4ID09IE4gLTEgJiYgeSA9PSBOIC0gMSl7CiAgICAgICAgICAgIE1BWkVbeF1beV0gPSBwYXRoOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBNQVpFW3hdW3ldID0gcGF0aDsKICAgICAgICAgICAgaWYoZmluZE1hemUoeC0xLCB5KSB8fCBmaW5kTWF6ZSh4LCB5LTEpIHx8IGZpbmRNYXplKHgrMSwgeSkgfHwgZmluZE1hemUoeCwgeSsxKSl7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgTUFaRVt4XVt5XT1ibG9jazsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggeCA8IDAgfHwgeSA8IDAgfHwgeCA+PSBOIHx8IHkgPj0gTikKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIGVsc2UgaWYoIE1BWkVbeF1beV0gIT0gcGF0aHdheSApCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICBlbHNlIGlmICh4ID09IE4gLTEgJiYgeSA9PSBOIC0gMSl7CiAgICAgICAgICAgIE1BWkVbeF1beV0gPSBwYXRoOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBNQVpFW3hdW3ldID0gcGF0aDsKICAgICAgICAgICAgaWYoZmluZE1hemUoeC0xLCB5KSB8fCBmaW5kTWF6ZSh4LCB5LTEpIHx8IGZpbmRNYXplKHgrMSwgeSkgfHwgZmluZE1hemUoeCwgeSsxKSl7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgTUFaRVt4XVt5XT1ibG9jazsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
