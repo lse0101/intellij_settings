@@ -279,12 +279,12 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1497837561943">
-        <mark key="'" line="541" column="10" />
-        <mark key="[" line="2207" column="0" />
-        <mark key="]" line="2207" column="1" />
-        <mark key="." line="2207" column="1" />
-        <mark key="^" line="2207" column="1" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1498454057211">
+        <mark key="'" line="1861" column="66" />
+        <mark key="[" line="19" column="92" />
+        <mark key="]" line="19" column="89" />
+        <mark key="." line="19" column="89" />
+        <mark key="^" line="19" column="89" />
       </file>
       <file name="/Dummy.txt" timestamp="1497589195712">
         <mark key="[" line="0" column="0" />
@@ -349,13 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="851" column="53" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="856" column="32" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/java/com/fujixerox/kor/dpms/web/login/action/LoginAction.java" />
-      <jump line="1008" column="16" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="58" column="35" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="135" column="35" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="871" column="24" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="872" column="80" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="955" column="70" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="956" column="66" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="1002" column="49" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
@@ -449,10 +442,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="577" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="590" column="29" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="1528" column="26" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="188" column="2" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="233" column="8" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="272" column="27" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="2210" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="1971" column="234" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="1861" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -575,10 +575,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>jax</text>
+        <text>mgm_deptcode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsK</text>
@@ -755,15 +755,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jax</last-search>
+      <last-search>mgm_deptcode</last-search>
       <last-offset />
-      <last-pattern>jax</last-pattern>
+      <last-pattern>mgm_deptcode</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxibGFja1w+</entry>
         <entry>mgm_placename</entry>
         <entry>mgm_place</entry>
         <entry>detail</entry>
@@ -783,6 +782,7 @@
         <entry>So</entry>
         <entry>filter</entry>
         <entry>jax</entry>
+        <entry>mgm_deptcode</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
