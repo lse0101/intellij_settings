@@ -16,13 +16,13 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1498008835101">
-        <mark key="a" line="440" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef06ebda-2c2b-4344-9944-09c8a90b2777/console.sql" timestamp="1498526062750">
+        <mark key="a" line="445" column="19" />
         <mark key="'" line="322" column="31" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="362" column="26" />
+        <mark key="." line="364" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
@@ -457,8 +457,8 @@
       <jump line="1861" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -581,7 +581,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fn_deptname</text>
       </register>
       <register name="/" type="4">
         <text>mgm_deptcode</text>
@@ -590,10 +590,10 @@
         <text encoding="base64">ICAgICAgICAgICAgTUFaRVt4XVt5XT0gcGF0aDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">RlJPTSB0X2x4X2RlcHRfbTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -720,22 +720,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAJCTxkZXBlbmRlbmN5PiAtLT4gPCEtLSAJCQk8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPiAtLT4KPCEtLSAJCQk8YXJ0aWZhY3RJZD5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4gLS0+CjwhLS0gCQkJPHZlcnNpb24+Mi41PC92ZXJzaW9uPiAtLT4KPCEtLSAJCTwvZGVwZW5kZW5jeT4gLS0+CjwhLS0gCQk8ZGVwZW5kZW5jeT4gLS0+CjwhLS0gCQkJPGdyb3VwSWQ+amF2YXguc2VydmxldC5qc3A8L2dyb3VwSWQ+IC0tPgo8IS0tIAkJCTxhcnRpZmFjdElkPmpzcC1hcGk8L2FydGlmYWN0SWQ+IC0tPgo8IS0tIAkJCTx2ZXJzaW9uPjIuMTwvdmVyc2lvbj4gLS0+CjwhLS0gCQk8L2RlcGVuZGVuY3k+IC0tPgoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -751,10 +751,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ubG93YWdpZTwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aXRleHQ8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICAtLT4KICAgIDwhLS0KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uaXRleHRwZGY8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPml0ZXh0cGRmPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPmNvbS5pdGV4dHBkZjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aXRleHQtYXNpYW48L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD53c2RsNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPndzZGw0ajwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4KICAgIC0tPgoKICAgIDwhLS0KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD54ZXJjZXM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnhlcmNlc0ltcGw8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICAtLT4K</text>
+        <text encoding="base64">PCEtLSAJCTxkZXBlbmRlbmN5PiAtLT4gPCEtLSAJCQk8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPiAtLT4KPCEtLSAJCQk8YXJ0aWZhY3RJZD5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4gLS0+CjwhLS0gCQkJPHZlcnNpb24+Mi41PC92ZXJzaW9uPiAtLT4KPCEtLSAJCTwvZGVwZW5kZW5jeT4gLS0+CjwhLS0gCQk8ZGVwZW5kZW5jeT4gLS0+CjwhLS0gCQkJPGdyb3VwSWQ+amF2YXguc2VydmxldC5qc3A8L2dyb3VwSWQ+IC0tPgo8IS0tIAkJCTxhcnRpZmFjdElkPmpzcC1hcGk8L2FydGlmYWN0SWQ+IC0tPgo8IS0tIAkJCTx2ZXJzaW9uPjIuMTwvdmVyc2lvbj4gLS0+CjwhLS0gCQk8L2RlcGVuZGVuY3k+IC0tPgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
