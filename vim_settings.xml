@@ -233,8 +233,8 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495154035846">
         <mark key="'" line="445" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1498178336156">
-        <mark key="'" line="312" column="34" />
+      <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" timestamp="1498811307285">
+        <mark key="'" line="186" column="11" />
         <mark key="[" line="497" column="0" />
         <mark key="]" line="497" column="34" />
         <mark key="^" line="14" column="0" />
@@ -327,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="955" column="70" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="956" column="66" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="1002" column="49" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="1006" column="112" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
@@ -427,6 +426,7 @@
       <jump line="2210" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="1971" column="234" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="1861" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
+      <jump line="186" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -556,7 +556,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>mgm_deptcode</text>
+        <text encoding="base64">XDxjaGFydFRpdGxlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGF0YVtqXSA+IHRlbXA=</text>
@@ -733,15 +733,14 @@
       </register>
     </registers>
     <search>
-      <last-search>mgm_deptcode</last-search>
+      <last-search encoding="base64">XDxjaGFydFRpdGxlXD4=</last-search>
       <last-offset />
-      <last-pattern>mgm_deptcode</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFydFRpdGxlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mgm_placename</entry>
         <entry>mgm_place</entry>
         <entry>detail</entry>
         <entry>posname</entry>
@@ -761,6 +760,7 @@
         <entry>filter</entry>
         <entry>jax</entry>
         <entry>mgm_deptcode</entry>
+        <entry encoding="base64">XDxjaGFydFRpdGxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
