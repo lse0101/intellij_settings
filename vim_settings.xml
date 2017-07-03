@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1499079630487">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/web.xml" timestamp="1495002094870">
         <mark key="'" line="209" column="36" />
       </file>
@@ -430,7 +436,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -553,7 +559,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydFRpdGxlXD4=</text>
