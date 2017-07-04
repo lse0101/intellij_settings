@@ -284,8 +284,10 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="/dummy.sql" timestamp="1499128902111">
+      <file name="/dummy.sql" timestamp="1499130674766">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" timestamp="1498454057211">
         <mark key="'" line="1861" column="66" />
@@ -445,7 +447,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+        <text>user_name='KIM Eun-Kyung'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -568,7 +570,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>user_name='KIM Eun-Kyung'</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
