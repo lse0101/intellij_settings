@@ -103,6 +103,9 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/left_menu/layer_place_tree.jsp" timestamp="1497228604918">
         <mark key="'" line="40" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" timestamp="1499126434181">
+        <mark key="'" line="263" column="62" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/design/css/jquery-ui_lightness.css" timestamp="1495502931961">
         <mark key="'" line="203" column="16" />
         <mark key="[" line="65" column="208" />
@@ -333,11 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1002" column="49" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="1006" column="112" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="1009" column="112" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="1012" column="102" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
-      <jump line="1016" column="92" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="879" column="26" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="885" column="26" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
       <jump line="897" column="26" filename="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" />
@@ -433,6 +431,11 @@
       <jump line="1861" column="66" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/organize/userinfo/userinfo.jsp" />
       <jump line="186" column="11" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/js/hanwha/xerox_printUsage.js" />
       <jump line="318" column="0" filename="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/hanwha/printUsage/selectPrintUsageByDevice.jsp" />
+      <jump line="133" column="57" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
+      <jump line="258" column="34" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
+      <jump line="259" column="70" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
+      <jump line="262" column="41" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
+      <jump line="263" column="62" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -562,7 +565,7 @@
         <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFydFRpdGxlXD4=</text>
+        <text>Row</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGF0YVtqXSA+IHRlbXA=</text>
@@ -739,15 +742,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFydFRpdGxlXD4=</last-search>
+      <last-search>Row</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFydFRpdGxlXD4=</last-pattern>
+      <last-pattern>Row</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mgm_place</entry>
         <entry>detail</entry>
         <entry>posname</entry>
         <entry>type</entry>
@@ -767,6 +769,7 @@
         <entry>jax</entry>
         <entry>mgm_deptcode</entry>
         <entry encoding="base64">XDxjaGFydFRpdGxlXD4=</entry>
+        <entry>Row</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
