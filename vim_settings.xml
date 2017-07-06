@@ -53,8 +53,8 @@
         <mark key="^" line="106" column="23" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499328315967">
-        <mark key="'" line="142" column="54" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499332103731">
+        <mark key="'" line="244" column="84" />
         <mark key="[" line="219" column="18" />
         <mark key="]" line="219" column="34" />
         <mark key="." line="219" column="34" />
@@ -63,7 +63,13 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499321138663" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499333691256">
+        <mark key="'" line="628" column="35" />
+        <mark key="[" line="826" column="0" />
+        <mark key="]" line="826" column="10" />
+        <mark key="^" line="982" column="25" />
+        <mark key="." line="826" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/test/java/test/NQueenProblem.java" timestamp="1498536907909">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="21" />
@@ -227,12 +233,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495154035846">
         <mark key="'" line="445" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1499326550080">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1499331814572">
         <mark key="'" line="345" column="31" />
-        <mark key="[" line="424" column="4" />
-        <mark key="]" line="424" column="4" />
-        <mark key="." line="424" column="4" />
-        <mark key="^" line="424" column="4" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="^" line="351" column="55" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/sysmgt/user/srv/UserSrvImpl.java" timestamp="1497837760227">
         <mark key="[" line="488" column="70" />
@@ -240,8 +246,8 @@
         <mark key="^" line="489" column="69" />
         <mark key="." line="489" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" timestamp="1499328615779">
-        <mark key="'" line="52" column="35" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" timestamp="1499331084939">
+        <mark key="'" line="52" column="17" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20/pom.xml" timestamp="1498181575142">
         <mark key="'" line="62" column="0" />
@@ -276,7 +282,7 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499329377911">
+      <file name="/Dummy.txt" timestamp="1499332266749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -346,15 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
-      <jump line="273" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
-      <jump line="316" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
-      <jump line="487" column="34" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
-      <jump line="73" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
-      <jump line="44" column="31" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderDemandSurveyServiceImpl.java" />
-      <jump line="506" column="39" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
-      <jump line="494" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="63" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="74" column="48" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="184" column="35" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
@@ -418,11 +415,8 @@
       <jump line="40" column="39" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="24" column="81" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="57" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="78" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="2" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="29" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="39" column="28" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="26" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="45" column="51" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="39" column="34" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
@@ -436,7 +430,6 @@
       <jump line="297" column="47" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="54" column="13" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" />
       <jump line="51" column="26" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" />
-      <jump line="52" column="35" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" />
       <jump line="150" column="33" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
       <jump line="96" column="130" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
       <jump line="110" column="76" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
@@ -446,10 +439,23 @@
       <jump line="66" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
       <jump line="100" column="25" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
       <jump line="109" column="49" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
+      <jump line="52" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" />
+      <jump line="154" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="28" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="3" column="26" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="29" column="43" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="39" column="46" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="42" column="48" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="45" column="54" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="78" column="52" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="249" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="244" column="84" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="931" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="628" column="35" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -572,19 +578,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
-        <text>modify</text>
+        <text encoding="base64">XDxnZXRJbnB1dHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>parseInt(arr[i], 10);</text>
+        <text>getInputs($form)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9yZGVyVXNlckFzeW5jQ29udHJvbGxlciBvYmopIHsKICAgICAgICByZXR1cm4gc3VwZXIuZXF1YWxzKG9iaik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGdldElucHV0cygkZm9ybSkKICAgICAgICAgICAgLmZvckVhY2goZnVuY3Rpb24oYXR0ckNvZGUsIGlucHV0KSB7CiAgICAgICAgICAgICAgaW5wdXQudmFsKCInIik7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -711,22 +717,24 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IucmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnB1dC52YWwoIiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KCdhJyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBnb29kVHlwZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAgICAgIEVycm9yOiBmdW5jdGlvbih1cGxvYWRlciwgZXJyb3IpewogICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwoJICAgICAgfSwK</text>
+      <register name="7" type="4">
+        <text>function (name) {
+                return name.match(/G[0-9A-Z]*/)[0];
+            }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -742,28 +750,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZvciA9ICQoIiNnb29kQXR0ciIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic3VtVG90YWw6ICIrc3VtVG90YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZvciA9ICQoIiNnb29kQXR0ciIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modify</last-search>
+      <last-search encoding="base64">XDxnZXRJbnB1dHNcPg==</last-search>
       <last-offset />
-      <last-pattern>modify</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRJbnB1dHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>장바구니</entry>
-        <entry>add</entry>
-        <entry>input</entry>
-        <entry>style</entry>
         <entry>css</entry>
         <entry>include</entry>
         <entry>파일</entry>
@@ -780,6 +784,10 @@
         <entry>정보수정</entry>
         <entry>#modfy</entry>
         <entry>modify</entry>
+        <entry>df</entry>
+        <entry>dflt</entry>
+        <entry>.js</entry>
+        <entry encoding="base64">XDxnZXRJbnB1dHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
