@@ -53,8 +53,8 @@
         <mark key="^" line="106" column="23" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499321109189">
-        <mark key="'" line="215" column="42" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499323685615">
+        <mark key="'" line="39" column="12" />
         <mark key="[" line="219" column="18" />
         <mark key="]" line="219" column="34" />
         <mark key="." line="219" column="34" />
@@ -226,7 +226,7 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495154035846">
         <mark key="'" line="445" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1499322326910">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1499324260496">
         <mark key="'" line="345" column="31" />
         <mark key="[" line="529" column="30" />
         <mark key="]" line="529" column="41" />
@@ -264,6 +264,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1499324176857">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1499322340629">
         <mark key="[" line="0" column="0" />
@@ -334,13 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/file/controller/FileAsyncController.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
-      <jump line="209" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="100" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="62" column="38" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="106" column="50" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="134" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" />
       <jump line="118" column="26" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" />
       <jump line="31" column="25" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" />
@@ -406,7 +405,6 @@
       <jump line="237" column="40" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="4" column="39" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="7" column="35" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="29" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="31" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="32" column="55" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="78" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
@@ -434,10 +432,18 @@
       <jump line="74" column="43" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="0" column="38" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="40" column="39" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
+      <jump line="112" column="53" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="24" column="81" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="57" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="78" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="2" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="29" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="39" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -560,10 +566,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>text</text>
+        <text>파일</text>
       </register>
       <register name="0" type="4">
         <text>parseInt(arr[i], 10);</text>
@@ -740,18 +746,14 @@
       </register>
     </registers>
     <search>
-      <last-search>text</last-search>
+      <last-search>파일</last-search>
       <last-offset />
-      <last-pattern>text</last-pattern>
+      <last-pattern>파일</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Login</entry>
-        <entry encoding="base64">XDx1cGRhdGVBcHBseVw+</entry>
-        <entry>Dema</entry>
-        <entry encoding="base64">XDxvcmRlckRlbWFuZFN1cnZleVNlcnZpY2VcPg==</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxicmNoX2NvZGVcPg==</entry>
         <entry>Mock</entry>
@@ -768,6 +770,10 @@
         <entry encoding="base64">XDxnb29kc1ZPXD4=</entry>
         <entry>input</entry>
         <entry>text</entry>
+        <entry>style</entry>
+        <entry>css</entry>
+        <entry>include</entry>
+        <entry>파일</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
