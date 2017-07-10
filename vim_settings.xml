@@ -59,12 +59,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499333691256">
-        <mark key="'" line="628" column="35" />
-        <mark key="[" line="826" column="0" />
-        <mark key="]" line="826" column="10" />
-        <mark key="^" line="982" column="25" />
-        <mark key="." line="826" column="10" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499729594063">
+        <mark key="'" line="969" column="7" />
+        <mark key="[" line="985" column="37" />
+        <mark key="]" line="985" column="40" />
+        <mark key="^" line="985" column="40" />
+        <mark key="." line="985" column="40" />
       </file>
       <file name="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" timestamp="1497579406912">
         <mark key="'" line="147" column="26" />
@@ -88,12 +88,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/file/TbFileMstr.java" timestamp="1499218573849">
         <mark key="'" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" timestamp="1499328291508">
-        <mark key="'" line="33" column="60" />
-        <mark key="[" line="70" column="191" />
-        <mark key="]" line="70" column="190" />
-        <mark key="^" line="70" column="190" />
-        <mark key="." line="70" column="190" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" timestamp="1499729415394">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="74" column="170" />
+        <mark key="]" line="74" column="170" />
+        <mark key="^" line="70" column="240" />
+        <mark key="." line="74" column="170" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/SerializationUtilsTest.java" timestamp="1499664264462">
         <mark key="[" line="31" column="14" />
@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/jxls-2.4.0.jar!/org/jxls/expression/JexlExpressionEvaluator.class" timestamp="1499166865317">
         <mark key="'" line="45" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/639030d9-2074-4021-99fb-c087727a31a3/console.sql" timestamp="1499666285263">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/639030d9-2074-4021-99fb-c087727a31a3/console.sql" timestamp="1499728791118">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="104" column="48" />
         <mark key="]" line="104" column="53" />
@@ -271,7 +271,7 @@
         <mark key="." line="547" column="0" />
         <mark key="^" line="546" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499672959820">
+      <file name="/Dummy.txt" timestamp="1499729219242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -333,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="134" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="135" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="136" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="137" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
@@ -433,10 +431,12 @@
       <jump line="354" column="23" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="423" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
+      <jump line="969" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPCUtLTxjOmlmIHRlc3Q9IiR7SVNfQ0FSVCB8fCBJU19ORVd9Ij4tLSU+CiAgICAgICAgPCUtLTx0cj4tLSU+CiAgICAgICAgICA8JS0tPHRoIGNsYXNzPSJ0aDAxIj7B1rmuuN648DwvdGg+LS0lPgogICAgICAgICAgPCUtLTx0ZCBjb2xzcGFuPSIzIiBzdHlsZT0icGFkZGluZzoxMHB4OyI+LS0lPgogICAgICAgICAgICA8JS0tPHRleHRhcmVhIGlkPSJtZW1vY29udC1vcmRlciIgbmFtZT0ibWVtb0NvbnQiIGNsYXNzPSJ3MTAwcCIgc3R5bGU9Im1pbi1oZWlnaHQ6NTBweDsgcGFkZGluZzo1cHggMTBweDsiPjwvdGV4dGFyZWE+LS0lPgogICAgICAgICAgPCUtLTwvdGQ+LS0lPgogICAgICAgIDwlLS08L3RyPi0tJT4KICAgICAgPCUtLTwvYzppZj4tLSU+CgogICAgICA8JS0tJmx0OyUmbmRhc2g7ILq7ua4gwMy5zMH2ICZuZGFzaDslJmd0Oy0tJT4KICAgICAgPCUtLTxjOmlmIHRlc3Q9IiR7IWVtcHR5IGdvb2RzVk8uY29udEltbWd9Ij4tLSU+CiAgICAgICAgPCUtLTx0cj4tLSU+CiAgICAgICAgICA8JS0tPHRkIGNvbHNwYW49IjQiIHN0eWxlPSJwYWRkaW5nOjBweDsiPi0tJT4KICAgICAgICAgICAgPCUtLTxpbWcgc3JjPSIke1BBVEhfVEhVTUJfR09PRFN9LyR7Z29vZHNWTy5jb250SW1tZ30iIG9uZXJyb3I9InRoaXMuc3JjPScke1BBVEhfSU1HfS9uby1pbWFnZS5naWYnIiA8YzppZiB0ZXN0PSIkeyFlbXB0eSBnb29kc1ZPLmNvbnRJbW1nfSI+c3R5bGU9IndpZHRoOjEwMCU7IjwvYzppZj4+LS0lPgogICAgICAgICAgPCUtLTwvdGQ+LS0lPgogICAgICAgIDwlLS08L3RyPi0tJT4KICAgICAgPCUtLTwvYzppZj4tLSU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$formInputs[attr.attrCode]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -559,13 +559,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbHNwYW49IjMi</text>
+        <text encoding="base64">ZGF0YS1pbml0PSI8YzpvdXQgdmFsdWU9IiR7YXR0ckxpc3QuZGZsdFRleHR9IiAvPiI=</text>
       </register>
       <register name="/" type="4">
         <text>메모</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YzpjaG9vc2U+CiAgICAgICAgICA8Yzp3aGVuIHRlc3Q9IiR7SVNfTkVXIHx8IElTX0NBUlR9Ij4KICAgICAgICAgICAgPHRoIGNsYXNzPSJ0aDAxIj7Ds7iusPrBpDwvdGg+CiAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSIzIj4KICAgICAgICAgICAgICA8YSBjbGFzcz0iZGVjby1saW5lIiBocmVmPSIjcHJvY2VzcyIgb25jbGljaz0ib3JkZXJQcm9jZXNzLnZpZXdHb29kc1Byb2Nlc3MoJyR7b3JkZXJWTy5nb29kTXN0cn0nKTtyZXR1cm4gZmFsc2U7IiB0aXRsZT0iwda5riDHwbfOvLy9uiC787y8urix4iI+CiAgICAgICAgICAgICAgICA8Yzpmb3JFYWNoIHZhcj0icGxpc3QiIGl0ZW1zPSIke29yZGVyVk8ucHJvY2Vzc0xpc3R9IiB2YXJTdGF0dXM9ImkiPgogICAgICAgICAgICAgICAgICA8YzppZiB0ZXN0PSIke2kuaW5kZXggPiAwfSI+Jm5ic3A7JnJhcnI7Jm5ic3A7PC9jOmlmPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icHJvY2VzcyI+PGM6b3V0IHZhbHVlPSIke3BsaXN0LnByb2NOYW1lfSIvPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYzpmb3JFYWNoPgogICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgIDwvYzp3aGVuPgogICAgICAgICAgPGM6b3RoZXJ3aXNlPgogICAgICAgICAgICA8dGggY2xhc3M9InRoMDEiPsOzuK6788XCPC90aD4KICAgICAgICAgICAgPHRkIGNvbHNwYW49IjMiPgogICAgICAgICAgICAgIDxhIGNsYXNzPSJkZWNvLWxpbmUiIGhyZWY9IiNwcm9jZXNzIiBvbmNsaWNrPSJvcmRlclByb2Nlc3Mudmlld09yZGVyUHJvY2VzcygnJHtvcmRlclZPLm9yZHJDb2RlfScpO3JldHVybiBmYWxzZTsiIHRpdGxlPSLB1rmuIMfBt868vL26ILvzvLy6uLHiIj4KICAgICAgICAgICAgICAgIDxjOmZvckVhY2ggdmFyPSJwbGlzdCIgaXRlbXM9IiR7b3JkZXJWTy5wcm9jZXNzTGlzdH0iIHZhclN0YXR1cz0iaSI+CiAgICAgICAgICAgICAgICAgIDxjOnNldCB2YXI9IkNTU19QUk9DRVNTRUQiIHZhbHVlPSIkeyFlbXB0eSBwbGlzdC5wcm9jRHR0bSA/ICdwcm9jZXNzZWQnIDogJyd9Ii8+CiAgICAgICAgICAgICAgICAgIDxjOnNldCB2YXI9IkNTU19DVVJSRU5UIiAgIHZhbHVlPSIke29yZGVyVk8ucHJvY1VuaXQgPT0gcGxpc3QucHJvY0NvZGUgPyAnY3VycmVudCcgOiAnJ30iLz4KICAgICAgICAgICAgICAgICAgPGM6aWYgdGVzdD0iJHtpLmluZGV4ID4gMH0iPiZuYnNwOyZyYXJyOyZuYnNwOzwvYzppZj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InByb2Nlc3MgJHtDU1NfUFJPQ0VTU0VEfSAke0NTU19DVVJSRU5UfSBzdGF0dXMtJHtwbGlzdC5wcm9jQ29kZX0iPjxjOm91dCB2YWx1ZT0iJHtwbGlzdC5wcm9jTmFtZX0iLz48L3NwYW4+CiAgICAgICAgICAgICAgICA8L2M6Zm9yRWFjaD4KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICA8L2M6b3RoZXJ3aXNlPgogICAgICAgIDwvYzpjaG9vc2U+Cg==</text>
+      <register name="0" type="4">
+        <text>$formInputs[attr.attrCode]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPCUtLTxjOmlmIHRlc3Q9IiR7SVNfQ0FSVCB8fCBJU19ORVd9Ij4tLSU+CiAgICAgICAgPCUtLTx0cj4tLSU+CiAgICAgICAgICA8JS0tPHRoIGNsYXNzPSJ0aDAxIj7B1rmuuN648DwvdGg+LS0lPgogICAgICAgICAgPCUtLTx0ZCBjb2xzcGFuPSIzIiBzdHlsZT0icGFkZGluZzoxMHB4OyI+LS0lPgogICAgICAgICAgICA8JS0tPHRleHRhcmVhIGlkPSJtZW1vY29udC1vcmRlciIgbmFtZT0ibWVtb0NvbnQiIGNsYXNzPSJ3MTAwcCIgc3R5bGU9Im1pbi1oZWlnaHQ6NTBweDsgcGFkZGluZzo1cHggMTBweDsiPjwvdGV4dGFyZWE+LS0lPgogICAgICAgICAgPCUtLTwvdGQ+LS0lPgogICAgICAgIDwlLS08L3RyPi0tJT4KICAgICAgPCUtLTwvYzppZj4tLSU+CgogICAgICA8JS0tJmx0OyUmbmRhc2g7ILq7ua4gwMy5zMH2ICZuZGFzaDslJmd0Oy0tJT4KICAgICAgPCUtLTxjOmlmIHRlc3Q9IiR7IWVtcHR5IGdvb2RzVk8uY29udEltbWd9Ij4tLSU+CiAgICAgICAgPCUtLTx0cj4tLSU+CiAgICAgICAgICA8JS0tPHRkIGNvbHNwYW49IjQiIHN0eWxlPSJwYWRkaW5nOjBweDsiPi0tJT4KICAgICAgICAgICAgPCUtLTxpbWcgc3JjPSIke1BBVEhfVEhVTUJfR09PRFN9LyR7Z29vZHNWTy5jb250SW1tZ30iIG9uZXJyb3I9InRoaXMuc3JjPScke1BBVEhfSU1HfS9uby1pbWFnZS5naWYnIiA8YzppZiB0ZXN0PSIkeyFlbXB0eSBnb29kc1ZPLmNvbnRJbW1nfSI+c3R5bGU9IndpZHRoOjEwMCU7IjwvYzppZj4+LS0lPgogICAgICAgICAgPCUtLTwvdGQ+LS0lPgogICAgICAgIDwlLS08L3RyPi0tJT4KICAgICAgPCUtLTwvYzppZj4tLSU+Cg==</text>
