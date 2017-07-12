@@ -68,12 +68,12 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499841555021">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="218" column="41" />
-        <mark key="]" line="218" column="54" />
-        <mark key="." line="218" column="54" />
-        <mark key="^" line="218" column="54" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499842783163">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+        <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
@@ -355,9 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="144" column="59" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="85" column="33" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="15" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="19" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="44" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
@@ -455,10 +452,13 @@
       <jump line="21" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/goods/TbGoodMstr.java" />
       <jump line="7" column="28" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/goods/TbGoodMstr.java" />
       <jump line="18" column="28" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/goods/TbGoodMstr.java" />
+      <jump line="221" column="49" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="246" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="4" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>goodsID</text>
+        <text>post</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -581,10 +581,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>goodsID</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
-        <text>ordr</text>
+        <text>form</text>
       </register>
       <register name="0" type="4">
         <text>goodMstr</text>
@@ -761,15 +761,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ordr</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern>ordr</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyQXV0aFZPXD4=</entry>
         <entry>주문옵션</entry>
         <entry>옵션</entry>
         <entry>파일</entry>
@@ -789,6 +788,7 @@
         <entry>ID</entry>
         <entry>Mstr</entry>
         <entry>ordr</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
