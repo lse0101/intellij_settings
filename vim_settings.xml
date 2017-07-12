@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499729594063">
-        <mark key="'" line="969" column="7" />
-        <mark key="[" line="985" column="37" />
-        <mark key="]" line="985" column="40" />
-        <mark key="^" line="985" column="40" />
-        <mark key="." line="985" column="40" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499846959716">
+        <mark key="'" line="801" column="24" />
+        <mark key="[" line="311" column="51" />
+        <mark key="]" line="311" column="51" />
+        <mark key="." line="311" column="51" />
+        <mark key="^" line="311" column="51" />
       </file>
       <file name="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" timestamp="1497579406912">
         <mark key="'" line="147" column="26" />
@@ -355,12 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/639030d9-2074-4021-99fb-c087727a31a3/console.sql" />
-      <jump line="99" column="36" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="49" column="46" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="10" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="71" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="426" column="31" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
       <jump line="27" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="265" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="28" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -455,10 +449,16 @@
       <jump line="43" column="27" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/web.xml" />
       <jump line="45" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/web.xml" />
       <jump line="47" column="3" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/web.xml" />
+      <jump line="188" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="286" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="797" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="310" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="798" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$(&quot;#ordrAmnt&quot;)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -581,19 +581,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$(&quot;#ordrAmnt&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>ExcelDown</text>
       </register>
       <register name="0" type="4">
-        <text>goodMstr</text>
+        <text>$(&quot;#ordrAmnt&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm8uc2V0T3JkckNvZGUoZ29vZHNWTy4pOwo=</text>
+        <text encoding="base64">ICAgICQoIiNvcmRyQW1udCIpLnZhbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm8uc2V0T3JkckNvZGUoZ29vZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm8uc2V0T3JkckNvZGUoZ29vZHNWTy4pOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -720,22 +720,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJQU5EIERTLk9SRFJfQ09ERSBJUyBOVUxMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm8uc2V0T3JkckNvZGUoZ29vZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJQU5EIERTLk9SRFJfQ09ERSBJUyBOVUxMCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwgdGVzdD0ib3JkckNvZGUgIT0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -751,28 +751,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAkJPCEtLUFORCBUQl9TUkMuTUFOTF9GTEFHID0gJ04nLS0+Cg==</text>
+        <text encoding="base64">ICAgIDwgdGVzdD0ib3JkckNvZGUgIT0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8aWYgdGVzdD0ib3JkckNvZGUgIT0gbnVsbCI+QU5EIG9yZHJfY29kZSA9ICN7b3JkckNvZGV9PC9pZj4K</text>
+        <text encoding="base64">IAkJPCEtLUFORCBUQl9TUkMuTUFOTF9GTEFHID0gJ04nLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>ExcelDown</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>ExcelDown</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>옵션</entry>
-        <entry>파일</entry>
-        <entry>excel</entry>
-        <entry encoding="base64">XDxvcmRlclZPXD4=</entry>
         <entry>is_</entry>
         <entry>IS_S</entry>
         <entry>엑셀</entry>
@@ -789,6 +785,10 @@
         <entry>ordr</entry>
         <entry>form</entry>
         <entry>filter</entry>
+        <entry>excel</entry>
+        <entry>Demand</entry>
+        <entry>download</entry>
+        <entry>ExcelDown</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
