@@ -40,11 +40,12 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499763179485">
-        <mark key="'" line="240" column="10" />
-        <mark key="[" line="100" column="116" />
-        <mark key="]" line="100" column="116" />
-        <mark key="." line="100" column="116" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1499833165957">
+        <mark key="'" line="101" column="75" />
+        <mark key="[" line="215" column="35" />
+        <mark key="]" line="215" column="38" />
+        <mark key="." line="215" column="38" />
+        <mark key="^" line="215" column="38" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1499729594063">
         <mark key="'" line="969" column="7" />
@@ -160,7 +161,7 @@
         <mark key="." line="243" column="76" />
         <mark key="^" line="243" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1499761175967">
+      <file name="/dummy.sql" timestamp="1499832369427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -210,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
-      <jump line="435" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="24" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/OrderService.java" />
       <jump line="64" column="41" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="232" column="2" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
@@ -310,10 +309,12 @@
       <jump line="225" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" />
       <jump line="487" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
       <jump line="488" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
+      <jump line="185" column="30" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="101" column="75" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQod2luZG93LmxvY2F0aW9uLmhyZWYpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -436,19 +437,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;addform.do?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlclZPXD4=</text>
+        <text>엑셀</text>
       </register>
       <register name="0" type="4">
-        <text>/demandSurvey/importExcelTemplate</text>
+        <text>window.location.href</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZygiL2RlbWFuZFN1cnZleS9pbXBvcnRFeGNlbFRlbXBsYXRlIikKCXB1YmxpYyBNb2RlbEFuZFZpZXcgaW1wb3J0RXhjZWxURW1wbGF0ZSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQod2luZG93LmxvY2F0aW9uLmhyZWYpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZygiL2RlbWFuZFN1cnZleS9pbXBvcnRFeGNlbFRlbXBsYXRlIikKCXB1YmxpYyBNb2RlbEFuZFZpZXcgaW1wb3J0RXhjZWxURW1wbGF0ZSgK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -587,10 +588,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rlc3RpbmcgY29tcGFyYXRvcgogICAgICAgIC8vYnVpbGQgYSBtaXJyb3IgQlNUIHdpdGggYSBydWxlOiAgTGVmdCA+IFBhcmVudCA+IFJpZ2h0CiAgICAgICAgLy9jb2RlIGZvciB0aGUgY29tcGFyYXRvciBhdCB0aGUgYm90dG9tIG9mIHRoZSBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJzdCB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAvL3Rlc3RpbmcgY29tcGFyYXRvcgogICAgICAgIC8vYnVpbGQgYSBtaXJyb3IgQlNUIHdpdGggYSBydWxlOiAgTGVmdCA+IFBhcmVudCA+IFJpZ2h0CiAgICAgICAgLy9jb2RlIGZvciB0aGUgY29tcGFyYXRvciBhdCB0aGUgYm90dG9tIG9mIHRoZSBmaWxlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -606,27 +607,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2xhc3NVdGlscy5jb252ZXJ0Q2xhc3NOYW1lVG9SZXNvdXJjZVBhdGgoIiIpKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJzdCB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2xhc3NVdGlscy5jb252ZXJ0Q2xhc3NOYW1lVG9SZXNvdXJjZVBhdGgoIiIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlclZPXD4=</last-search>
+      <last-search>엑셀</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlclZPXD4=</last-pattern>
+      <last-pattern>엑셀</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>발주</entry>
-        <entry encoding="base64">XDxsaXN0XD4=</entry>
-        <entry>demand</entry>
         <entry encoding="base64">XDxkbW5kRmxhZ1w+</entry>
         <entry>FLAG</entry>
         <entry>주문일시</entry>
@@ -644,6 +642,9 @@
         <entry>파일</entry>
         <entry>excel</entry>
         <entry encoding="base64">XDxvcmRlclZPXD4=</entry>
+        <entry>is_</entry>
+        <entry>IS_S</entry>
+        <entry>엑셀</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
