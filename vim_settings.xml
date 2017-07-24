@@ -52,13 +52,13 @@
         <mark key="^" line="106" column="23" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/OrderDAO.java" timestamp="1500885553815">
-        <mark key="[" line="106" column="12" />
-        <mark key="]" line="106" column="31" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/OrderDAO.java" timestamp="1500887376812">
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="37" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" timestamp="1500885308488">
-        <mark key="'" line="50" column="30" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" timestamp="1500889131047">
+        <mark key="'" line="32" column="20" />
         <mark key="[" line="53" column="37" />
         <mark key="]" line="54" column="27" />
         <mark key="." line="54" column="27" />
@@ -85,13 +85,13 @@
         <mark key="'" line="147" column="26" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-layer.js" timestamp="1500876323652" />
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" timestamp="1500885486322">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" timestamp="1500888899103">
         <mark key="a" line="270" column="4" />
-        <mark key="'" line="62" column="20" />
-        <mark key="[" line="276" column="57" />
-        <mark key="]" line="278" column="47" />
-        <mark key="." line="278" column="47" />
-        <mark key="^" line="278" column="47" />
+        <mark key="'" line="281" column="43" />
+        <mark key="[" line="274" column="20" />
+        <mark key="]" line="274" column="20" />
+        <mark key="." line="274" column="20" />
+        <mark key="^" line="274" column="20" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/left_menu/layer_place_tree.jsp" timestamp="1497228604918">
         <mark key="'" line="40" column="4" />
@@ -208,11 +208,14 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" timestamp="1500886868024">
-        <mark key="'" line="263" column="2" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" timestamp="1500889547513">
+        <mark key="a" line="19" column="14" />
+        <mark key="b" line="326" column="0" />
+        <mark key="'" line="326" column="51" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
@@ -258,7 +261,7 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1500873544406">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500885496091">
+      <file name="/Dummy.txt" timestamp="1500888910057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -345,40 +348,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1500885496241">
+      <file name="/fragment.java" timestamp="1500888909891">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="37" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
-      <jump line="342" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
-      <jump line="115" column="41" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="130" column="43" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="38" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="44" column="46" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="88" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="144" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="171" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="139" column="40" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/BlowFishEncrypter.java" />
-      <jump line="71" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/applicationContext.xml" />
-      <jump line="23" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/order/TbOrdrMstr.java" />
-      <jump line="244" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="309" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="990" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="172" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="469" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="139" column="67" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="4" column="39" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="7" column="35" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="34" column="37" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="25" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="199" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_demandSurvey.jsp" />
-      <jump line="218" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
-      <jump line="306" column="23" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="285" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="282" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="280" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
@@ -441,7 +415,6 @@
       <jump line="22" column="62" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="51" column="38" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
       <jump line="52" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
-      <jump line="21" column="29" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
       <jump line="53" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
       <jump line="21" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/order/TbOrdrMstr.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
@@ -449,11 +422,41 @@
       <jump line="11" column="40" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
       <jump line="50" column="30" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
-      <jump line="263" column="2" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="313" column="71" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="268" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="315" column="102" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="18" column="15" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="263" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="319" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="321" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="19" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="340" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="324" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="21" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="326" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="85" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
+      <jump line="22" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="328" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="23" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="330" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="332" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="24" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="331" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="281" column="43" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
+      <jump line="336" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="4" column="55" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="17" column="51" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="21" column="30" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
+      <jump line="341" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="20" column="41" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="327" column="51" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
+      <jump line="32" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>attr_text</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -576,19 +579,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>attr_text</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIFRPUCAxMAogIG9tLm9yZHJfY29kZQogICwgb20uZ29vZF9tc3RyCiAgLCBvbS5vcmRyX3VzZXIKICAsIG9tLm9yZHJfdGl0bAogICwgb20ub3Jkcl9udW1iCiAgLCBvbS5vcmRyX2R0dG0KICAsIG9hLmF0dHJfY29kZQogICwgb2EuYXR0cl90ZXh0CiAgLCBvbS5vcmRyX2R0dG0KRlJPTQogIHRiX29yZHJfbXN0ciBvbSBKT0lOIHRiX29yZHJfYXR0ciBvYQogICAgT04gb20ub3Jkcl9jb2RlID0gb2Eub3Jkcl9jb2RlCldIRVJFCiAgb20ub3Jkcl91c2VyID0gMwogIEFORCBvbS5nb29kX21zdHIgPSAnRzAwMjE3JwogIEFORCBvYS5hdHRyX2NvZGUgPSAnRzAwMjE3STAxQTIxJwpPUkRFUiBCWQogIG9tLm9yZHJfZHR0bSBERVNDCg==</text>
+      <register name="0" type="4">
+        <text>selectOrderAttrHistoryList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGlkIGNvbHVtbj0iYXR0cl9jb2RlIi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGlkIGNvbHVtbj0ib3Jkcl9jb2RlIi8+Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -715,22 +718,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlclZPIG9yZGVyVk8gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiZ29vZE1zdHIiKSBTdHJpbmcgZ29vZE1zdHIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSIiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -746,10 +749,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIE9yZGVyVk8gb3JkZXJBdHRySGlzdG9yeUxpc3QoSW50ZWdlciB1c2VySW5keCwgU3RyaW5nIGdvb2RNc3RyLCBTdHJpbmcgYXR0ckNvZGUpIHsKICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtID0gbmV3IEhhc2h0YWJsZTw+KCk7CiAgICAgICAgcGFyYW0ucHV0KCJ1c2VySW5keCIsIHVzZXJJbmR4KTsKICAgICAgICAKICAgICAgICByZXR1cm4gb3JkZXJEQU8ub3JkZXJBdHRySGlzdG9yeUxpc3QoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLCBvbS5vcmRyX2R0dG0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPcmRlclZPIG9yZGVyQXR0ckhpc3RvcnlMaXN0KEludGVnZXIgdXNlckluZHgsIFN0cmluZyBnb29kTXN0ciwgU3RyaW5nIGF0dHJDb2RlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -764,8 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>요청</entry>
-        <entry>list:</entry>
         <entry>기본</entry>
         <entry>처리</entry>
         <entry>list</entry>
@@ -773,7 +774,6 @@
         <entry encoding="base64">XDxTVEFUX0NBTkNFTFw+</entry>
         <entry encoding="base64">XDxTVEFUX0NPTVBMRVRFXD4=</entry>
         <entry>click</entry>
-        <entry>orderVO</entry>
         <entry>goodVO</entry>
         <entry>goodsVO</entry>
         <entry>ss</entry>
@@ -781,8 +781,11 @@
         <entry>Dao</entry>
         <entry>DAO</entry>
         <entry>Attr</entry>
-        <entry>goodMstr</entry>
         <entry>user</entry>
+        <entry>goodMstr</entry>
+        <entry>orderVO</entry>
+        <entry>userIndx</entry>
+        <entry encoding="base64">XDx1c2VySW5keFw+</entry>
         <entry>attr</entry>
       </history-search>
       <history-cmd>
