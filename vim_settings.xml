@@ -15,6 +15,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/ibatis/ibatis-sqlmap/2.3.4.726/ibatis-sqlmap-2.3.4.726.jar!/com/ibatis/sqlmap/engine/builder/xml/SqlMapConfigParser.class" timestamp="1501047562081">
         <mark key="'" line="14" column="32" />
       </file>
+      <file name="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" timestamp="1501050515950">
+        <mark key="'" line="494" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
@@ -39,6 +42,13 @@
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/poi-3.13-20150929.jar!/org/apache/poi/ss/usermodel/Cell.class" timestamp="1499163369082">
         <mark key="'" line="17" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/704b83d5-c33b-40b4-a1ff-dc97a316970a/console.sql" timestamp="1501050817979">
+        <mark key="'" line="146" column="17" />
+        <mark key="[" line="222" column="28" />
+        <mark key="]" line="223" column="1" />
+        <mark key="^" line="223" column="1" />
+        <mark key="." line="223" column="1" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_demandSurvey.jsp" timestamp="1500947984905">
         <mark key="'" line="34" column="28" />
@@ -228,6 +238,9 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1496214921936">
         <mark key="'" line="281" column="14" />
       </file>
+      <file name="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/webservice/PrintSelectedWebServiceImpl.java" timestamp="1501051058896">
+        <mark key="'" line="347" column="77" />
+      </file>
       <file name="/Dummy.txt" timestamp="1501028327899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -257,6 +270,9 @@
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/Constants.java" timestamp="1499227744894">
         <mark key="'" line="41" column="95" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/dao/PrintSelectedDAO.xml" timestamp="1501051138252">
+        <mark key="'" line="133" column="44" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/mac/statistics_maclist.jsp" timestamp="1496107158711">
         <mark key="'" line="189" column="26" />
@@ -290,12 +306,6 @@
         <mark key="." line="522" column="12" />
         <mark key="^" line="509" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/orderAttr_history_layer_list.jsp" timestamp="1500948321750">
-        <mark key="'" line="16" column="14" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" timestamp="1499329226501">
         <mark key="'" line="109" column="49" />
       </file>
@@ -324,16 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="27" column="11" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="109" column="21" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_list_admin.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/decorators.xml" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/common/menu/admin_header.jsp" />
-      <jump line="53" column="42" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/budget/controller/BudgetController.java" />
-      <jump line="3" column="49" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/budget/controller/BudgetController.java" />
-      <jump line="21" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/DateUtil.java" />
-      <jump line="136" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/budget/controller/BudgetController.java" />
       <jump line="9" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/639030d9-2074-4021-99fb-c087727a31a3/console.sql" />
       <jump line="33" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/639030d9-2074-4021-99fb-c087727a31a3/console.sql" />
       <jump line="842" column="18" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_database.sql" />
@@ -424,6 +424,16 @@
       <jump line="227" column="10" filename="$MAVEN_REPOSITORY$/org/apache/ibatis/ibatis-sqlmap/2.3.4.726/ibatis-sqlmap-2.3.4.726.jar!/com/ibatis/sqlmap/engine/builder/xml/SqlMapConfigParser.class" />
       <jump line="14" column="32" filename="$MAVEN_REPOSITORY$/org/apache/ibatis/ibatis-sqlmap/2.3.4.726/ibatis-sqlmap-2.3.4.726.jar!/com/ibatis/sqlmap/engine/builder/xml/SqlMapConfigParser.class" />
       <jump line="19" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/.gitignore" />
+      <jump line="122" column="49" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" />
+      <jump line="294" column="34" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" />
+      <jump line="494" column="12" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" />
+      <jump line="31" column="33" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/webservice/PrintSelectedWebServiceImpl.java" />
+      <jump line="88" column="22" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/webservice/PrintSelectedWebServiceImpl.java" />
+      <jump line="160" column="53" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/webservice/PrintSelectedWebServiceImpl.java" />
+      <jump line="347" column="77" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/webservice/PrintSelectedWebServiceImpl.java" />
+      <jump line="41" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/704b83d5-c33b-40b4-a1ff-dc97a316970a/console.sql" />
+      <jump line="150" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/704b83d5-c33b-40b4-a1ff-dc97a316970a/console.sql" />
+      <jump line="133" column="44" filename="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/print/dao/PrintSelectedDAO.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -553,7 +563,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>out</text>
+        <text encoding="base64">XDxwcmludFNlbGVjdGVkU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gVEJfQlVHVF9BQ05UIChBQ05UX0NPREUsIEFDTlRfTkFNRSwgQUNOVF9ERVNDLCBSRUdJX1VTRVIsIFJFR0lfRFRUTSwgTURGWV9VU0VSLCBNREZZX0RUVE0pIFZBTFVFUyAoJ0EwMDAxJywgJ8H2sd689rz2t+EoseLFuL/rv6q68SknLCAnwfax3rz2vPa34Six4sW4v+u/qrrxKScsIDEsICcyMDE2MDUyNTE5NTEyMycsIDEsICcyMDE2MDUyNTE5NTEyMycpOwpJTlNFUlQgSU5UTyBUQl9CVUdUX0FDTlQgKEFDTlRfQ09ERSwgQUNOVF9OQU1FLCBBQ05UX0RFU0MsIFJFR0lfVVNFUiwgUkVHSV9EVFRNLCBNREZZX1VTRVIsIE1ERllfRFRUTSkgVkFMVUVTICgnQTAwMDInLCAnwM684rrxKLHixbgpJywgJ8DOvOK68Six4sW4KScsIDEsICcyMDE2MDUyNTE5NTEyMycsIDEsICcyMDE2MDUyNTE5NTEyMycpOwpJTlNFUlQgSU5UTyBUQl9CVUdUX0FDTlQgKEFDTlRfQ09ERSwgQUNOVF9OQU1FLCBBQ05UX0RFU0MsIFJFR0lfVVNFUiwgUkVHSV9EVFRNLCBNREZZX1VTRVIsIE1ERllfRFRUTSkgVkFMVUVTICgnQTAwMDMnLCAnxeu9xbrxKL/sxu3DvL3Ft+EpJywgJ8XrvcW68Si/7Mbtw7y9xbfhKScsIDEsICcyMDE2MDUyNTE5NTEyMycsIDEsICcyMDE2MDUyNTE5NTEyMycpOwpJTlNFUlQgSU5UTyBUQl9CVUdUX0FDTlQgKEFDTlRfQ09ERSwgQUNOVF9OQU1FLCBBQ05UX0RFU0MsIFJFR0lfVVNFUiwgUkVHSV9EVFRNLCBNREZZX1VTRVIsIE1ERllfRFRUTSkgVkFMVUVTICgnQTAwMDQnLCAnwM684rrxKMDat+HAzrziuvEpJywgJ8DOvOK68SjA2rfhwM684rrxKScsIDEsICcyMDE2MDUyNTE5NTEyMycsIDEsICcyMDE2MDUyNTE5NTEyMycpOwo=</text>
@@ -727,22 +737,18 @@
         <text encoding="base64">ICBhbGVydChtZW51Q29kZSk7CiAgYWxlcnQoJC5pbkFycmF5KG1lbnVDb2RlLCBbJ0gwMDAyJywnSDAwMDcnXSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>out</last-search>
+      <last-search encoding="base64">XDxwcmludFNlbGVjdGVkU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>out</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwcmludFNlbGVjdGVkU2VydmljZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>goodMStr</entry>
-        <entry>goodMstr</entry>
-        <entry>init</entry>
-        <entry>search</entry>
         <entry>group</entry>
         <entry>GrupCode</entry>
         <entry>Grup</entry>
@@ -759,6 +765,10 @@
         <entry>button</entry>
         <entry>data</entry>
         <entry>out</entry>
+        <entry>UsagePrnDAO</entry>
+        <entry>DAO</entry>
+        <entry>Service</entry>
+        <entry encoding="base64">XDxwcmludFNlbGVjdGVkU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -774,13 +784,13 @@
         <entry>hs</entry>
         <entry>split</entry>
         <entry>1,$d</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>512</entry>
         <entry>312</entry>
         <entry>w</entry>
         <entry>set vim-surround</entry>
         <entry>set surround</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
