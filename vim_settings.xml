@@ -72,11 +72,12 @@
         <mark key="." line="54" column="27" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" timestamp="1501058623635">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" timestamp="1501060332976">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="60" column="21" />
+        <mark key="." line="60" column="21" />
+        <mark key="^" line="60" column="21" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.java" timestamp="1501057827527">
         <mark key="'" line="31" column="13" />
@@ -176,8 +177,8 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/resource/SystemPropertyInitializingBean.java" timestamp="1499394801044">
         <mark key="'" line="51" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/dao/sqlmap/mssql/goods-group-sqlmap.xml" timestamp="1501054085910">
-        <mark key="'" line="290" column="30" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/dao/sqlmap/mssql/goods-group-sqlmap.xml" timestamp="1501059206899">
+        <mark key="'" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.5.3.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495157824243">
         <mark key="'" line="390" column="18" />
@@ -366,8 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="191" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_data.sql" />
-      <jump line="493" column="191" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_data.sql" />
       <jump line="494" column="191" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_data.sql" />
       <jump line="495" column="191" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_data.sql" />
       <jump line="496" column="191" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_data.sql" />
@@ -466,10 +465,12 @@
       <jump line="316" column="58" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
       <jump line="438" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
       <jump line="31" column="51" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_list_admin.jsp" />
+      <jump line="33" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/dao/sqlmap/mssql/goods-group-sqlmap.xml" />
+      <jump line="27" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_code</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -592,19 +593,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>_code</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>searchGrupCode</text>
+        <text>상품</text>
       </register>
-      <register name="0" type="4">
-        <text>$('#searchForm').serialize()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBzZWxlY3QgZ3J1cF9jb2RlLCBncnVwX25hbWUgZnJvbSB0Yl9nb29kX2dydXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -731,22 +732,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">V0lUSCBjdGVfZ29vZHMoZ3J1cF9jb2RlLCBncnVwX25hbWUsIGdydXBfdXBwciwgbGV2ZWxfbnVtKQpBUwooCiAgU0VMRUNUIGdydXBfY29kZSwgZ3J1cF9uYW1lLCBncnVwX3VwcHIsIDAKICBGUk9NIHRiX2dvb2RfZ3J1cAogIFdIRVJFIGdydXBfY29kZSA9ICdIMDAwNycKICBVTklPTiBBTEwKICBTRUxFQ1QgZy5ncnVwX2NvZGUsIGcuZ3J1cF9uYW1lLCBnLmdydXBfdXBwciwgYy5sZXZlbF9udW0gKyAxCiAgRlJPTSB0Yl9nb29kX2dydXAgZwogICAgLCBjdGVfZ29vZHMgYwogIHdoZXJlIDE9MQogICAgICAgIGFuZCBnLmdydXBfY29kZSA9IGMuZ3J1cF91cHByCikKU0VMRUNUICogRlJPTSBjdGVfZ29vZHMgT1JERVIgQlkgbGV2ZWxfbnVtIGRlc2MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlcj10cnVlKQo=</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygKICAgICAgICAkKCcjc2VhcmNoRm9ybScpLnNlcmlhbGl6ZSgpCgkJKTsK</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkKCcjc2VhcmNoRm9ybScpLnNlcmlhbGl6ZSgpCg==</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlcj10cnVlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -762,25 +763,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gICAgICAgICBBTkQgZ3J1cF9jb2RlIGluICggU0VMRUNUIGdydXBfY29kZSBGUk9NIENURV9HUlVQX0NPREUgKQo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygKICAgICAgICAkKCcjc2VhcmNoRm9ybScpLnNlcmlhbGl6ZSgpCgkJKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClNFTEVDVAogIGdydXBfY29kZQogICwgZ3J1cF9uYW1lCiAgLCBncnVwX3VwcHIKICAsIGF1dGhfZ3J1cAogICwgKAogICAgICBTRUxFQ1QgZ3J1cF9uYW1lCiAgICAgIEZST00gdGJfYXV0aF9ncnVwCiAgICAgIFdIRVJFIGdydXBfaW5keCA9IGcuYXV0aF9ncnVwKSAgICAgICAgICAgICAgICAgICAgICBBUyBhdXRoX2dydXBfbmFtZQogICwgbGlua19nb29kCiAgLCAoCiAgICAgIFNFTEVDVCBnb29kX25hbWUKICAgICAgRlJPTSB0Yl9nb29kX21zdHIKICAgICAgV0hFUkUgZ29vZF9jb2RlID0gZy5saW5rX2dvb2QpICAgICAgICAgICAgICAgICAgICAgIEFTIGxpbmtfZ29vZF9uYW1lCiAgLCBzaG93X3NlcW4KICAsIHVzZ2VfZmxhZwogICwgcmVnaV91c2VyCiAgLCByZWdpX2R0dG0KICAsIG1kZnlfdXNlcgogICwgbWRmeV9kdHRtCiAgLCAoCiAgICAgIFNFTEVDVCBDT1VOVCgqKQogICAgICBGUk9NIHRiX2dvb2RfZ3J1cAogICAgICBXSEVSRSBncnVwX3VwcHIgPSBnLmdydXBfY29kZSBBTkQgdXNnZV9mbGFnID0gJ1knKSAgQVMgc3ViX2NvdW50CiAgLCAoCiAgICAgIFNFTEVDVCBDT1VOVCgqKQogICAgICBGUk9NIHRiX2dvb2RfZ3J1cAogICAgICBXSEVSRSBncnVwX3VwcHIgPSBnLmdydXBfY29kZSBBTkQgdXNnZV9mbGFnICE9ICdEJykgQVMgc3ViX2NvdW50X3RvdGFsCiAgLCAoCiAgICAgIFNFTEVDVCBDT1VOVCgqKQogICAgICBGUk9NIHRiX2dvb2RfbXN0cgogICAgICBXSEVSRSBnb29kX2dydXAgPSBnLmdydXBfY29kZSBBTkQgdXNnZV9mbGFnID0gJ1knKSAgQVMgZ29vZHNfY291bnQKICAsICgKICAgICAgU0VMRUNUIENPVU5UKCopCiAgICAgIEZST00gdGJfZ29vZF9tc3RyCiAgICAgIFdIRVJFIGdvb2RfZ3J1cCA9IGcuZ3J1cF9jb2RlIEFORCB1c2dlX2ZsYWcgIT0gJ0QnKSBBUyBnb29kc19jb3VudF90b3RhbApGUk9NIHRiX2dvb2RfZ3J1cCBnCldIRVJFIDEgPSAxIEFORCBncnVwX3VwcHIgSVMgTlVMTCBBTkQgZ3J1cF9jb2RlIExJS0UgQ09OQ0FUKCdIJywgJyUnKSBBTkQgdXNnZV9mbGFnICE9ICdEJwpPUkRFUiBCWSB1c2dlX2ZsYWcgREVTQywgc2hvd19zZXFuIEFTQwoKClNFTEVDVCAqCkZST00gdGJfZ29vZF9ncnVwCldIRVJFCiAgICBncnVwX3VwcHIgSVMgTlVMTCBBTkQgZ3J1cF9jb2RlIExJS0UgQ09OQ0FUKCdIJywgJyUnKSBBTkQgdXNnZV9mbGFnICE9ICdEJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>searchGrupCode</last-search>
+      <last-search>상품</last-search>
       <last-offset />
-      <last-pattern>searchGrupCode</last-pattern>
+      <last-pattern>상품</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gnb</entry>
         <entry>DateUtil</entry>
         <entry>acnt</entry>
         <entry>ACNT</entry>
@@ -800,6 +800,7 @@
         <entry>setSearchGrupCode</entry>
         <entry encoding="base64">XDxvcmRyRGVwdFw+</entry>
         <entry>searchGrupCode</entry>
+        <entry>상품</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
