@@ -329,13 +329,13 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsItemVO.java" timestamp="1500946839144">
         <mark key="'" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" timestamp="1501226380669">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" timestamp="1501227630612">
         <mark key="a" line="221" column="18" />
         <mark key="'" line="221" column="63" />
-        <mark key="[" line="256" column="24" />
-        <mark key="]" line="256" column="25" />
-        <mark key="." line="256" column="25" />
-        <mark key="^" line="256" column="25" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="50" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="223" column="7" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
@@ -547,8 +547,8 @@
       <jump line="221" column="63" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>침</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IGRhdGFMaXN0ID0gbnVsbDsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -680,10 +680,10 @@
         <text encoding="base64">CQkJCQkJPGEgaHJlZj0iI3JlZnJlc2giIGNsYXNzPSJidG4gc20iIG9uY2xpY2s9ImNvbW1vblNlYXJjaC5zZWFyY2hMaXN0KDEpO3JldHVybiBmYWxzZTsiPrv1t86w7cSnPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAisde37Lqwxeuw6C54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIrHXt+y6sMXrsOgueGxzeCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IGRhdGFMaXN0ID0gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAisde37Lqwxeuw6C54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIrHXt+y6sMXrsOgueGxzeCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -810,22 +810,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAiwda5rreuw9/AzC54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIsHWua63rsPfwMwueGxzeCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAisde37Lqwxeuw6C54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIrHXt+y6sMXrsOgueGxzeCIpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZWxDb250ZW50LnB1dCgieWVhciIsIHNlYXJjaFZPLmdldFNlYXJjaFllYXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAisde37Lqwxeuw6C54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIrHXt+y6sMXrsOgueGxzeCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAiwda5rreuw9/AzC54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIsHWua63rsPfwMwueGxzeCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCdhJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -841,10 +841,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZWxDb250ZW50LnB1dCgieWVhciIsIHNlYXJjaFZPLmdldFNlYXJjaFllYXIoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkKCcjZXhjZWxEb3dubG9hZCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKGUpIHsKCQkgIGUucHJldmVudERlZmF1bHQoKTsKCiAgICAgIGxvY2F0aW9uLmhyZWYgPSAnL3NldHRpbmcvc3RhdHMvZG93bmxvYWRFeGNlbC5kbz8nICsgJCh0aGlzKS5jbG9zZXN0KCdmb3JtJykuc2VyaWFsaXplKCk7CgkJfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>only</text>
