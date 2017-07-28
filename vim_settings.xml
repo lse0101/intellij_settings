@@ -49,6 +49,12 @@
         <mark key="^" line="106" column="23" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.java" timestamp="1501057827527">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_data.sql" timestamp="1500959862580">
         <mark key="'" line="800" column="20" />
         <mark key="[" line="798" column="0" />
@@ -121,12 +127,6 @@
         <mark key="^" line="317" column="1" />
         <mark key="." line="317" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/vo/SearchVO.java" timestamp="1501057796151">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="6" />
-        <mark key="^" line="19" column="6" />
-        <mark key="." line="19" column="6" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-submit.js" timestamp="1499142654083">
         <mark key="'" line="23" column="43" />
       </file>
@@ -166,12 +166,6 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/statistics/mac/statistics_maclist.jsp" timestamp="1496107158711">
         <mark key="'" line="189" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/service/UserService.java" timestamp="1501143616955">
-        <mark key="[" line="157" column="4" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/.gitignore" timestamp="1501049684171">
         <mark key="'" line="19" column="16" />
         <mark key="[" line="5" column="0" />
@@ -181,6 +175,12 @@
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderAttributeServiceImpl.java" timestamp="1499418554354">
         <mark key="'" line="215" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/orderAttr_history_layer_list.jsp" timestamp="1500948321750">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderCartController.java" timestamp="1499321221753">
         <mark key="'" line="153" column="12" />
@@ -203,12 +203,6 @@
         <mark key="]" line="178" column="4" />
         <mark key="^" line="178" column="4" />
         <mark key="." line="178" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1501049572738">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="42" />
       </file>
       <file name="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" timestamp="1501050515950">
         <mark key="'" line="494" column="12" />
@@ -252,12 +246,11 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/decorators.xml" timestamp="1500958226903">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/statistics/statistics.js" timestamp="1501222552681">
-        <mark key="'" line="541" column="33" />
-        <mark key="[" line="563" column="23" />
-        <mark key="]" line="564" column="11" />
-        <mark key="." line="564" column="11" />
-        <mark key="^" line="564" column="11" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/statistics/statistics.js" timestamp="1501223943132">
+        <mark key="'" line="559" column="0" />
+        <mark key="[" line="564" column="0" />
+        <mark key="]" line="564" column="0" />
+        <mark key="." line="564" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/jxls-2.4.0.jar!/org/jxls/expression/JexlExpressionEvaluator.class" timestamp="1499166865317">
         <mark key="'" line="45" column="19" />
@@ -265,10 +258,10 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderDemandSurveyServiceImpl.java" timestamp="1499231078134">
         <mark key="'" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" timestamp="1501221911915">
-        <mark key="'" line="76" column="32" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="68" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" timestamp="1501225075164">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="80" column="72" />
+        <mark key="]" line="80" column="133" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/budget/budgetyear_list.jsp" timestamp="1499216193763">
         <mark key="'" line="2" column="12" />
@@ -336,13 +329,13 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsItemVO.java" timestamp="1500946839144">
         <mark key="'" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" timestamp="1501222681781">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" timestamp="1501225562170">
         <mark key="a" line="221" column="18" />
-        <mark key="'" line="45" column="3" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-        <mark key="^" line="238" column="43" />
+        <mark key="'" line="221" column="63" />
+        <mark key="[" line="250" column="24" />
+        <mark key="]" line="250" column="26" />
+        <mark key="." line="250" column="26" />
+        <mark key="^" line="250" column="26" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
@@ -403,6 +396,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/Constants.java" timestamp="1499227744894">
         <mark key="'" line="41" column="95" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_user.jsp" timestamp="1501225125118">
+        <mark key="[" line="39" column="78" />
+        <mark key="]" line="39" column="78" />
+        <mark key="^" line="39" column="77" />
+        <mark key="." line="39" column="78" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_options_view.jsp" timestamp="1499241672090">
         <mark key="'" line="13" column="42" />
       </file>
@@ -440,9 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
-      <jump line="78" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
-      <jump line="149" column="36" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
       <jump line="150" column="24" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
       <jump line="310" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
       <jump line="311" column="33" filename="$USER_HOME$/Development/workspace/aia-webddp/out/artifacts/aia_webddp_war_exploded/WEB-INF/classes/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.class" />
@@ -540,10 +536,13 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/statistics/statistics.js" />
       <jump line="558" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/statistics/statistics.js" />
       <jump line="541" column="33" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/statistics/statistics.js" />
+      <jump line="559" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/statistics/statistics.js" />
+      <jump line="108" column="37" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" />
+      <jump line="221" column="63" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>침</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -666,7 +665,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>침</text>
       </register>
       <register name="/" type="4">
         <text>금액</text>
@@ -675,10 +674,10 @@
         <text encoding="base64">CQkJCQkJPGEgaHJlZj0iI3JlZnJlc2giIGNsYXNzPSJidG4gc20iIG9uY2xpY2s9ImNvbW1vblNlYXJjaC5zZWFyY2hMaXN0KDEpO3JldHVybiBmYWxzZTsiPrv1t86w7cSnPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAisde37Lqwxeuw6C54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIrHXt+y6sMXrsOgueGxzeCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkKCcjZXhjZWxEb3dubG9hZCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKGUpIHsKCQkgIGUucHJldmVudERlZmF1bHQoKTsKCiAgICAgIGxvY2F0aW9uLmhyZWYgPSAnL3NldHRpbmcvc3RhdHMvZG93bmxvYWRFeGNlbC5kbz8nICsgJCh0aGlzKS5jbG9zZXN0KCdmb3JtJykuc2VyaWFsaXplKCk7CgkJfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAisde37Lqwxeuw6C54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIrHXt+y6sMXrsOgueGxzeCIpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -805,22 +804,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZmlsZU5hbWUiLCAiwda5rreuw9/AzC54bHN4Iik7CiAgICAgICAgICAgIG1hdi5hZGRPYmplY3QoInRtcGxOYW1lIiwgIsHWua63rsPfwMwueGxzeCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbENvbnRlbnQucHV0KCJzZWFyY2hUeXBlIiwgc2VhcmNoVk8uZ2V0U2VhcmNoVHlwZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXYuYWRkT2JqZWN0KCJmaWxlTmFtZSIsICLB1rmut67D38DMLnhsc3giKTsKICAgICAgICBtYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICLB1rmut67D38DMLnhsc3giKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZWxDb250ZW50LnB1dCgieWVhciIsIHNlYXJjaFZPLmdldFNlYXJjaFllYXIoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCdhJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -839,7 +838,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgiZGF0YUxpc3QiLCBsaXN0KTsK</text>
+        <text encoding="base64">CQkkKCcjZXhjZWxEb3dubG9hZCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKGUpIHsKCQkgIGUucHJldmVudERlZmF1bHQoKTsKCiAgICAgIGxvY2F0aW9uLmhyZWYgPSAnL3NldHRpbmcvc3RhdHMvZG93bmxvYWRFeGNlbC5kbz8nICsgJCh0aGlzKS5jbG9zZXN0KCdmb3JtJykuc2VyaWFsaXplKCk7CgkJfSkK</text>
       </register>
       <register name=":" type="4">
         <text>only</text>
