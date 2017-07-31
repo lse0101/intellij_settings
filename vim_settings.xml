@@ -226,6 +226,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" timestamp="1501462399875">
+        <mark key="'" line="8" column="43" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" timestamp="1500956973757">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="53" column="37" />
@@ -343,6 +350,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/web.xml" timestamp="1499845054602">
         <mark key="'" line="47" column="3" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/css/login.css" timestamp="1501462166701">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsItemVO.java" timestamp="1500946839144">
         <mark key="'" line="38" column="28" />
       </file>
@@ -386,7 +399,7 @@
       <file name="/dummy.sql" timestamp="1501143906283">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501218357506">
+      <file name="/Dummy.txt" timestamp="1501462396341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -462,11 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="30" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="11" column="34" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="55" column="68" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="40" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
       <jump line="125" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
       <jump line="72" column="28" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/controller/UserController.java" />
       <jump line="13" column="5" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
@@ -562,10 +570,16 @@
       <jump line="106" column="2" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
       <jump line="45" column="83" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
       <jump line="109" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
+      <jump line="32" column="61" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="83" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="44" column="67" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="8" column="43" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>button</text>
+        <text>관리자 페이지의 주문내역과 주문자의 주문내역 페이지에 
+카테고리별 검색옵션 추가.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -688,19 +702,21 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>385</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hUcmVuZFw+</text>
+        <text>css</text>
       </register>
       <register name="0" type="4">
         <text>graphData</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>관리자 페이지의 주문내역과 주문자의 주문내역 페이지에 
+카테고리별 검색옵션 추가.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>관리자 페이지의 주문내역과 주문자의 주문내역 페이지에 
+카테고리별 검색옵션 추가.</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -827,10 +843,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -861,23 +877,21 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZU5hbWUK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hUcmVuZFw+</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hUcmVuZFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>css</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setSearchGrupCode</entry>
-        <entry encoding="base64">XDxvcmRyRGVwdFw+</entry>
         <entry>searchGrupCode</entry>
         <entry>상품</entry>
         <entry>load</entry>
@@ -896,6 +910,8 @@
         <entry>gubun</entry>
         <entry encoding="base64">XDxncmFwaERhdGFcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hUcmVuZFw+</entry>
+        <entry>로그인</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>buf</entry>
