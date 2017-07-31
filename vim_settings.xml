@@ -133,12 +133,13 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/service/impl/TrendStatisticsServiceImpl.java" timestamp="1501219571353">
         <mark key="'" line="94" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" timestamp="1501457501364">
-        <mark key="'" line="102" column="38" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="78" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="17" column="52" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" timestamp="1501460979941">
+        <mark key="a" line="45" column="83" />
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="45" column="88" />
+        <mark key="]" line="45" column="88" />
+        <mark key="." line="45" column="88" />
+        <mark key="^" line="45" column="88" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_database.sql" timestamp="1500959774301">
         <mark key="'" line="827" column="3" />
@@ -241,6 +242,14 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/BasicHttpClientConnectionManager.class" timestamp="1495098516588">
         <mark key="'" line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" timestamp="1501460886446">
+        <mark key="a" line="45" column="75" />
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="45" column="87" />
+        <mark key="]" line="45" column="87" />
+        <mark key="." line="45" column="87" />
+        <mark key="^" line="45" column="87" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/skt/IPS_20_WEB_REV/src/main/resources/struts.xml" timestamp="1497579406912">
         <mark key="'" line="147" column="26" />
       </file>
@@ -265,10 +274,10 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderDemandSurveyServiceImpl.java" timestamp="1499231078134">
         <mark key="'" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" timestamp="1501458230025">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="75" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" timestamp="1501460388990">
+        <mark key="'" line="137" column="68" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="85" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/budget/budgetyear_list.jsp" timestamp="1499216193763">
         <mark key="'" line="2" column="12" />
@@ -307,8 +316,8 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/resource/SystemPropertyInitializingBean.java" timestamp="1499394801044">
         <mark key="'" line="51" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_trend.jsp" timestamp="1501457482587">
-        <mark key="'" line="74" column="36" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_trend.jsp" timestamp="1501460856246">
+        <mark key="'" line="77" column="4" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="82" />
         <mark key="." line="79" column="0" />
@@ -337,13 +346,13 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsItemVO.java" timestamp="1500946839144">
         <mark key="'" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" timestamp="1501457927369">
-        <mark key="a" line="213" column="18" />
-        <mark key="'" line="42" column="23" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="50" column="22" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" timestamp="1501460433031">
+        <mark key="a" line="258" column="20" />
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
+        <mark key="^" line="262" column="28" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
@@ -453,21 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_list_admin.jsp" />
-      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
-      <jump line="75" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
-      <jump line="66" column="55" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
-      <jump line="85" column="31" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="96" column="26" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="99" column="44" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="100" column="47" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="127" column="19" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="128" column="36" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="130" column="27" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="132" column="31" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="134" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
-      <jump line="141" column="14" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
       <jump line="145" column="30" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
       <jump line="11" column="34" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
       <jump line="7" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/user/user_list.jsp" />
@@ -548,15 +542,30 @@
       <jump line="101" column="38" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
       <jump line="74" column="36" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_trend.jsp" />
       <jump line="111" column="43" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" />
-      <jump line="258" column="40" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" />
       <jump line="42" column="23" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" />
       <jump line="46" column="49" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" />
       <jump line="100" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" />
       <jump line="148" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" />
+      <jump line="44" column="46" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="44" column="18" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
+      <jump line="49" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="137" column="68" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" />
+      <jump line="258" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" />
+      <jump line="43" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsController.java" />
+      <jump line="52" column="100" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="44" column="55" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_trend.jsp" />
+      <jump line="42" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="107" column="2" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="45" column="75" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="111" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_order_response.jsp" />
+      <jump line="77" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_trend.jsp" />
+      <jump line="106" column="2" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
+      <jump line="45" column="83" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
+      <jump line="109" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/statistics/stats_delivery.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>button</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -679,19 +688,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>searchStatisticsVO</text>
+        <text>button</text>
       </register>
       <register name="/" type="4">
-        <text>delivery</text>
+        <text encoding="base64">XDxzZWFyY2hUcmVuZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>납기준수율</text>
+        <text>graphData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -833,7 +842,7 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZU5hbWUK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -849,27 +858,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZU5hbWUK</text>
       </register>
       <register name=":" type="4">
-        <text>only</text>
+        <text>43</text>
       </register>
     </registers>
     <search>
-      <last-search>delivery</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hUcmVuZFw+</last-search>
       <last-offset />
-      <last-pattern>delivery</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzZWFyY2hUcmVuZFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>searchGrup</entry>
-        <entry>Grup</entry>
-        <entry>Binder</entry>
         <entry>setSearchGrupCode</entry>
         <entry encoding="base64">XDxvcmRyRGVwdFw+</entry>
         <entry>searchGrupCode</entry>
@@ -887,9 +893,11 @@
         <entry>trend</entry>
         <entry>download</entry>
         <entry>delivery</entry>
+        <entry>gubun</entry>
+        <entry encoding="base64">XDxncmFwaERhdGFcPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hUcmVuZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>bufs</entry>
         <entry>buf</entry>
         <entry>18</entry>
         <entry>sp</entry>
@@ -909,6 +917,7 @@
         <entry>on</entry>
         <entry>only</entry>
         <entry>ls</entry>
+        <entry>43</entry>
       </history-cmd>
       <history-expr />
       <history-input />
