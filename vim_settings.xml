@@ -60,15 +60,15 @@
         <mark key="^" line="798" column="193" />
         <mark key="." line="798" column="193" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1501664978249">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1501667475481">
         <mark key="'" line="112" column="32" />
-        <mark key="[" line="275" column="8" />
-        <mark key="]" line="275" column="8" />
-        <mark key="^" line="275" column="8" />
-        <mark key="." line="275" column="8" />
+        <mark key="[" line="290" column="27" />
+        <mark key="]" line="290" column="25" />
+        <mark key="^" line="290" column="25" />
+        <mark key="." line="290" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1501655987180">
-        <mark key="'" line="63" column="8" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1501665785749">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="71" column="56" />
         <mark key="]" line="71" column="56" />
         <mark key="." line="71" column="56" />
@@ -423,11 +423,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/common/menu/admin_header.jsp" timestamp="1500958320037">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common.js" timestamp="1501637744960">
-        <mark key="'" line="146" column="27" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common.js" timestamp="1501666582504">
+        <mark key="'" line="163" column="9" />
+        <mark key="[" line="186" column="9" />
+        <mark key="]" line="186" column="14" />
+        <mark key="." line="186" column="14" />
+        <mark key="^" line="186" column="14" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/resources/config/dpms.properties" timestamp="1495156111719">
         <mark key="'" line="122" column="8" />
@@ -522,9 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="12" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="195" column="27" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="30" column="49" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="124" column="28" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="259" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
@@ -622,10 +620,13 @@
       <jump line="19" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="29" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="112" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="89" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="163" column="9" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvcmRlcic6ICcxcHggc29saWQgIzAwMCcK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -748,19 +749,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>a.getAttrCode().equals(&quot;G00012I01A10&quot;)</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>발주</text>
       </register>
-      <register name="0" type="4">
-        <text>userVO.getShipAdr1()+&quot; &quot;+userVO.getShipAdr2()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICRmdW5jQnRuRGl2LmhpZGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvcmRlcic6ICcxcHggc29saWQgIzAwMCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKGEgLT4gYml6TWFwLmNvbnRhaW5zS2V5KGEuZ2V0QXR0ckNvZGUoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -887,22 +888,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICRmdW5jQnRuRGl2LmFwcGVuZChidG5zKTsKICAgICAgICAgICRmdW5jQnRuRGl2LmNzcyh7CiAgICAgICAgICAgICdwb3NpdGlvbicgOiAnZml4ZWQnLAogICAgICAgICAgICAndG9wJyA6ICc1MCUnLAogICAgICAgICAgICAncmlnaHQnOiAnMHB4JywKICAgICAgICAgICAgJ2JvcmRlcic6ICcxcHggc29saWQgIzAwMCcKICAgICAgICAgIH0pOwogICAgICAgICAgJGZ1bmNCdG5EaXYuc2hvdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGVlayhhIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICBhLnNldERmbHRUZXh0KGJpek1hcC5nZXQoYS5nZXRBdHRyQ29kZSgpKSk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0RGZsdFRleHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZ1bmNCdG5EaXYuaGlkZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICRmdW5jQnRuRGl2LmhpZGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIrXpvu6/1LTZLiIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -918,10 +919,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0RGZsdFRleHQoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIrXpvu6/1LTZLiEhISIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
