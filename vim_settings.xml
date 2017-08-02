@@ -60,12 +60,12 @@
         <mark key="^" line="798" column="193" />
         <mark key="." line="798" column="193" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1501637338889">
-        <mark key="'" line="208" column="43" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="89" />
-        <mark key="^" line="211" column="17" />
-        <mark key="." line="211" column="17" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1501659521132">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="112" column="20" />
+        <mark key="]" line="112" column="21" />
+        <mark key="^" line="112" column="21" />
+        <mark key="." line="112" column="21" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1501655987180">
         <mark key="'" line="63" column="8" />
@@ -173,8 +173,8 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20/pom.xml" timestamp="1498181575142">
         <mark key="'" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" timestamp="1501504168853">
-        <mark key="'" line="113" column="168" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" timestamp="1501659359485">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="113" column="168" />
         <mark key="." line="113" column="168" />
@@ -522,13 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
-      <jump line="96" column="20" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" />
-      <jump line="113" column="168" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" />
-      <jump line="104" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
-      <jump line="113" column="168" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       <jump line="1" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" />
       <jump line="90" column="22" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
@@ -622,10 +615,17 @@
       <jump line="1037" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
       <jump line="63" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
+      <jump line="3" column="25" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" />
+      <jump line="113" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/shipCode.sql" />
+      <jump line="275" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="111" column="26" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="19" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="29" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>주</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -748,13 +748,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>주</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXllckJvZHlcPg==</text>
+        <text>발주</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1naGVpZ2h0IA==</text>
+        <text>good-attr-opt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFsZXJ0KCQodGhpcykuaW5uZXJXaWR0aCgpKTsKICAgIGFsZXJ0KCQodGhpcykuaW5uZXJIZWlnaHQoKSkK</text>
@@ -928,16 +928,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXllckJvZHlcPg==</last-search>
+      <last-search>발주</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXllckJvZHlcPg==</last-pattern>
+      <last-pattern>발주</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>내정보</entry>
-        <entry>myInfo</entry>
         <entry>info</entry>
         <entry>encoding</entry>
         <entry>Char</entry>
@@ -956,6 +954,8 @@
         <entry>layerBody</entry>
         <entry>format</entry>
         <entry encoding="base64">XDxsYXllckJvZHlcPg==</entry>
+        <entry>style</entry>
+        <entry>발주</entry>
       </history-search>
       <history-cmd>
         <entry>buf</entry>
