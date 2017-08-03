@@ -162,6 +162,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/service/impl/TrendStatisticsServiceImpl.java" timestamp="1501219571353">
         <mark key="'" line="94" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/jxls_examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" timestamp="1501722106871">
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="72" />
+        <mark key="^" line="32" column="72" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_database.sql" timestamp="1500959774301">
         <mark key="'" line="827" column="3" />
       </file>
@@ -632,7 +638,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5wdXRWYXIoImNlbGxVcGRhdGVyIiwgbmV3IENlbGxVcGRhdGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -758,16 +764,16 @@
         <text>scrol</text>
       </register>
       <register name="/" type="4">
-        <text>btn-w</text>
+        <text>Mer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICdwb3NpdGlvbicgOiAnZml4ZWQnLAogICAgICAgICAgJ2JvdHRvbScgOiAnMHB4JywKICAgICAgICAgICd3aWR0aCc6ICc4NTBweCcsCiAgICAgICAgICAnYmFja2dyb3VuZC1jb2xvcicgOiAnI2ZmZicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5wdXRWYXIoImNlbGxVcGRhdGVyIiwgbmV3IENlbGxVcGRhdGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdha2xkc2pmYWxrJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IEZpbGUob3V0cHV0KS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -894,10 +900,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5wdXRWYXIoImNlbGxVcGRhdGVyIiwgbmV3IENlbGxVcGRhdGVyKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogICAgICAgIGlmKGlzVmlld092ZXJFbGVtZW50KCkpCiAgICAgICAgICBmaXhCb3R0b20oKTsKICAgICAgICBlbHNlCiAgICAgICAgICBub0ZpeEJvdHRvbSgpOyovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdha2xkc2pmYWxrJyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -906,7 +912,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZpZXdCb3R0b20gKyAiICAiICsgb3JpRWxlVG9wKTsK</text>
+        <text encoding="base64">LyogICAgICAgIGlmKGlzVmlld092ZXJFbGVtZW50KCkpCiAgICAgICAgICBmaXhCb3R0b20oKTsKICAgICAgICBlbHNlCiAgICAgICAgICBub0ZpeEJvdHRvbSgpOyovCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -925,7 +931,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZpZXdCb3R0b20gKyAiICAiICsgb3JpRWxlVG9wKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -935,16 +941,14 @@
       </register>
     </registers>
     <search>
-      <last-search>btn-w</last-search>
+      <last-search>Mer</last-search>
       <last-offset />
-      <last-pattern>btn-w</last-pattern>
+      <last-pattern>Mer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>encoding</entry>
-        <entry>Char</entry>
         <entry>dest</entry>
         <entry>최종</entry>
         <entry>modGood</entry>
@@ -963,6 +967,8 @@
         <entry>style</entry>
         <entry>발주</entry>
         <entry>btn-w</entry>
+        <entry>merged</entry>
+        <entry>Mer</entry>
       </history-search>
       <history-cmd>
         <entry>buf</entry>
