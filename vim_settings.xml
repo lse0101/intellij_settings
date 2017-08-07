@@ -35,18 +35,21 @@
         <mark key="." line="133" column="29" />
         <mark key="^" line="52" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1502081559021">
-        <mark key="'" line="28" column="5" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1502083441480">
+        <mark key="'" line="295" column="37" />
+        <mark key="[" line="121" column="61" />
+        <mark key="]" line="121" column="76" />
+        <mark key="^" line="121" column="76" />
+        <mark key="." line="121" column="76" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" timestamp="1502083579199">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/commons/left_menu/layer_place_tree.jsp" timestamp="1497228604918">
         <mark key="'" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-web-4.2.3.RELEASE.jar!/org/springframework/http/HttpStatus.class" timestamp="1499228375776">
         <mark key="'" line="121" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/UserDAO.java" timestamp="1501821237889">
-        <mark key="[" line="196" column="9" />
-        <mark key="]" line="196" column="19" />
       </file>
       <file name="C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/javax/net/ssl/SSLContext.class" timestamp="1495152449297">
         <mark key="'" line="7" column="2" />
@@ -179,16 +182,8 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1495151668617">
         <mark key="'" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/dept/dao/DeptDAO.java" timestamp="1501830959109">
-        <mark key="[" line="219" column="17" />
-        <mark key="]" line="219" column="27" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-web-4.2.3.RELEASE.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.class" timestamp="1499836840252">
         <mark key="'" line="167" column="49" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/OrderDAO.java" timestamp="1501727589092">
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="107" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c6825664-5caf-44e5-ab7a-74d75f2085ac/console.sql" timestamp="1502067597222">
         <mark key="'" line="0" column="0" />
@@ -242,14 +237,6 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" timestamp="1495427269374">
         <mark key="'" line="8" column="30305" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/jobtitle/dao/JobTitleDAO.java" timestamp="1501818401925">
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="57" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" timestamp="1501576361598">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="40" column="24" />
-      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js" timestamp="1501637560597">
         <mark key="'" line="364" column="21" />
       </file>
@@ -290,10 +277,6 @@
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jxls/jxls-poi/1.0.13/jxls-poi-1.0.13.jar!/org/jxls/transform/poi/PoiTransformer.class" timestamp="1501733552359">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="46" />
       </file>
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class" timestamp="1495154035846">
         <mark key="'" line="445" column="12" />
@@ -363,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="7" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="79" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
       <jump line="172" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/view/JXLSView.java" />
       <jump line="70" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/view/JXLSView.java" />
@@ -459,10 +441,11 @@
       <jump line="114" column="14" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="290" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="294" column="17" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="295" column="31" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="299" column="34" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="304" column="12" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="28" column="5" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="295" column="37" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -592,7 +575,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fixBottom</text>
+        <text>useLast</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQksI3t9Cg==</text>
@@ -765,20 +748,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>60</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fixBottom</last-search>
+      <last-search>useLast</last-search>
       <last-offset />
-      <last-pattern>fixBottom</last-pattern>
+      <last-pattern>useLast</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGlwTGlzdFw+</entry>
-        <entry>max</entry>
         <entry encoding="base64">XDxpbnB1dFN0cmVhbVw+</entry>
         <entry>choose</entry>
         <entry>OR</entry>
@@ -797,6 +778,8 @@
         <entry>ship_aen1</entry>
         <entry>추가</entry>
         <entry>fixBottom</entry>
+        <entry>추가옵션</entry>
+        <entry>useLast</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
@@ -809,7 +792,6 @@
         <entry>1,$d</entry>
         <entry>512</entry>
         <entry>312</entry>
-        <entry>w</entry>
         <entry>set vim-surround</entry>
         <entry>set surround</entry>
         <entry>q</entry>
@@ -819,6 +801,7 @@
         <entry>43</entry>
         <entry>vs</entry>
         <entry>60</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
