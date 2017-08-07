@@ -109,12 +109,12 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" timestamp="1496211478091">
         <mark key="'" line="146" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" timestamp="1501821399033">
-        <mark key="'" line="236" column="45" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="10" />
-        <mark key="." line="358" column="10" />
-        <mark key="^" line="364" column="8" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" timestamp="1502065764381">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="269" column="13" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/goods/dao/sqlmap/mssql/goods-group-sqlmap.xml" timestamp="1501573700624">
         <mark key="[" line="102" column="18" />
@@ -155,6 +155,7 @@
         <mark key="." line="160" column="50" />
         <mark key="^" line="160" column="50" />
       </file>
+      <file name="/database.properties" timestamp="1502064843425" />
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/OrderService.java" timestamp="1501734474166">
         <mark key="[" line="139" column="19" />
         <mark key="]" line="139" column="26" />
@@ -211,17 +212,17 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderCartController.java" timestamp="1499321221753">
         <mark key="'" line="153" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/excel/ExcelReaderTemplate.java" timestamp="1502063002629">
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/excel/ExcelReaderTemplate.java" timestamp="1502064799040">
         <mark key="'" line="54" column="13" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1501484374351">
-        <mark key="[" line="8" column="72" />
-        <mark key="]" line="8" column="71" />
-        <mark key="^" line="8" column="71" />
-        <mark key="." line="8" column="71" />
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1502064861417">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" timestamp="1501050515950">
         <mark key="'" line="494" column="12" />
@@ -383,6 +384,13 @@
         <mark key="." line="39" column="77" />
         <mark key="^" line="39" column="77" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_list_admin.jsp" timestamp="1502066039111">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="25" />
+        <mark key="^" line="50" column="25" />
+        <mark key="." line="50" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/Constants.java" timestamp="1499227744894">
         <mark key="'" line="41" column="95" />
       </file>
@@ -435,17 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="89" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/order/order-common.js" />
-      <jump line="163" column="9" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common.js" />
-      <jump line="293" column="8" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="267" column="47" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="281" column="21" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="285" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="29" column="15" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="28" column="6" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="286" column="31" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="120" column="40" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="9" column="64" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/sitemesh.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/decorators.xml" />
@@ -535,10 +532,21 @@
       <jump line="78" column="36" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/excel/ExcelReaderTemplate.java" />
       <jump line="189" column="78" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/excel/ExcelReaderTemplate.java" />
       <jump line="53" column="13" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/common/util/excel/ExcelReaderTemplate.java" />
+      <jump line="328" column="55" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="323" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="263" column="32" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="133" column="38" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="132" column="9" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="139" column="10" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="285" column="13" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="331" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="65" column="4" filename="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="44" column="29" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_list_admin.jsp" />
+      <jump line="33" column="16" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_list_admin.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -661,16 +669,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>명함 다운로드 및 문서이관 다운로드시 날짜 검색조건 포함</text>
+        <text encoding="base64">T1Ig</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dFN0cmVhbVw+</text>
+        <text>프로세스</text>
       </register>
       <register name="0" type="4">
         <text>sheet.getPhysicalNumberOfRows()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -800,22 +808,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyVk8uc2V0VXNlckRlcHQoZGVwdFZPTWFwLmdldCh1c2VyVk8uZ2V0RGVwdENvZGUoKSkuZ2V0RGVwdEluZHgoKSk7Cg==</text>
+        <text encoding="base64">CQkgT1IgbG9nbl9pZHR5ID0gI3tsb2duSWR0eX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJvdy5nZXRSb3dOdW0oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJOYW1lKTsK</text>
+        <text encoding="base64">CQkJCQlPUiBsb2duX2lkdHkgPSAje2xvZ25JZHR5fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgamtrCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx3aGVuIHRlc3Q9IiIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -834,28 +842,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJOYW1lKTsK</text>
+        <text encoding="base64">CQkJCXVzZXJfaW5keCA9ICN7dXNlckluZHh9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dFN0cmVhbVw+</last-search>
+      <last-search>프로세스</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dFN0cmVhbVw+</last-pattern>
+      <last-pattern>프로세스</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>직급</entry>
-        <entry>팀장</entry>
-        <entry>inputStream</entry>
-        <entry encoding="base64">XDxkZXB0TWFwXD4=</entry>
-        <entry encoding="base64">XDxkZXB0Q29kZVw+</entry>
-        <entry encoding="base64">XDx1c2VyTWFwXD4=</entry>
-        <entry encoding="base64">XDxkZXB0Vk9cPg==</entry>
         <entry encoding="base64">XDxvcmdWT1w+</entry>
         <entry encoding="base64">XDxqb2J0TWFwXD4=</entry>
         <entry>CSV</entry>
@@ -869,6 +870,13 @@
         <entry encoding="base64">XDxzaGlwTGlzdFw+</entry>
         <entry>max</entry>
         <entry encoding="base64">XDxpbnB1dFN0cmVhbVw+</entry>
+        <entry>choose</entry>
+        <entry>OR</entry>
+        <entry>상품관리</entry>
+        <entry>상품 관리</entry>
+        <entry>상품</entry>
+        <entry>top-title</entry>
+        <entry>프로세스</entry>
       </history-search>
       <history-cmd>
         <entry>buf</entry>
