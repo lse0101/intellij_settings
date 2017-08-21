@@ -198,8 +198,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502931183257">
         <mark key="[" line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/pdfJS_Test/web/build/pdf.worker.js" timestamp="1503294307717">
+      <file name="$USER_HOME$/Development/workspace/pdfJS_Test/web/build/pdf.worker.js" timestamp="1503294861855">
         <mark key="'" line="2422" column="49" />
+        <mark key="[" line="2455" column="13" />
+        <mark key="]" line="2455" column="13" />
+        <mark key="." line="2455" column="13" />
       </file>
       <file name="F:/Dropbox/company/xerox/SKT_20161118(김대광)/AnyGuardWebService/src/com/fujixerox/kor/anyguard/ws/usage/webservice/UsagePrnWebServiceImpl.java" timestamp="1501050515950">
         <mark key="'" line="494" column="12" />
@@ -552,8 +555,8 @@
       <jump line="2422" column="49" filename="$USER_HOME$/Development/workspace/pdfJS_Test/web/build/pdf.worker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGZpbGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -676,7 +679,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">InBhcmFtZXRlcnMiICsg</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
