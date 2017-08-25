@@ -9,8 +9,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/ibatis/ibatis-sqlmap/2.3.4.726/ibatis-sqlmap-2.3.4.726.jar!/com/ibatis/sqlmap/engine/builder/xml/SqlMapConfigParser.class" timestamp="1501047562081">
         <mark key="'" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" timestamp="1503622610916">
-        <mark key="'" line="325" column="54" />
+      <file name="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" timestamp="1503625801582">
+        <mark key="'" line="852" column="4" />
         <mark key="[" line="465" column="0" />
         <mark key="]" line="465" column="0" />
         <mark key="." line="465" column="0" />
@@ -149,8 +149,8 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/dom_events.js" timestamp="1503557759319">
-        <mark key="'" line="137" column="23" />
+      <file name="$USER_HOME$/git_repo/pdf.js/web/dom_events.js" timestamp="1503625727759">
+        <mark key="'" line="28" column="6" />
         <mark key="[" line="134" column="3" />
         <mark key="]" line="135" column="1" />
         <mark key="." line="135" column="1" />
@@ -291,13 +291,13 @@
         <mark key="." line="45" column="15" />
         <mark key="^" line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" timestamp="1503625181211">
-        <mark key="a" line="128" column="9" />
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="15" />
-        <mark key="^" line="69" column="15" />
-        <mark key="." line="69" column="15" />
+      <file name="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" timestamp="1503628862308">
+        <mark key="a" line="146" column="65" />
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="134" column="19" />
+        <mark key="]" line="135" column="30" />
+        <mark key="^" line="135" column="30" />
+        <mark key="." line="135" column="30" />
       </file>
       <file name="$USER_HOME$/git_repo/pdf.js/web/locale/en-US/viewer.properties" timestamp="1503566474109">
         <mark key="'" line="35" column="0" />
@@ -368,9 +368,9 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="159" column="15" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/app.js" timestamp="1503624686704">
+      <file name="$USER_HOME$/git_repo/pdf.js/web/app.js" timestamp="1503626022583">
         <mark key="a" line="1871" column="22" />
-        <mark key="'" line="1393" column="32" />
+        <mark key="'" line="1213" column="15" />
         <mark key="[" line="2039" column="0" />
         <mark key="]" line="2039" column="0" />
         <mark key="." line="2039" column="0" />
@@ -509,7 +509,7 @@
         <mark key="]" line="831" column="0" />
         <mark key="." line="831" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503622223183">
+      <file name="/Dummy.txt" timestamp="1503625480222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -589,28 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="5" filename="$USER_HOME$/git_repo/pdf.js/src/display/api.js" />
-      <jump line="549" column="26" filename="$USER_HOME$/git_repo/pdf.js/src/display/api.js" />
-      <jump line="1767" column="58" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1800" column="25" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1760" column="23" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1655" column="38" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1256" column="4" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1251" column="4" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1249" column="23" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1248" column="21" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1247" column="10" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1235" column="23" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1218" column="29" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1209" column="14" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1178" column="13" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1174" column="9" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1166" column="11" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1163" column="14" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1161" column="45" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1160" column="36" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1159" column="36" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="100" column="6" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" />
       <jump line="133" column="44" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
       <jump line="134" column="36" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
       <jump line="135" column="59" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
@@ -689,10 +667,32 @@
       <jump line="46" column="9" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
       <jump line="87" column="41" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
       <jump line="20" column="6" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
+      <jump line="68" column="2" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
+      <jump line="1963" column="9" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1357" column="18" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="36" column="22" filename="$USER_HOME$/git_repo/pdf.js/web/dom_events.js" />
+      <jump line="43" column="27" filename="$USER_HOME$/git_repo/pdf.js/web/dom_events.js" />
+      <jump line="28" column="6" filename="$USER_HOME$/git_repo/pdf.js/web/dom_events.js" />
+      <jump line="1279" column="17" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1653" column="23" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1654" column="18" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1659" column="6" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1678" column="2" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1747" column="45" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1782" column="23" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1796" column="65" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1964" column="17" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="2155" column="25" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="2156" column="47" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="852" column="4" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" />
+      <jump line="1248" column="8" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1213" column="15" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="146" column="57" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_viewer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldnQpOwo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHBhZ2VOdW0pOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -815,19 +815,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>addClass()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUSFVNQk5BSUxfU0NST0xMX01BUkdJTlw+</text>
+        <text>alert</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX3RodW1ibmFpbHMpCg==</text>
+      <register name="0" type="4">
+        <text>.anchor.firstChild.classList.add(&quot;selected&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldnQpOwo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHBhZ2VOdW0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGVydCgiY2xpY2siKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX3RodW1ibmFpbHMuc2xpY2UocGFnZU51bSlbMF0uYW5jaG9yLmZpcnN0Q2hpbGQuY2xhc3NMaXN0LmFkZCgic2VsZWN0ZWQiKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -957,19 +957,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHZpZXcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX3RodW1ibmFpbHMuc2xpY2UocGFnZU51bSlbMF0uYW5jaG9yLmZpcnN0Q2hpbGQuY2xhc3NMaXN0KTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX3RodW1ibmFpbHMuc2xpY2UocGFnZU51bSlbMF0uYW5jaG9yLmZpcnN0Q2hpbGQuY2xhc3NMaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZC5yZW5kZXJpbmdJZCA9IGluZGV4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -988,28 +988,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICsraW5kZXg7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX3RodW1ibmFpbHMpOwogICAgY29uc29sZS5sb2codGhpcy5fdGh1bWJuYWlscy5zbGljZShwYWdlTnVtKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>88</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUSFVNQk5BSUxfU0NST0xMX01BUkdJTlw+</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUSFVNQk5BSUxfU0NST0xMX01BUkdJTlw+</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>current</entry>
-        <entry encoding="base64">XDxwZGZEb2N1bWVudFw+</entry>
-        <entry>loading</entry>
-        <entry>draw</entry>
-        <entry>canvas</entry>
-        <entry>painton</entry>
-        <entry>paintOn</entry>
         <entry encoding="base64">XDxwYWludE9uQ2FudmFzXD4=</entry>
         <entry encoding="base64">XDxmaW5pc2hQYWludFRhc2tcPg==</entry>
         <entry>event</entry>
@@ -1023,6 +1016,13 @@
         <entry>scrollView</entry>
         <entry>scrollInto</entry>
         <entry encoding="base64">XDxUSFVNQk5BSUxfU0NST0xMX01BUkdJTlw+</entry>
+        <entry encoding="base64">XDxzY3JvbGxUaHVtYm5haWxJbnRvVmlld1w+</entry>
+        <entry encoding="base64">XDx3ZWJWaWV3ZXJQYWdlQ2hhbmdpbmdcPg==</entry>
+        <entry encoding="base64">XDxwYWdlY2hhbmdpbmdcPg==</entry>
+        <entry>pageNumber</entry>
+        <entry>addCl</entry>
+        <entry>addClass</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
