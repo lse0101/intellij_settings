@@ -35,8 +35,8 @@
         <mark key="." line="133" column="16" />
         <mark key="^" line="133" column="16" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/package.json" timestamp="1503883315185">
-        <mark key="'" line="13" column="20" />
+      <file name="$USER_HOME$/git_repo/pdf.js/package.json" timestamp="1503891757178">
+        <mark key="'" line="28" column="5" />
         <mark key="[" line="47" column="22" />
         <mark key="]" line="47" column="22" />
         <mark key="." line="47" column="22" />
@@ -623,9 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="9" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_view.js" />
-      <jump line="151" column="2" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_view.js" />
-      <jump line="356" column="2" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_view.js" />
       <jump line="125" column="4" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_view.js" />
       <jump line="461" column="27" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" />
       <jump line="55" column="19" filename="$USER_HOME$/git_repo/pdf.js/web/pdf_thumbnail_view.js" />
@@ -723,6 +720,9 @@
       <jump line="2322" column="2" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
       <jump line="1872" column="1" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
       <jump line="48" column="11" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="36" column="21" filename="$USER_HOME$/git_repo/pdf.js/package.json" />
+      <jump line="27" column="5" filename="$USER_HOME$/git_repo/pdf.js/package.json" />
+      <jump line="28" column="5" filename="$USER_HOME$/git_repo/pdf.js/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -852,7 +852,7 @@
         <text encoding="base64">KiBhcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>compa</text>
+        <text>system</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgU3lzdGVtSlMuaW1wb3J0KCdwZGZqcy13ZWIvYXBwJyksCg==</text>
@@ -1029,15 +1029,14 @@
       </register>
     </registers>
     <search>
-      <last-search>compa</last-search>
+      <last-search>system</last-search>
       <last-offset />
-      <last-pattern>compa</last-pattern>
+      <last-pattern>system</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsMTBuXD4=</entry>
         <entry encoding="base64">XDxEZWZhdWx0RXh0ZXJuYWxTZXJ2aWNlc1w+</entry>
         <entry>l10</entry>
         <entry>ext</entry>
@@ -1057,6 +1056,7 @@
         <entry encoding="base64">XDxheGlvc1w+</entry>
         <entry encoding="base64">XDxVaW50OENsYW1wZWRBcnJheVw+</entry>
         <entry>compa</entry>
+        <entry>system</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
