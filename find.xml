@@ -6,8 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
       <mask>*.*</mask>
       <mask>*.jxml</mask>
       <mask>*.jxm</mask>
@@ -24,18 +22,20 @@
       <mask>*.ㅓ</mask>
       <mask>*.jsp</mask>
       <mask>*</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.proper</mask>
-      <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
