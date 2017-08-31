@@ -89,8 +89,11 @@
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/common.css" timestamp="1504140306788">
-        <mark key="'" line="9" column="8" />
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/common.css" timestamp="1504168171228">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jxls/jxls/2.4.1/jxls-2.4.1.jar!/org/jxls/util/JxlsHelper.class" timestamp="1501741255442">
         <mark key="'" line="54" column="19" />
@@ -109,14 +112,14 @@
         <mark key="^" line="57" column="85" />
         <mark key="." line="57" column="85" />
       </file>
-      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" timestamp="1504164906225">
-        <mark key="a" line="494" column="39" />
-        <mark key="b" line="458" column="0" />
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="94" column="36" />
-        <mark key="]" line="94" column="45" />
-        <mark key="." line="94" column="45" />
-        <mark key="^" line="94" column="45" />
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" timestamp="1504169225322">
+        <mark key="a" line="81" column="79" />
+        <mark key="b" line="699" column="4" />
+        <mark key="'" line="702" column="85" />
+        <mark key="[" line="757" column="20" />
+        <mark key="]" line="757" column="17" />
+        <mark key="^" line="757" column="17" />
+        <mark key="." line="757" column="17" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/common/al/LoginAction.java" timestamp="1496211478091">
         <mark key="'" line="146" column="8" />
@@ -305,12 +308,11 @@
       <file name="$USER_HOME$/git_repo/pdf.js/build/minified/web/pdf.viewer.js" timestamp="1504137129513">
         <mark key="'" line="1" column="4450" />
       </file>
-      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" timestamp="1504164948338">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" timestamp="1504168274843">
+        <mark key="'" line="61" column="10" />
+        <mark key="[" line="66" column="18" />
+        <mark key="]" line="66" column="19" />
+        <mark key="." line="66" column="19" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderAttributeServiceImpl.java" timestamp="1499418554354">
         <mark key="'" line="215" column="12" />
@@ -729,43 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="46" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="454" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="138" column="108" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="424" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="69" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/action/InvoiceController.java" />
-      <jump line="446" column="4" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="154" column="12" filename="$USER_HOME$/git_repo/pdf.js/web/viewer.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/toolbar.js" />
-      <jump line="56" column="2" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="993" column="42" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="999" column="45" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1724" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1164" column="44" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="947" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1163" column="44" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1792" column="24" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1168" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1793" column="4" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1821" column="34" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1822" column="37" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1850" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="939" column="9" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1142" column="6" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1782" column="49" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="219" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/viewer.html" />
-      <jump line="123" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/viewer.html" />
-      <jump line="64" column="55" filename="$USER_HOME$/git_repo/pdf.js/web/secondary_toolbar.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/secondary_toolbar.js" />
-      <jump line="32" column="35" filename="$USER_HOME$/git_repo/pdf.js/web/secondary_toolbar.js" />
-      <jump line="15" column="20" filename="$USER_HOME$/git_repo/pdf.js/l10n/ko/viewer.properties" />
-      <jump line="31" column="22" filename="$USER_HOME$/git_repo/pdf.js/l10n/en-US/viewer.properties" />
-      <jump line="787" column="2" filename="$USER_HOME$/git_repo/pdf.js/external/webL10n/l10n.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/git_repo/pdf.js/external/webL10n/l10n.js" />
-      <jump line="175" column="15" filename="$USER_HOME$/git_repo/pdf.js/external/webL10n/l10n.js" />
-      <jump line="241" column="26" filename="$USER_HOME$/git_repo/pdf.js/external/webL10n/l10n.js" />
-      <jump line="188" column="21" filename="$USER_HOME$/git_repo/pdf.js/external/webL10n/l10n.js" />
       <jump line="10" column="46" filename="$USER_HOME$/git_repo/pdf.js/web/locale/ko/viewer.properties" />
       <jump line="69" column="50" filename="$USER_HOME$/git_repo/pdf.js/web/viewer.html" />
       <jump line="165" column="33" filename="$USER_HOME$/git_repo/pdf.js/l10n/ko/viewer.properties" />
@@ -776,7 +741,6 @@
       <jump line="62" column="9" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/test/pluploadTest.jsp" />
       <jump line="471" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="5" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
-      <jump line="61" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="23" column="27" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="22" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/include/plUploadInclude.jsp" />
       <jump line="175" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/include/plUploadInclude.jsp" />
@@ -800,7 +764,6 @@
       <jump line="10" column="57" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="13" column="31" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="168" column="15" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="761" column="16" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="75" column="52" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="763" column="34" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
@@ -808,7 +771,6 @@
       <jump line="97" column="38" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="159" column="92" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="773" column="46" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="783" column="27" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="175" column="94" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="76" column="11" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
@@ -817,22 +779,62 @@
       <jump line="27" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="54" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="487" column="31" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="76" column="37" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="171" column="27" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="172" column="27" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="784" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="66" column="13" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="37" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="23" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="15" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
       <jump line="19" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="62" column="50" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="74" column="13" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="34" column="11" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="172" column="27" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="786" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="493" column="15" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="453" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="492" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="782" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="74" column="31" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="495" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="783" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="494" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="496" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="784" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="711" column="4" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="708" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="77" column="26" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="499" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="76" column="22" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="169" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="34" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="32" column="9" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="39" column="1" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="78" column="23" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="171" column="15" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="500" column="24" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="713" column="17" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="729" column="18" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="40" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="354" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="402" column="11" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="451" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="73" column="18" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="61" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
+      <jump line="22" column="22" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/common.css" />
+      <jump line="63" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="20" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="361" column="44" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="481" column="53" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="716" column="85" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="396" column="6" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="294" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="699" column="4" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="80" column="37" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="702" column="85" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>20px 0px;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -955,19 +957,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>20px 0px;</text>
+        <text>&quot;#&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text encoding="base64">XDxtb2RhbGJ1dHRvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8aW5wdXQgdHlwZT0iYnV0dG9uIiBpZD0icmFuZ2VEZWxldGVCdG4iIGNsYXNzPSJ1aS1idXR0b24gdWktd2lkZ2V0IHVpLWNvcm5lci1hbGwiIHZhbHVlPSLAz7D9u+jBpiIgLz4KCiAgPGRpdiBjbGFzcz0iZHJvcEFyZWEiIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7IGRpc3BsYXk6aW5saW5lLWJsb2NrOyI+CiAgICA8YnV0dG9uIGNsYXNzPSJkcm9wYnRuIHVpLWJ1dHRvbiB1aS13aWRnZXQgdWktY29ybmVyLWFsbCIgIGRhdGEtdGV4dC1zd2FwPSK09bq4seIgIKHjIj609bq4seIgoeU8L2J1dHRvbj4KICAgIDx1bCBjbGFzcz0iZHJvcGRvd24iPgogICAgICA8bGkgY2xhc3M9ImZpcnN0Ij48YSBocmVmPSIjIiBjbGFzcz0ibW9kYWxidXR0b24iIGlkPSJyZWdpc3RGaWxlIj6wxbehuO28vLytILnfx+C48bfPPC9hPjwvbGk+CiAgICAgIDxsaSBjbGFzcz0ibGFzdCI+PGEgaHJlZj0iIyIgY2xhc3M9Im1vZGFsYnV0dG9uIiBpZD0icmVtb3ZlRmlsZSI+sMW3objtvLy8rSC76MGmuPG3zzwvYT48L2xpPgogICAgICA8bGkgY2xhc3M9Imxhc3QiPjxhIGhyZWY9IiMiIHN0eWxlPSJjdXJzb3I6IHBvaW50ZXI7IiBvbmNsaWNrPSIiPsjewfbF6zwvYT48L2xpPgogICAgPC91bD4KICA8L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text>gridBtn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDIwcHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAkKCcjc2NoRnJvbVRyYUR0JykudmFsKGRhdGUpOwovLyAgICAgICQoJyNzY2h0b3RyYWR0JykudmFsKHRvZGF5KCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1094,22 +1096,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vY29uc29sZS5sb2coa2V5ICsgIiA9ICIgKyBkYXRhTWFwLmVycm9yTWFwW2ZhaWxPYmoucm93XVtrZXldKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkcm9wQXJlYSIgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsgZGlzcGxheTppbmxpbmUtYmxvY2s7Ij4KICAgICAgICAgIDxidXR0b24gY2xhc3M9ImRyb3BidG4gdWktYnV0dG9uIHVpLXdpZGdldCB1aS1jb3JuZXItYWxsIiAgZGF0YS10ZXh0LXN3YXA9IrT1urix4iAgoeMiPrT1urix4iCh5TwvYnV0dG9uPgogICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93biI+CiAgICAgICAgICAgIDxsaSBjbGFzcz0iZmlyc3QiPjxhIGhyZWY9IiMiIGNsYXNzPSJtb2RhbGJ1dHRvbiIgaWQ9InJlZ2lzdEZpbGUiPrDFt6G47by8vK0gud/H4Ljxt888L2E+PC9saT4KICAgICAgICAgICAgPGxpIGNsYXNzPSJsYXN0Ij48YSBocmVmPSIjIiBjbGFzcz0ibW9kYWxidXR0b24iIGlkPSJyZW1vdmVGaWxlIj6wxbehuO28vLytILvowaa48bfPPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaSBjbGFzcz0ibGFzdCI+PGEgaHJlZj0iIyIgc3R5bGU9ImN1cnNvcjogcG9pbnRlcjsiIG9uY2xpY2s9IiI+yN7B9sXrPC9hPjwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogICAgalF1ZXJ5KCAnLmRyb3BidG4nICkuY2xpY2soZnVuY3Rpb24oKXsKICAgICAgdmFyIGVsID0galF1ZXJ5KHRoaXMpOwogICAgICBlbC5uZXh0KCAnLmRyb3Bkb3duJyApLnRvZ2dsZSgpOwogICAgICBpZiAoZWwudGV4dCgpID09IGVsLmRhdGEoICJ0ZXh0LXN3YXAiICkpIHsKICAgICAgICBlbC50ZXh0KGVsLmRhdGEoICJ0ZXh0LW9yaWdpbmFsIiApKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBlbC5kYXRhKCAidGV4dC1vcmlnaW5hbCIsIGVsLnRleHQoKSApOwogICAgICAgIGVsLnRleHQoZWwuZGF0YSggInRleHQtc3dhcCIgKSk7CiAgICAgIH0KICAgIH0pOyovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiBpZD0icmFuZ2VEZWxldGVCdG4iIGNsYXNzPSJ1aS1idXR0b24gdWktd2lkZ2V0IHVpLWNvcm5lci1hbGwiIHZhbHVlPSLAz7D9u+jBpiIgLz4K</text>
+        <text encoding="base64">ICAgICAgLy+02cDMvvO3zrHXwMcgs9DAzMH2waQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy/AzLqlxq6537v9vcMgb3BlbsfYwdax4iDAp8fPv6kgZmFsc2Ugt84gwfbBpAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1125,44 +1127,44 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy9kaWFsb2dMYXlvdXQgt7nAzL7Gv/Szu7+hIMGkwMe1yCCzu7/rwLsgtNnAzL7zt86x17imIMDMv+vHz7+pIE9QRU4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>63</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search encoding="base64">XDxtb2RhbGJ1dHRvblw+</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RhbGJ1dHRvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>발표모드</entry>
-        <entry>발표</entry>
-        <entry>remove</entry>
-        <entry>title</entry>
-        <entry>존재</entry>
-        <entry>더보기</entry>
-        <entry>작성일</entry>
-        <entry>uploadBtn</entry>
-        <entry>script</entry>
-        <entry>jquery-ui</entry>
-        <entry>일괄삭제</entry>
-        <entry>일괄</entry>
-        <entry>button-area-left</entry>
-        <entry encoding="base64">XDxidXR0b25cPg==</entry>
-        <entry>left</entry>
-        <entry>drop</entry>
-        <entry>gridBtn</entry>
         <entry>range</entry>
-        <entry>input</entry>
-        <entry>button</entry>
+        <entry>switch</entry>
+        <entry encoding="base64">XDxtb3JlVmlld1w+</entry>
+        <entry encoding="base64">XDxkcm9wQXJlYVw+</entry>
+        <entry>gridBody</entry>
+        <entry>grid</entry>
+        <entry>dropdown</entry>
+        <entry>dropArea</entry>
+        <entry encoding="base64">XDxkcm9wZG93blw+</entry>
+        <entry>top</entry>
+        <entry>change</entry>
+        <entry encoding="base64">XDxzZWFyY2hQYXJhbVZhbGlkYXRlXD4=</entry>
+        <entry>ul.drop</entry>
+        <entry>drop</entry>
+        <entry>-8</entry>
+        <entry>searchGrid</entry>
+        <entry>searchGridForm</entry>
+        <entry encoding="base64">XDxyZW1vdmVGaWxlXD4=</entry>
+        <entry>휴지통</entry>
+        <entry encoding="base64">XDxtb2RhbGJ1dHRvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
@@ -1181,10 +1183,10 @@
         <entry>88</entry>
         <entry>37</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>140</entry>
         <entry>903</entry>
         <entry>63</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
