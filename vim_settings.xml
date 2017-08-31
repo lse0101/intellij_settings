@@ -167,12 +167,11 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/java/com/fujixerox/kor/dpms/common/DPMSInitializer.java" timestamp="1502866767099">
         <mark key="'" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/viewer.html" timestamp="1503566206602">
-        <mark key="'" line="199" column="28" />
-        <mark key="[" line="199" column="94" />
-        <mark key="]" line="199" column="94" />
-        <mark key="." line="199" column="94" />
-        <mark key="^" line="199" column="77" />
+      <file name="$USER_HOME$/git_repo/pdf.js/web/viewer.html" timestamp="1504158262783">
+        <mark key="'" line="154" column="12" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfView/viewer.jsp" timestamp="1503915127748">
         <mark key="'" line="49" column="0" />
@@ -675,7 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="35" filename="$USER_HOME$/git_repo/pdf.js/build/lib/web/app.js" />
       <jump line="1178" column="20" filename="$USER_HOME$/git_repo/pdf.js/build/lib/web/app.js" />
       <jump line="123" column="20" filename="$USER_HOME$/git_repo/pdf.js/build/minified/web/viewer.html" />
       <jump line="6" column="1691" filename="$USER_HOME$/git_repo/pdf.js/build/minified/web/pdf.viewer.js" />
@@ -775,10 +773,11 @@
       <jump line="424" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="69" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/action/InvoiceController.java" />
       <jump line="446" column="4" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="154" column="12" filename="$USER_HOME$/git_repo/pdf.js/web/viewer.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>invoiceSeq=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -904,16 +903,16 @@
         <text>invoiceSeq=</text>
       </register>
       <register name="/" type="4">
-        <text>파일</text>
+        <text>open</text>
       </register>
       <register name="0" type="4">
         <text>/job/getInvoicePdf.do?invoiceSeq=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGlkPSJ2aWV3Qm9va21hcmsiIGNsYXNzPSJ0b29sYmFyQnV0dG9uIGJvb2ttYXJrIGhpZGRlblNtYWxsVmlldyIgdGl0bGU9IkN1cnJlbnQgdmlldyAoY29weSBvciBvcGVuIGluIG5ldyB3aW5kb3cpIiB0YWJpbmRleD0iMzUiIGRhdGEtbDEwbi1pZD0iYm9va21hcmsiPgogICAgICAgICAgICAgICAgICA8c3BhbiBkYXRhLWwxMG4taWQ9ImJvb2ttYXJrX2xhYmVsIj5DdXJyZW50IFZpZXc8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1040,19 +1039,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQoJzxhPicpCiAgICAgICAgLmF0dHIoJ2hyZWYnLCB1cmwpCiAgICAgICAgLmFwcGVuZFRvKGRvY3VtZW50LmJvZHkpCiAgICAgICAgLmNsaWNrKCk7Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8YnV0dG9uIGlkPSJvcGVuRmlsZSIgY2xhc3M9InRvb2xiYXJCdXR0b24gb3BlbkZpbGUgaGlkZGVuTGFyZ2VWaWV3IiB0aXRsZT0iT3BlbiBGaWxlIiB0YWJpbmRleD0iMzIiIGRhdGEtbDEwbi1pZD0ib3Blbl9maWxlIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1sMTBuLWlkPSJvcGVuX2ZpbGVfbGFiZWwiPk9wZW48L3NwYW4+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4tLT4K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmNyZWF0ZQo=</text>
+        <text encoding="base64">PGkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1071,26 +1070,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJzxhPicpCiAgICAgICAgLmF0dHIoJ2hyZWYnLCB1cmwpCiAgICAgICAgLmFwcGVuZFRvKGRvY3VtZW50LmJvZHkpCiAgICAgICAgLmNsaWNrKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoJHRoaXMuYXR0cignbmFtZScpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>파일</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>파일</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>iframe</entry>
-        <entry>input.</entry>
         <entry>button</entry>
         <entry>#gridData</entry>
         <entry>\$gridData</entry>
@@ -1109,6 +1106,8 @@
         <entry>model</entry>
         <entry>down</entry>
         <entry>파일</entry>
+        <entry>파일열기</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4wLCRk</entry>
