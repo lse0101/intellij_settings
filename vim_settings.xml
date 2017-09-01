@@ -110,10 +110,10 @@
         <mark key="[" line="353" column="22" />
         <mark key="]" line="353" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" timestamp="1504186756963">
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" timestamp="1504228616556">
         <mark key="a" line="578" column="60" />
         <mark key="b" line="803" column="4" />
-        <mark key="'" line="464" column="18" />
+        <mark key="'" line="367" column="0" />
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="0" />
         <mark key="." line="358" column="0" />
@@ -143,6 +143,12 @@
         <mark key="." line="185" column="0" />
       </file>
       <file name="/applicationContext.xml" timestamp="1503898538492" />
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfViewer.jsp" timestamp="1504228629846">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/webapp/WEB-INF/web.xml" timestamp="1502930983849">
         <mark key="'" line="72" column="18" />
       </file>
@@ -442,12 +448,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderDemandSurveyServiceImpl.java" timestamp="1499231078134">
         <mark key="'" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/app.js" timestamp="1504227030702">
-        <mark key="'" line="56" column="36" />
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="41" />
-        <mark key="." line="47" column="41" />
-        <mark key="^" line="47" column="41" />
+      <file name="$USER_HOME$/git_repo/pdf.js/web/app.js" timestamp="1504228846270">
+        <mark key="'" line="1593" column="34" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="1849" column="3" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/budget/budgetyear_list.jsp" timestamp="1499216193763">
         <mark key="'" line="2" column="12" />
@@ -570,6 +576,9 @@
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/webapp/WEB-INF/view/web/folder/selectFaxDocInfo.jsp" timestamp="1503531951273">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer1.js" timestamp="1504228820089">
+        <mark key="'" line="2712" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/common/menu/admin_header.jsp" timestamp="1500958320037">
         <mark key="'" line="23" column="0" />
       </file>
@@ -585,7 +594,7 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1496214921936">
         <mark key="'" line="281" column="14" />
       </file>
-      <file name="/dummy.sql" timestamp="1504224104452">
+      <file name="/dummy.sql" timestamp="1504228571570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -663,6 +672,12 @@
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/test/index.html" timestamp="1504228474895">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer.js" timestamp="1504188189319">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1038" column="20" />
@@ -728,15 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="713" column="17" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="729" column="18" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="40" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
-      <jump line="354" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="402" column="11" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="451" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="73" column="18" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
-      <jump line="61" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/invoice/invoice.css" />
-      <jump line="22" column="22" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/css/common.css" />
       <jump line="63" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="20" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="361" column="44" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
@@ -828,10 +834,19 @@
       <jump line="1817" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
       <jump line="56" column="36" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
       <jump line="26" column="8" filename="$USER_HOME$/git_repo/pdf.js/node_modules/axios/lib/adapters/xhr.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="2354" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="2333" column="27" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="367" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
+      <jump line="1845" column="50" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="1528" column="26" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer1.js" />
+      <jump line="2712" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer1.js" />
+      <jump line="1595" column="34" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -954,19 +969,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>qs.stringify({targetIdx: curPageNum})</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzXD4=</text>
+        <text>process</text>
       </register>
       <register name="0" type="4">
-        <text>qs.stringify(params)</text>
+        <text>removeInvoicePdf.do</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1092,23 +1107,28 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1NlcmlhbGl6ZXI6IGZ1bmN0aW9uKHBhcmFtcykgewogICAgICBjb25zb2xlLmxvZyhwYXJhbXMpOwogICAgICByZXR1cm4gcXMuc3RyaW5naWZ5KHBhcmFtcyk7CiAgICB9LAo=</text>
+      <register name="3" type="4">
+        <text>{
+    url: ,
+    responseType: 'json',
+    method: 'POST',
+    data: ,
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgdGFyZ2V0SWR4OiBjdXJQYWdlTnVtCiAgICB9LAo=</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcXMuc3RyaW5nCg==</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybDogJycsCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1NlcmlhbGl6ZXI6IGZ1bmN0aW9uKHBhcmFtcykgewogICAgICBjb25zb2xlLmxvZyhwYXJhbXMpOwogICAgICByZXR1cm4gcXMuc3RyaW5naWZ5KHBhcmFtcyk7CiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZDogJ3Bvc3QnLAo=</text>
+        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgdGFyZ2V0SWR4OiBjdXJQYWdlTnVtCiAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1124,26 +1144,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcXMuc3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybDogJycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzXD4=</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzXD4=</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>schDelYn</entry>
-        <entry>trash</entry>
         <entry encoding="base64">XDxmaXJzdEdycEJ0blw+</entry>
         <entry>swtich</entry>
         <entry>permanent</entry>
@@ -1162,6 +1180,8 @@
         <entry>build</entry>
         <entry>worker.js</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry>XML</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
