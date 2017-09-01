@@ -140,10 +140,10 @@
         <mark key="^" line="186" column="42" />
         <mark key="." line="185" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfViewer.jsp" timestamp="1504240351163">
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfViewer.jsp" timestamp="1504241199445">
         <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="47" />
-        <mark key="." line="35" column="47" />
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="46" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_list_user_inner_list.jsp" timestamp="1502100670293">
@@ -873,8 +873,8 @@
       <jump line="3212" column="8" filename="$USER_HOME$/git_repo/pdf.js/build/generic/web/viewer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsgJ3Byb2Nlc3MuZW52Lk5PREVfRU5WJzoge05PREVfRU5WOiAncHJvZHVjdGlvbid9IH0pLAo=</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -997,7 +997,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
