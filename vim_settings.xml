@@ -143,7 +143,7 @@
         <mark key="." line="185" column="0" />
       </file>
       <file name="/applicationContext.xml" timestamp="1503898538492" />
-      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfViewer.jsp" timestamp="1504228629846">
+      <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfViewer.jsp" timestamp="1504229526042">
         <mark key="[" line="35" column="46" />
         <mark key="]" line="35" column="46" />
         <mark key="." line="35" column="46" />
@@ -448,11 +448,11 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderDemandSurveyServiceImpl.java" timestamp="1499231078134">
         <mark key="'" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/web/app.js" timestamp="1504228846270">
-        <mark key="'" line="1593" column="34" />
+      <file name="$USER_HOME$/git_repo/pdf.js/web/app.js" timestamp="1504229620904">
+        <mark key="'" line="200" column="35" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
-        <mark key="^" line="1849" column="3" />
+        <mark key="^" line="1850" column="3" />
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/budget/budgetyear_list.jsp" timestamp="1499216193763">
@@ -743,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="12" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="20" column="14" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="361" column="44" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="481" column="53" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
@@ -843,10 +842,11 @@
       <jump line="1528" column="26" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer1.js" />
       <jump line="2712" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer1.js" />
       <jump line="1595" column="34" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
+      <jump line="198" column="35" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -969,7 +969,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>qs.stringify({targetIdx: curPageNum})</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>process</text>
