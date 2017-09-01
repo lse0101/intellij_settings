@@ -230,8 +230,8 @@
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/build/components/pdf_viewer.js" timestamp="1504135429061">
-        <mark key="'" line="4004" column="18" />
+      <file name="$USER_HOME$/git_repo/pdf.js/build/components/pdf_viewer.js" timestamp="1504237460647">
+        <mark key="'" line="236" column="35" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" timestamp="1500875571864">
         <mark key="'" line="142" column="43" />
@@ -279,12 +279,12 @@
         <mark key="." line="185" column="20" />
         <mark key="^" line="185" column="20" />
       </file>
-      <file name="$USER_HOME$/git_repo/pdf.js/gulpfile.js" timestamp="1504237236679">
+      <file name="$USER_HOME$/git_repo/pdf.js/gulpfile.js" timestamp="1504237407743">
         <mark key="'" line="294" column="9" />
-        <mark key="[" line="287" column="31" />
-        <mark key="]" line="288" column="22" />
-        <mark key="." line="288" column="22" />
-        <mark key="^" line="288" column="22" />
+        <mark key="[" line="139" column="17" />
+        <mark key="]" line="139" column="17" />
+        <mark key="." line="139" column="17" />
+        <mark key="^" line="139" column="17" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/dept/dao/sqlmap/mssql/dept-sqlmap.xml" timestamp="1502077189902">
         <mark key="'" line="170" column="17" />
@@ -781,7 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="32" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="745" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="787" column="26" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
@@ -881,6 +880,7 @@
       <jump line="313" column="32" filename="$USER_HOME$/git_repo/pdf.js/gulpfile.js" />
       <jump line="297" column="29" filename="$USER_HOME$/git_repo/pdf.js/gulpfile.js" />
       <jump line="294" column="9" filename="$USER_HOME$/git_repo/pdf.js/gulpfile.js" />
+      <jump line="236" column="35" filename="$USER_HOME$/git_repo/pdf.js/build/components/pdf_viewer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1010,7 +1010,7 @@
         <text>JSON.stringify(process.env.NODE_ENV)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVDb21wb25lbnRzQnVuZGxlXD4=</text>
+        <text>job</text>
       </register>
       <register name="0" type="4">
         <text>invoiceSeq=</text>
@@ -1187,16 +1187,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVDb21wb25lbnRzQnVuZGxlXD4=</last-search>
+      <last-search>job</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVDb21wb25lbnRzQnVuZGxlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>job</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>saveAsPDF</entry>
-        <entry>switch</entry>
         <entry>결과</entry>
         <entry>target</entry>
         <entry>resize</entry>
@@ -1207,14 +1205,16 @@
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry>script</entry>
         <entry>ENV</entry>
-        <entry>process</entry>
         <entry encoding="base64">XDxQREZKU0Rldlw+</entry>
-        <entry>XML</entry>
         <entry>file=</entry>
         <entry>console</entry>
         <entry>alert</entry>
         <entry encoding="base64">XDxjcmVhdGVXZWJwYWNrQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDb21wb25lbnRzQnVuZGxlXD4=</entry>
+        <entry>process</entry>
+        <entry>XML</entry>
+        <entry>axios</entry>
+        <entry>job</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
