@@ -587,6 +587,13 @@
         <mark key="." line="73" column="65" />
         <mark key="^" line="73" column="65" />
       </file>
+      <file name="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" timestamp="1504510960369">
+        <mark key="'" line="125" column="34" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="121" column="43" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
       </file>
@@ -604,6 +611,9 @@
       </file>
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/webapp/WEB-INF/view/web/folder/selectFaxDocInfo.jsp" timestamp="1503531951273">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1504502919851">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/common/menu/admin_header.jsp" timestamp="1500958320037">
         <mark key="'" line="23" column="0" />
@@ -627,7 +637,7 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1496214921936">
         <mark key="'" line="281" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504501470253">
+      <file name="/Dummy.txt" timestamp="1504511274859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -734,13 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2286" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="1591" column="0" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="2061" column="25" filename="$USER_HOME$/git_repo/pdf.js/web/app.js" />
-      <jump line="42" column="28" filename="$USER_HOME$/git_repo/pdf.js/web/viewer.js" />
-      <jump line="26" column="53" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer5.js" />
-      <jump line="2000" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer5.js" />
-      <jump line="3930" column="18" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer5.js" />
       <jump line="4827" column="35" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer5.js" />
       <jump line="4880" column="20" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer5.js" />
       <jump line="1999" column="49" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer5.js" />
@@ -834,10 +837,17 @@
       <jump line="92" column="9" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
       <jump line="633" column="31" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
+      <jump line="12" column="17" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
+      <jump line="28" column="18" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
+      <jump line="79" column="1" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
+      <jump line="111" column="55" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
+      <jump line="125" column="34" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>포토샵파일</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -960,19 +970,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>포토샵파일</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>더보기</text>
+        <text>body</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdHJ1bGVzOnsKICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>http://www.apwisdom.com/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCUtLSAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBpZD0idmlld0Jvb2ttYXJrIiBjbGFzcz0idG9vbGJhckJ1dHRvbiBib29rbWFyayBoaWRkZW5TbWFsbFZpZXciIHRpdGxlPSJDdXJyZW50IHZpZXcgKGNvcHkgb3Igb3BlbiBpbiBuZXcgd2luZG93KSIgdGFiaW5kZXg9IjM1IiBkYXRhLWwxMG4taWQ9ImJvb2ttYXJrIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1sMTBuLWlkPSJib29rbWFya19sYWJlbCI+Q3VycmVudCBWaWV3PC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPi0tJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLTxtYXAgbmFtZT0iSW1hZ2VNYXAxIj4KICA8YXJlYSBzaGFwZT0icmVjdCIgY29vcmRzPSIxMjksIDI3LCAyNzIsIDgwIiBocmVmPSJodHRwOi8vd3d3LmFwd2lzZG9tLmNvbS8iIHRhcmdldD0iX3NlbGYiIGFsdD0iyKjG5MDMwfa3ziDAzLW/x9W0z7TZLiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI4LCAxNDMsIDI2MCwgMTY0IiBocmVmPSJpbnRyb2R1Y3Rpb24uaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJJbnRyb2R1Y3Rpb24iPgogIDxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjEyOCwgMjA1LCAxOTksIDIyNCIgaHJlZj0iaHVtYW4uaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJIdW1hbiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI3LCAyNjQsIDIxNywgMjg1IiBocmVmPSJzb2x1dGlvbjEuaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJTb2x1dGlvbiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI4LCAzMjUsIDI1OSwgMzQ1IiBocmVmPSJLbm93bGVkZ2UuaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJLbm93bGVkZ2UiPgogIDxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjEyNywgMzg1LCAyNTcsIDQwNSIgaHJlZj0iRXhwZXJpZW5jZS5odG1sIiB0YXJnZXQ9Il9zZWxmIiBhbHQ9IkV4cGVyaWVuY2UiPgo8L21hcD4tLT4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1099,7 +1109,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCUtLSAgICAgICAgICAgICAgICA8YnV0dG9uIGlkPSJvcGVuRmlsZSIgY2xhc3M9InRvb2xiYXJCdXR0b24gb3BlbkZpbGUgaGlkZGVuTGFyZ2VWaWV3IiB0aXRsZT0iT3BlbiBGaWxlIiB0YWJpbmRleD0iMzIiIGRhdGEtbDEwbi1pZD0ib3Blbl9maWxlIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1sMTBuLWlkPSJvcGVuX2ZpbGVfbGFiZWwiPk9wZW48L3NwYW4+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4tLSU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1108,13 +1118,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCUtLSAgICAgICAgICAgIDxidXR0b24gaWQ9InNlY29uZGFyeU9wZW5GaWxlIiBjbGFzcz0ic2Vjb25kYXJ5VG9vbGJhckJ1dHRvbiBvcGVuRmlsZSB2aXNpYmxlTGFyZ2VWaWV3IiB0aXRsZT0iT3BlbiBGaWxlIiB0YWJpbmRleD0iNTIiIGRhdGEtbDEwbi1pZD0ib3Blbl9maWxlIj4KICAgICAgICAgICAgICA8c3BhbiBkYXRhLWwxMG4taWQ9Im9wZW5fZmlsZV9sYWJlbCI+T3Blbjwvc3Bhbj4KICAgICAgICAgICAgPC9idXR0b24+LS0lPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8IS0tPC9wPi0tPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PCUtLSAgICAgICAgICAgIDxhIGhyZWY9IiMiIGlkPSJzZWNvbmRhcnlWaWV3Qm9va21hcmsiIGNsYXNzPSJzZWNvbmRhcnlUb29sYmFyQnV0dG9uIGJvb2ttYXJrIHZpc2libGVTbWFsbFZpZXciIHRpdGxlPSJDdXJyZW50IHZpZXcgKGNvcHkgb3Igb3BlbiBpbiBuZXcgd2luZG93KSIgdGFiaW5kZXg9IjU1IiBkYXRhLWwxMG4taWQ9ImJvb2ttYXJrIj4KICAgICAgICAgICAgICA8c3BhbiBkYXRhLWwxMG4taWQ9ImJvb2ttYXJrX2xhYmVsIj5DdXJyZW50IFZpZXc8L3NwYW4+CiAgICAgICAgICAgIDwvYT4tLSU+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08aW1nIHNyYz0iMDVfMUV4cGVyaWVuY2UuanBnIiBib3JkZXI9IjAiIHVzZW1hcD0iI0ltYWdlTWFwMSI+LS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1130,27 +1140,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPHAgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6cmdiKDI0MywyNDMsMjQzKTsiPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNtZW51IGxpIHsKICAgICAgd2lkdGg6IDE1MHB4OwogICAgICBoZWlnaHQ6IDMwcHg7CiAgICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>더보기</last-search>
+      <last-search>body</last-search>
       <last-offset />
-      <last-pattern>더보기</last-pattern>
+      <last-pattern>body</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>HTML4</entry>
-        <entry>browser</entry>
-        <entry>production</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry>axios</entry>
         <entry>process</entry>
@@ -1168,6 +1175,9 @@
         <entry>bookMark</entry>
         <entry>book</entry>
         <entry>더보기</entry>
+        <entry>padding</entry>
+        <entry>border</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
@@ -1175,7 +1185,6 @@
         <entry>312</entry>
         <entry>set vim-surround</entry>
         <entry>set surround</entry>
-        <entry>q</entry>
         <entry>on</entry>
         <entry>only</entry>
         <entry>ls</entry>
@@ -1188,6 +1197,7 @@
         <entry>140</entry>
         <entry>903</entry>
         <entry>63</entry>
+        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
