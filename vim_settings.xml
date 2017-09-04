@@ -627,10 +627,10 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1496214921936">
         <mark key="'" line="281" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504490066236">
+      <file name="/Dummy.txt" timestamp="1504491185871">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/web.xml" timestamp="1503966085790">
         <mark key="[" line="107" column="0" />
@@ -836,8 +836,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCUtLSAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBpZD0idmlld0Jvb2ttYXJrIiBjbGFzcz0idG9vbGJhckJ1dHRvbiBib29rbWFyayBoaWRkZW5TbWFsbFZpZXciIHRpdGxlPSJDdXJyZW50IHZpZXcgKGNvcHkgb3Igb3BlbiBpbiBuZXcgd2luZG93KSIgdGFiaW5kZXg9IjM1IiBkYXRhLWwxMG4taWQ9ImJvb2ttYXJrIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1sMTBuLWlkPSJib29rbWFya19sYWJlbCI+Q3VycmVudCBWaWV3PC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPi0tJT4K</text>
+      <register name="&quot;" type="4">
+        <text>잘못 올려서 다시 재업로드.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -960,7 +960,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>잘못 올려서 다시 재업로드.</text>
       </register>
       <register name="/" type="4">
         <text>더보기</text>
