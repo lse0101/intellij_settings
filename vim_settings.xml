@@ -587,12 +587,12 @@
         <mark key="." line="73" column="65" />
         <mark key="^" line="73" column="65" />
       </file>
-      <file name="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" timestamp="1504510960369">
+      <file name="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" timestamp="1504515751955">
         <mark key="'" line="125" column="34" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
+        <mark key="[" line="151" column="37" />
+        <mark key="]" line="151" column="37" />
         <mark key="^" line="121" column="43" />
-        <mark key="." line="115" column="0" />
+        <mark key="." line="151" column="37" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-plupload.js" timestamp="1499298588499">
         <mark key="'" line="162" column="0" />
@@ -637,7 +637,7 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/xpms/mcmgt/mac/dao/T_LX_MAC_M_SqlMap.xml" timestamp="1496214921936">
         <mark key="'" line="281" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504511274859">
+      <file name="/Dummy.txt" timestamp="1504515831773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -846,8 +846,8 @@
       <jump line="125" column="34" filename="$USER_HOME$/Development/apw_workspace/ApwisDom_hubweb/public_html/Experience.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>회사연혁 부분을 통 이미지의 텍스트를 일반텍스트로.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -970,10 +970,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>회사연혁 부분을 통 이미지의 텍스트를 일반텍스트로.</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>판매</text>
       </register>
       <register name="0" type="4">
         <text>http://www.apwisdom.com/</text>
@@ -1150,15 +1150,14 @@
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>판매</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>판매</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry>axios</entry>
         <entry>process</entry>
         <entry>ENV</entry>
@@ -1178,6 +1177,7 @@
         <entry>padding</entry>
         <entry>border</entry>
         <entry>body</entry>
+        <entry>판매</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
