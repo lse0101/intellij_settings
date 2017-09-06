@@ -22,6 +22,12 @@
       <file name="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/lib/httpclient-4.3.2.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.class" timestamp="1495152560104">
         <mark key="'" line="107" column="87" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/A.java" timestamp="1504610846448">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/lin그래프(흑백 및 컬러).js" timestamp="1495175632436">
         <mark key="'" line="0" column="9" />
       </file>
@@ -847,7 +853,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>회사연혁 부분을 통 이미지의 텍스트를 일반텍스트로.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -970,7 +976,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>회사연혁 부분을 통 이미지의 텍스트를 일반텍스트로.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>판매</text>
@@ -982,7 +988,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLTxtYXAgbmFtZT0iSW1hZ2VNYXAxIj4KICA8YXJlYSBzaGFwZT0icmVjdCIgY29vcmRzPSIxMjksIDI3LCAyNzIsIDgwIiBocmVmPSJodHRwOi8vd3d3LmFwd2lzZG9tLmNvbS8iIHRhcmdldD0iX3NlbGYiIGFsdD0iyKjG5MDMwfa3ziDAzLW/x9W0z7TZLiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI4LCAxNDMsIDI2MCwgMTY0IiBocmVmPSJpbnRyb2R1Y3Rpb24uaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJJbnRyb2R1Y3Rpb24iPgogIDxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjEyOCwgMjA1LCAxOTksIDIyNCIgaHJlZj0iaHVtYW4uaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJIdW1hbiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI3LCAyNjQsIDIxNywgMjg1IiBocmVmPSJzb2x1dGlvbjEuaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJTb2x1dGlvbiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI4LCAzMjUsIDI1OSwgMzQ1IiBocmVmPSJLbm93bGVkZ2UuaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJLbm93bGVkZ2UiPgogIDxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjEyNywgMzg1LCAyNTcsIDQwNSIgaHJlZj0iRXhwZXJpZW5jZS5odG1sIiB0YXJnZXQ9Il9zZWxmIiBhbHQ9IkV4cGVyaWVuY2UiPgo8L21hcD4tLT4K</text>
+        <text encoding="base64">CQllbS5zYXZlKCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1109,7 +1115,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl1Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1121,10 +1127,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8IS0tPC9wPi0tPgo=</text>
+        <text encoding="base64">PCEtLTxtYXAgbmFtZT0iSW1hZ2VNYXAxIj4KICA8YXJlYSBzaGFwZT0icmVjdCIgY29vcmRzPSIxMjksIDI3LCAyNzIsIDgwIiBocmVmPSJodHRwOi8vd3d3LmFwd2lzZG9tLmNvbS8iIHRhcmdldD0iX3NlbGYiIGFsdD0iyKjG5MDMwfa3ziDAzLW/x9W0z7TZLiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI4LCAxNDMsIDI2MCwgMTY0IiBocmVmPSJpbnRyb2R1Y3Rpb24uaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJJbnRyb2R1Y3Rpb24iPgogIDxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjEyOCwgMjA1LCAxOTksIDIyNCIgaHJlZj0iaHVtYW4uaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJIdW1hbiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI3LCAyNjQsIDIxNywgMjg1IiBocmVmPSJzb2x1dGlvbjEuaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJTb2x1dGlvbiI+CiAgPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMTI4LCAzMjUsIDI1OSwgMzQ1IiBocmVmPSJLbm93bGVkZ2UuaHRtbCIgdGFyZ2V0PSJfc2VsZiIgYWx0PSJLbm93bGVkZ2UiPgogIDxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjEyNywgMzg1LCAyNTcsIDQwNSIgaHJlZj0iRXhwZXJpZW5jZS5odG1sIiB0YXJnZXQ9Il9zZWxmIiBhbHQ9IkV4cGVyaWVuY2UiPgo8L21hcD4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08aW1nIHNyYz0iMDVfMUV4cGVyaWVuY2UuanBnIiBib3JkZXI9IjAiIHVzZW1hcD0iI0ltYWdlTWFwMSI+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1140,10 +1146,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8IS0tPHAgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6cmdiKDI0MywyNDMsMjQzKTsiPi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNtZW51IGxpIHsKICAgICAgd2lkdGg6IDE1MHB4OwogICAgICBoZWlnaHQ6IDMwcHg7CiAgICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
