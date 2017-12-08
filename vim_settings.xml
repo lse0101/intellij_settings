@@ -119,7 +119,7 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="379" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/resources/awils.properties" timestamp="1512708449214">
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/resources/awils.properties" timestamp="1512710439050">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
@@ -160,6 +160,12 @@
         <mark key="]" line="185" column="0" />
         <mark key="^" line="186" column="42" />
         <mark key="." line="185" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/resources/log4j.xml" timestamp="1512709616188">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdfViewer.jsp" timestamp="1504241199445">
         <mark key="[" line="35" column="46" />
@@ -350,16 +356,11 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderCartController.java" timestamp="1499321221753">
         <mark key="'" line="153" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" timestamp="1512620008138">
-        <mark key="'" line="116" column="9" />
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" timestamp="1512710552905">
+        <mark key="'" line="166" column="15" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Core/pom.xml" timestamp="1512610763700">
-        <mark key="'" line="94" column="6" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1512635422686" />
       <file name="$USER_HOME$/git_repo/pdf.js/src/pdf.js" timestamp="1503556201673">
@@ -386,9 +387,6 @@
         <mark key="]" line="45" column="15" />
         <mark key="." line="45" column="15" />
         <mark key="^" line="44" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/src/main/java/com/fujixerox/kor/awils/rptmgt/search/action/SearchLogAction.java" timestamp="1512611713703">
-        <mark key="." line="1517" column="52" />
       </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/pom.xml" timestamp="1503896350850">
         <mark key="'" line="13" column="14" />
@@ -498,8 +496,8 @@
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/DOC/2017-04-18.sql" timestamp="1496215114603">
         <mark key="'" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" timestamp="1512611205469">
-        <mark key="'" line="136" column="0" />
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" timestamp="1512710632568">
+        <mark key="'" line="97" column="18" />
       </file>
       <file name="$USER_HOME$/Development/workspace/hanwha_insurance/XPMS_20_CORE_WEB/src/main/webapp/machine/mac/jquery-ui.min.js" timestamp="1495427269374">
         <mark key="'" line="8" column="30305" />
@@ -563,6 +561,7 @@
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/webapp/WEB-INF/view/web/main/main.jsp" timestamp="1502930568614">
         <mark key="'" line="76" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/java/com/fujixerox/imageLog/receiver/mf/JobFlowImageLogReceiverServlet.java" timestamp="1512710652960" />
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/web.xml" timestamp="1499845054602">
         <mark key="'" line="47" column="3" />
       </file>
@@ -662,7 +661,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512610331137">
+      <file name="/Dummy.txt" timestamp="1512710633587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -779,21 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="586" column="22" filename="$USER_HOME$/git_repo/pdf.js/node_modules/axios/dist/axios.js" />
-      <jump line="669" column="36" filename="$USER_HOME$/git_repo/pdf.js/node_modules/axios/dist/axios.js" />
-      <jump line="11" column="48" filename="$USER_HOME$/git_repo/pdf.js/build/generic/web/locale/ko/viewer.properties" />
-      <jump line="10" column="25" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/locale/ko/viewer.properties" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="100" column="11" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="184" column="19" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/pdf/pdf.jsp" />
-      <jump line="355" column="35" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/action/InvoiceController.java" />
-      <jump line="40" column="16" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/user/hello.jsp" />
-      <jump line="60" column="10" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
-      <jump line="18" column="13" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/vo/InvoiceVO.java" />
-      <jump line="20" column="19" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/vo/InvoiceVO.java" />
-      <jump line="114" column="15" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/vo/InvoiceVO.java" />
-      <jump line="249" column="26" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
-      <jump line="269" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
       <jump line="433" column="0" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
       <jump line="620" column="29" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
       <jump line="797" column="6" filename="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/jsp/invoice/invoiceList.jsp" />
@@ -861,8 +845,6 @@
       <jump line="460" column="71" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="487" column="25" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="590" column="34" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
-      <jump line="77" column="39" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="74" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
       <jump line="136" column="0" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
       <jump line="194" column="32" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/web.xml" />
       <jump line="195" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/src/main/webapp/WEB-INF/web.xml" />
@@ -879,10 +861,27 @@
       <jump line="16" column="39" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_Sophia_WEB/src/main/resources/project.properties" />
       <jump line="116" column="9" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
       <jump line="13" column="27" filename="$USER_HOME$/Development/secu_hub/webui/std/.classpath" />
+      <jump line="74" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="34" column="15" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/resources/log4j.xml" />
+      <jump line="20" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="98" column="26" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="69" column="19" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="77" column="19" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="86" column="19" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="62" column="35" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="49" column="30" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="387" column="16" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="141" column="16" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="134" column="15" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="135" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="139" column="15" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="140" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="166" column="15" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="97" column="18" filename="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/webapp/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>13.197.10.226</text>
+        <text>xmlns:log4j=&quot;http://jakarta.apache.org/log4j/&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1005,10 +1004,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>13.197.10.226</text>
+        <text>xmlns:log4j=&quot;http://jakarta.apache.org/log4j/&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text encoding="base64">XDxJbWFnZUxvZ0NhcHR1cmVfU0VTQU1pX0pvYkZsb3dcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
@@ -1185,34 +1184,34 @@
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search encoding="base64">XDxJbWFnZUxvZ0NhcHR1cmVfU0VTQU1pX0pvYkZsb3dcPg==</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern encoding="base64">XDxJbWFnZUxvZ0NhcHR1cmVfU0VTQU1pX0pvYkZsb3dcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry>asm</entry>
-        <entry>mysql</entry>
-        <entry>jaxb</entry>
-        <entry>extras</entry>
-        <entry>token</entry>
-        <entry>compile</entry>
         <entry>compiler</entry>
         <entry>zip</entry>
         <entry>_V2</entry>
         <entry>core</entry>
-        <entry encoding="base64">XDxBZG1pblNlcnZsZXRcPg==</entry>
         <entry>admin</entry>
-        <entry>recv</entry>
         <entry>So</entry>
         <entry>Soph</entry>
         <entry>Sophi</entry>
         <entry>soph</entry>
         <entry>sop</entry>
         <entry>type</entry>
+        <entry encoding="base64">XDxBZG1pblNlcnZsZXRcPg==</entry>
+        <entry>jf</entry>
+        <entry>axis</entry>
+        <entry>capture</entry>
+        <entry>recv</entry>
+        <entry>Recv</entry>
+        <entry>fujixerox</entry>
+        <entry>AWILS2</entry>
+        <entry encoding="base64">XDxJbWFnZUxvZ0NhcHR1cmVfU0VTQU1pX0pvYkZsb3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>512</entry>
