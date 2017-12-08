@@ -119,6 +119,12 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="379" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/resources/awils.properties" timestamp="1512708449214">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfViewer/viewer6.js" timestamp="1504239586141">
         <mark key="'" line="894" column="38" />
       </file>
@@ -773,7 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="2" filename="$USER_HOME$/git_repo/pdf.js/node_modules/axios/dist/axios.js" />
       <jump line="586" column="22" filename="$USER_HOME$/git_repo/pdf.js/node_modules/axios/dist/axios.js" />
       <jump line="669" column="36" filename="$USER_HOME$/git_repo/pdf.js/node_modules/axios/dist/axios.js" />
       <jump line="11" column="48" filename="$USER_HOME$/git_repo/pdf.js/build/generic/web/locale/ko/viewer.properties" />
@@ -873,10 +878,11 @@
       <jump line="36" column="13" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/src/main/resources/xpms.properties" />
       <jump line="16" column="39" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_Sophia_WEB/src/main/resources/project.properties" />
       <jump line="116" column="9" filename="$USER_HOME$/Development/workspace/testImageLogFile/XPMS_20_CORE_WEB/pom.xml" />
+      <jump line="13" column="27" filename="$USER_HOME$/Development/secu_hub/webui/std/.classpath" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>13.197.10.226</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -999,7 +1005,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>13.197.10.226</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
