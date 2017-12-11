@@ -44,6 +44,12 @@
         <mark key="." line="133" column="16" />
         <mark key="^" line="133" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/pom.xml" timestamp="1512959292663">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1502105651895">
         <mark key="'" line="121" column="43" />
         <mark key="[" line="121" column="61" />
@@ -221,6 +227,12 @@
       <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Common/pom.xml" timestamp="1512608345864">
         <mark key="'" line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/webdependency/pom.xml" timestamp="1512958926376">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/reference/sql/init_database.sql" timestamp="1500959774301">
         <mark key="'" line="827" column="3" />
       </file>
@@ -244,7 +256,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/Serializable.java" timestamp="1499663552998">
         <mark key="'" line="167" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/webui/std/src/main/java/com/fujixerox/kor/webui/std/user/dao/ift/UserCardRepository.java" timestamp="1512639126275" />
       <file name="$USER_HOME$/git_repo/pdf.js/build/components/pdf_viewer.js" timestamp="1504237460647">
         <mark key="'" line="236" column="35" />
       </file>
@@ -365,7 +376,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1512635422686" />
       <file name="$USER_HOME$/git_repo/pdf.js/src/pdf.js" timestamp="1503556201673">
         <mark key="'" line="39" column="8" />
       </file>
@@ -421,7 +431,6 @@
       <file name="$USER_HOME$/git_repo/pdf.js/src/display/api.js" timestamp="1503575744021">
         <mark key="'" line="549" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/webui/.classpath" timestamp="1512639567241" />
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/resource/js/pdfjs/pdf.js" timestamp="1503916789667">
         <mark key="'" line="3592" column="18" />
       </file>
@@ -452,7 +461,6 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/lib/spring-jdbc-4.2.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" timestamp="1499164410250">
         <mark key="'" line="262" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/webui/std/.classpath" timestamp="1512707523823" />
       <file name="$USER_HOME$/Development/workspace/aia-webddp/src/com/fujixerox/kor/webddp/std/structure/file/TbFileMstr.java" timestamp="1499218573849">
         <mark key="'" line="7" column="24" />
       </file>
@@ -550,7 +558,6 @@
         <mark key="." line="102" column="35" />
         <mark key="^" line="102" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/webui/.project" timestamp="1512639573313" />
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_list_user_inner_thumb.jsp" timestamp="1502101469908">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="5" column="0" />
@@ -564,7 +571,6 @@
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/webapp/WEB-INF/view/web/main/main.jsp" timestamp="1502930568614">
         <mark key="'" line="76" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/java/com/fujixerox/imageLog/receiver/mf/JobFlowImageLogReceiverServlet.java" timestamp="1512710652960" />
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/web.xml" timestamp="1499845054602">
         <mark key="'" line="47" column="3" />
       </file>
@@ -884,7 +890,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xmlns:log4j=&quot;http://jakarta.apache.org/log4j/&quot;</text>
+        <text>-</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1007,7 +1013,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>xmlns:log4j=&quot;http://jakarta.apache.org/log4j/&quot;</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -1149,19 +1155,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c2VjdWh1Yi5kZXBlbmRlbmN5PC9hcnRpZmFjdElkPgogICAgICAgIDxncm91cElkPmNvbS5mdWppeGVyb3gua29yPC9ncm91cElkPgogICAgPC9wYXJlbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c2VjdWh1Yi5kZXBlbmRlbmN5PC9hcnRpZmFjdElkPgogICAgICAgIDxncm91cElkPmNvbS5mdWppeGVyb3gua29yPC9ncm91cElkPgogICAgPC9wYXJlbnQ+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1177,10 +1183,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zZWN1aHViLmRlcGVuZGVuY3k8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zZWN1aHViLmRlcGVuZGVuY3k8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
