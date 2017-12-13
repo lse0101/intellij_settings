@@ -9,10 +9,11 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/itf/PrintUserMRepository.java" timestamp="1513144002654">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/itf/PrintUserMRepository.java" timestamp="1513149832937">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" timestamp="1503645850450">
         <mark key="'" line="272" column="2" />
@@ -26,6 +27,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dto/PermissionDTO.java" timestamp="1513150217606">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/pom.xml" timestamp="1512974835406">
         <mark key="'" line="84" column="27" />
@@ -200,6 +207,12 @@
         <mark key="^" line="168" column="9" />
         <mark key="." line="168" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/PrintUserMRepositoryImpl.java" timestamp="1513149478852">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuWEB/pom.xml" timestamp="1512973325095">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="17" />
@@ -328,11 +341,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/itf/PrintUserMRepositoryCustom.java" timestamp="1513144276022">
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/itf/PrintUserMRepositoryCustom.java" timestamp="1513150430676">
         <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="22" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_agent/src/main/java/com/fujixerox/kor/web/agent/policy/controller/PrintPolicyController.java" timestamp="1513068891300">
         <mark key="'" line="9" column="35" />
@@ -387,12 +400,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/service/PrintServiceImpl.java" timestamp="1513144295045">
-        <mark key="[" line="309" column="8" />
-        <mark key="]" line="62" column="34" />
-        <mark key="^" line="62" column="34" />
-        <mark key="." line="62" column="34" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuhub/pom.xml" timestamp="1512980500181">
         <mark key="'" line="191" column="0" />
@@ -770,7 +777,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tb_ordr_bzcd</text>
+        <text>y</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -893,7 +900,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>tb_ordr_bzcd</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
@@ -902,10 +909,10 @@
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBQcmludFVzZXJNUmVwb3NpdG9yeSBleHRlbmRzIEpwYVJlcG9zaXRvcnk8VXNlck0sIFN0cmluZz4sIFByaW50VXNlck1SZXBvc2l0b3J5Q3VzdG9tewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIFRCX1VTRVJfSk9CVAooCglKT0JUX0lORFggaW50IG5vdCBudWxsCgkJY29uc3RyYWludCBQS19VU0VSX0pPQlQKCQkJcHJpbWFyeSBrZXksCglKT0JUX0NPREUgbnZhcmNoYXIoMTApIG5vdCBudWxsLAoJSk9CVF9UWVBFIGNoYXIoMSkgbm90IG51bGwsCglKT0JUX05BTUUgbnZhcmNoYXIoMjApIG5vdCBudWxsLAoJSk9CVF9OTUVOIG52YXJjaGFyKDUwKSwKCU1BTkxfRkxBRyBjaGFyKDEpIG5vdCBudWxsLAoJU0hPV19GTEFHIGNoYXIoMSksCglTSE9XX1NFUU4gaW50IG5vdCBudWxsLAoJVVNHRV9GTEFHIGNoYXIoMSkgbm90IG51bGwsCglSRUdJX1VTRVIgaW50IG5vdCBudWxsLAoJUkVHSV9EVFRNIGNoYXIoMTQpIG5vdCBudWxsLAoJTURGWV9VU0VSIGludCwKCU1ERllfRFRUTSBjaGFyKDE0KQopCmdvCgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnRlcmZhY2UgUHJpbnRVc2VyTVJlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJNLCBTdHJpbmc+ewo=</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIFRCX1VTRVJfSk9CVAooCglKT0JUX0lORFggaW50IG5vdCBudWxsCgkJY29uc3RyYWludCBQS19VU0VSX0pPQlQKCQkJcHJpbWFyeSBrZXksCglKT0JUX0NPREUgbnZhcmNoYXIoMTApIG5vdCBudWxsLAoJSk9CVF9UWVBFIGNoYXIoMSkgbm90IG51bGwsCglKT0JUX05BTUUgbnZhcmNoYXIoMjApIG5vdCBudWxsLAoJSk9CVF9OTUVOIG52YXJjaGFyKDUwKSwKCU1BTkxfRkxBRyBjaGFyKDEpIG5vdCBudWxsLAoJU0hPV19GTEFHIGNoYXIoMSksCglTSE9XX1NFUU4gaW50IG5vdCBudWxsLAoJVVNHRV9GTEFHIGNoYXIoMSkgbm90IG51bGwsCglSRUdJX1VTRVIgaW50IG5vdCBudWxsLAoJUkVHSV9EVFRNIGNoYXIoMTQpIG5vdCBudWxsLAoJTURGWV9VU0VSIGludCwKCU1ERllfRFRUTSBjaGFyKDE0KQopCmdvCgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1032,7 +1039,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBpbnRlcmZhY2UgUHJpbnRVc2VyTVJlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJNLCBTdHJpbmc+ewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1044,10 +1051,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1063,7 +1070,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZ1aml4ZXJveC5rb3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPndlYlVJX2NvbW1vbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZ1aml4ZXJveC5rb3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPndlYlVJX2NvbW1vbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
