@@ -469,6 +469,12 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/resources/conf/printProperties.xml" timestamp="1513141091754">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="57" />
+        <mark key="." line="14" column="57" />
+        <mark key="^" line="14" column="57" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/webUI/pom.xml" timestamp="1512974514764">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="36" />
@@ -737,8 +743,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuHub_root/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>10.24.2.252</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -861,7 +867,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>10.24.2.252</text>
       </register>
       <register name="/" type="4">
         <text>jstl</text>
