@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_webUI_common/pom.xml" timestamp="1513068728420">
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_webUI_common/pom.xml" timestamp="1513143678696">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/itf/PrintUserMRepository.java" timestamp="1513144002654">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git_repo/pdf.js/web/pdf_viewer.js" timestamp="1503645850450">
         <mark key="'" line="272" column="2" />
@@ -158,8 +163,8 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" timestamp="1513142542825">
-        <mark key="'" line="47" column="32" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" timestamp="1513142675542">
+        <mark key="'" line="58" column="24" />
         <mark key="[" line="164" column="19" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -317,6 +322,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dao/itf/PrintUserMRepositoryCustom.java" timestamp="1513144276022">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_agent/src/main/java/com/fujixerox/kor/web/agent/policy/controller/PrintPolicyController.java" timestamp="1513068891300">
         <mark key="'" line="9" column="35" />
       </file>
@@ -350,6 +361,7 @@
         <mark key="^" line="457" column="63" />
         <mark key="." line="457" column="63" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1513144369514" />
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/js/common/common-search.js" timestamp="1502100378361">
         <mark key="'" line="27" column="15" />
         <mark key="[" line="45" column="15" />
@@ -369,6 +381,12 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/service/PrintServiceImpl.java" timestamp="1513144295045">
+        <mark key="[" line="309" column="8" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="34" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuhub/pom.xml" timestamp="1512980500181">
         <mark key="'" line="191" column="0" />
@@ -546,7 +564,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513139000865">
+      <file name="/Dummy.txt" timestamp="1513143918345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -643,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="36" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="25" column="12" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="161" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_agent/pom.xml" />
@@ -736,17 +753,18 @@
       <jump line="17" column="37" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/pom.xml" />
       <jump line="36" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="50" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
+      <jump line="40" column="47" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
+      <jump line="41" column="32" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
+      <jump line="47" column="32" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
+      <jump line="48" column="24" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="52" column="32" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="53" column="24" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="57" column="32" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
       <jump line="58" column="24" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
-      <jump line="41" column="32" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
-      <jump line="48" column="24" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
-      <jump line="47" column="32" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXB1YmxpYyBpbnRlcmZhY2UgUHJpbnRVc2VyTVJlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJNLCBTdHJpbmc+ewo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -869,16 +887,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, PrintUserMRepositoryCustom</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTx2ZXJzaW9uPjEuMC1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBQcmludFVzZXJNUmVwb3NpdG9yeSBleHRlbmRzIEpwYVJlcG9zaXRvcnk8VXNlck0sIFN0cmluZz4sIFByaW50VXNlck1SZXBvc2l0b3J5Q3VzdG9tewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBpbnRlcmZhY2UgUHJpbnRVc2VyTVJlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJNLCBTdHJpbmc+ewo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1011,16 +1029,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZ1aml4ZXJveC5rb3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPndlYlVJX2NvbW1vbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZ1aml4ZXJveC5rb3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPndlYlVJX2NvbW1vbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
@@ -1039,10 +1057,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZ1aml4ZXJveC5rb3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPndlYlVJX2NvbW1vbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmZ1aml4ZXJveC5rb3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnNlY3VodWJfY29tbW9uPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
