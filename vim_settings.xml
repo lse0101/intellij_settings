@@ -28,6 +28,10 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_agent/src/main/webapp/WEB-INF/web.xml" timestamp="1513256185527">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/java/com/fujixerox/kor/webui/print/dto/PermissionDTO.java" timestamp="1513150217606">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="39" />
@@ -47,6 +51,11 @@
         <mark key="]" line="133" column="16" />
         <mark key="." line="133" column="16" />
         <mark key="^" line="133" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/target/secuhub.logmanager/WEB-INF/imageLogService.wsdl" timestamp="1513257119066">
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="90" column="54" />
+        <mark key="." line="90" column="54" />
       </file>
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" timestamp="1513074919423">
         <mark key="'" line="171" column="8" />
@@ -155,6 +164,12 @@
         <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="46" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/target/secuhub.web.logmanager/WEB-INF/spring-ws-servlet.xml" timestamp="1513253033349">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="73" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/resources/log4j.properties" timestamp="1513074291275">
         <mark key="'" line="7" column="46" />
         <mark key="[" line="1" column="17" />
@@ -254,11 +269,11 @@
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1513245941501">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="37" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1513253178596">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
         <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/resources/struts.xml" timestamp="1503532805459">
         <mark key="'" line="696" column="17" />
@@ -274,6 +289,19 @@
         <mark key="." line="160" column="50" />
         <mark key="^" line="160" column="50" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/ws-servlet.xml" timestamp="1513256011058">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1513257042919">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="28" />
+      </file>
+      <file name="/web.xml" timestamp="1513253669743" />
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/vo/SchInvoiceVO.java" timestamp="1504178069872">
         <mark key="'" line="8" column="30" />
         <mark key="[" line="16" column="19" />
@@ -413,12 +441,6 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1513239328433">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/ImageLogService.wsdl" timestamp="1513235325356">
         <mark key="'" line="47" column="25" />
         <mark key="[" line="90" column="52" />
@@ -433,17 +455,29 @@
         <mark key="^" line="250" column="50" />
         <mark key="." line="250" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/soap/controller/ReceiveSoapImageLogController.java" timestamp="1513248321293">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/soap/controller/ReceiveSoapImageLogController.java" timestamp="1513251008971">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_service/pom.xml" timestamp="1513245220209">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="31" />
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/imageLogServices.wsdl" timestamp="1513254864008">
+        <mark key="[" line="90" column="52" />
+        <mark key="]" line="90" column="53" />
+        <mark key="." line="90" column="53" />
+        <mark key="^" line="90" column="53" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/ImageLogService.wsdl" timestamp="1513256916508">
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="90" column="62" />
+        <mark key="." line="90" column="62" />
+        <mark key="^" line="90" column="62" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_root/pom.xml" timestamp="1513245162030">
         <mark key="'" line="59" column="24" />
@@ -486,6 +520,12 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/spring-ws-servlet.xml" timestamp="1513257016524">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuhub_parent_web/pom.xml" timestamp="1513046280020">
         <mark key="'" line="42" column="36" />
         <mark key="[" line="22" column="21" />
@@ -506,6 +546,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="57" column="34" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/imageLogService.wsdl" timestamp="1513255112465">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="45" />
+        <mark key="." line="90" column="45" />
+        <mark key="^" line="90" column="45" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/src/main/resources/conf/printProperties.xml" timestamp="1513229717074">
         <mark key="[" line="16" column="31" />
@@ -785,7 +831,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -908,19 +954,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>webUI.common</text>
+        <text>jax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxzZXJ2bGV0LW1hcHBpbmc+CgkJPHNlcnZsZXQtbmFtZT53czwvc2VydmxldC1uYW1lPgoJCTx1cmwtcGF0dGVybj4vc2VydmljZXMvKjwvdXJsLXBhdHRlcm4+Cgk8L3NlcnZsZXQtbWFwcGluZz4K</text>
+        <text encoding="base64">PHdlYi1hcHAgeG1sbnM9Imh0dHA6Ly94bWxucy5qY3Aub3JnL3htbC9ucy9qYXZhZWUiCiAgICAgICAgIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3htbG5zLmpjcC5vcmcveG1sL25zL2phdmFlZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly94bWxucy5qY3Aub3JnL3htbC9ucy9qYXZhZWUvd2ViLWFwcF8zXzEueHNkIgogICAgICAgICB2ZXJzaW9uPSIzLjEiCiAgICAgICAgIG1ldGFkYXRhLWNvbXBsZXRlPSJ0cnVlIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8Z3JvdXBJZD5jb20uZnVqaXhlcm94LmtvcjwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">CTxzZXJ2bGV0LW1hcHBpbmc+CgkJPHNlcnZsZXQtbmFtZT5zcHJpbmctd3M8L3NlcnZsZXQtbmFtZT4KCQk8dXJsLXBhdHRlcm4+Ki53c2RsPC91cmwtcGF0dGVybj4KCTwvc2VydmxldC1tYXBwaW5nPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8IS0tPGluaXQtcGFyYW0+LS0+CgkJCTwhLS08cGFyYW0tbmFtZT50cmFuc2Zvcm1Xc2RsTG9jYXRpb25zPC9wYXJhbS1uYW1lPi0tPgoJCQk8IS0tPHBhcmFtLXZhbHVlPnRydWU8L3BhcmFtLXZhbHVlPi0tPgoJCTwhLS08L2luaXQtcGFyYW0+LS0+Cg==</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgbG9jYXRpb249Ii9XRUItSU5GLyIK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1047,22 +1093,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8c2VydmxldC1jbGFzcz5vcmcuc3ByaW5nZnJhbWV3b3JrLndzLnRyYW5zcG9ydC5odHRwLk1lc3NhZ2VEaXNwYXRjaGVyU2VydmxldDwvc2VydmxldC1jbGFzcwo=</text>
+        <text encoding="base64">CTxzd3M6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8dXJsLXBhdHRlcm4+Ki53c2RsPC91cmwtcGF0dGVybj4K</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgbG9jYXRpb249Ii9XRUItSU5GLyIK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgaWQ9ImltYWdlTG9nIiBsb2NhdGlvbj0iL1dFQi1JTkYvaW1hZ2VMb2dTZXJ2aWNlLndzZGwiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC93ZWItYXBwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHdlYi1hcHAgeG1sbnM9Imh0dHA6Ly9qYXZhLnN1bi5jb20veG1sL25zL2phdmFlZSIKCQl4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIgoJCXhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvamF2YWVlCgkJaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvamF2YWVlL3dlYi1hcHBfM18wLnhzZCIKCQl2ZXJzaW9uPSIzLjAiPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1078,25 +1124,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxzd3M6YW5ub3RhdGlvbi1kcml2ZW4vPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLTwhRE9DVFlQRSB3ZWItYXBwIFBVQkxJQy0tPgogPCEtLSItLy9TdW4gTWljcm9zeXN0ZW1zLCBJbmMuLy9EVEQgV2ViIEFwcGxpY2F0aW9uIDIuMy8vRU4iLS0+CiA8IS0tImh0dHA6Ly9qYXZhLnN1bi5jb20vZHRkL3dlYi1hcHBfMl8zLmR0ZCIgPi0tPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>webUI.common</last-search>
+      <last-search>jax</last-search>
       <last-offset />
-      <last-pattern>webUI.common</last-pattern>
+      <last-pattern>jax</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selectDocList</entry>
         <entry>change</entry>
         <entry>selectDoc</entry>
         <entry encoding="base64">XDxzZXREYXlTZWxlY3RcPg==</entry>
@@ -1116,6 +1161,7 @@
         <entry>common</entry>
         <entry>ws</entry>
         <entry>webUI.common</entry>
+        <entry>jax</entry>
       </history-search>
       <history-cmd>
         <entry>512</entry>
