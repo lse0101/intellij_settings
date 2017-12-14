@@ -159,7 +159,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/imageLogService.wsdl" timestamp="1513236998583" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/imageLogService.wsdl" timestamp="1513239136786">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="40" />
+        <mark key="." line="90" column="40" />
+        <mark key="^" line="90" column="40" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" timestamp="1513142675542">
         <mark key="'" line="58" column="24" />
         <mark key="[" line="164" column="19" />
@@ -386,11 +391,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1513237882264">
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1513239328433">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/ImageLogService.wsdl" timestamp="1513235325356">
         <mark key="'" line="47" column="25" />
@@ -751,7 +756,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQk8IS0tPGluaXQtcGFyYW0+LS0+CgkJCTwhLS08cGFyYW0tbmFtZT50cmFuc2Zvcm1Xc2RsTG9jYXRpb25zPC9wYXJhbS1uYW1lPi0tPgoJCQk8IS0tPHBhcmFtLXZhbHVlPnRydWU8L3BhcmFtLXZhbHVlPi0tPgoJCTwhLS08L2luaXQtcGFyYW0+LS0+Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -874,7 +879,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>http:///service/capture/jf</text>
       </register>
       <register name="/" type="4">
         <text>ws</text>
@@ -883,10 +888,10 @@
         <text encoding="base64">CTxzZXJ2bGV0LW1hcHBpbmc+CgkJPHNlcnZsZXQtbmFtZT53czwvc2VydmxldC1uYW1lPgoJCTx1cmwtcGF0dGVybj4vc2VydmljZXMvKjwvdXJsLXBhdHRlcm4+Cgk8L3NlcnZsZXQtbWFwcGluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQk8IS0tPGluaXQtcGFyYW0+LS0+CgkJCTwhLS08cGFyYW0tbmFtZT50cmFuc2Zvcm1Xc2RsTG9jYXRpb25zPC9wYXJhbS1uYW1lPi0tPgoJCQk8IS0tPHBhcmFtLXZhbHVlPnRydWU8L3BhcmFtLXZhbHVlPi0tPgoJCTwhLS08L2luaXQtcGFyYW0+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC93ZWItYXBwPgo=</text>
+        <text encoding="base64">CQk8c2VydmxldC1jbGFzcz5vcmcuc3ByaW5nZnJhbWV3b3JrLndzLnRyYW5zcG9ydC5odHRwLk1lc3NhZ2VEaXNwYXRjaGVyU2VydmxldDwvc2VydmxldC1jbGFzcwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1013,22 +1018,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8dXJsLXBhdHRlcm4+Ki53c2RsPC91cmwtcGF0dGVybj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLTwhRE9DVFlQRSB3ZWItYXBwIFBVQkxJQy0tPgogPCEtLSItLy9TdW4gTWljcm9zeXN0ZW1zLCBJbmMuLy9EVEQgV2ViIEFwcGxpY2F0aW9uIDIuMy8vRU4iLS0+CiA8IS0tImh0dHA6Ly9qYXZhLnN1bi5jb20vZHRkL3dlYi1hcHBfMl8zLmR0ZCIgPi0tPgo=</text>
+        <text encoding="base64">PC93ZWItYXBwPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHdlYi1hcHA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSItLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1044,10 +1049,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIHdlYi1hcHAgUFVCTElDCg==</text>
+        <text encoding="base64">PCEtLTwhRE9DVFlQRSB3ZWItYXBwIFBVQkxJQy0tPgogPCEtLSItLy9TdW4gTWljcm9zeXN0ZW1zLCBJbmMuLy9EVEQgV2ViIEFwcGxpY2F0aW9uIDIuMy8vRU4iLS0+CiA8IS0tImh0dHA6Ly9qYXZhLnN1bi5jb20vZHRkL3dlYi1hcHBfMl8zLmR0ZCIgPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHdlYi1hcHA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
