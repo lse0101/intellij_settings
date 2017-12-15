@@ -269,11 +269,11 @@
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1513253178596">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="12" column="24" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1513296760356">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/Development/workspace/IPS-NH/src/main/resources/struts.xml" timestamp="1503532805459">
         <mark key="'" line="696" column="17" />
@@ -295,13 +295,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1513257042919">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1513297270003">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
       </file>
-      <file name="/web.xml" timestamp="1513253669743" />
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/java/com/apwisdom/imaging/web/invoice/vo/SchInvoiceVO.java" timestamp="1504178069872">
         <mark key="'" line="8" column="30" />
         <mark key="[" line="16" column="19" />
@@ -831,7 +830,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>-</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -954,7 +953,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>jax</text>
