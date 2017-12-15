@@ -9,6 +9,7 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/org/eclipse/wb/swt/SWTResourceManager.java" timestamp="1513319882604" />
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
       </file>
@@ -51,11 +52,12 @@
         <mark key="]" line="90" column="54" />
         <mark key="." line="90" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" timestamp="1513315204274">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-        <mark key="." line="31" column="22" />
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" timestamp="1513319797132">
+        <mark key="'" line="1270" column="24" />
+        <mark key="[" line="1339" column="52" />
+        <mark key="]" line="1340" column="29" />
+        <mark key="^" line="1340" column="29" />
+        <mark key="." line="1340" column="29" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/soap/controller/ReceiveSoapImageLogController.java" timestamp="1513251008971">
         <mark key="[" line="4" column="0" />
@@ -104,6 +106,9 @@
         <mark key="]" line="16" column="72" />
         <mark key="." line="16" column="72" />
         <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" timestamp="1513319951021">
+        <mark key="'" line="2883" column="29" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/soap/pom.xml" timestamp="1512973623910">
         <mark key="[" line="17" column="0" />
@@ -188,6 +193,11 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513319804714">
+        <mark key="[" line="391" column="0" />
+        <mark key="]" line="400" column="20" />
+        <mark key="." line="394" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuWEB/pom.xml" timestamp="1512973325095">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="17" />
@@ -243,7 +253,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513301367374">
+      <file name="/Dummy.txt" timestamp="1513319915488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/web.xml" timestamp="1503966085790">
@@ -320,19 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="30" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/pom.xml" />
-      <jump line="34" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/pom.xml" />
-      <jump line="20" column="19" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" />
-      <jump line="19" column="28" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/pom.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_print/pom.xml" />
-      <jump line="26" column="11" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_webUI/pom.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_webUI/pom.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_agent/src/main/java/com/fujixerox/kor/web/agent/intercaptor/Authentication.java" />
-      <jump line="9" column="35" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_agent/src/main/java/com/fujixerox/kor/web/agent/policy/controller/PrintPolicyController.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" />
-      <jump line="57" column="68" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" />
-      <jump line="100" column="20" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" />
       <jump line="71" column="68" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" />
       <jump line="292" column="66" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" />
       <jump line="279" column="0" filename="$USER_HOME$/Development/workspace/FnU/src/main/webapp/WEB-INF/view/web/folder/selectDocListSub.jsp" />
@@ -420,10 +417,23 @@
       <jump line="5" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_logmanager/src/main/webapp/WEB-INF/web.xml" />
       <jump line="163" column="48" filename="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="159" column="48" filename="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
+      <jump line="287" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
+      <jump line="142" column="28" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
+      <jump line="395" column="21" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
+      <jump line="1397" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
+      <jump line="1270" column="24" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
+      <jump line="27588" column="66" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="250" column="34" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="640" column="42" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="673" column="39" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="1057" column="40" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="1380" column="23" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="2884" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="2883" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>XPMS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+WGVyb3hLb3JlYS5Db21tb248L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPkZYSy1DT01NT04tSFRUUDwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgoJCTwhLS0gt87Ew7iuxsTB9sXkuK4gte63z8fRIMDHwbiw/LDoILyzwaQgOiBBV0lMUzJfUnVsZVNldHRpbmcgLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPkFXSUxTMl9SdWxlU2V0dGluZzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aWxSdWxlQWRtaW48L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -549,16 +559,16 @@
         <text>XPMS</text>
       </register>
       <register name="/" type="4">
-        <text>sohpia</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHdlYi1hcHAgeG1sbnM9Imh0dHA6Ly94bWxucy5qY3Aub3JnL3htbC9ucy9qYXZhZWUiCiAgICAgICAgIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3htbG5zLmpjcC5vcmcveG1sL25zL2phdmFlZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly94bWxucy5qY3Aub3JnL3htbC9ucy9qYXZhZWUvd2ViLWFwcF8zXzEueHNkIgogICAgICAgICB2ZXJzaW9uPSIzLjEiCiAgICAgICAgIG1ldGFkYXRhLWNvbXBsZXRlPSJ0cnVlIj4K</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+WGVyb3hLb3JlYS5Db21tb248L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPkZYSy1DT01NT04tSFRUUDwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgoJCTwhLS0gt87Ew7iuxsTB9sXkuK4gte63z8fRIMDHwbiw/LDoILyzwaQgOiBBV0lMUzJfUnVsZVNldHRpbmcgLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPkFXSUxTMl9SdWxlU2V0dGluZzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aWxSdWxlQWRtaW48L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTwvYmVhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -685,22 +695,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJpbWFnZUxvZyIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsud3Mud3NkbC53c2RsMTEuU2ltcGxlV3NkbDExRGVmaW5pdGlvbiI+IDxwcm9wZXJ0eSBuYW1lPSJ3c2RsIiB2YWx1ZT0iL1dFQi1JTkYvaW1hZ2VMb2dTZXJ2aWNlLndzZGwiIC8+Cg==</text>
+        <text encoding="base64">CTwvYmVhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxzZXJ2bGV0LW1hcHBpbmc+CgkJPHNlcnZsZXQtbmFtZT5zcHJpbmctd3M8L3NlcnZsZXQtbmFtZT4KCQk8dXJsLXBhdHRlcm4+Ki53c2RsPC91cmwtcGF0dGVybj4KCTwvc2VydmxldC1tYXBwaW5nPgo=</text>
+        <text encoding="base64">CTxiZWFuIGlkPSJpbWFnZUxvZyIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsud3Mud3NkbC53c2RsMTEuU2ltcGxlV3NkbDExRGVmaW5pdGlvbiI+IDxwcm9wZXJ0eSBuYW1lPSJ3c2RsIiB2YWx1ZT0iL1dFQi1JTkYvaW1hZ2VMb2dTZXJ2aWNlLndzZGwiIC8+Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgbG9jYXRpb249Ii9XRUItSU5GLyIK</text>
+        <text encoding="base64">CTxzZXJ2bGV0LW1hcHBpbmc+CgkJPHNlcnZsZXQtbmFtZT5zcHJpbmctd3M8L3NlcnZsZXQtbmFtZT4KCQk8dXJsLXBhdHRlcm4+Ki53c2RsPC91cmwtcGF0dGVybj4KCTwvc2VydmxldC1tYXBwaW5nPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxzd3M6Cg==</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgbG9jYXRpb249Ii9XRUItSU5GLyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgbG9jYXRpb249Ii9XRUItSU5GLyIK</text>
+        <text encoding="base64">CTxzd3M6Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -716,27 +726,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgaWQ9ImltYWdlTG9nIiBsb2NhdGlvbj0iL1dFQi1JTkYvaW1hZ2VMb2dTZXJ2aWNlLndzZGwiLz4K</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgbG9jYXRpb249Ii9XRUItSU5GLyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgaWQ9ImltYWdlTG9nIiBsb2NhdGlvbj0iL1dFQi1JTkYvaW1hZ2VMb2dTZXJ2aWNlLndzZGwiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sohpia</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>sohpia</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXREYXlTZWxlY3RcPg==</entry>
-        <entry encoding="base64">XDxpbml0RGF5U2VsZWN0XD4=</entry>
-        <entry>gopage</entry>
         <entry>page_size</entry>
         <entry>goPage</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
@@ -754,6 +761,9 @@
         <entry>jax</entry>
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
         <entry>sohpia</entry>
+        <entry>Xerox</entry>
+        <entry>Rule</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>512</entry>
