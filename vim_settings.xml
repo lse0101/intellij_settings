@@ -3,27 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1513579686648">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_1.sql" timestamp="1513160784647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_common/pom.xml" timestamp="1513298528428">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
-      </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513587906216">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="50" />
-        <mark key="." line="50" column="50" />
-        <mark key="^" line="50" column="50" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_webUI/pom.xml" timestamp="1513298309337">
         <mark key="'" line="33" column="4" />
@@ -39,16 +23,8 @@
         <mark key="." line="254" column="20" />
         <mark key="^" line="254" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_webUI_std/src/main/webapp/WEB-INF/web.xml" timestamp="1513300178940">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
-        <mark key="'" line="364" column="215" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/Install_Config.xml" timestamp="1513576164160">
         <mark key="'" line="364" column="215" />
@@ -56,13 +32,6 @@
         <mark key="]" line="36" column="55" />
         <mark key="^" line="36" column="55" />
         <mark key="." line="36" column="55" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" timestamp="1513578957170">
-        <mark key="'" line="27503" column="46" />
-        <mark key="[" line="27481" column="0" />
-        <mark key="]" line="27481" column="0" />
-        <mark key="^" line="1382" column="4" />
-        <mark key="." line="27481" column="0" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/target/secuhub.logmanager/WEB-INF/imageLogService.wsdl" timestamp="1513257119066">
         <mark key="[" line="90" column="54" />
@@ -79,25 +48,11 @@
       <file name="/a.sql" timestamp="1513160851033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxSSMIRequest.java" timestamp="1513321765703">
-        <mark key="'" line="711" column="4" />
-        <mark key="[" line="711" column="12" />
-        <mark key="." line="711" column="12" />
-      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513582935828">
         <mark key="[" line="90" column="37" />
         <mark key="]" line="90" column="48" />
         <mark key="." line="90" column="48" />
         <mark key="^" line="90" column="48" />
-      </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1513585825861">
-        <mark key="[" line="12" column="59" />
-        <mark key="]" line="12" column="69" />
-        <mark key="^" line="12" column="69" />
-        <mark key="." line="12" column="69" />
-      </file>
-      <file name="/pom.xml" timestamp="1513573193547">
-        <mark key="'" line="397" column="29" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" timestamp="1513579137994">
         <mark key="'" line="129" column="54" />
@@ -122,6 +77,57 @@
         <mark key="^" line="146" column="46" />
         <mark key="." line="146" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1513591713920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/java/com/fujixerox/imageLog/receiver/ImageLogReceiverServlet.java" timestamp="1513591169148">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="283" column="30" />
+        <mark key="^" line="91" column="80" />
+        <mark key="." line="91" column="80" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_common/pom.xml" timestamp="1513298528428">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513591447715">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_webUI_std/src/main/webapp/WEB-INF/web.xml" timestamp="1513300178940">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
+        <mark key="'" line="364" column="215" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" timestamp="1513578957170">
+        <mark key="'" line="27503" column="46" />
+        <mark key="[" line="27481" column="0" />
+        <mark key="]" line="27481" column="0" />
+        <mark key="^" line="1382" column="4" />
+        <mark key="." line="27481" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxSSMIRequest.java" timestamp="1513321765703">
+        <mark key="'" line="711" column="4" />
+        <mark key="[" line="711" column="12" />
+        <mark key="." line="711" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1513585825861">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="69" />
+        <mark key="^" line="12" column="69" />
+        <mark key="." line="12" column="69" />
+      </file>
+      <file name="/pom.xml" timestamp="1513573193547">
+        <mark key="'" line="397" column="29" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" timestamp="1513298349330">
         <mark key="'" line="58" column="24" />
         <mark key="[" line="11" column="18" />
@@ -131,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="862" column="34" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="1064" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="11" column="33" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="521" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
@@ -231,10 +236,11 @@
       <jump line="38" column="35" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/target/classes/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.class" />
       <jump line="1214" column="108" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/target/classes/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.class" />
       <jump line="1079" column="54" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/target/classes/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.class" />
+      <jump line="30" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsdWUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -357,19 +363,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWUg</text>
+        <text>orderResponse</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlsb2cuaW5mbygibmFtZSB7fSIsIGF0dHJpYnV0ZXMuZ2V0VmFsdWUoIm5hbWUiKSkK</text>
+        <text encoding="base64">CQkJU09BUE1lc3NhZ2Ugc29hcG1lc3NhZ2U7CgkJCXNvYXBtZXNzYWdlID0gbXNnRmFjdG9yeS5jcmVhdGVNZXNzYWdlKCk7CgkJCVNPQVBFbnZlbG9wZSBzb2FwZW52ZWxvcGUgPSBzb2FwbWVzc2FnZS5nZXRTT0FQUGFydCgpLmdldEVudmVsb3BlKCk7CgkJCVNPQVBCb2R5IHNvYXBib2R5ID0gc29hcGVudmVsb3BlLmdldEJvZHkoKTsKCQkJamF2YXgueG1sLnNvYXAuTmFtZSBuYW1lID0gc29hcGVudmVsb3BlLmNyZWF0ZU5hbWUoInN0YXR1cyIsICJuczAiLCAiaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwNS8wNi9lcm1hL2ltYWdlbG9nL3dzZGwiKTsKCQkJamF2YXgueG1sLnNvYXAuU09BUEJvZHlFbGVtZW50IHNvYXBib2R5ZWxlbWVudCA9IHNvYXBib2R5LmFkZEJvZHlFbGVtZW50KG5hbWUpOwoJCQlzb2FwYm9keWVsZW1lbnQuYWRkVGV4dE5vZGUocyk7CgkJCXJldHVybiBzb2FwbWVzc2FnZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWxvZy5pbmZvKCJ1cmkge30sIGxvY2FsbmFtZSB7fSwgcW5hbWUge30iLCB1cmksIGxvY2FsTmFtZSwgcU5hbWUpOwo=</text>
+        <text encoding="base64">CQlkb2N1bWVudC5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAic3RhdHVzIiwgInN1Y2Nlc3MiKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -496,22 +502,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBwcmludFNvYXBNZXNzYWdlKCkgewoJCVNPQVBNZXNzYWdlIHNvYXBtZXNzYWdlOwoJCVNPQVBFbnZlbG9wZSBzb2FwZW52ZWxvcGUgPSBzb2FwbWVzc2FnZS5nZXRTT0FQUGFydCgpLmdldEVudmVsb3BlKCk7CgkJU09BUEJvZHkgc29hcGJvZHkgPSBzb2FwZW52ZWxvcGUuZ2V0Qm9keSgpOwoJCWphdmF4LnhtbC5zb2FwLk5hbWUgbmFtZSA9IHNvYXBlbnZlbG9wZS5jcmVhdGVOYW1lKCJzdGF0dXMiLCAibnMwIiwgImh0dHA6Ly93d3cuZnVqaXhlcm94LmNvLmpwLzIwMDUvMDYvZXJtYS9pbWFnZWxvZy93c2RsIik7CgkJamF2YXgueG1sLnNvYXAuU09BUEJvZHlFbGVtZW50IHNvYXBib2R5ZWxlbWVudCA9IHNvYXBib2R5LmFkZEJvZHlFbGVtZW50KG5hbWUpOwoJCXNvYXBib2R5ZWxlbWVudC5hZGRUZXh0Tm9kZShzKTsKCQlyZXR1cm4gc29hcG1lc3NhZ2U7Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlsb2cuaW5mbygiYXR0cmlidXRlIG5hbWUgYXR0cmlidXRlIik7Cg==</text>
+        <text encoding="base64">CQlzb2FwbWVzc2FnZSA9IG1zZ0ZhY3RvcnkuY3JlYXRlTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlsb2cuaW5mbygidmFsdWUge30iLCBhdHRyaWJ1dGVzLmdldFZhbHVlKCJ2YWx1ZSIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlsb2cuaW5mbygibmFtZSB7fSIsIGF0dHJpYnV0ZXMuZ2V0VmFsdWUoIm5hbWUiKSk7Cg==</text>
+        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAiaXNEZWxpdmVyIiwgInRydWUiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIGVuZEVsZW1lbnQoU3RyaW5nIHVyaSwgU3RyaW5nIGxvY2FsTmFtZSwgU3RyaW5nIHFOYW1lKSB0aHJvd3MgU0FYRXhjZXB0aW9uIHsKCQkJCXN1cGVyLmVuZEVsZW1lbnQodXJpLCBsb2NhbE5hbWUsIHFOYW1lKTsKCQkJCQoJCQl9Cg==</text>
+        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAicHJpY2UiLCAiMjAwLjAwIikpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -527,10 +533,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAiY291bnRyeSIsICJJbmRpYSIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAiY2l0eSIsICJBaG1lZGFiYWQiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
