@@ -47,8 +47,8 @@
         <mark key="]" line="90" column="54" />
         <mark key="." line="90" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" timestamp="1513560698933">
-        <mark key="'" line="1587" column="16" />
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" timestamp="1513575609519">
+        <mark key="'" line="1861" column="16" />
         <mark key="[" line="1861" column="116" />
         <mark key="]" line="1861" column="132" />
         <mark key="^" line="1861" column="132" />
@@ -108,6 +108,9 @@
         <mark key="]" line="16" column="72" />
         <mark key="." line="16" column="72" />
         <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
+        <mark key="'" line="364" column="215" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" timestamp="1513573625496">
         <mark key="'" line="2885" column="29" />
@@ -212,7 +215,8 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/Install_Config.xml" timestamp="1513322095744">
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/Install_Config.xml" timestamp="1513576164160">
+        <mark key="'" line="364" column="215" />
         <mark key="[" line="36" column="57" />
         <mark key="]" line="36" column="55" />
         <mark key="^" line="36" column="55" />
@@ -273,7 +277,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513564043248">
+      <file name="/Dummy.txt" timestamp="1513575631474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/apw_workspace/taewon-imaging/src/main/webapp/WEB-INF/web.xml" timestamp="1503966085790">
@@ -358,13 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1216" column="31" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="927" column="24" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="580" column="54" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="1368" column="49" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="1332" column="32" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="398" column="19" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="31" column="28" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="400" column="28" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="1290" column="48" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="10" column="27" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
@@ -458,6 +455,13 @@
       <jump line="1380" column="23" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
       <jump line="2886" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
       <jump line="2885" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
+      <jump line="1581" column="82" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" />
+      <jump line="1587" column="16" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" />
+      <jump line="1861" column="16" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" />
+      <jump line="43" column="66" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/Install_Config.xml" />
+      <jump line="364" column="215" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/Install_Config.xml" />
+      <jump line="18" column="39" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" />
+      <jump line="364" column="215" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -587,7 +591,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>axis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8b3JnLmFwYWNoZS5odHRwY29tcG9uZW50cy5tYXZlbi5hcnRpZmFjdC52ZXJzaW9uPjQuMy4xPC9vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzLm1hdmVuLmFydGlmYWN0LnZlcnNpb24+Cg==</text>
@@ -764,16 +768,14 @@
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>axis</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>axis</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>microsoft</entry>
-        <entry>jxl</entry>
         <entry>jcifs</entry>
         <entry>httpCli</entry>
         <entry>cli</entry>
@@ -792,6 +794,8 @@
         <entry>build</entry>
         <entry>buildver</entry>
         <entry>main</entry>
+        <entry>capture</entry>
+        <entry>axis</entry>
       </history-search>
       <history-cmd>
         <entry>512</entry>
