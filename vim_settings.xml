@@ -48,7 +48,8 @@
       <file name="/a.sql" timestamp="1513160851033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513582935828">
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513593201311">
+        <mark key="'" line="60" column="35" />
         <mark key="[" line="90" column="37" />
         <mark key="]" line="90" column="48" />
         <mark key="." line="90" column="48" />
@@ -137,10 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1064" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="11" column="33" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="521" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="1057" column="23" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="1192" column="23" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="556" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="99" column="46" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
@@ -237,10 +234,14 @@
       <jump line="1214" column="108" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/target/classes/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.class" />
       <jump line="1079" column="54" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/target/classes/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.class" />
       <jump line="30" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
+      <jump line="74" column="4" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="73" column="12" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="60" column="35" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -363,19 +364,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>orderResponse</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJU09BUE1lc3NhZ2Ugc29hcG1lc3NhZ2U7CgkJCXNvYXBtZXNzYWdlID0gbXNnRmFjdG9yeS5jcmVhdGVNZXNzYWdlKCk7CgkJCVNPQVBFbnZlbG9wZSBzb2FwZW52ZWxvcGUgPSBzb2FwbWVzc2FnZS5nZXRTT0FQUGFydCgpLmdldEVudmVsb3BlKCk7CgkJCVNPQVBCb2R5IHNvYXBib2R5ID0gc29hcGVudmVsb3BlLmdldEJvZHkoKTsKCQkJamF2YXgueG1sLnNvYXAuTmFtZSBuYW1lID0gc29hcGVudmVsb3BlLmNyZWF0ZU5hbWUoInN0YXR1cyIsICJuczAiLCAiaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwNS8wNi9lcm1hL2ltYWdlbG9nL3dzZGwiKTsKCQkJamF2YXgueG1sLnNvYXAuU09BUEJvZHlFbGVtZW50IHNvYXBib2R5ZWxlbWVudCA9IHNvYXBib2R5LmFkZEJvZHlFbGVtZW50KG5hbWUpOwoJCQlzb2FwYm9keWVsZW1lbnQuYWRkVGV4dE5vZGUocyk7CgkJCXJldHVybiBzb2FwbWVzc2FnZTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHNvYXA6Ym9keSB1c2U9ImxpdGVyYWwiIG5hbWVzcGFjZT0iaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwNS8wNi9lcm1hL2ltYWdlbG9nL3dzZGwiLz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHNvYXA6b3BlcmF0aW9uIHNvYXBBY3Rpb249IiIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkb2N1bWVudC5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAic3RhdHVzIiwgInN1Y2Nlc3MiKSk7Cg==</text>
+        <text encoding="base64">CSAgICAgIDxzb2FwCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -502,22 +503,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBwcmludFNvYXBNZXNzYWdlKCkgewoJCVNPQVBNZXNzYWdlIHNvYXBtZXNzYWdlOwoJCVNPQVBFbnZlbG9wZSBzb2FwZW52ZWxvcGUgPSBzb2FwbWVzc2FnZS5nZXRTT0FQUGFydCgpLmdldEVudmVsb3BlKCk7CgkJU09BUEJvZHkgc29hcGJvZHkgPSBzb2FwZW52ZWxvcGUuZ2V0Qm9keSgpOwoJCWphdmF4LnhtbC5zb2FwLk5hbWUgbmFtZSA9IHNvYXBlbnZlbG9wZS5jcmVhdGVOYW1lKCJzdGF0dXMiLCAibnMwIiwgImh0dHA6Ly93d3cuZnVqaXhlcm94LmNvLmpwLzIwMDUvMDYvZXJtYS9pbWFnZWxvZy93c2RsIik7CgkJamF2YXgueG1sLnNvYXAuU09BUEJvZHlFbGVtZW50IHNvYXBib2R5ZWxlbWVudCA9IHNvYXBib2R5LmFkZEJvZHlFbGVtZW50KG5hbWUpOwoJCXNvYXBib2R5ZWxlbWVudC5hZGRUZXh0Tm9kZShzKTsKCQlyZXR1cm4gc29hcG1lc3NhZ2U7Cgl9Cg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzb2FwbWVzc2FnZSA9IG1zZ0ZhY3RvcnkuY3JlYXRlTWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8c29hcDpib2R5IHVzZT0ibGl0ZXJhbCIgbmFtZXNwYWNlPSJodHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbCIvPgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTwvbWltZTpwYXJ0PiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAiaXNEZWxpdmVyIiwgInRydWUiKSk7Cg==</text>
+        <text encoding="base64">CSAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAicHJpY2UiLCAiMjAwLjAwIikpOwo=</text>
+        <text encoding="base64">CTxtaW1lOnBhcnQ+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,10 +534,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAiY291bnRyeSIsICJJbmRpYSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxtaW1lOnBhcnQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXNwb25zZS5hcHBlbmRDaGlsZChhZGRFbGVtZW50V2l0aFZhbHVlKGRvY3VtZW50LCAiY2l0eSIsICJBaG1lZGFiYWQiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
