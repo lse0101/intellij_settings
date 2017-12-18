@@ -48,7 +48,7 @@
       <file name="/a.sql" timestamp="1513160851033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513593201311">
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513595932522">
         <mark key="'" line="60" column="35" />
         <mark key="[" line="90" column="37" />
         <mark key="]" line="90" column="48" />
@@ -94,11 +94,11 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513591447715">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513596665875">
+        <mark key="[" line="56" column="57" />
+        <mark key="]" line="56" column="56" />
+        <mark key="." line="56" column="56" />
+        <mark key="^" line="56" column="56" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_webUI_std/src/main/webapp/WEB-INF/web.xml" timestamp="1513300178940">
         <mark key="[" line="68" column="0" />
@@ -240,8 +240,8 @@
       <jump line="60" column="35" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -364,7 +364,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -373,10 +373,10 @@
         <text encoding="base64">PHNvYXA6Ym9keSB1c2U9ImxpdGVyYWwiIG5hbWVzcGFjZT0iaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwNS8wNi9lcm1hL2ltYWdlbG9nL3dzZGwiLz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNvYXA6b3BlcmF0aW9uIHNvYXBBY3Rpb249IiIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgIDxzb2FwCg==</text>
+        <text encoding="base64">CQlzb2FwTWVzc2FnZS5nZXRBdHRhY2htZW50cygpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -503,22 +503,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">CQl3aGlsZShzb2FwTWVzc2FnZS5nZXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c29hcDpib2R5IHVzZT0ibGl0ZXJhbCIgbmFtZXNwYWNlPSJodHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbCIvPgo=</text>
+        <text encoding="base64">CQlmb3IoQXR0YWNobWVudCBhdHRhY2htZW50IDogc29hcE1lc3NhZ2UuZ2V0QXR0YWNobWVudHMoKSkgewoJCQlsb2cuaW5mbyhhdHRhY2htZW50LmdldENvbnRlbnRUeXBlKCkpOwoJCX0K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTwvbWltZTpwYXJ0PiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxtaW1lOnBhcnQ+Cg==</text>
+        <text encoding="base64">CQlmb3IK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -534,10 +534,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtaW1lOnBhcnQgCg==</text>
+        <text encoding="base64">CQlTb2FwTWVzc2FnZSBzb2FwTWVzc2FnZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzb2FwTWVzc2FnZS5nZXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
