@@ -29,6 +29,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ResponseWebServiceStatus.java" timestamp="1513669308636">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/Install_Config.xml" timestamp="1513576164160">
         <mark key="'" line="364" column="215" />
         <mark key="[" line="36" column="57" />
@@ -42,6 +48,12 @@
         <mark key="]" line="1284" column="144" />
         <mark key="." line="1284" column="144" />
         <mark key="^" line="1284" column="144" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ResponseStatus.java" timestamp="1513668785774">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.sql" timestamp="1513160851033">
         <mark key="[" line="0" column="0" />
@@ -66,12 +78,6 @@
       <file name="/dummy.sql" timestamp="1513576901594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/imagelog/admintool/forwardRule/command/SetILRule.java" timestamp="1513567873266">
-        <mark key="'" line="11" column="54" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1513577209091">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="146" column="0" />
@@ -95,12 +101,12 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513663304450">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="49" column="108" />
-        <mark key="]" line="49" column="110" />
-        <mark key="^" line="49" column="110" />
-        <mark key="." line="49" column="110" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513669336482">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="57" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
@@ -235,8 +241,8 @@
       <jump line="39" column="8" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+&quot;.xml&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -359,7 +365,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>+&quot;.xml&quot;</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>close</text>
@@ -368,7 +374,7 @@
         <text encoding="base64">CQkJCQkJCUZpbGVzLmNvcHkoYS5nZXRJbnB1dFN0cmVhbSgpLCBQYXRocy5nZXQoImM6L3RlbXAvIikucmVzb2x2ZShpZCsiLnBkZiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCUZpbGVzLm5ld0J1ZmZlcmVkV3JpdGVyKFBhdGhzLmdldCgiYzovdGVtcC8iKS5yZXNvbHZlKGlkKyIueG1sIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -498,22 +504,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCXRyeShPdXRwdXRTdHJlYW0gb3V0cHV0U3RyZWFtIAoJCQkJCQkJCQkgICAgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShQYXRocy5nZXQoImM6L3RlbXAvIikucmVzb2x2ZShpZCsiLnBkZiIpLnRvU3RyaW5nKCkpKSB7Cg==</text>
+        <text encoding="base64">CQlEb2N1bWVudCBkb2N1bWVudCA9IERvY3VtZW50QnVpbGRlckZhY3RvcnkubmV3SW5zdGFuY2UoKS5uZXdEb2N1bWVudEJ1aWxkZXIoKS5uZXdEb2N1bWVudCgpOwoJCUVsZW1lbnQgcmVzcG9uc2UgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50TlMoImh0dHA6Ly93d3cuZnVqaXhlcm94LmNvLmpwLzIwMDUvMDYvZXJtYS9pbWFnZWxvZy93c2RsIiwgInN0YXR1cyIpOwoJCXJlc3BvbnNlLnNldFRleHRDb250ZW50KCJzdWNjZXNzIik7CgkJcmV0dXJuIHJlc3BvbnNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQlGaWxlcy5jb3B5KGEuZ2V0SW5wdXRTdHJlYW0oKSwgb3V0cHV0U3RyZWFtKTsK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCUZpbGVzLmNvcHkoKQo=</text>
+        <text encoding="base64">CQlSZXNwb25zZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -529,10 +535,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCUZpbGVzLm5ld0J1ZmZlcmVkV3JpdGVyKFBhdGhzLmdldCgiYzovdGVtcC8iKS5yZXNvbHZlKGlkKyIucGRmIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCUlPVXRpbHMuY29weSgpOwo=</text>
+        <text encoding="base64">CQlsb2cuZXJyb3IoIiMjIyBwdXRSZWNvcmQgIyMjIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
