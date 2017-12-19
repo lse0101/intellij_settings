@@ -6,6 +6,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_1.sql" timestamp="1513160784647">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/ws.jar!/schemas/wsdl11_mimebinding.xsd" timestamp="1513656884471">
+        <mark key="'" line="63" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
       </file>
@@ -33,11 +36,6 @@
         <mark key="^" line="36" column="55" />
         <mark key="." line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/target/secuhub.logmanager/WEB-INF/imageLogService.wsdl" timestamp="1513257119066">
-        <mark key="[" line="90" column="54" />
-        <mark key="]" line="90" column="54" />
-        <mark key="." line="90" column="54" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" timestamp="1513580145467">
         <mark key="'" line="1033" column="131" />
         <mark key="[" line="1284" column="129" />
@@ -48,12 +46,15 @@
       <file name="/a.sql" timestamp="1513160851033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513655758085">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="53" />
-        <mark key="]" line="76" column="67" />
-        <mark key="^" line="76" column="67" />
-        <mark key="." line="76" column="67" />
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" timestamp="1513659237925">
+        <mark key="'" line="2860" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1513658477695">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="68" />
+        <mark key="." line="76" column="68" />
+        <mark key="^" line="76" column="68" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" timestamp="1513579137994">
         <mark key="'" line="129" column="54" />
@@ -94,16 +95,11 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513656096190">
-        <mark key="[" line="41" column="46" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-      </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_webUI_std/src/main/webapp/WEB-INF/web.xml" timestamp="1513300178940">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513659874413">
+        <mark key="[" line="51" column="94" />
+        <mark key="]" line="51" column="96" />
+        <mark key="^" line="51" column="96" />
+        <mark key="." line="51" column="96" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
@@ -115,10 +111,8 @@
         <mark key="^" line="1382" column="4" />
         <mark key="." line="27481" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxSSMIRequest.java" timestamp="1513321765703">
-        <mark key="'" line="711" column="4" />
-        <mark key="[" line="711" column="12" />
-        <mark key="." line="711" column="12" />
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" timestamp="1513659322403">
+        <mark key="'" line="103" column="29" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1513585825861">
         <mark key="[" line="12" column="59" />
@@ -138,19 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1046" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="567" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="488" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="578" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="939" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="1367" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="468" column="20" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="470" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="1258" column="37" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="630" column="35" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="112" column="9" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="318" column="66" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="322" column="34" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="18" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="987" column="38" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
@@ -231,17 +212,30 @@
       <jump line="30" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
       <jump line="73" column="12" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="60" column="35" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
-      <jump line="70" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="65" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="94" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="23" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="63" column="52" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="74" column="30" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="63" column="20" filename="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/ws.jar!/schemas/wsdl11_mimebinding.xsd" />
+      <jump line="1" column="11" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="3" column="70" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="4" column="38" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="5" column="43" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="7" column="66" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="8" column="43" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="9" column="64" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="13" column="86" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="15" column="82" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="70" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="2860" column="15" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" />
+      <jump line="77" column="6" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" />
+      <jump line="103" column="29" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>pdf</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -364,19 +358,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>literal</text>
+        <text>pdf</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>close</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCTxzb2FwOmJvZHkgdXNlPSJsaXRlcmFsIiBuYW1lc3BhY2U9Imh0dHA6Ly93d3cuZnVqaXhlcm94LmNvLmpwLzIwMDUvMDYvZXJtYS9pbWFnZWxvZy93c2RsIi8+Cg==</text>
+        <text encoding="base64">CQkJCQkJCUZpbGVzLmNvcHkoYS5nZXRJbnB1dFN0cmVhbSgpLCBQYXRocy5nZXQoImM6L3RlbXAvIikucmVzb2x2ZShpZCsiLnBkZiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkuCg==</text>
+        <text encoding="base64">CQkJCQkJCUZpbGVzLm5ld0J1ZmZlcmVkV3JpdGVyKFBhdGhzLmdldCgiYzovdGVtcC8iKS5yZXNvbHZlKGlkKyIueG1sIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJPHNvYXA6Y29udGVudCBwYXJ0PSJjb250ZW50IiB0eXBlPSIiIG5hbWVzcGFjZT0iaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwNS8wNi9lcm1hL2ltYWdlbG9nL3dzZGwiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -503,22 +497,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCTwhLS08c29hcDpib2R5IHVzZT0ibGl0ZXJhbCIgbmFtZXNwYWNlPSJodHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbCIvPi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCXRyeShPdXRwdXRTdHJlYW0gb3V0cHV0U3RyZWFtIAoJCQkJCQkJCQkgICAgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShQYXRocy5nZXQoImM6L3RlbXAvIikucmVzb2x2ZShpZCsiLnBkZiIpLnRvU3RyaW5nKCkpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQlGaWxlcy5jb3B5KGEuZ2V0SW5wdXRTdHJlYW0oKSwgb3V0cHV0U3RyZWFtKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJCUZpbGVzLmNvcHkoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -534,26 +528,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgRWxlbWVudCBhZGRFbGVtZW50V2l0aFZhbHVlKERvY3VtZW50IGRvY3VtZW50LCBTdHJpbmcgZWxlbWVudCwgU3RyaW5nIHZhbHVlKXsKCQlFbGVtZW50IGNoaWxkID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudE5TKCJodHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbCIsIGVsZW1lbnQpOwoJCWNoaWxkLmFwcGVuZENoaWxkKGRvY3VtZW50LmNyZWF0ZVRleHROb2RlKHZhbHVlKSk7CgkJcmV0dXJuIGNoaWxkOwoJfQo=</text>
+        <text encoding="base64">CQkJCQkJCUZpbGVzLm5ld0J1ZmZlcmVkV3JpdGVyKFBhdGhzLmdldCgiYzovdGVtcC8iKS5yZXNvbHZlKGlkKyIucGRmIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCUlPVXRpbHMuY29weSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>close</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>close</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>token</entry>
-        <entry encoding="base64">XDxidWlsZFJldmlzaW9uXD4=</entry>
         <entry>buildV</entry>
         <entry>build</entry>
         <entry>buildver</entry>
@@ -572,6 +564,8 @@
         <entry>ws</entry>
         <entry>static cl</entry>
         <entry>class</entry>
+        <entry>wsdl</entry>
+        <entry>close</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
