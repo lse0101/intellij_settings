@@ -95,11 +95,12 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513659874413">
-        <mark key="[" line="51" column="94" />
-        <mark key="]" line="51" column="96" />
-        <mark key="^" line="51" column="96" />
-        <mark key="." line="51" column="96" />
+      <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513661065392">
+        <mark key="'" line="39" column="8" />
+        <mark key="[" line="51" column="108" />
+        <mark key="]" line="51" column="110" />
+        <mark key="^" line="51" column="110" />
+        <mark key="." line="51" column="110" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
@@ -132,8 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="34" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="18" column="8" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="987" column="38" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="985" column="36" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="644" column="51" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
@@ -232,10 +231,12 @@
       <jump line="2860" column="15" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" />
       <jump line="77" column="6" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" />
       <jump line="103" column="29" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" />
+      <jump line="49" column="93" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
+      <jump line="39" column="8" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pdf</text>
+        <text>+&quot;.xml&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -358,7 +359,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>pdf</text>
+        <text>+&quot;.xml&quot;</text>
       </register>
       <register name="/" type="4">
         <text>close</text>
