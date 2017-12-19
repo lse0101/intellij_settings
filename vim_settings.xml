@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" timestamp="1513680077949">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" timestamp="1513686336811">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="41" column="74" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_1.sql" timestamp="1513160784647">
         <mark key="[" line="0" column="0" />
@@ -74,6 +75,7 @@
         <mark key="." line="1284" column="144" />
         <mark key="^" line="1284" column="144" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/model/ImageLogPayloadBodyTest.java" timestamp="1513685302533" />
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ResponseStatus.java" timestamp="1513668785774">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -106,7 +108,7 @@
         <mark key="^" line="1330" column="23" />
         <mark key="." line="226" column="35" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/StringBufferInputStream.java" timestamp="1513681711731" />
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/StringBufferInputStream.java" timestamp="1513681780768" />
       <file name="/dummy.sql" timestamp="1513576901594">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,12 +128,12 @@
         <mark key="^" line="91" column="80" />
         <mark key="." line="91" column="80" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshallerTest.java" timestamp="1513680664432">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="48" />
-        <mark key="^" line="39" column="48" />
-        <mark key="." line="39" column="48" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshallerTest.java" timestamp="1513686870737">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="65" column="60" />
+        <mark key="]" line="65" column="76" />
+        <mark key="^" line="65" column="76" />
+        <mark key="." line="65" column="76" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_common/pom.xml" timestamp="1513298528428">
         <mark key="'" line="24" column="0" />
@@ -204,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="21" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="397" column="35" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="429" column="19" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="43" column="94" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="313" column="244" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
@@ -304,10 +304,12 @@
       <jump line="38" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshallerTest.java" />
       <jump line="163" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-xml/3.0.0.RELEASE/spring-xml-3.0.0.RELEASE.jar!/org/springframework/xml/transform/TraxUtils.class" />
       <jump line="163" column="17" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" />
+      <jump line="39" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" />
+      <jump line="44" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -430,19 +432,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>junit</text>
+        <text encoding="base64">XDxhdHRyTmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzdHJpbmdCdWlsZGVyLmFwcGVuZCgpOwo=</text>
+        <text encoding="base64">CQlJbWFnZUxvZ1NvYXBQYXlsb2FkIHNvYXBQYXlsb2FkID0gdW5tYXJzaGFsbGVyLnVubWFyc2hhbGxBdHRyaWJ1dGVzKHhtbFJlYWRlcik7CgoJCXZhbGlkYXRlTWFyc2hhbGxpbmcoc29hcFBheWxvYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldENsaWVudFR5cGUoKSwgaXMoIk1GUCIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldFByb3RvY29sVmVyc2lvbigpLCBpcygiMS4wLjAiKSk7CgkJYXNzZXJ0VGhhdChzb2FwUGF5bG9hZC5nZXREZXZpY2VIb3N0QWRkcmVzcygpLCBpcygiMTkyLjE2OC4xLjIwMCIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldERldmljZUhvc3ROYW1lKCksIGlzKCJGWC1CNjI1MzMiKSk7CgkJYXNzZXJ0VGhhdChzb2FwUGF5bG9hZC5nZXRTZXJpYWxOdW1iZXIoKSwgaXMoIjc5MjAzMyIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldFJlY2VpdmVkVGltZSgpLCBpcygiMjAxMy0wMy0xOFQxMjowMDowNCswOTowMCIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldENvbnRlbnRzQ291bnQoKSwgIGlzKCIxIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -569,22 +571,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCVN0cmluZyBhdHRyTmFtZSA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXN0cmluZ0J1aWxkZXIuYXBwZW5kKCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQl4bWxFdmVudCA9IHhtbEV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQl4bWxFdmVudCA9IHhtbEV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzdHJpbmdCdWlsZGVyLmFwcGVuZCgiIik7CgkJc3RyaW5nQnVpbGRlci5hcHBlbmQoKTsKCQlzdHJpbmdCdWlsZGVyLmFwcGVuZCgpOwoJCXN0cmluZ0J1aWxkZXIuYXBwZW5kKCk7CgkJc3RyaW5nQnVpbGRlci5hcHBlbmQoKTsKCQlzdHJpbmdCdWlsZGVyLmFwcGVuZCgpOwoJCXN0cmluZ0J1aWxkZXIuYXBwZW5kKCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQl4bWxFdmVudCA9IHhtbEV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQl4bWxFdmVudCA9IHhtbEV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -600,25 +602,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBCZWZvcmVDbGFzcwo=</text>
+        <text encoding="base64">CQkJCQkJCQl4bWxFdmVudCA9IHhtbEV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBYbWxWYWx1ZQo=</text>
+        <text encoding="base64">CQkJCQkJCQl4bWxFdmVudCA9IHhtbEV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>junit</last-search>
+      <last-search encoding="base64">XDxhdHRyTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>junit</last-pattern>
+      <last-pattern encoding="base64">XDxhdHRyTmFtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry>buildver</entry>
         <entry>main</entry>
         <entry>capture</entry>
@@ -638,6 +639,7 @@
         <entry>wsdl</entry>
         <entry>close</entry>
         <entry>junit</entry>
+        <entry encoding="base64">XDxhdHRyTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
