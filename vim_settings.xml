@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1513748887516">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1513749422125">
-        <mark key="'" line="71" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1513751073425">
+        <mark key="'" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
@@ -64,11 +64,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" timestamp="1513749369128">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" timestamp="1513751344802">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="88" />
+        <mark key="^" line="23" column="88" />
+        <mark key="." line="23" column="88" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" timestamp="1513686336811">
         <mark key="'" line="44" column="24" />
@@ -143,6 +143,9 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="42" column="16" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" timestamp="1513750930564">
+        <mark key="'" line="371" column="30" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/Constants.java" timestamp="1513675662996">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="102" />
@@ -151,6 +154,9 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" timestamp="1513659322403">
         <mark key="'" line="103" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.class" timestamp="1513750859455">
+        <mark key="'" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1513585825861">
         <mark key="[" line="12" column="59" />
@@ -166,11 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="50" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="306" column="91" filename="/pom.xml" />
-      <jump line="397" column="29" filename="/pom.xml" />
-      <jump line="51" column="34" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="57" column="56" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="148" column="49" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
       <jump line="87" column="48" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
       <jump line="120" column="93" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
@@ -266,10 +267,15 @@
       <jump line="61" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/converter/ActivationMediaTypeFactory.class" />
       <jump line="21" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/FileTypeMap.class" />
       <jump line="71" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="305" column="54" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" />
+      <jump line="70" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="26" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="30" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.class" />
+      <jump line="371" column="30" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>&quot;readme.xml&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -392,10 +398,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>&quot;readme.xml&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>extension</text>
+        <text>exten</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLnhtbDwvaW5jbHVkZT4K</text>
@@ -572,15 +578,14 @@
       </register>
     </registers>
     <search>
-      <last-search>extension</last-search>
+      <last-search>exten</last-search>
       <last-offset />
-      <last-pattern>extension</last-pattern>
+      <last-pattern>exten</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>capture</entry>
         <entry>N</entry>
         <entry>N\/A</entry>
@@ -600,6 +605,7 @@
         <entry>junit</entry>
         <entry encoding="base64">XDxhdHRyTmFtZVw+</entry>
         <entry>extension</entry>
+        <entry>exten</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
