@@ -70,18 +70,18 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" timestamp="1513755351169">
-        <mark key="'" line="11" column="21" />
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="26" column="56" />
-        <mark key="." line="26" column="56" />
-        <mark key="^" line="26" column="56" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" timestamp="1513758561221">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtil.java" timestamp="1513755047465">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="61" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="26" column="43" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtil.java" timestamp="1513758528479">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="26" column="55" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" timestamp="1513686336811">
         <mark key="'" line="44" column="24" />
@@ -150,11 +150,10 @@
         <mark key="^" line="91" column="80" />
         <mark key="." line="91" column="80" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513755986951">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="36" column="47" />
-        <mark key="." line="38" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513757189026">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" timestamp="1513750930564">
         <mark key="'" line="371" column="30" />
@@ -287,8 +286,8 @@
       <jump line="11" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>contentType.trim()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -411,13 +410,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>Mime</text>
+        <text>contentType.trim()</text>
       </register>
       <register name="/" type="4">
         <text>xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KGZpbGVFeHRGcm9tQ29udGVudFR5cGUoImFwcGxpY2F0aW9uL3htbCIpLCBpcygieG1sIikpOwoJCWFzc2VydFRoYXQoZmlsZUV4dEZyb21Db250ZW50VHlwZSgidGV4dC94bWwiKSwgaXMoInhtbCIpKTsKCQlhc3NlcnRUaGF0KGZpbGVFeHRGcm9tQ29udGVudFR5cGUoImFwcGxpY2F0aW9uL3BkZiIpLCBpcygicGRmIikpOwoJCWFzc2VydFRoYXQoZmlsZUV4dEZyb21Db250ZW50VHlwZSgiaW1hZ2UvdGlmZiIpLCBpcygidGlmIikpOwoJCWFzc2VydFRoYXQoZmlsZUV4dEZyb21Db250ZW50VHlwZSgiaW1hZ2UveC10aWZmIiksIGlzKCJ0aWYiKSk7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0KGV4dHJhY3RDb250ZW50VHlwZSgiIGFwcGxpY2F0aW9uL3htbDsgICAgIGNoYXJzZXQ9dXMtYXNjaWk7IiksIGlzKCJhcHBsaWNhdGlvbi94bWwiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -550,22 +549,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzb2FwTWVzc2FnZS5nZXRTb2FwQm9keSgpLgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KGZpbGVFeHRGcm9tQ29udGVudFR5cGUoIiIpKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -581,10 +580,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkvKioKCSAqCgkgKiBAcGFyYW0gcwoJICogQHJldHVybgoJICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlleHRNYXAucHV0KCJhcHBsaWNhdGlvbi8iKQo=</text>
+        <text encoding="base64">CQlPYmplY3RzLnJlcXVpcmVOb25OdWxsKGNvbnRlbnRUeXBlKTsKCQlPYmplY3RzLnJlcXVpcmVOb25OdWxsKGV4dE1hcC5nZXQoY29udGVudFR5cGUudHJpbSgpKSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
