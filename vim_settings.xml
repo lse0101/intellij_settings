@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1513748887516">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1513751073425">
-        <mark key="'" line="26" column="23" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1513752640504">
+        <mark key="'" line="53" column="50" />
       </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
@@ -48,6 +48,12 @@
         <mark key="^" line="66" column="59" />
         <mark key="." line="66" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" timestamp="1513752919201">
+        <mark key="'" line="231" column="10" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/MimeType.class" timestamp="1513752654827">
+        <mark key="'" line="146" column="28" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/transform/stream/StreamSource.java" timestamp="1513681051436" />
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/model/ImageLogPayloadBodyTest.java" timestamp="1513679310066">
         <mark key="[" line="21" column="0" />
@@ -64,11 +70,17 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" timestamp="1513751344802">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="88" />
-        <mark key="^" line="23" column="88" />
-        <mark key="." line="23" column="88" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" timestamp="1513752330612">
+        <mark key="[" line="20" column="91" />
+        <mark key="]" line="20" column="91" />
+        <mark key="." line="20" column="91" />
+        <mark key="^" line="20" column="75" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtil.java" timestamp="1513753429797">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="43" />
+        <mark key="^" line="25" column="43" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" timestamp="1513686336811">
         <mark key="'" line="44" column="24" />
@@ -137,11 +149,10 @@
         <mark key="^" line="91" column="80" />
         <mark key="." line="91" column="80" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513748286319">
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="42" column="16" />
-        <mark key="^" line="42" column="16" />
-        <mark key="." line="42" column="16" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513752800125">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" timestamp="1513750930564">
         <mark key="'" line="371" column="30" />
@@ -172,16 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="49" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" />
-      <jump line="87" column="48" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="120" column="93" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="122" column="53" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="130" column="60" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" />
-      <jump line="204" column="42" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
-      <jump line="250" column="34" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
-      <jump line="640" column="42" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
-      <jump line="673" column="39" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
-      <jump line="1057" column="40" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
       <jump line="1380" column="23" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
       <jump line="2886" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
       <jump line="2885" column="29" filename="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/application/SophiaExternalAuthenticationApplication.java" />
@@ -272,10 +273,20 @@
       <jump line="26" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
       <jump line="30" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.class" />
       <jump line="371" column="30" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" />
+      <jump line="169" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="34" column="67" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="48" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="49" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="50" column="56" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="51" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="52" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="53" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
+      <jump line="146" column="28" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/MimeType.class" />
+      <jump line="231" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;readme.xml&quot;</text>
+        <text>null</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -398,19 +409,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;readme.xml&quot;</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>exten</text>
+        <text>xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLnhtbDwvaW5jbHVkZT4K</text>
+        <text encoding="base64">CQlleHRNYXAucHV0KCJ0ZXh0L3htbCIsICJ4bWwiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CgkvKioKCSAqCgkgKiBAcGFyYW0gcwoJICogQHJldHVybgoJICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgRWxlbWVudCAK</text>
+        <text encoding="base64">CQlleHRNYXAucHV0KCJhcHBsaWNhdGlvbi8iKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -537,22 +548,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlNZWRpYVR5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLmphdmE8L2luY2x1ZGU+Cg==</text>
+        <text encoding="base64">CQlNZWRpYVR5cGUK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CS8qKgoJICogPHByZT4KCSAqICAgICAKCSAqIDwvcHJlPgoJICogQHBhcmFtIHNvdXJjZQoJICogQHBhcmFtIHNvYXBNZXNzYWdlCgkgKiBAcmV0dXJuCgkgKiBAdGhyb3dzIElPRXhjZXB0aW9uCgkgKiBAdGhyb3dzIFBhcnNlckNvbmZpZ3VyYXRpb25FeGNlcHRpb24KCSAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldENsaWVudFR5cGUoKSwgaXMoIk1GUCIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldFByb3RvY29sVmVyc2lvbigpLCBpcygiMS4wLjAiKSk7CgkJYXNzZXJ0VGhhdChzb2FwUGF5bG9hZC5nZXREZXZpY2VIb3N0QWRkcmVzcygpLCBpcygiMTkyLjE2OC4xLjIwMCIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldERldmljZUhvc3ROYW1lKCksIGlzKCJGWC1CNjI1MzMiKSk7CgkJYXNzZXJ0VGhhdChzb2FwUGF5bG9hZC5nZXRTZXJpYWxOdW1iZXIoKSwgaXMoIjc5MjAzMyIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldFJlY2VpdmVkVGltZSgpLCBpcygiMjAxMy0wMy0xOFQxMjowMDowNCswOTowMCIpKTsKCQlhc3NlcnRUaGF0KHNvYXBQYXlsb2FkLmdldENvbnRlbnRzQ291bnQoKSwgIGlzKCIxIikpOwo=</text>
+        <text encoding="base64">CS8qKiAqIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -568,28 +579,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBhdHRyTmFtZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exten</last-search>
+      <last-search>xml</last-search>
       <last-offset />
-      <last-pattern>exten</last-pattern>
+      <last-pattern>xml</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>capture</entry>
-        <entry>N</entry>
-        <entry>N\/A</entry>
-        <entry>include</entry>
         <entry encoding="base64">XDxGVk9cPg==</entry>
         <entry>FVO</entry>
         <entry>compil</entry>
@@ -606,6 +613,10 @@
         <entry encoding="base64">XDxhdHRyTmFtZVw+</entry>
         <entry>extension</entry>
         <entry>exten</entry>
+        <entry>tiff</entry>
+        <entry>tif</entry>
+        <entry>image</entry>
+        <entry>xml</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
