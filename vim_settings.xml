@@ -211,10 +211,8 @@
         <mark key="." line="35" column="4" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/FileExtensionOfMimeTypeUtil.java" timestamp="1513748882823" />
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1513729122351">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
+        <mark key="'" line="44" column="13" />
       </file>
       <file name="/dummy.sql" timestamp="1513576901594">
         <mark key="[" line="0" column="0" />
@@ -242,11 +240,11 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513771311255">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513772901493">
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="67" column="42" />
+        <mark key="." line="67" column="42" />
+        <mark key="^" line="70" column="58" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" timestamp="1513750930564">
         <mark key="'" line="371" column="30" />
@@ -282,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="61" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
       <jump line="182" column="61" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
       <jump line="181" column="61" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
       <jump line="180" column="61" filename="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
@@ -382,6 +379,7 @@
       <jump line="1334" column="18" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" />
       <jump line="1330" column="30" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" />
       <jump line="1300" column="13" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" />
+      <jump line="44" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -508,19 +506,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>{}에 수신받은 이미지로그를 기록합니다.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5XD4=</text>
+        <text>Attach</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbyhJT1V0aWxzLnRvU3RyaW5nKHNvdXJjZS5nZXRJbnB1dFN0cmVhbSgpLCAiVVRGLTgiKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>tmpPath.resolve(fileName)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly8JCWxvZy5pbmZvKElPVXRpbHMudG9TdHJpbmcoc291cmNlLmdldElucHV0U3RyZWFtKCksICJVVEYtOCIpKTsKCi8qCQlJdGVyYWJsZTxBdHRhY2htZW50PiBpdCA9ICgpIC0+IHNvYXBNZXNzYWdlLmdldEF0dGFjaG1lbnRzKCk7CgkJU3RyZWFtU3VwcG9ydAoJCQkJLnN0cmVhbShpdC5zcGxpdGVyYXRvcigpLCBmYWxzZSkKCQkJCS5mb3JFYWNoKGEgLT4gewoJCQkJCWxvZy5pbmZvKGEuZ2V0Q29udGVudElkKCkpOwoJCQkJCWxvZy5pbmZvKGEuZ2V0Q29udGVudFR5cGUoKSk7CgoJCQkJCVN0cmluZyBpZCA9IGEuZ2V0Q29udGVudElkKCk7CgkJCQkJU3RyaW5nIGNvbnRlbnR0eXBlID0gYS5nZXRDb250ZW50VHlwZSgpOwoKCQkJCQl0cnkgewoJCQkJCQlpZihjb250ZW50dHlwZS5lcXVhbHMoImFwcGxpY2F0aW9uL3BkZiIpKSB7CgkJCQkJCQlGaWxlcy5jb3B5KGEuZ2V0SW5wdXRTdHJlYW0oKSwgUGF0aHMuZ2V0KCJjOi90ZW1wLyIpLnJlc29sdmUoaWQrIi5wZGYiKSwgUkVQTEFDRV9FWElTVElORyk7CgkJCQkJCX0gZWxzZSB7CgkJCQkJCQlGaWxlcy5jb3B5KGEuZ2V0SW5wdXRTdHJlYW0oKSwgUGF0aHMuZ2V0KCJjOi90ZW1wLyIpLnJlc29sdmUoaWQucmVwbGFjZUFsbCgiPHw+IiwiIikpLCBSRVBMQUNFX0VYSVNUSU5HKTsKCQkJCQkJfQoJCQkJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKLy8JCQkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQkJCX0KCQkJCX0pOyovCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -647,22 +645,24 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0cnkoT3V0cHV0U3RyZWFtICkK</text>
+        <text encoding="base64">CQkJKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQkKCQl9Cg==</text>
+      <register name="4" type="4">
+        <text>format(&quot;%s.$s&quot;,
+							attachment.getContentId(),
+							fileExtFromContentType(attachment.getContentType())</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlJT3V0aWxzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlPdXRwdXRTdHJlYW0gYnl0ZU91dHB1dFN0cmVhbSA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsK</text>
+        <text encoding="base64">CQlsb2cuaW5mbygie32/oSB7fcC7ILHit8/H1bTPtNkuIiwgdG1wUGF0aC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -678,25 +678,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbyhJT1V0aWxzLnRvU3RyaW5nKHNvdXJjZS5nZXRJbnB1dFN0cmVhbSgpLCAiVVRGLTgiKSk7Cg==</text>
+        <text encoding="base64">CQlsb2cuaW5mbygie32/oSB7fcC7ILHit8/H1bTPtNkuIiwgdG1wUGF0aC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3B5XD4=</last-search>
+      <last-search>Attach</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Attach</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1.6</entry>
         <entry>axis</entry>
         <entry>ws</entry>
         <entry>static cl</entry>
@@ -716,6 +715,7 @@
         <entry encoding="base64">XDxpblw+</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxjb3B5XD4=</entry>
+        <entry>Attach</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
