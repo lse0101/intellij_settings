@@ -12,11 +12,11 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-configuration.xml" timestamp="1514261844489">
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-configuration.xml" timestamp="1514272433790">
+        <mark key="'" line="23" column="33" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1513748887516">
         <mark key="[" line="0" column="0" />
@@ -68,10 +68,11 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514262725191">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514272423358">
+        <mark key="'" line="15" column="22" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-users.xml" timestamp="1514255843353">
         <mark key="[" line="1" column="46" />
@@ -270,10 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2039" column="20" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="2129" column="16" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="1276" column="0" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="2150" column="44" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="105" column="27" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="249" column="24" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="454" column="126" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
@@ -370,10 +367,14 @@
       <jump line="414" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="422" column="48" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="2151" column="35" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
+      <jump line="14" column="5" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" />
+      <jump line="15" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" />
+      <jump line="14" column="14" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-configuration.xml" />
+      <jump line="23" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-configuration.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>%logger.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -499,16 +500,16 @@
         <text>%logger.</text>
       </register>
       <register name="/" type="4">
-        <text>connection</text>
+        <text>queue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmxvZ2JhY2tDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+Y2xhc3NwYXRoOmNvbmYvbG9nYmFjay54bWw8L3BhcmFtLXZhbHVlPgogICAgPC9jb250ZXh0LXBhcmFtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8cm9sbGluZ1BvbGljeSBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlRpbWVCYXNlZFJvbGxpbmdQb2xpY3kiPgoJCQk8ZmlsZU5hbWVQYXR0ZXJuPiR7TE9HLURJUn0vY2xvdWR1aS4lZHt5eXl5LU1NLWRkfS5sb2cuemlwPC9maWxlTmFtZVBhdHRlcm4+CgkJCTxtYXhIaXN0b3J5PjMwPC9tYXhIaXN0b3J5PgoJCTwvcm9sbGluZ1BvbGljeT4K</text>
+        <text encoding="base64">CSAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgPAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -635,22 +636,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxwcm9wZXJ0eSBuYW1lPSJMT0ctRElSIiB2YWx1ZT0iL1VzZXJzL2h5dW5taW4ua2ltL0lkZWFQcm9qZWN0cy9pbmN1YmF0aW5nL2xvZ3Mvd2ViL2FnZW50Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgIDxjb24gCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">CQk8cm9sbGluZ1BvbGljeSBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlRpbWVCYXNlZFJvbGxpbmdQb2xpY3kiPgoJCQk8ZmlsZU5hbWVQYXR0ZXJuPiR7TE9HLURJUn0vY2xvdWR1aS4lZHt5eXl5LU1NLWRkfS5sb2cuemlwPC9maWxlTmFtZVBhdHRlcm4+CgkJCTxtYXhIaXN0b3J5PjMwPC9tYXhIaXN0b3J5PgoJCTwvcm9sbGluZ1BvbGljeT4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldENvbm5lY3Rpb25GYWN0b3J5KENvbm5lY3Rpb25GYWN0b3J5IGNvbm5lY3Rpb25GYWN0b3J5KSB7CgkJdGhpcy5jb25uZWN0aW9uRmFjdG9yeSA9IGNvbm5lY3Rpb25GYWN0b3J5OwoJfQo=</text>
+        <text encoding="base64">CTxwcm9wZXJ0eSBuYW1lPSJMT0ctRElSIiB2YWx1ZT0iL1VzZXJzL2h5dW5taW4ua2ltL0lkZWFQcm9qZWN0cy9pbmN1YmF0aW5nL2xvZ3Mvd2ViL2FnZW50Ii8+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -666,26 +667,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNsYXNzcGF0aDovY29uZmlnL3NwcmluZy1qbXMtYmVhbnMueG1sCg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name=":" type="4">
         <text>1959</text>
       </register>
     </registers>
     <search>
-      <last-search>connection</last-search>
+      <last-search>queue</last-search>
       <last-offset />
-      <last-pattern>connection</last-pattern>
+      <last-pattern>queue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>queueFa</entry>
-        <entry>QeueueImpl</entry>
         <entry>QueueImpl</entry>
         <entry>queueFactory</entry>
         <entry encoding="base64">XDxleGVjdXRvckZhY3RvcnlcPg==</entry>
@@ -704,6 +703,8 @@
         <entry encoding="base64">XDxkZWxpdmVyUnVubmVyXD4=</entry>
         <entry encoding="base64">XDxkZWxpdmVyXD4=</entry>
         <entry>connection</entry>
+        <entry encoding="base64">XDxxdWV1ZVw+</entry>
+        <entry>queue</entry>
       </history-search>
       <history-cmd>
         <entry>set vim-surround</entry>
