@@ -12,13 +12,13 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1513752640504">
         <mark key="'" line="53" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" timestamp="1514253227574">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" timestamp="1514254284221">
         <mark key="a" line="196" column="21" />
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="197" column="37" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="^" line="209" column="37" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
@@ -234,11 +234,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1514253254342">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-        <mark key="^" line="38" column="4" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1514254311127">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+        <mark key="^" line="48" column="4" />
       </file>
       <file name="/dummy.sql" timestamp="1513576901594">
         <mark key="[" line="0" column="0" />
@@ -293,6 +293,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/spring-jms-beans.xml" timestamp="1514254421865" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" timestamp="1513659322403">
         <mark key="'" line="103" column="29" />
       </file>
@@ -539,19 +540,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>2.4.7.Final</text>
       </register>
       <register name="/" type="4">
-        <text>.ws</text>
+        <text>connection</text>
       </register>
-      <register name="0" type="4">
-        <text>ImageLogParser</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJPCEtLSBtZXNzYWdlIHF1ZXVlIC0tPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -678,22 +679,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5ob3JuZXRxL2hvcm5ldHEtc3ByaW5nLWludGVncmF0aW9uIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJc3ByaW5nLXdzCgkJCTwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuaG9ybmV0cS9ob3JuZXRxLXNlcnZlciAtLT4K</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5ob3JuZXRxL2hvcm5ldHEtam1zLXNlcnZlciAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -709,7 +710,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -719,15 +720,14 @@
       </register>
     </registers>
     <search>
-      <last-search>.ws</last-search>
+      <last-search>connection</last-search>
       <last-offset />
-      <last-pattern>.ws</last-pattern>
+      <last-pattern>connection</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extension</entry>
         <entry>exten</entry>
         <entry>tiff</entry>
         <entry>tif</entry>
@@ -747,6 +747,7 @@
         <entry>static</entry>
         <entry encoding="base64">XDxzb2FwTWVzc2FnZVw+</entry>
         <entry>.ws</entry>
+        <entry>connection</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
