@@ -12,6 +12,14 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1513752640504">
         <mark key="'" line="53" column="50" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" timestamp="1514253227574">
+        <mark key="a" line="196" column="21" />
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="197" column="37" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
       </file>
@@ -226,6 +234,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1514253254342">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+      </file>
       <file name="/dummy.sql" timestamp="1513576901594">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,12 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
-      <jump line="63" column="20" filename="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/ws.jar!/schemas/wsdl11_mimebinding.xsd" />
-      <jump line="1" column="11" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
-      <jump line="3" column="70" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
-      <jump line="4" column="38" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
-      <jump line="5" column="43" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="7" column="66" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="8" column="43" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="9" column="64" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
@@ -399,10 +407,16 @@
       <jump line="34" column="85" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
       <jump line="37" column="59" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
       <jump line="46" column="73" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
+      <jump line="186" column="44" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="187" column="34" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="188" column="46" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="42" column="66" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="194" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="48" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -525,19 +539,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb2FwTWVzc2FnZVw+</text>
+        <text>.ws</text>
       </register>
       <register name="0" type="4">
         <text>ImageLogParser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0aGlzLnhtbElucHV0RmFjdG9yeSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgSW1hZ2VMb2dQYXJzZXIoKSB7CgkJdGhpcy54bWxJbnB1dEZhY3RvcnkgPSAKCX0K</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -664,22 +678,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgSW1hZ2VMb2dQYXJzZXIgdW5tYXJzaGFsbGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTdHJpbmcgCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJc3ByaW5nLXdzCgkJCTwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuaG9ybmV0cS9ob3JuZXRxLXNlcnZlciAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -695,7 +709,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlNZXRob2QgbWV0aG9kID0gbnVsbDsKCQlGdW5jdGlvbjxNZXRob2QsIEZ1bmN0aW9uPFN0cmluZywgU3RyaW5nPj4gdGFyZ2V0RnVuYyA9IG51bGw7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -705,15 +719,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb2FwTWVzc2FnZVw+</last-search>
+      <last-search>.ws</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb2FwTWVzc2FnZVw+</last-pattern>
+      <last-pattern>.ws</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyTmFtZVw+</entry>
         <entry>extension</entry>
         <entry>exten</entry>
         <entry>tiff</entry>
@@ -733,6 +746,7 @@
         <entry>Paths</entry>
         <entry>static</entry>
         <entry encoding="base64">XDxzb2FwTWVzc2FnZVw+</entry>
+        <entry>.ws</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
