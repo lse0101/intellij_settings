@@ -6,6 +6,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
         <mark key="'" line="318" column="35" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1514255935027">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1513748887516">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +75,12 @@
         <mark key="]" line="25" column="57" />
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-users.xml" timestamp="1514255843353">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20/pom.xml" timestamp="1513579137994">
         <mark key="'" line="129" column="54" />
@@ -149,6 +161,7 @@
         <mark key="^" line="37" column="32" />
         <mark key="." line="37" column="32" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1514256505937" />
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_parent_web/pom.xml" timestamp="1513298349330">
         <mark key="'" line="58" column="24" />
         <mark key="[" line="11" column="18" />
@@ -279,10 +292,22 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1513823416777">
         <mark key="'" line="81" column="38" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-jms.xml" timestamp="1514256027012">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/Constants.java" timestamp="1513815227058">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/spring-jms-beans.xml" timestamp="1514256251429">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="67" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/Constants.java" timestamp="1513675662996">
         <mark key="[" line="11" column="49" />
@@ -314,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="66" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="8" column="43" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="9" column="64" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
       <jump line="13" column="86" filename="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
@@ -414,10 +438,11 @@
       <jump line="42" column="66" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="194" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="48" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="2" column="15" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-jms.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-3.0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -540,13 +565,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>2.4.7.Final</text>
+        <text>-3.0</text>
       </register>
       <register name="/" type="4">
         <text>connection</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJPCEtLSBtZXNzYWdlIHF1ZXVlIC0tPgo=</text>
+      <register name="0" type="4">
+        <text>/schema/hornetq-configuration.xsd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -843,6 +868,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
