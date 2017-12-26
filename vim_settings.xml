@@ -44,6 +44,12 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="23" column="32" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_agent/src/main/resources/conf/logback.xml" timestamp="1514267157786">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" timestamp="1513580145467">
         <mark key="'" line="1033" column="131" />
         <mark key="[" line="1284" column="129" />
@@ -134,6 +140,10 @@
         <mark key="." line="33" column="19" />
         <mark key="^" line="33" column="18" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_agent/src/main/webapp/WEB-INF/web.xml" timestamp="1514266635923">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="19" />
+      </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1513675778507">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="31" column="146" />
@@ -182,11 +192,11 @@
         <mark key="." line="76" column="37" />
         <mark key="^" line="76" column="37" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1514263980091">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1514266671505">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1514263785732">
         <mark key="[" line="7" column="0" />
@@ -288,11 +298,19 @@
         <mark key="^" line="146" column="46" />
         <mark key="." line="146" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1514267250487">
+        <mark key="'" line="983" column="57" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/testImageLogFile/AWILS2_Recv_WEB/src/main/java/com/fujixerox/imageLog/receiver/ImageLogReceiverServlet.java" timestamp="1513591169148">
         <mark key="[" line="276" column="0" />
         <mark key="]" line="283" column="30" />
         <mark key="^" line="91" column="80" />
         <mark key="." line="91" column="80" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/logback.xml" timestamp="1514266737610">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Development/secu_hub/secuHub/secuhub_common/pom.xml" timestamp="1513298528428">
         <mark key="'" line="24" column="0" />
@@ -359,31 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-xml/3.0.0.RELEASE/spring-xml-3.0.0.RELEASE.jar!/org/springframework/xml/transform/TraxUtils.class" />
-      <jump line="163" column="17" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" />
-      <jump line="39" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" />
-      <jump line="44" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshaller.java" />
-      <jump line="72" column="9" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogUnmarshallerTest.java" />
-      <jump line="318" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" />
-      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/converter/ActivationMediaTypeFactory.class" />
-      <jump line="61" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/converter/ActivationMediaTypeFactory.class" />
-      <jump line="21" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/FileTypeMap.class" />
-      <jump line="71" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="305" column="54" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" />
-      <jump line="70" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="26" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="30" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.class" />
-      <jump line="371" column="30" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" />
-      <jump line="169" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="34" column="67" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="48" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="49" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="50" column="56" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="51" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="52" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="53" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/MediaType.class" />
-      <jump line="146" column="28" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/MimeType.class" />
-      <jump line="231" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" />
       <jump line="20" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" />
       <jump line="11" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/util/MimeTypeMapUtilTest.java" />
       <jump line="31" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
@@ -459,10 +452,35 @@
       <jump line="94" column="49" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="158" column="34" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="148" column="89" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" />
+      <jump line="536" column="32" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="538" column="32" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="572" column="40" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="585" column="44" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="634" column="40" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="622" column="71" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="1317" column="47" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="2151" column="47" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="2160" column="51" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="2212" column="59" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="2221" column="63" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="274" column="39" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="283" column="39" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="492" column="48" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="815" column="23" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="816" column="26" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="819" column="28" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="820" column="33" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="827" column="60" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="833" column="23" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="974" column="8" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="156" column="47" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="164" column="21" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="807" column="11" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
+      <jump line="983" column="57" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jms.queue.</text>
+        <text>%logger.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -585,19 +603,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>jms.queue.</text>
+        <text>%logger.</text>
       </register>
       <register name="/" type="4">
-        <text>jms</text>
+        <text>Queue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8aW5pdC1wYXJhbT4KCQkJPHBhcmFtLW5hbWU+Y29udGV4dENvbmZpZ0xvY2F0aW9uPC9wYXJhbS1uYW1lPgoJCQk8cGFyYW0tdmFsdWU+CgkJCQljbGFzc3BhdGg6L2NvbmZpZy93cy1kaXNwYXRjaGVyLnhtbAoJCQkJY2xhc3NwYXRoOi9jb25maWcvc3ByaW5nLWptcy1iZWFucy54bWwKCQkJPC9wYXJhbS12YWx1ZT4KCQk8L2luaXQtcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmxvZ2JhY2tDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+Y2xhc3NwYXRoOmNvbmYvbG9nYmFjay54bWw8L3BhcmFtLXZhbHVlPgogICAgPC9jb250ZXh0LXBhcmFtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CQk8cm9sbGluZ1BvbGljeSBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlRpbWVCYXNlZFJvbGxpbmdQb2xpY3kiPgoJCQk8ZmlsZU5hbWVQYXR0ZXJuPiR7TE9HLURJUn0vY2xvdWR1aS4lZHt5eXl5LU1NLWRkfS5sb2cuemlwPC9maWxlTmFtZVBhdHRlcm4+CgkJCTxtYXhIaXN0b3J5PjMwPC9tYXhIaXN0b3J5PgoJCTwvcm9sbGluZ1BvbGljeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -724,22 +742,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxwcm9wZXJ0eSBuYW1lPSJMT0ctRElSIiB2YWx1ZT0iL1VzZXJzL2h5dW5taW4ua2ltL0lkZWFQcm9qZWN0cy9pbmN1YmF0aW5nL2xvZ3Mvd2ViL2FnZW50Ii8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldENvbm5lY3Rpb25GYWN0b3J5KENvbm5lY3Rpb25GYWN0b3J5IGNvbm5lY3Rpb25GYWN0b3J5KSB7CgkJdGhpcy5jb25uZWN0aW9uRmFjdG9yeSA9IGNvbm5lY3Rpb25GYWN0b3J5OwoJfQo=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNsYXNzcGF0aDovY29uZmlnL3NwcmluZy1qbXMtYmVhbnMueG1sCg==</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldENvbm5lY3Rpb25GYWN0b3J5KENvbm5lY3Rpb25GYWN0b3J5IGNvbm5lY3Rpb25GYWN0b3J5KSB7CgkJdGhpcy5jb25uZWN0aW9uRmFjdG9yeSA9IGNvbm5lY3Rpb25GYWN0b3J5OwoJfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -755,32 +773,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNsYXNzcGF0aDovY29uZmlnL3NwcmluZy1qbXMtYmVhbnMueG1sCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1959</text>
       </register>
     </registers>
     <search>
-      <last-search>jms</last-search>
+      <last-search>Queue</last-search>
       <last-offset />
-      <last-pattern>jms</last-pattern>
+      <last-pattern>Queue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xml</entry>
-        <entry encoding="base64">XDxSZWFkZXJcPg==</entry>
-        <entry encoding="base64">XDx4bWxFdmVudFJlYWRlclw+</entry>
-        <entry encoding="base64">XDxpblw+</entry>
-        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
-        <entry encoding="base64">XDxjb3B5XD4=</entry>
-        <entry>Attach</entry>
-        <entry encoding="base64">XDxjcmVhdGVEaXJlY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
         <entry>suffix</entry>
         <entry>paths</entry>
@@ -793,9 +803,16 @@
         <entry>spring</entry>
         <entry>core</entry>
         <entry>jms</entry>
+        <entry>deliver</entry>
+        <entry encoding="base64">XDxMT0dHRVJcPg==</entry>
+        <entry encoding="base64">XDxkZWJ1Z1w+</entry>
+        <entry>debug</entry>
+        <entry>doing</entry>
+        <entry>toString</entry>
+        <entry>QueueImpl</entry>
+        <entry>Queue</entry>
       </history-search>
       <history-cmd>
-        <entry>312</entry>
         <entry>set vim-surround</entry>
         <entry>set surround</entry>
         <entry>on</entry>
@@ -815,6 +832,7 @@
         <entry>wq</entry>
         <entry>1:$d</entry>
         <entry>w</entry>
+        <entry>1959</entry>
       </history-cmd>
       <history-expr />
       <history-input />
