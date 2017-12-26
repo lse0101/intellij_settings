@@ -39,6 +39,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" timestamp="1513823235936">
         <mark key="'" line="857" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1514278959184">
+        <mark key="'" line="15" column="13" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514275636635">
         <mark key="'" line="14" column="17" />
         <mark key="[" line="6" column="0" />
@@ -48,8 +51,8 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" timestamp="1514277248687">
-        <mark key="'" line="38" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" timestamp="1514278701594">
+        <mark key="'" line="30" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" timestamp="1513752919201">
         <mark key="'" line="231" column="10" />
@@ -65,10 +68,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="33" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_agent/src/main/webapp/WEB-INF/web.xml" timestamp="1514266635923">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="19" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/FileTypeMap.class" timestamp="1513749083489">
         <mark key="'" line="21" column="0" />
@@ -88,18 +87,14 @@
         <mark key="." line="76" column="37" />
         <mark key="^" line="76" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" timestamp="1514277173577">
-        <mark key="'" line="25" column="8" />
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" timestamp="1514279363508">
+        <mark key="'" line="22" column="23" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1514266671505">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="41" />
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1514263785732">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="91" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueFactoryImpl.class" timestamp="1514269230370">
         <mark key="'" line="26" column="44" />
@@ -122,11 +117,14 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/utils/OrderedExecutorFactory.class" timestamp="1514269927665">
         <mark key="'" line="34" column="71" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" timestamp="1514278841079">
+        <mark key="'" line="72" column="28" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1514277409223">
-        <mark key="'" line="132" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1514278920607">
+        <mark key="'" line="132" column="34" />
       </file>
       <file name="/a.sql" timestamp="1513160851033">
         <mark key="[" line="0" column="0" />
@@ -175,8 +173,14 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" timestamp="1513659322403">
         <mark key="'" line="103" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/QueueDeployer.class" timestamp="1514278898416">
+        <mark key="'" line="27" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.class" timestamp="1513750859455">
         <mark key="'" line="30" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514278858689">
+        <mark key="'" line="17" column="13" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -192,25 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2144" column="24" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="2145" column="16" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1041" column="12" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="734" column="161" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="1070" column="110" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="1388" column="99" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="1629" column="37" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="1982" column="33" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
-      <jump line="211" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="417" column="16" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="458" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="560" column="17" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1307" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1369" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1390" column="21" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1509" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1592" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="1605" column="17" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
-      <jump line="345" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="382" column="21" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="414" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
       <jump line="422" column="48" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" />
@@ -291,7 +276,26 @@
       <jump line="115" column="61" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
       <jump line="118" column="30" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
       <jump line="124" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
-      <jump line="132" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
+      <jump line="17" column="30" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" />
+      <jump line="30" column="20" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" />
+      <jump line="128" column="21" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
+      <jump line="148" column="76" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
+      <jump line="34" column="0" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="71" column="21" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="73" column="23" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="76" column="23" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="78" column="95" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="77" column="54" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="72" column="28" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/FileDeploymentManager.class" />
+      <jump line="17" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" />
+      <jump line="27" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/QueueDeployer.class" />
+      <jump line="132" column="34" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" />
+      <jump line="15" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" />
+      <jump line="33" column="4" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
+      <jump line="19" column="21" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
+      <jump line="42" column="20" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
+      <jump line="31" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
+      <jump line="22" column="23" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -421,7 +425,7 @@
         <text>%logger.</text>
       </register>
       <register name="/" type="4">
-        <text>jms</text>
+        <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmxvZ2JhY2tDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+Y2xhc3NwYXRoOmNvbmYvbG9nYmFjay54bWw8L3BhcmFtLXZhbHVlPgogICAgPC9jb250ZXh0LXBhcmFtPgo=</text>
@@ -598,34 +602,34 @@
       </register>
     </registers>
     <search>
-      <last-search>jms</last-search>
+      <last-search encoding="base64">XDxmYWN0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>jms</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmYWN0b3J5XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxpdmVyXD4=</entry>
-        <entry>connection</entry>
-        <entry encoding="base64">XDxxdWV1ZVw+</entry>
-        <entry>queue</entry>
-        <entry>ConnectionFa</entry>
-        <entry>Factory</entry>
-        <entry encoding="base64">XDxFbWJlZGRlZEptc1w+</entry>
-        <entry encoding="base64">XDxleGFtcGxlUXVldWVcPg==</entry>
-        <entry encoding="base64">XDxob3JuZXRRU2VydmVyXD4=</entry>
-        <entry>XML</entry>
-        <entry>Xml</entry>
-        <entry>Queue</entry>
-        <entry>Impl</entry>
-        <entry encoding="base64">XDxjb25maWdSZXNvdXJjZVBhdGhcPg==</entry>
-        <entry>jms.</entry>
-        <entry encoding="base64">XDxqbXNDb25maWdSZXNvdXJjZVBhdGhcPg==</entry>
-        <entry encoding="base64">XDxqbXNDb25maWd1cmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxjb25maWdGaWxlTmFtZVw+</entry>
-        <entry>xml</entry>
+        <entry>deploy</entry>
+        <entry>Deploy</entry>
+        <entry>Depl</entry>
+        <entry>depl</entry>
+        <entry>ServerImpl</entry>
+        <entry encoding="base64">XDxyZWdpc3RyeVw+</entry>
+        <entry>de</entry>
         <entry>jms</entry>
+        <entry>filename</entry>
+        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
+        <entry encoding="base64">XDxmaWxlbmFtZXNcPg==</entry>
+        <entry>jms.xml</entry>
+        <entry>xml</entry>
+        <entry>De</entry>
+        <entry>users.xml</entry>
+        <entry>prefix</entry>
+        <entry>regi</entry>
+        <entry>context</entry>
+        <entry>Context</entry>
+        <entry encoding="base64">XDxmYWN0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set vim-surround</entry>
