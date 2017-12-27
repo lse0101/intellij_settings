@@ -134,12 +134,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514340158939">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514340206142">
         <mark key="a" line="37" column="118" />
         <mark key="'" line="43" column="3" />
-        <mark key="[" line="9" column="138" />
-        <mark key="]" line="9" column="154" />
-        <mark key="." line="9" column="154" />
+        <mark key="[" line="9" column="125" />
+        <mark key="]" line="9" column="125" />
+        <mark key="." line="9" column="125" />
         <mark key="^" line="9" column="154" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
@@ -302,7 +302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>listener</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -425,7 +425,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>listener</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
