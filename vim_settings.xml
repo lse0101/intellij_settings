@@ -132,12 +132,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514335396045">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="44" />
-        <mark key="^" line="34" column="43" />
-        <mark key="." line="34" column="32" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514337681789">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="37" column="105" />
+        <mark key="]" line="37" column="105" />
+        <mark key="^" line="9" column="123" />
+        <mark key="." line="37" column="105" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
@@ -186,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="37" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQConnectionFactory.class" />
       <jump line="156" column="28" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQConnectionFactory.class" />
       <jump line="159" column="37" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQConnectionFactory.class" />
       <jump line="160" column="18" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQConnectionFactory.class" />
@@ -286,10 +285,11 @@
       <jump line="1514" column="65" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
       <jump line="1515" column="42" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
       <jump line="126" column="4" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQConnectionFactory.class" />
+      <jump line="8" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exampleQueue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -412,7 +412,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>exampleQueue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ConnectionFactory</text>
