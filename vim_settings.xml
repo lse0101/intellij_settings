@@ -235,12 +235,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514360121948">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514362528841">
         <mark key="'" line="49" column="3" />
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="48" column="51" />
-        <mark key="." line="48" column="51" />
-        <mark key="^" line="48" column="51" />
+        <mark key="[" line="9" column="120" />
+        <mark key="]" line="9" column="123" />
+        <mark key="." line="9" column="123" />
+        <mark key="^" line="9" column="123" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
@@ -421,8 +421,8 @@
       <jump line="43" column="3" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+      <register name="&quot;" type="4">
+        <text>stop</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -545,7 +545,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>jms.queue.</text>
+        <text>stop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
