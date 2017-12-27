@@ -235,12 +235,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514362528841">
-        <mark key="'" line="49" column="3" />
-        <mark key="[" line="9" column="120" />
-        <mark key="]" line="9" column="123" />
-        <mark key="." line="9" column="123" />
-        <mark key="^" line="9" column="123" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514364643987">
+        <mark key="'" line="50" column="3" />
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="70" />
+        <mark key="." line="45" column="70" />
+        <mark key="^" line="45" column="70" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
@@ -422,7 +422,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stop</text>
+        <text>connectionFactory</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -545,13 +545,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>connectionFactory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Session session =</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJ1Y3Rvci1hcmcgdmFsdWU9Im9yZy5ob3JuZXRxLmNvcmUucmVtb3RpbmcuaW1wbC5uZXR0eS5OZXR0eUNvbm5lY3RvckZhY3RvcnkiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
