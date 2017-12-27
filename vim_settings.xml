@@ -12,7 +12,12 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-configuration.xml" timestamp="1514272433790" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-configuration.xml" timestamp="1514334824399">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1513748887516">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,7 +42,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1514278959184">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514282166381" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514334982672">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
       </file>
@@ -122,9 +132,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514281949388">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514335396045">
         <mark key="'" line="9" column="13" />
-        <mark key="^" line="9" column="123" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="43" />
+        <mark key="." line="34" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
@@ -147,7 +160,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/spring-jms-beans.xml" timestamp="1514254421865" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" timestamp="1513659322403">
         <mark key="'" line="103" column="29" />
       </file>
@@ -163,11 +175,11 @@
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/TestProducerController/MessageSenderController.java" timestamp="1514281227665">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/TestProducerController/MessageSenderController.java" timestamp="1514334879450">
         <mark key="'" line="18" column="5" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="33" column="80" />
+        <mark key="]" line="33" column="92" />
+        <mark key="." line="33" column="80" />
       </file>
       <file name="/fragment.java" timestamp="1513816232193">
         <mark key="[" line="0" column="0" />
@@ -277,7 +289,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>exampleQueue</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -400,19 +412,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>exampleQueue</text>
       </register>
       <register name="/" type="4">
         <text>ConnectionFactory</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0LXBhcmFtPgogICAgICAgIDxwYXJhbS1uYW1lPmxvZ2JhY2tDb25maWdMb2NhdGlvbjwvcGFyYW0tbmFtZT4KICAgICAgICA8cGFyYW0tdmFsdWU+Y2xhc3NwYXRoOmNvbmYvbG9nYmFjay54bWw8L3BhcmFtLXZhbHVlPgogICAgPC9jb250ZXh0LXBhcmFtPgo=</text>
+      <register name="0" type="4">
+        <text>exampleQueue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2cuZXJyb3IoIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMgU1RPUCAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyIpOwo=</text>
+        <text encoding="base64">ICAgIDwhLS0gT3RoZXIgY29uZmlnIC0tPgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -539,22 +551,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHN0b3AoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tc2VjdXJpdHkgZm9yIGV4YW1wbGUgcXVldWUtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2cuCg==</text>
+        <text encoding="base64">ICAgIDwhLS0gQ29ubmVjdG9ycyAtLT4K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgPC9iZWFuPgo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAgICAgCg==</text>
+        <text encoding="base64">CQlsb2cuZXJyb3IoIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMgU1RPUCAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -570,10 +582,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgPAo=</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHN0b3AoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">CQlsb2cuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
