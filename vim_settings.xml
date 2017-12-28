@@ -6,12 +6,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
         <mark key="'" line="318" column="35" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/SaveImagelogScheduler.java" timestamp="1514442945939">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="64" column="51" />
-        <mark key="]" line="64" column="76" />
-        <mark key="^" line="64" column="76" />
-        <mark key="." line="64" column="76" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/SaveImagelogScheduler.java" timestamp="1514444412418">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="32" />
+        <mark key="." line="58" column="32" />
+        <mark key="^" line="46" column="52" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1514255935027">
         <mark key="[" line="2" column="48" />
@@ -451,8 +451,8 @@
       <jump line="31" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCUZpbGVzLm1vdmUoc3JjLCBQYXRocy5nZXQoV09SS19ESVIpKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -575,7 +575,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.resolve(src.getFileName()), StandardCopyOption.REPLACE_EXISTING</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRcPg==</text>
@@ -584,10 +584,10 @@
         <text encoding="base64">ZiAtPiBpc0RpcmVjdG9yeShmKSAmJiBmLmdldEZpbGVOYW1lKCkudG9TdHJpbmcoKS5zdGFydHNXaXRoKCJpbWFnZUxvZyIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCUZpbGVzLm1vdmUoc3JjLCBQYXRocy5nZXQoV09SS19ESVIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZigxPT0xKQoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiZXJyb3IiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -714,22 +714,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZigxPT0xKQoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiZXJyb3IiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJbG9nLmluZm8oVE1QX0RJUik7CgoJCUZpbGVzLm5ld0RpcmVjdG9yeVN0cmVhbShQYXRocy5nZXQoVE1QX0RJUiksIGYgLT4gaXNEaXJlY3RvcnkoZikgJiYgZi5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkuc3RhcnRzV2l0aCgiaW1hZ2VMb2ciKSkKCQkJCS5mb3JFYWNoKGYgLT4gbG9nLmluZm8oZi5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpKTsKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJbG9nLmluZm8oVE1QX0RJUik7CgoJCUZpbGVzLm5ld0RpcmVjdG9yeVN0cmVhbShQYXRocy5nZXQoVE1QX0RJUiksIGYgLT4gaXNEaXJlY3RvcnkoZikgJiYgZi5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkuc3RhcnRzV2l0aCgiaW1hZ2VMb2ciKSkKCQkJCS5mb3JFYWNoKGYgLT4gbG9nLmluZm8oZi5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpKTsKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZm9yIChQYXRoIHAgOiBpbWFnZUxvZ1BhdGhMaXN0KSB7CgkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmKCFpc1dyaXRhYmxlKHApKSBjb250aW51ZTsKCgkJCQlqbXNUZW1wbGF0ZS5zZW5kKHNlc3Npb24gLT4gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZShwLmdldEZpbGVOYW1lKCkudG9GaWxlKCkuZ2V0TmFtZSgpKSk7CgkJCQlGaWxlcy5tb3ZlKHAsIFBhdGhzLmdldChXT1JLX0RJUikpOwoJCQkJbW92ZWRJbWFnZUxvZ0xpc3QuYWRkKHAuZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">CQkJZm9yIChQYXRoIHAgOiBpbWFnZUxvZ1BhdGhMaXN0KSB7CgkJCX0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -745,10 +745,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQkJCWlmKCFpc1dyaXRhYmxlKHApKSBjb250aW51ZTsKCgkJCQlqbXNUZW1wbGF0ZS5zZW5kKHNlc3Npb24gLT4gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZShwLmdldEZpbGVOYW1lKCkudG9GaWxlKCkuZ2V0TmFtZSgpKSk7CgkJCQlGaWxlcy5tb3ZlKHAsIFBhdGhzLmdldChXT1JLX0RJUikpOwoJCQkJbW92ZWRJbWFnZUxvZ0xpc3QuYWRkKHAuZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkuCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
