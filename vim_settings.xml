@@ -82,11 +82,6 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1514278959184">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514361744558">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/copy.xml" timestamp="1514461869342">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="90" column="0" />
@@ -283,12 +278,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514436186417">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514526601227">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="34" column="74" />
-        <mark key="]" line="35" column="63" />
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="42" />
         <mark key="^" line="35" column="63" />
-        <mark key="." line="35" column="63" />
+        <mark key="." line="42" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
@@ -345,12 +340,10 @@
         <mark key="^" line="15" column="54" />
         <mark key="." line="17" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/printWithLeafJob.xml" timestamp="1514507852443" />
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/spring-jms-beans.xml" timestamp="1514256251429">
-        <mark key="[" line="4" column="67" />
-        <mark key="]" line="4" column="67" />
-        <mark key="." line="4" column="67" />
+      <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
+        <mark key="'" line="512" column="25" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/printWithLeafJob.xml" timestamp="1514507852443" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
       </file>
@@ -378,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
       <jump line="22" column="23" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" />
       <jump line="16" column="35" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" />
       <jump line="46" column="20" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" />
@@ -478,6 +470,7 @@
       <jump line="34" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" />
       <jump line="35" column="71" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" />
       <jump line="36" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" />
+      <jump line="512" column="25" filename="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -607,7 +600,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>Impressions</text>
+        <text encoding="base64">XDxmb3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCWxvZy5pbmZvKCIjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIik7Cg==</text>
@@ -784,15 +777,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Impressions</last-search>
+      <last-search encoding="base64">XDxmb3NcPg==</last-search>
       <last-offset />
-      <last-pattern>Impressions</last-pattern>
+      <last-pattern encoding="base64">XDxmb3NcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xml</entry>
         <entry>De</entry>
         <entry>users.xml</entry>
         <entry>prefix</entry>
@@ -812,6 +804,7 @@
         <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxvdXRcPg==</entry>
         <entry>Impressions</entry>
+        <entry encoding="base64">XDxmb3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set vim-surround</entry>
