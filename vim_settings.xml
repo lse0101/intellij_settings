@@ -39,11 +39,10 @@
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1514443093541">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="^" line="23" column="71" />
-        <mark key="." line="23" column="23" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1514515132382">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_agent/src/main/resources/conf/logback.xml" timestamp="1514267157786">
         <mark key="[" line="7" column="65" />
@@ -105,11 +104,12 @@
         <mark key="^" line="1330" column="23" />
         <mark key="." line="226" column="35" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1514508793101">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1514513632994">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="184" column="75" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
+        <mark key="^" line="183" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
@@ -479,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJbG9nLmluZm8oZi5nZXQpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -602,7 +602,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>test01</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Impressions</text>
@@ -611,10 +611,10 @@
         <text encoding="base64">CQlSZWFkZXIgeG1sUmVhZGVyID0gbmV3IElucHV0U3RyZWFtUmVhZGVyKGdldENsYXNzKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbSgicHJpbnQueG1sIikpOwoJCUltYWdlTG9nSW5mbyBsb2dJbmZvID0gSW1hZ2VMb2dQYXJzZXIudW5tYXJzaGFsbEpvYkluZm8oeG1sUmVhZGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJbG9nLmluZm8oZi5nZXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZW1wKCkgewoJCU9iamVjdCBvID0gbmV3IEludGVnZXIoMCk7CgkJYXNzZXJ0VGhhdCgwLCBpcyhvKSk7Cgl9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -741,22 +741,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gKGxvZ0luZm9MaXN0LnNpemUoKSA8PSAxKQoJCQkJCT8gbG9nSW5mb0xpc3QuZ2V0KDApCgkJCQkJOiBudWxsOwo=</text>
+        <text encoding="base64">CQkJCQkJLmxpbWl0KDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQkJLmZvckVhY2goZiAtPiB7CgkJCQkJCQlJbWFnZUxvZ1BhcnNlci51bm1hcnNoYWxsSm9iSW5mbyhGaWxlcy5uZXdCdWZmZXJlZFJlYWRlcigpKQoJCQkJCQl9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGltCg==</text>
+        <text encoding="base64">CQkJCUZpbGVzCgkJCQkJLm5ld0RpcmVjdG9yeVN0cmVhbShQYXRocy5nZXQoQ29uc3RhbnRzLldPUktfRElSKS5yZXNvbHZlKGRpck5hbWUpLCAKCQkJCQkJCQkJCShmKSAtPiAhZi5zdGFydHNXaXRoKCJhdHRyaWJ1dGVzIikgJiYgKQoJCQkJCQkuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -775,7 +775,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJSW1hZ2VMb2dJbmZvIGltYWdlTG9nSW5mbyA9IG5ldyBJbWFnZUxvZ0luZm8oKTsK</text>
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZW1wKCkgewoJCU9iamVjdCBvID0gbmV3IEludGVnZXIoMCk7CgkJYXNzZXJ0VGhhdCgwLCBpcyhvKSk7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
