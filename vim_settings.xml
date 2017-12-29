@@ -104,12 +104,12 @@
         <mark key="^" line="1330" column="23" />
         <mark key="." line="226" column="35" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1514462007685">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1514506373084">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="128" column="48" />
-        <mark key="]" line="128" column="48" />
-        <mark key="." line="128" column="48" />
-        <mark key="^" line="128" column="48" />
+        <mark key="[" line="175" column="73" />
+        <mark key="]" line="176" column="4" />
+        <mark key="." line="176" column="4" />
+        <mark key="^" line="176" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
@@ -478,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nullValue()</text>
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -601,7 +601,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>nullValue()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Impressions</text>
