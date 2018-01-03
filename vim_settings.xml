@@ -283,7 +283,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514955745573">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514962798975">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -602,7 +602,7 @@
         <text>는</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>JTA</text>
       </register>
       <register name="0" type="4">
         <text>receiveImageLog</text>
@@ -779,15 +779,14 @@
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>JTA</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
+      <last-pattern>JTA</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.server</entry>
         <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxvdXRcPg==</entry>
         <entry>Impressions</entry>
@@ -807,6 +806,7 @@
         <entry encoding="base64">XDxjb25maWdGaWxlTmFtZVw+</entry>
         <entry>user</entry>
         <entry>User</entry>
+        <entry>JTA</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
