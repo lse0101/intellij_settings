@@ -324,6 +324,11 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
         <mark key="'" line="17" column="17" />
       </file>
+      <file name="/Dummy.txt" timestamp="1514973943120">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/logback.xml" timestamp="1514940634642">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="21" />
@@ -496,7 +501,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29udGVudC10eXBlwLi3zrrOxc0gw9/D4sfRIMbEwM/AxyDIrsDlwNrAxyDBtsfVwLi3ziA=</text>
+        <text>intellij에서 계층적인 폴더구조를 구현하기 위해서 artifactid변경.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -619,7 +624,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29udGVudC10eXBlwLi3zrrOxc0gw9/D4sfRIMbEwM/AxyDIrsDlwNrAxyDBtsfVwLi3ziA=</text>
+        <text>intellij에서 계층적인 폴더구조를 구현하기 위해서 artifactid변경.</text>
       </register>
       <register name="/" type="4">
         <text>JTA</text>
