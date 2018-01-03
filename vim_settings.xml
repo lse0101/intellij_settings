@@ -278,11 +278,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514942765165">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="11" column="78" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1514955745573">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="50" column="71" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
@@ -594,19 +594,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>System.getProperty(&quot;java.io.tmpdir&quot;)</text>
+        <text>clientConnectionFactory</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRNUF9ESVIgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImphdmEuaW8udG1wZGlyIik7Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iY29ubmVjdGlvbkZhY3RvcnkiIHJlZj0iY2xpZW50Q29ubmVjdGlvbkZhY3RvcnkiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRNUF9ESVIgPSAiZjovdGVtcCI7Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iY2FjaGVDb25zdW1lcnMiIHJlZj0ibGlzdGVuZXIiLz4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -733,22 +733,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJNZXNzYWdlU2VuZGVyIiBjbGFzcz0iY29tLmZ1aml4ZXJveC5rb3IubG9nbWFuYWdlci5UZXN0UHJvZHVjZXJDb250cm9sbGVyLk1lc3NhZ2VTZW5kZXJDb250cm9sbGVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iY29ubmVjdGlvbkZhY3RvcnkiIHJlZj0iY2xpZW50Q29ubmVjdGlvbkZhY3RvcnkiLz4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImRlc3RpbmF0aW9uIiByZWY9Ii9xdWV1ZS9leGFtcGxlUXVldWUiLz4tLT4KICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRNUF9ESVIgPSAiZjovdGVtcCI7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICA8cHJvcGVydHkgbmFtZT0icmVzIgo=</text>
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJNZXNzYWdlU2VuZGVyIiBjbGFzcz0iY29tLmZ1aml4ZXJveC5rb3IubG9nbWFuYWdlci5UZXN0UHJvZHVjZXJDb250cm9sbGVyLk1lc3NhZ2VTZW5kZXJDb250cm9sbGVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iY29ubmVjdGlvbkZhY3RvcnkiIHJlZj0iY2xpZW50Q29ubmVjdGlvbkZhY3RvcnkiLz4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImRlc3RpbmF0aW9uIiByZWY9Ii9xdWV1ZS9leGFtcGxlUXVldWUiLz4tLT4KICAgIDwvYmVhbj4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8IS0tPGNvbm5lY3RvciBuYW1lPSJuZXR0eSI+LS0+CgkJCTwhLS08ZmFjdG9yeS1jbGFzcz5vcmcuaG9ybmV0cS5jb3JlLnJlbW90aW5nLmltcGwubmV0dHkuTmV0dHlDb25uZWN0b3JGYWN0b3J5PC9mYWN0b3J5LWNsYXNzPi0tPgoJCQk8IS0tPHBhcmFtIGtleT0iaG9zdCIgdmFsdWU9ImxvY2FsaG9zdCIvPi0tPgoJCQk8IS0tPHBhcmFtIGtleT0icG9ydCIgdmFsdWU9IjU0NDUiLz4tLT4KCQk8IS0tPC9jb25uZWN0b3I+LS0+Cg==</text>
+        <text encoding="base64">CSAgICA8cHJvcGVydHkgbmFtZT0icmVzIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -764,10 +764,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGFjY2VwdG9yPi0tPgogICAgICAgICAgICA8IS0tPGZhY3RvcnktY2xhc3M+b3JnLmhvcm5ldHEuY29yZS5yZW1vdGluZy5pbXBsLm5ldHR5Lk5ldHR5QWNjZXB0b3JGYWN0b3J5PC9mYWN0b3J5LWNsYXNzPi0tPgogICAgICAgICAgICA8IS0tPHBhcmFtIGtleT0iaG9zdCIgdmFsdWU9IjE5Mi4xNjguMS4xNDQiLz4tLT4KICAgICAgICAgICAgPCEtLTxwYXJhbSBrZXk9InBvcnQiIHZhbHVlPSI1NDQ2Ii8+LS0+CiAgICAgICAgPCEtLTwvYWNjZXB0b3I+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS10aGUgcXVldWUgdXNlZCBieSB0aGUgZXhhbXBsZS0tPgo=</text>
+        <text encoding="base64">CQk8IS0tPGNvbm5lY3RvciBuYW1lPSJuZXR0eSI+LS0+CgkJCTwhLS08ZmFjdG9yeS1jbGFzcz5vcmcuaG9ybmV0cS5jb3JlLnJlbW90aW5nLmltcGwubmV0dHkuTmV0dHlDb25uZWN0b3JGYWN0b3J5PC9mYWN0b3J5LWNsYXNzPi0tPgoJCQk8IS0tPHBhcmFtIGtleT0iaG9zdCIgdmFsdWU9ImxvY2FsaG9zdCIvPi0tPgoJCQk8IS0tPHBhcmFtIGtleT0icG9ydCIgdmFsdWU9IjU0NDUiLz4tLT4KCQk8IS0tPC9jb25uZWN0b3I+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
