@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1515059872794">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1515065932013">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="20" />
-        <mark key="." line="46" column="20" />
+        <mark key="[" line="52" column="105" />
+        <mark key="]" line="52" column="105" />
+        <mark key="." line="52" column="105" />
         <mark key="^" line="58" column="16" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_agent/src/main/resources/conf/logback.xml" timestamp="1514267157786">
@@ -123,11 +123,11 @@
         <mark key="." line="226" column="35" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1515063761005">
-        <mark key="'" line="46" column="30" />
-        <mark key="[" line="60" column="97" />
-        <mark key="]" line="60" column="102" />
-        <mark key="^" line="60" column="102" />
-        <mark key="." line="60" column="102" />
+        <mark key="'" line="49" column="30" />
+        <mark key="[" line="62" column="97" />
+        <mark key="]" line="62" column="102" />
+        <mark key="^" line="62" column="102" />
+        <mark key="." line="62" column="102" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
@@ -360,7 +360,7 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515064094856">
+      <file name="/Dummy.txt" timestamp="1515065398092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -379,11 +379,11 @@
         <mark key="^" line="5" column="31" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1515064511281">
-        <mark key="'" line="82" column="45" />
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="17" />
-        <mark key="." line="53" column="17" />
-        <mark key="^" line="53" column="18" />
+        <mark key="'" line="81" column="45" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="17" />
+        <mark key="." line="52" column="17" />
+        <mark key="^" line="52" column="18" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" timestamp="1513750930564">
         <mark key="'" line="371" column="30" />
@@ -537,7 +537,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text>#</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -660,7 +660,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>plugins</text>
