@@ -27,12 +27,12 @@
         <mark key="." line="90" column="20" />
         <mark key="^" line="90" column="20" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1515111868467">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1515131917585">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="47" column="52" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/java/com/fujixerox/kor/sophia/intfc/http/XeroxHttpURLConnection.java" timestamp="1513580145467">
         <mark key="'" line="1033" column="131" />
@@ -493,8 +493,8 @@
       <jump line="17" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/sendFax_success.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unspecified</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJcHJvcFNlcnZpY2Uuc2VsCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -617,7 +617,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>unspecified</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Pages</text>
@@ -626,10 +626,10 @@
         <text>value.apply(eventReader.nextEvent())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcHJvcFNlcnZpY2Uuc2VsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoJCQkJCQljYXNlICJPdXRQaG9uZU51bWJlciI6CgkJCQkJCQlsb2dJbmZvLnNldE91dFBob25lTnVtYmVyKHZhbHVlLmFwcGx5KGV2ZW50UmVhZGVyLm5leHRFdmVudCgpKSk7CgkJCQkJCQlicmVhazsqLwo=</text>
+        <text encoding="base64">CQkJU3RyaW5nIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -759,19 +759,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcHJvcFNlcnZpY2Uuc2VsZWN0UHJvcGVydHkoKQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJIlN1cGVyRzMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJImxwZCIsCg==</text>
+        <text encoding="base64">LyoJCQkJCQljYXNlICJPdXRQaG9uZU51bWJlciI6CgkJCQkJCQlsb2dJbmZvLnNldE91dFBob25lTnVtYmVyKHZhbHVlLmFwcGx5KGV2ZW50UmVhZGVyLm5leHRFdmVudCgpKSk7CgkJCQkJCQlicmVhazsqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJImxwIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -787,10 +787,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJIkRFU0tUT1AtNDRLQk03UCIsCgkJCQkJCSIwMTMuMTk3LjAwNS4xNTIiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJIsXXvbrGriDG5MDMwfYiLAo=</text>
+        <text encoding="base64">CQkJCQkJIlN1cGVyRzMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
