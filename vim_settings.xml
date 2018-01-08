@@ -209,12 +209,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515389975929">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="54" column="115" />
-        <mark key="]" line="54" column="114" />
-        <mark key="^" line="54" column="114" />
-        <mark key="." line="54" column="114" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515390720618">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="62" column="45" />
+        <mark key="]" line="63" column="16" />
+        <mark key="^" line="63" column="16" />
+        <mark key="." line="63" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.class" timestamp="1514338466219">
         <mark key="'" line="62" column="20" />
@@ -234,6 +234,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515390482140" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1515370383938">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="68" column="0" />
@@ -250,7 +251,7 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
         <mark key="'" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515140456569">
+      <file name="/Dummy.txt" timestamp="1515390445076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -433,7 +434,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -556,13 +557,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>commons</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxsb2dnZXIgbmFtZT0ib3JnLnNwcmluZ2ZyYW1ld29yay5jb3JlLmlvIiBsZXZlbD0iSU5GTyIgYWRkaXRpdml0eT0iZmFsc2UiLz4K</text>
+        <text encoding="base64">CQkJCWptc1RlbXBsYXRlLnNlbmQoc2Vzc2lvbiAtPiBzZXNzaW9uLmNyZWF0ZVRleHRNZXNzYWdlKHNyYy5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
