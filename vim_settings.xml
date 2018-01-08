@@ -61,9 +61,6 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1514278959184">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514940741664">
-        <mark key="[" line="12" column="25" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ResponseWebServiceStatus.java" timestamp="1515111806916">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -167,9 +164,6 @@
         <mark key="." line="15" column="59" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2ec33c2-cfc7-42c4-9b92-4268c54441b0/console.sql" timestamp="1515135080468">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2ec33c2-cfc7-42c4-9b92-4268c54441b0/console_1.sql" timestamp="1515138807359">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="13" />
@@ -243,14 +237,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="63" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" timestamp="1515111650294">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" timestamp="1515379121524">
         <mark key="'" line="17" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1514339927230">
         <mark key="'" line="371" column="8" />
-      </file>
-      <file name="/dummy.sql" timestamp="1515139001509">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
         <mark key="'" line="17" column="17" />
@@ -300,12 +291,12 @@
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515378932814">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="34" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="34" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515382734578">
+        <mark key="'" line="89" column="8" />
+        <mark key="[" line="63" column="140" />
+        <mark key="]" line="63" column="140" />
+        <mark key="^" line="63" column="140" />
+        <mark key="." line="63" column="140" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
@@ -330,9 +321,6 @@
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
-      </file>
-      <file name="/fragment.java" timestamp="1515127244638">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -438,8 +426,8 @@
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_parent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -562,7 +550,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>commons</text>
