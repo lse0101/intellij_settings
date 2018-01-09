@@ -132,10 +132,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/config/impl/FileConfiguration.class" timestamp="1515479177697">
         <mark key="'" line="17" column="83" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515487763055">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515490133311">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="77" column="79" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1515480119650">
         <mark key="'" line="118" column="11" />
@@ -171,11 +172,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515489082636">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515489254444">
         <mark key="'" line="39" column="35" />
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="122" column="32" />
-        <mark key="." line="122" column="32" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
         <mark key="^" line="117" column="26" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
@@ -430,8 +431,8 @@
       <jump line="289" column="71" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/core/JmsTemplate.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQljb250aW51ZTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -554,19 +555,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>waitingStatusLogPath</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2hhbmdlZFN0YXR1cyA=</text>
+        <text encoding="base64">d2FpdGluZ1N0YXR1c0xvZ1BhdGgg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQljb250aW51ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQkJZmluYWwgU3RyaW5nIG1lc3NhZ2UgPSBxdWV1ZWRQYXRoLmdldEZpbGVOYW1lKCkudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -693,22 +694,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJvbGxCYWNrU3RhdHVzcGF0aC4pOwo=</text>
+        <text encoding="base64">CQkJCVN0cmluZyBtZXNzYWdlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nIG1zZyA9IHF1ZXVlZFBhdGguZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBQYXRoIHJvbGxiYWNrU3RhdHVzKFBhdGggd2FpdGluZ1BhdGgpIHsKCQkKCX0K</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCQltZXNzYWdlID0gcXVldWVkUGF0aC5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -724,7 +725,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlpbWFnZUxvZ1BhdGhzLnJvbGxiYWNrU3RhdHVzKHF1ZXVlZFBhdGgpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
