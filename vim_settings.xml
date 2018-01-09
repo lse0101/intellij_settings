@@ -6,11 +6,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
         <mark key="'" line="318" column="35" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogStatusEnum.java" timestamp="1515406497237">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogStatusEnum.java" timestamp="1515460471625">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1514255935027">
         <mark key="[" line="2" column="48" />
@@ -295,7 +296,7 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
         <mark key="'" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515458382611">
+      <file name="/Dummy.txt" timestamp="1515460511412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -332,12 +333,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1515457158418">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1515461280835">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="30" column="91" />
-        <mark key="^" line="30" column="91" />
-        <mark key="." line="30" column="91" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="71" column="15" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -479,15 +480,8 @@
       <jump line="75" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>수신받은 이미지로그를 현재상태에 따른 처리를 도와주는 Util class 코드구현
-
-ImageLogPaths은 수신받은 이미지로그의 임시저장위치 및 queue을 기다리는 waiting,
-queued 및 error등의 상태의 변화를 처리해주는 클래스다
-
-ImageLogStatusEnum downloading, waiting, queued, error상태 enum
-
-LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 String 값을 제거</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -610,7 +604,7 @@ LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 Str
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>IMGLOG_STATUS_WAITING</text>
+        <text>statusPattern.matcher(targetPath.getFileName().toString()).replaceFirst(logStatus.next().val());</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -618,15 +612,8 @@ LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 Str
       <register name="0" type="4">
         <text>Path queuedPath</text>
       </register>
-      <register name="1" type="4">
-        <text>수신받은 이미지로그를 현재상태에 따른 처리를 도와주는 Util class 코드구현
-
-ImageLogPaths은 수신받은 이미지로그의 임시저장위치 및 queue을 기다리는 waiting,
-queued 및 error등의 상태의 변화를 처리해주는 클래스다
-
-ImageLogStatusEnum downloading, waiting, queued, error상태 enum
-
-LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 String 값을 제거</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -756,19 +743,19 @@ LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 Str
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfV0FJVElORyA9ICJ3YWl0aW5nIjsKCglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTUdMT0dfU1RBVFVTX1FVRVVFRCA9ICJxdWV1ZWQiOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRVJST1IgPSAiZXJyb3IiOwo=</text>
+        <text encoding="base64">CQkJICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJICAgIHRhcmdldFBhdGgKCQkJCQkJCQkuZ2V0RmlsZU5hbWUoKQoJCQkJCQkJCS50b1N0cmluZygpCgkJCQkJCQkJLnJlcGxhY2VBbGwoIl5bXFx3XSooPz1fKSIsIGxvZ1N0YXR1cy5uZXh0KCkudmFsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciOwo=</text>
+        <text encoding="base64">ICAgIAlzdGF0dXNQYXR0ZXJuLm1hdGNoZXIodGFyZ2V0UGF0aC5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkpLnJlcGxhY2VGaXJzdChsb2dTdGF0dXMubmV4dCgpLnZhbCgpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -786,11 +773,18 @@ LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 Str
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfV0FJVElORyA9ICJ3YWl0aW5nIjsKCglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTUdMT0dfU1RBVFVTX1FVRVVFRCA9ICJxdWV1ZWQiOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRVJST1IgPSAiZXJyb3IiOwo=</text>
+      <register name="8" type="4">
+        <text>수신받은 이미지로그를 현재상태에 따른 처리를 도와주는 Util class 코드구현
+
+ImageLogPaths은 수신받은 이미지로그의 임시저장위치 및 queue을 기다리는 waiting,
+queued 및 error등의 상태의 변화를 처리해주는 클래스다
+
+ImageLogStatusEnum downloading, waiting, queued, error상태 enum
+
+LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 String 값을 제거</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
