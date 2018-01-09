@@ -13,11 +13,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1515471365170">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1515473052438">
         <mark key="'" line="9" column="3" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/itf/PropService.java" timestamp="1515060684124">
         <mark key="'" line="34" column="6" />
@@ -274,11 +274,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515465898027">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515473071374">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="22" column="7" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1515370383938">
@@ -491,7 +491,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0aHJlYWQK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlR2xvYmFsUG9vbHMiIHZhbHVlPSJmYWxzZSIvPgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -623,10 +623,10 @@
         <text>recvImageLogQueue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0aHJlYWQK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0idXNlR2xvYmFsUG9vbHMiIHZhbHVlPSJmYWxzZSIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -753,22 +753,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICA8cHJvcGVydHkgbmFtZT0idSIK</text>
+        <text encoding="base64">ICAgIDx0aHJlYWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0idSIK</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICA8cHJvcGVydHkgbmFtZT0idSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJqbXNUcmFuc2FjdGlvbk1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmptcy5jb25uZWN0aW9uLkptc1RyYW5zYWN0aW9uTWFuYWdlciI+CgkJPHByb3BlcnR5IG5hbWU9ImNvbm5lY3Rpb25GYWN0b3J5IiByZWY9ImNsaWVudENvbm5lY3Rpb25GYWN0b3J5Ii8+Cgk8L2JlYW4+Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0idSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -784,10 +784,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CTxiZWFuIGlkPSJqbXNUcmFuc2FjdGlvbk1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmptcy5jb25uZWN0aW9uLkptc1RyYW5zYWN0aW9uTWFuYWdlciI+CgkJPHByb3BlcnR5IG5hbWU9ImNvbm5lY3Rpb25GYWN0b3J5IiByZWY9ImNsaWVudENvbm5lY3Rpb25GYWN0b3J5Ii8+Cgk8L2JlYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
