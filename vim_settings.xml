@@ -126,12 +126,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/config/impl/FileConfiguration.class" timestamp="1515479177697">
         <mark key="'" line="17" column="83" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515458161875">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="54" column="93" />
-        <mark key="]" line="54" column="124" />
-        <mark key="." line="54" column="124" />
-        <mark key="^" line="54" column="124" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515485741833">
+        <mark key="'" line="76" column="28" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="26" />
+        <mark key="." line="54" column="26" />
+        <mark key="^" line="54" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1515480119650">
         <mark key="'" line="118" column="11" />
@@ -324,9 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="12" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" />
-      <jump line="43" column="94" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" />
-      <jump line="48" column="46" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" />
       <jump line="49" column="30" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" />
       <jump line="50" column="97" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" />
       <jump line="81" column="31" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" />
@@ -424,10 +421,13 @@
       <jump line="26" column="54" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
       <jump line="14" column="14" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
       <jump line="36" column="54" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
+      <jump line="55" column="73" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" />
+      <jump line="54" column="35" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" />
+      <jump line="72" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tm9TdWNoTWV0aG9kRXhjZXB0aW9uIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -550,7 +550,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tm9TdWNoTWV0aG9kRXhjZXB0aW9uIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>sch</text>
@@ -559,14 +559,10 @@
         <text>recvImageLogQueue</text>
       </register>
       <register name="1" type="4">
-        <text>catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (InvocationTargetException e) {
-            e.printStackTrace();
-        }</text>
+        <text encoding="base64">ZiAtPgoJCQkJCQkJCQkJCQkJZi5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCkuc3RhcnRzV2l0aChJbWFnZUxvZ1N0YXR1c0VudW0uV0FJVElORy52YWwoKSk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -693,22 +689,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoCg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJRmlsZXMKCQkubmV3RGlyZWN0b3J5U3RyZWFtKFBhdGhzLmdldCgiRjpcXGRhdGFcXGZ4a1xcaW1cXHJlY3ZcXHRtcCIpLCJxdWV1ZWQqIikKCQkJCS5mb3JFYWNoKGYgLT4gbG9nLmluZm8oZi50b1N0cmluZygpKSk7CgoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCWYgLT4gaXNEaXJlY3RvcnkoZikK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkZWZhdWx0dXNlciBuYW1lPSJndWVzdCIgcGFzc3dvcmQ9Imd1ZXN0Ij4KICAgICAgICA8cm9sZSBuYW1lPSJndWVzdCIvPgogICAgPC9kZWZhdWx0dXNlcj4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJdHJ5KFN0cmVhbTxQYXRoPiByZWN2VG1wRGlyKXsKCQkJCQoJCQl9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZWZhdWx0dXNlciBuYW1lPSJ4ZXJveCIgcGFzc3dvcmQ9Inhlcm94MSEiPgogICAgICAgIDxyb2xlIG5hbWU9InJlY3YiLz4KICAgIDwvZGVmYXVsdHVzZXI+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">RmlsZXMKCQkJCQkJCQkubmV3RGlyZWN0b3J5U3RyZWFtKHRtcERpciwKCQkJCQkJCQkJCQkJCWYgLT4gaXNEaXJlY3RvcnkoZikKCQkJCQkJCQkJCQkJCSYmIGYuZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpLnN0YXJ0c1dpdGgoSW1hZ2VMb2dTdGF0dXNFbnVtLldBSVRJTkcudmFsKCkpKQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,11 +719,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+      <register name="8" type="4">
+        <text>catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (InvocationTargetException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
