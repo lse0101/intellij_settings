@@ -284,11 +284,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515483356652">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515491288389">
         <mark key="'" line="36" column="54" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="48" />
+        <mark key="." line="46" column="48" />
+        <mark key="^" line="46" column="48" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/ClassLoader.java" timestamp="1515480967430" />
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
@@ -431,8 +432,8 @@
       <jump line="289" column="71" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/core/JmsTemplate.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQljb250aW51ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -555,7 +556,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>waitingStatusLogPath</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
