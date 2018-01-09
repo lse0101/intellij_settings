@@ -245,12 +245,12 @@
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515407458059">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="57" column="52" />
-        <mark key="]" line="57" column="57" />
-        <mark key="." line="57" column="57" />
-        <mark key="^" line="57" column="57" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1515458161875">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="54" column="93" />
+        <mark key="]" line="54" column="124" />
+        <mark key="." line="54" column="124" />
+        <mark key="^" line="54" column="124" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.class" timestamp="1514338466219">
         <mark key="'" line="62" column="20" />
@@ -295,7 +295,7 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
         <mark key="'" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515457095626">
+      <file name="/Dummy.txt" timestamp="1515458382611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -480,7 +480,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IMGLOG_STATUS_DOWNLOADING</text>
+        <text>수신받은 이미지로그를 현재상태에 따른 처리를 도와주는 Util class 코드구현
+
+ImageLogPaths은 수신받은 이미지로그의 임시저장위치 및 queue을 기다리는 waiting,
+queued 및 error등의 상태의 변화를 처리해주는 클래스다
+
+ImageLogStatusEnum downloading, waiting, queued, error상태 enum
+
+LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 String 값을 제거</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -603,7 +610,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>IMGLOG_STATUS_DOWNLOADING</text>
+        <text>IMGLOG_STATUS_WAITING</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -611,8 +618,15 @@
       <register name="0" type="4">
         <text>Path queuedPath</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>수신받은 이미지로그를 현재상태에 따른 처리를 도와주는 Util class 코드구현
+
+ImageLogPaths은 수신받은 이미지로그의 임시저장위치 및 queue을 기다리는 waiting,
+queued 및 error등의 상태의 변화를 처리해주는 클래스다
+
+ImageLogStatusEnum downloading, waiting, queued, error상태 enum
+
+LogManagerConstants Enum으로 상태를 관리하기 이전에 사용하던 String 값을 제거</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -742,22 +756,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfV0FJVElORyA9ICJ3YWl0aW5nIjsKCglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTUdMT0dfU1RBVFVTX1FVRVVFRCA9ICJxdWV1ZWQiOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRVJST1IgPSAiZXJyb3IiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfV0FJVElORyA9ICJ3YWl0aW5nIjsKCglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTUdMT0dfU1RBVFVTX1FVRVVFRCA9ICJxdWV1ZWQiOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRVJST1IgPSAiZXJyb3IiOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfV0FJVElORyA9ICJ3YWl0aW5nIjsKCglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTUdMT0dfU1RBVFVTX1FVRVVFRCA9ICJxdWV1ZWQiOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRVJST1IgPSAiZXJyb3IiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,10 +787,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfV0FJVElORyA9ICJ3YWl0aW5nIjsKCglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTUdMT0dfU1RBVFVTX1FVRVVFRCA9ICJxdWV1ZWQiOwoKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElNR0xPR19TVEFUVVNfRVJST1IgPSAiZXJyb3IiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uLW1hbmFnZXI9Imptc1RyYW5zYWN0aW9uTWFuYWdlciIK</text>
+        <text encoding="base64">CQk8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
