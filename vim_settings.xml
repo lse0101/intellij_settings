@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
+        <mark key="'" line="318" column="35" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogStatusEnum.java" timestamp="1515543086575">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="27" column="20" />
@@ -15,6 +18,9 @@
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/itf/PropService.java" timestamp="1515060684124">
+        <mark key="'" line="34" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" timestamp="1515480207690">
         <mark key="'" line="110" column="19" />
@@ -32,12 +38,14 @@
       <file name="/a.dummy" timestamp="1515475132610">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1515568219058">
+      <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
+        <mark key="'" line="159" column="48" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestMessageListener.java" timestamp="1515629627952">
         <mark key="'" line="35" column="1" />
-        <mark key="[" line="72" column="101" />
-        <mark key="]" line="72" column="133" />
-        <mark key="^" line="65" column="123" />
-        <mark key="." line="65" column="128" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/security/impl/SecurityStoreImpl.class" timestamp="1515479140289">
         <mark key="'" line="78" column="71" />
@@ -54,8 +62,32 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="7" column="67" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/embedded/EmbeddedHornetQ.class" timestamp="1515478978435">
+        <mark key="'" line="53" column="21" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" timestamp="1514522538321">
+        <mark key="'" line="857" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/time/DateFormatUtils.class" timestamp="1515575188593">
+        <mark key="'" line="61" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514940741664">
+        <mark key="[" line="12" column="25" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ResponseWebServiceStatus.java" timestamp="1515111806916">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="15" column="51" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/print.xml" timestamp="1514508327555">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1515139840054">
         <mark key="a" line="422" column="4" />
@@ -70,6 +102,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" timestamp="1515478778508">
         <mark key="'" line="26" column="37" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" timestamp="1513752919201">
+        <mark key="'" line="231" column="10" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/MimeType.class" timestamp="1513752654827">
         <mark key="'" line="146" column="28" />
@@ -86,14 +121,33 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" timestamp="1515559584412">
         <mark key="'" line="1493" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1515030521729">
+        <mark key="'" line="140" column="38" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/FileTypeMap.class" timestamp="1513749083489">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/schedule-config.xml" timestamp="1514427584248">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
+        <mark key="'" line="364" column="215" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/sendFax_success.xml" timestamp="1515126781886">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="67" column="14" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/api/core/TransportConfiguration.class" timestamp="1514939742478">
         <mark key="'" line="55" column="4" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
+        <mark key="'" line="163" column="17" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/management/modelmbean/XMLParseException.java" timestamp="1515113690376">
         <mark key="'" line="102" column="12" />
@@ -110,6 +164,9 @@
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" timestamp="1514279363508">
+        <mark key="'" line="22" column="23" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1514266671505">
         <mark key="[" line="14" column="31" />
@@ -144,9 +201,14 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/connection/CachingConnectionFactory.class" timestamp="1515465992835">
         <mark key="'" line="79" column="27" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/config/Constants.java" timestamp="1515544034051" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/receiveFax_success.xml" timestamp="1515118812834">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/ws.jar!/schemas/wsdl11_mimebinding.xsd" timestamp="1513656884471">
         <mark key="'" line="63" column="20" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/core/client/impl/ServerLocatorImpl.class" timestamp="1514940265405">
+        <mark key="'" line="1174" column="224" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/config/AppConfiguration.java" timestamp="1515456849901">
         <mark key="'" line="155" column="32" />
@@ -155,8 +217,32 @@
         <mark key="." line="270" column="53" />
         <mark key="^" line="270" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/JAASSecurityManager.class" timestamp="1515479306440">
+        <mark key="'" line="25" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-xml/3.0.0.RELEASE/spring-xml-3.0.0.RELEASE.jar!/org/springframework/xml/transform/TraxUtils.class" timestamp="1513680736052">
+        <mark key="'" line="163" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/converter/ActivationMediaTypeFactory.class" timestamp="1513749023938">
+        <mark key="'" line="61" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/utils/OrderedExecutorFactory.class" timestamp="1514269927665">
         <mark key="'" line="34" column="71" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogSoapPayload.java" timestamp="1514972926789">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/ImageLogParser.java" timestamp="1515557755912">
+        <mark key="a" line="191" column="28" />
+        <mark key="b" line="262" column="20" />
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="111" column="18" />
+        <mark key="]" line="111" column="33" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="225" column="96" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
@@ -173,8 +259,30 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="77" column="79" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.class" timestamp="1514338466219">
+        <mark key="'" line="62" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1515480119650">
         <mark key="'" line="118" column="11" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestReceiveObjectMessageListener.java" timestamp="1514969414905">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
+        <mark key="'" line="44" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
+        <mark key="'" line="148" column="89" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515543281350">
+        <mark key="'" line="36" column="54" />
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="57" column="81" />
+        <mark key="^" line="57" column="81" />
+        <mark key="." line="57" column="81" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1515370383938">
         <mark key="'" line="38" column="0" />
@@ -189,6 +297,37 @@
         <mark key="]" line="60" column="40" />
         <mark key="." line="60" column="40" />
         <mark key="^" line="60" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
+        <mark key="'" line="60" column="39" />
+      </file>
+      <file name="/dummy.sql" timestamp="1515565844527">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
+        <mark key="'" line="17" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
+        <mark key="'" line="19" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515629713282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/logback.xml" timestamp="1515406308924">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="66" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1515576159379">
+        <mark key="a" line="87" column="36" />
+        <mark key="'" line="41" column="13" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="101" column="48" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/print/MimeType.class" timestamp="1513750930564">
         <mark key="'" line="371" column="30" />
@@ -214,6 +353,15 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1515576314171">
+        <mark key="[" line="46" column="94" />
+        <mark key="]" line="46" column="107" />
+        <mark key="." line="46" column="107" />
+        <mark key="^" line="46" column="107" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
+        <mark key="'" line="512" column="25" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515565435014">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="122" column="117" />
@@ -230,6 +378,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java" timestamp="1513659322403">
         <mark key="'" line="103" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/QueueDeployer.class" timestamp="1514278898416">
+        <mark key="'" line="27" column="13" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/config/logmanager-config.xml" timestamp="1515371924016">
         <mark key="[" line="10" column="90" />
         <mark key="]" line="10" column="123" />
@@ -238,160 +389,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.class" timestamp="1513750859455">
         <mark key="'" line="30" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
-        <mark key="'" line="318" column="35" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/itf/PropService.java" timestamp="1515060684124">
-        <mark key="'" line="34" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
-        <mark key="'" line="159" column="48" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/embedded/EmbeddedHornetQ.class" timestamp="1515478978435">
-        <mark key="'" line="53" column="21" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" timestamp="1514522538321">
-        <mark key="'" line="857" column="28" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/time/DateFormatUtils.class" timestamp="1515575188593">
-        <mark key="'" line="61" column="28" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq-jms.xml" timestamp="1514940741664">
-        <mark key="[" line="12" column="25" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/common/ResponseWebServiceStatus.java" timestamp="1515111806916">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="15" column="51" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/print.xml" timestamp="1514508327555">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="20" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" timestamp="1513752919201">
-        <mark key="'" line="231" column="10" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1515030521729">
-        <mark key="'" line="140" column="38" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/FileTypeMap.class" timestamp="1513749083489">
-        <mark key="'" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
-        <mark key="'" line="364" column="215" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/sendFax_success.xml" timestamp="1515126781886">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="67" column="14" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
-        <mark key="'" line="163" column="17" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" timestamp="1514279363508">
-        <mark key="'" line="22" column="23" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/receiveFax_success.xml" timestamp="1515118812834">
-        <mark key="'" line="10" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/core/client/impl/ServerLocatorImpl.class" timestamp="1514940265405">
-        <mark key="'" line="1174" column="224" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/JAASSecurityManager.class" timestamp="1515479306440">
-        <mark key="'" line="25" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-xml/3.0.0.RELEASE/spring-xml-3.0.0.RELEASE.jar!/org/springframework/xml/transform/TraxUtils.class" timestamp="1513680736052">
-        <mark key="'" line="163" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/converter/ActivationMediaTypeFactory.class" timestamp="1513749023938">
-        <mark key="'" line="61" column="0" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogSoapPayload.java" timestamp="1514972926789">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="53" />
-        <mark key="^" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/ImageLogParser.java" timestamp="1515557755912">
-        <mark key="a" line="191" column="28" />
-        <mark key="b" line="262" column="20" />
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="111" column="18" />
-        <mark key="]" line="111" column="33" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="225" column="96" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.class" timestamp="1514338466219">
-        <mark key="'" line="62" column="20" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/TestReceiveObjectMessageListener.java" timestamp="1514969414905">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
-        <mark key="'" line="44" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
-        <mark key="'" line="148" column="89" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515543281350">
-        <mark key="'" line="36" column="54" />
-        <mark key="[" line="57" column="59" />
-        <mark key="]" line="57" column="81" />
-        <mark key="^" line="57" column="81" />
-        <mark key="." line="57" column="81" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/ClassLoader.java" timestamp="1515480967430" />
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
-        <mark key="'" line="60" column="39" />
-      </file>
-      <file name="/dummy.sql" timestamp="1515565844527">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
-        <mark key="'" line="17" column="17" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
-        <mark key="'" line="19" column="13" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1515483336203">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/logback.xml" timestamp="1515406308924">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="14" column="66" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1515576159379">
-        <mark key="a" line="87" column="36" />
-        <mark key="'" line="41" column="13" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="101" column="48" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1515576314171">
-        <mark key="[" line="46" column="94" />
-        <mark key="]" line="46" column="107" />
-        <mark key="." line="46" column="107" />
-        <mark key="^" line="46" column="107" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
-        <mark key="'" line="512" column="25" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/QueueDeployer.class" timestamp="1514278898416">
-        <mark key="'" line="27" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
@@ -514,7 +511,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbG9jYWxFcnJvclNlcnZpY2UuaW4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCQlpbWdMb2cuc2V0Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -646,10 +643,10 @@
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlMb2NhbERhdGVUaW1lLm9mSW5zdGFudChJbnN0YW50Lm9mRXBvY2hNaWxsaShTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpCgkJKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbG9jYWxFcnJvclNlcnZpY2UuaW4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCQlpbWdMb2cuc2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJbG9jYWxFcnJvclNlcnZpY2UuaW4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -776,22 +773,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCURhdGVGb3JtYXRVdGlscy5mb3JtYXQoSW5zdGFudC5vZkVwb2NoTWlsbGkoKSkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCURhdGVGb3JtYXRVdGlscy5mb3JtYXQoSW5zdGFudC5vZkVwb2NoTWlsbGkoKSkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlJbnN0YW50Lm5vdygpCgkJKTsKCgkJU3lzdGVtLm91dC5wcmludGxuKAoJCQkJSW5zdGFudC5vZkVwb2NoTWlsbGkoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCgkJKTsKCgkJU3lzdGVtLm91dC5wcmludGxuKAoJCQkJSW5zdGFudC5vZkVwb2NoTWlsbGkoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCgkJKTsKCgkJU3lzdGVtLm91dC5wcmludGxuKAoJCQkJTG9jYWxEYXRlVGltZS5vZkluc3RhbnQoSW5zdGFudC5vZkVwb2NoTWlsbGkoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpLCBab25lSWQuc3lzdGVtRGVmYXVsdCgpKQoJCSk7CgoKCQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlMb2NhbERhdGVUaW1lLm9mSW5zdGFudChJbnN0YW50Lm9mRXBvY2hNaWxsaShTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXlNTWRkaGhtbXNzIikpCgkJKTsKCgl9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlJbnN0YW50Lm5vdygpCgkJKTsKCgkJU3lzdGVtLm91dC5wcmludGxuKAoJCQkJSW5zdGFudC5vZkVwb2NoTWlsbGkoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCgkJKTsKCgkJU3lzdGVtLm91dC5wcmludGxuKAoJCQkJSW5zdGFudC5vZkVwb2NoTWlsbGkoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCgkJKTsKCgkJU3lzdGVtLm91dC5wcmludGxuKAoJCQkJTG9jYWxEYXRlVGltZS5vZkluc3RhbnQoSW5zdGFudC5vZkVwb2NoTWlsbGkoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpLCBab25lSWQuc3lzdGVtRGVmYXVsdCgpKQoJCSk7CgoKCQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlMb2NhbERhdGVUaW1lLm9mSW5zdGFudChJbnN0YW50Lm9mRXBvY2hNaWxsaShTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXlNTWRkaGhtbXNzIikpCgkJKTsKCgl9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KCkKCQkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -807,10 +804,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlQYXRocy5nZXQoIiIpLnRvRmlsZSgpLm0K</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQlEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KCkKCQkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlQYXRocy5nZXQoIiIpLnRvRmlsZSgpLm0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
