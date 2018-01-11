@@ -306,6 +306,9 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" timestamp="1514279363508">
         <mark key="'" line="22" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.10.RELEASE/spring-messaging-4.3.10.RELEASE.jar!/org/springframework/messaging/Message.class" timestamp="1515658071442">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/receiveFax_success.xml" timestamp="1515118812834">
         <mark key="'" line="10" column="0" />
       </file>
@@ -412,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="68" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
       <jump line="314" column="71" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
       <jump line="308" column="29" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
       <jump line="179" column="0" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" />
@@ -512,6 +514,7 @@
       <jump line="77" column="69" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="80" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="42" column="51" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
+      <jump line="2" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.10.RELEASE/spring-messaging-4.3.10.RELEASE.jar!/org/springframework/messaging/Message.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
