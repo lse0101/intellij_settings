@@ -342,12 +342,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQDestination.class" timestamp="1514264503135">
         <mark key="'" line="148" column="89" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515645999380">
-        <mark key="'" line="42" column="51" />
-        <mark key="[" line="52" column="41" />
-        <mark key="]" line="52" column="41" />
-        <mark key="^" line="52" column="41" />
-        <mark key="." line="52" column="41" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1515648074782">
+        <mark key="'" line="38" column="51" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
         <mark key="'" line="60" column="39" />
@@ -397,12 +397,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1515645931750">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1515648682593">
         <mark key="'" line="80" column="24" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="89" column="59" />
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="71" column="26" />
+        <mark key="." line="71" column="26" />
+        <mark key="^" line="71" column="26" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -515,7 +515,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>g</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -638,19 +638,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IGltYWdlTG9nUGF0aHMuZG93bmxvYWRSZWN2UGF0aCgiMS4xLjEuMSIpOwo=</text>
+      <register name="0" type="4">
+        <text>recvImageLogQueue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJaSsrOwo=</text>
+        <text encoding="base64">CQkJCWxvZy5pbmZvKCJ7fb+hvK0gIikK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -777,7 +777,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">Ly8JCQl0YXJnZXRJbWdMb2cgPSAoKFRleHRNZXNzYWdlKW1lc3NhZ2UpLmdldFRleHQoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
@@ -786,13 +786,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8IS0tPGptczpsaXN0ZW5lciBkZXN0aW5hdGlvbj0icmVjdkltYWdlTG9nUXVldWUiIHJlZj0ibGlzdGVuZXIiLz4tLT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CTwhLS0gVGVzdCAtLT4KICAgIDxiZWFuIGlkPSJsaXN0ZW5lciIgY2xhc3M9ImNvbS5mdWppeGVyb3gua29yLmxvZ21hbmFnZXIubGlzdGVuZXIuVGVzdE1lc3NhZ2VMaXN0ZW5lciIvPgoJPCEtLSBUZXN0IC0tPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBUZXN0KGV4cGVjdGVkID0gSW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbi5jbGFzcykKCXB1YmxpYyB2b2lkIHRlc3ROZXh0U3RhdHVzSW5kZXhPdXRPZkJvdW5kcygpIHsKCQlJbWFnZUxvZ1N0YXR1c0VudW0uRVJST1IubmV4dCgpOwoJfQoKCUBUZXN0KGV4cGVjdGVkID0gSW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbi5jbGFzcykKCXB1YmxpYyB2b2lkIHRlc3RQcmV2U3RhdHVzSW5kZXhPdXRPZkJvdW5kcygpIHsKCQlJbWFnZUxvZ1N0YXR1c0VudW0uRE9XTkxPQURJTkcucHJldigpOwoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -808,7 +808,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZG93blJlY3ZQYXRoID0gaW1hZ2VMb2dQYXRocy5kb3dubG9hZFJlY3ZQYXRoKCIxLjEuMS4xIikudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">CTwhLS08am1zOmxpc3RlbmVyIGRlc3RpbmF0aW9uPSJyZWN2SW1hZ2VMb2dRdWV1ZSIgcmVmPSJsaXN0ZW5lciIvPi0tPgo8IS0tCTxqbXM6bGlzdGVuZXItY29udGFpbmVyIGNvbmN1cnJlbmN5PSI1IgoJICAgICAgICAgICAgICAgICAgICAgICAgcmVjZWl2ZS10aW1lb3V0PSIzMDAwIgoJICAgICAgICAgICAgICAgICAgICAgICAgYWNrbm93bGVkZ2U9InRyYW5zYWN0ZWQiCgkgICAgICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uLWZhY3Rvcnk9ImNhY2hpbmdDb25uZWN0aW9uRmFjdG9yeSI+CgoJCTxqbXM6bGlzdGVuZXIgZGVzdGluYXRpb249InJlY3ZJbWFnZUxvZ1F1ZXVlIiByZWY9ImltYWdlTG9nTWVzc2FnZUxpc3RlbmVyIi8+Cgk8L2ptczpsaXN0ZW5lci1jb250YWluZXI+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
