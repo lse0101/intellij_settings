@@ -51,6 +51,15 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
       </file>
+      <file name="/RamdaTest.java" timestamp="1515721130977" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1515139840054">
+        <mark key="a" line="422" column="4" />
+        <mark key="'" line="116" column="77" />
+        <mark key="[" line="423" column="81" />
+        <mark key="]" line="423" column="84" />
+        <mark key="^" line="423" column="84" />
+        <mark key="." line="423" column="84" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
       </file>
@@ -354,7 +363,7 @@
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515634096930">
+      <file name="/Dummy.txt" timestamp="1515721662180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -364,6 +373,14 @@
         <mark key="]" line="14" column="66" />
         <mark key="^" line="14" column="66" />
         <mark key="." line="14" column="66" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1515721704735">
+        <mark key="a" line="87" column="36" />
+        <mark key="'" line="41" column="13" />
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="79" column="58" />
+        <mark key="." line="79" column="58" />
+        <mark key="^" line="79" column="58" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1515636932677">
         <mark key="'" line="35" column="19" />
@@ -501,7 +518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -624,7 +641,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrRXhlY3V0b3JcPg==</text>
