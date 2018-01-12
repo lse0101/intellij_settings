@@ -401,12 +401,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1515732255346">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1515733490730">
         <mark key="'" line="123" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="96" column="40" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="116" column="61" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -519,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCWUuZ2V0Q2F1c2UoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -642,19 +642,23 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>Runtime</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kTWVzc2FnZVRvRGF0YUFjY2Vzc1NlcnZlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBQYXRoIHRvU2F2ZWRTdWNjdWVzc1BhdGgoKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
+      <register name="0" type="4">
+        <text>valueOf(imgLogPath)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCWUuZ2V0Q2F1c2UoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCWUuCg==</text>
+      <register name="2" type="4">
+        <text>catch(Exception e) {
+				log.error(e.getMessage(), e);
+
+				throw e;
+			}</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -781,22 +785,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXRocm93IGU7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCXRocm93IGU7Cg==</text>
+        <text encoding="base64">CQkJCWxvZy5lcnJvcigie32/obytIMbEwM/AuyDA0L7uILXpwMy02SC/obevsKEgud+7/cffvcC0z7TZIiwgdmFsdWVPZihpbWdMb2dQYXRoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdGFyZ2V0SW1nTG9nOwo=</text>
+        <text encoding="base64">CQkJCQlsb2cuZXJyb3IoInt9wMcgam9iSW5mb8C7IHVubWFyc2hhbGxpbmfAuyC9x8bQx8+/tL3AtM+02SIsIHZhbHVlT2Yoam9iSW5mb1htbCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGFyZ2V0SW1nTG9nID0gbWVzc2FnZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -812,10 +816,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl0aHJvdyBlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
