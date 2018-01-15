@@ -386,12 +386,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1515976214216">
-        <mark key="'" line="10" column="42" />
-        <mark key="[" line="146" column="40" />
-        <mark key="]" line="146" column="40" />
-        <mark key="." line="146" column="40" />
-        <mark key="^" line="146" column="43" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1515983065146">
+        <mark key="'" line="85" column="41" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -404,11 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="10" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
-      <jump line="12" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
-      <jump line="16" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" />
-      <jump line="7" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" />
-      <jump line="31" column="36" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" />
       <jump line="93" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="94" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="91" column="36" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
@@ -504,10 +499,15 @@
       <jump line="114" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="142" column="26" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="30" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" />
+      <jump line="125" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
+      <jump line="54" column="25" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
+      <jump line="150" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
+      <jump line="51" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
+      <jump line="85" column="41" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIiIpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -630,19 +630,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Route</text>
+        <text>leaf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJZXJyb3IodmFsdWVPZihpbWdMb2dQYXRoKSwgZS5nZXRNZXNzYWdlKCksIEVtYmVkZWRDb25zdGFudHMuRVJST1JfR09MT0JBTCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+aHR0cGNvcmU8L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj40LjQuODwvdmVyc2lvbj4KCQkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">CQlpZigxPT0xKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -772,19 +772,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHR0cGNvcmU8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjQuNC44PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+aHR0cGNvcmU8L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj40LjQuODwvdmVyc2lvbj4KCQkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5odHRwY29tcG9uZW50cy9odHRwY29yZSAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -810,17 +810,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Route</last-search>
+      <last-search>leaf</last-search>
       <last-offset />
-      <last-pattern>Route</last-pattern>
+      <last-pattern>leaf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deli</entry>
-        <entry>cnt</entry>
-        <entry>count</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzZW5kTWVzc2FnZVRvRGF0YUFjY2Vzc1NlcnZlclw+</entry>
         <entry>apache</entry>
@@ -838,6 +835,9 @@
         <entry encoding="base64">XDxzeXN0ZW1Qcm9wZXJ0aWVzXD4=</entry>
         <entry>route</entry>
         <entry>Route</entry>
+        <entry encoding="base64">XDxyZXN0VGVtcGxhdGVcPg==</entry>
+        <entry encoding="base64">XDxqb2JJbmZvXD4=</entry>
+        <entry>leaf</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
