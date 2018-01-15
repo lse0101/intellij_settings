@@ -178,12 +178,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515994608150">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1515997430719">
         <mark key="'" line="44" column="42" />
-        <mark key="[" line="146" column="61" />
-        <mark key="]" line="146" column="80" />
-        <mark key="." line="146" column="80" />
-        <mark key="^" line="146" column="80" />
+        <mark key="[" line="146" column="26" />
+        <mark key="]" line="146" column="26" />
+        <mark key="." line="146" column="26" />
+        <mark key="^" line="146" column="26" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
@@ -484,7 +484,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -607,7 +607,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>leaf</text>
@@ -616,7 +616,7 @@
         <text>getClass().getResource(&quot;./logdata&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oCiAgICAgICAgICAgICAgICBVUkkuY3JlYXRlKGdldENsYXNzKCkuZ2V0UmVzb3VyY2UoImxvZ2RhdGEiKS50b1VSSSgpLmdldFJhd1BhdGgoKSkKCiAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -746,10 +746,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmdldFJlc291cmNlKCIuL2xvZ2RhdGEiKS50b1VSSSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmdldFJlc291cmNlKCIuL2xvZ2RhdGEiKS50b1VSSSgpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -758,10 +758,10 @@
         <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS5zdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS5zdHJlYW0oKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -777,10 +777,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
