@@ -192,11 +192,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516006984802">
-        <mark key="'" line="40" column="54" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516077088319">
+        <mark key="'" line="172" column="4" />
+        <mark key="[" line="84" column="9" />
+        <mark key="]" line="84" column="9" />
+        <mark key="." line="84" column="9" />
+        <mark key="^" line="84" column="9" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
@@ -375,12 +376,12 @@
         <mark key="." line="77" column="5" />
         <mark key="^" line="79" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516075170187">
-        <mark key="'" line="152" column="15" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="101" column="84" />
-        <mark key="." line="92" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516077020585">
+        <mark key="'" line="104" column="27" />
+        <mark key="[" line="135" column="27" />
+        <mark key="]" line="135" column="38" />
+        <mark key="^" line="135" column="38" />
+        <mark key="." line="135" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -407,8 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="37" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQMessage.class" />
-      <jump line="100" column="51" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQMessage.class" />
       <jump line="102" column="43" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQMessage.class" />
       <jump line="118" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="144" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
@@ -507,10 +506,12 @@
       <jump line="145" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="146" column="15" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="6" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogStatusEnum.java" />
+      <jump line="104" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="172" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -633,10 +634,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b1NhdmVkU3VjY3Vlc3NQYXRoXD4=</text>
+        <text encoding="base64">XDx0b1NraXBGYXhMb2dQYXRoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>this.ordinal() -1</text>
@@ -813,15 +814,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b1NhdmVkU3VjY3Vlc3NQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDx0b1NraXBGYXhMb2dQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b1NhdmVkU3VjY3Vlc3NQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0b1NraXBGYXhMb2dQYXRoXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apache</entry>
         <entry>http</entry>
         <entry>commons-lo</entry>
         <entry>commons</entry>
@@ -841,6 +841,7 @@
         <entry>leaf</entry>
         <entry encoding="base64">XDxyb290VG1wRG93bmxvYWRSZWN2UGF0aFw+</entry>
         <entry encoding="base64">XDx0b1NhdmVkU3VjY3Vlc3NQYXRoXD4=</entry>
+        <entry encoding="base64">XDx0b1NraXBGYXhMb2dQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
