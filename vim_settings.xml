@@ -192,6 +192,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516171500231">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516164547190">
         <mark key="'" line="84" column="38" />
         <mark key="[" line="170" column="83" />
@@ -348,7 +353,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
         <mark key="'" line="60" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1516163358173">
+      <file name="/dummy.sql" timestamp="1516171487484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
@@ -399,12 +404,12 @@
         <mark key="'" line="43" column="50" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516170326780">
-        <mark key="a" line="169" column="20" />
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="164" column="61" />
-        <mark key="]" line="165" column="4" />
-        <mark key="." line="165" column="4" />
-        <mark key="^" line="165" column="4" />
+        <mark key="a" line="168" column="20" />
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="163" column="61" />
+        <mark key="]" line="164" column="4" />
+        <mark key="." line="164" column="4" />
+        <mark key="^" line="164" column="4" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -519,8 +524,8 @@
       <jump line="198" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.10.RELEASE/spring-jdbc-4.3.10.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQllMS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -643,7 +648,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PDwvpMQ+</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
