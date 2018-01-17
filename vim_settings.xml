@@ -372,13 +372,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516181180663">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516186012223">
         <mark key="a" line="189" column="20" />
         <mark key="'" line="206" column="0" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="^" line="84" column="56" />
-        <mark key="." line="186" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -493,12 +492,8 @@
       <jump line="198" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.10.RELEASE/spring-jdbc-4.3.10.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>horentQ의 큐 및 보안설정을 추가한다
-
-thread-pool 사이즈 30
-인증된 사용자의 메시지만 받도록 보안룰을 적용
-message 전달에 문제가 생길시 5초후에 재전송</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCWpvYkluZm8uc2V0SG9zdGFkZHJlc3MoKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -621,7 +616,7 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>downloading_20180117140235_13.197.5.160_9200103076으로</text>
+        <text>attr.getDeviceHostAddress()</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -629,15 +624,15 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
       <register name="0" type="4">
         <text>downloading_20180115011429</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCWpvYkluZm8uc2V0SG9zdGFkZHJlc3MoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>horentQ의 큐 및 보안설정을 추가한다
 
 thread-pool 사이즈 30
 인증된 사용자의 메시지만 받도록 보안룰을 적용
 message 전달에 문제가 생길시 5초후에 재전송</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -764,19 +759,19 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZihpbmRleCA9PSAzKSB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiwMe1tcD7wM4gv6G3ryIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIDwvcD4K</text>
+        <text encoding="base64">CQlpZihpbmRleCA9PSAzKSB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiwMe1tcD7wM4gv6G3ryIpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIDxwPgo=</text>
+        <text encoding="base64">CSAqIDwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CSAqIDxwPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CSAqCg==</text>
@@ -795,10 +790,10 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIDXDyr+hIMfRufi+vyByZXBvc2l0b3J5wMcgvPa9xSB0bXDG+rT1uKYguK69usbDx8+/qSDBpLvzwPvAuLfOIMDMuczB9rfOsdcgvPa9xcDMIL/Pt+G1yCwKCSAqIMHvLCC89r3Fxvq09SCz18DMudYgcHJlZml4IGRvd25sb2FkaW5nwMwgvsa00SB3YWl0aW5nwLi3ziC1x77uIMDWtMIgxvq09bimILDLu/bHz7+pIHF1ZXVlZLfOCgkgKiC6r7DmyMQgTWVzc2FnZSBRdWV1Zb+hILqvsObH0SDAzLnMwfa3zrHXIMb6tPWz18DMudbAuyC6uLO9tNkuCg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CSAqIDXDyr+hIMfRufi+vyByZXBvc2l0b3J5wMcgvPa9xSB0bXDG+rT1uKYguK69usbDx8+/qSDBpLvzwPvAuLfOIMDMuczB9rfOsdcgvPa9xcDMIL/Pt+G1yCwKCSAqIMHvLCC89r3Fxvq09SCz18DMudYgcHJlZml4IGRvd25sb2FkaW5nwMwgvsa00SB3YWl0aW5nwLi3ziC1x77uIMDWtMIgxvq09bimILDLu/bHz7+pIHF1ZXVlZLfOCgkgKiC6r7DmyMQgTWVzc2FnZSBRdWV1Zb+hILqvsObH0SDAzLnMwfa3zrHXIMb6tPWz18DMudbAuyC6uLO9tNkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
