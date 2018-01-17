@@ -192,12 +192,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516154213838">
-        <mark key="'" line="144" column="81" />
-        <mark key="[" line="161" column="114" />
-        <mark key="]" line="161" column="140" />
-        <mark key="^" line="118" column="90" />
-        <mark key="." line="161" column="114" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516162748985">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="170" column="42" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
@@ -395,12 +395,13 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516149450003">
-        <mark key="a" line="159" column="20" />
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516162368849">
+        <mark key="a" line="161" column="20" />
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="145" column="87" />
+        <mark key="]" line="147" column="27" />
+        <mark key="." line="147" column="27" />
+        <mark key="^" line="147" column="27" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -413,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="686" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="687" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="354" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
       <jump line="355" column="18" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
@@ -513,10 +513,11 @@
       <jump line="194" column="37" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
       <jump line="141" column="77" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
       <jump line="149" column="81" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
+      <jump line="28" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logdata</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -644,14 +645,14 @@
       <register name="/" type="4">
         <text>getClass</text>
       </register>
-      <register name="0" type="4">
-        <text>downloading_20180115011429</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldChnZXRDbGFzcygpLmdldFJlc291cmNlKCJkb3dubG9hZGluZ18yMDE4MDExNTAxMTQyOSIpLnRvVVJJKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0c1dpdGgoSW1hZ2VMb2dTdGF0dXNFbnVtLkRPV05MT0FESU5HLnZhbCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZUxvZ1BhdGhzCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -778,22 +779,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNoYW5nZWRTdGF0dXMuZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VkU3RhdHVzICA9IGltYWdlTG9nUGF0aHMucm9sbGJhY2tTdGF0dXMoY2hhbmdlZFN0YXR1cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldCgiZG93bmxvYWRpbmdfMjAxODAxMTUwMTE0MjkiKS50b0Fic29sdXRlUGF0aCgpOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldCgiZG93bmxvYWRpbmdfMjAxODAxMTUwMTE0MjkiKS50b0Fic29sdXRlUGF0aCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -809,10 +810,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0c1dpdGgoSW1hZ2VMb2dTdGF0dXNFbnVtLkRPV05MT0FESU5HLnZhbCgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG93bmxvYWRpbmdQYXRoLnRvUmVhbFBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNoYW5nZWRTdGF0dXMuZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
