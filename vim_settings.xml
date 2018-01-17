@@ -316,11 +316,11 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/ImageLogParser.java" timestamp="1516065092843">
-        <mark key="[" line="112" column="12" />
-        <mark key="]" line="112" column="18" />
-        <mark key="^" line="112" column="18" />
-        <mark key="." line="112" column="18" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/ImageLogParser.java" timestamp="1516147315158">
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="52" column="48" />
+        <mark key="^" line="52" column="48" />
+        <mark key="." line="52" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.class" timestamp="1514338466219">
         <mark key="'" line="62" column="20" />
@@ -379,12 +379,12 @@
         <mark key="." line="77" column="5" />
         <mark key="^" line="79" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516096626256">
-        <mark key="'" line="41" column="32" />
-        <mark key="[" line="117" column="7" />
-        <mark key="]" line="118" column="47" />
-        <mark key="." line="118" column="47" />
-        <mark key="^" line="118" column="47" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516147698052">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="70" column="25" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -395,12 +395,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516090480986">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516147780740">
         <mark key="a" line="160" column="20" />
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -413,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="31" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" />
       <jump line="37" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" />
       <jump line="114" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" />
@@ -513,10 +512,11 @@
       <jump line="225" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="208" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="41" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="192" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlsb2cuZXJyb3IocmVzcG9uc2UuZ2V0Qm9keSgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -639,7 +639,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUTVBfUEFUSFw+</text>
@@ -648,10 +648,10 @@
         <text>path + tmp + status + prefix + random(20)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIDwvcD4K</text>
+        <text encoding="base64">CQlsb2cuZXJyb3IocmVzcG9uc2UuZ2V0Qm9keSgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqICAgICAK</text>
+        <text encoding="base64">CQkJCWxvZy5lcnJvcigiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIik7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -778,22 +778,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIDxwPgo=</text>
+        <text encoding="base64">CQkJCWxvZy5lcnJvcigiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgIAo=</text>
+        <text encoding="base64">CSAqIDwvcD4K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVjdlJvb3RQYXRoOwo=</text>
+        <text encoding="base64">CSAqIDxwPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIHJlY3ZSb290UGF0aDsK</text>
+        <text encoding="base64">CQkgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -809,10 +809,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVjdlJvb3RQYXRoOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
