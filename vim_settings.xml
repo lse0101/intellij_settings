@@ -192,12 +192,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516152818143">
-        <mark key="'" line="149" column="81" />
-        <mark key="[" line="118" column="65" />
-        <mark key="]" line="118" column="90" />
-        <mark key="." line="118" column="90" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1516154213838">
+        <mark key="'" line="144" column="81" />
+        <mark key="[" line="161" column="114" />
+        <mark key="]" line="161" column="140" />
         <mark key="^" line="118" column="90" />
+        <mark key="." line="161" column="114" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
@@ -354,7 +354,7 @@
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516148931506">
+      <file name="/Dummy.txt" timestamp="1516153927418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -378,11 +378,12 @@
         <mark key="." line="77" column="5" />
         <mark key="^" line="79" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516152511978">
-        <mark key="'" line="194" column="0" />
-        <mark key="[" line="276" column="62" />
-        <mark key="]" line="276" column="63" />
-        <mark key="." line="276" column="63" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516153992474">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="284" column="52" />
+        <mark key="]" line="284" column="70" />
+        <mark key="." line="284" column="52" />
+        <mark key="^" line="284" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -407,7 +408,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsAsyncClientHttpRequestFactory.class" timestamp="1515976705596">
         <mark key="'" line="82" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1516009644336">
+      <file name="/fragment.java" timestamp="1516153927281">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -515,7 +516,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logdata</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -638,19 +639,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logdata</text>
       </register>
       <register name="/" type="4">
         <text>getClass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldChnZXRDbGFzcygpLmdldFJlc291cmNlKCJkb3dubG9hZGluZ18yMDE4MDExNjAxMTQyOSIpLnRvVVJJKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>downloading_20180115011429</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldCgiZG93bmxvYWRpbmdfMjAxODAxMTUwMTE0MjkiKS50b0Fic29sdXRlUGF0aCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldCgiZG93bmxvYWRpbmdfMjAxODAxMTUwMTE0MjkiKS50b0Fic29sdXRlUGF0aCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0c1dpdGgoSW1hZ2VMb2dTdGF0dXNFbnVtLkRPV05MT0FESU5HLnZhbCgpKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -777,22 +778,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNoYW5nZWRTdGF0dXMuZ2V0RmlsZU5hbWUoKS50b1N0cmluZygpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG93bmxvYWRpbmdQYXRoLnRvUmVhbFBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFuZ2VkU3RhdHVzICA9IGltYWdlTG9nUGF0aHMucm9sbGJhY2tTdGF0dXMoY2hhbmdlZFN0YXR1cyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG93bmxvYWRpbmdQYXRoLnRvQWJzb2x1dGVQYXRoKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFBhdGggZG93bmxvYWRpbmdQYXRoID0gUGF0aHMuZ2V0KCJkb3dubG9hZGluZ18yMDE4MDExNjAxMTQyOSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldCgiZG93bmxvYWRpbmdfMjAxODAxMTUwMTE0MjkiKS50b0Fic29sdXRlUGF0aCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYXRoIGRvd25sb2FkaW5nUGF0aCA9IFBhdGhzLmdldCgiZG93bmxvYWRpbmdfMjAxODAxMTUwMTE0MjkiKS50b0Fic29sdXRlUGF0aCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -808,10 +809,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImdyb3VwIDA6ICIrIHN0YXR1c01hdGNoZXIuZ3JvdXAoMCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImdyb3VwIDE6ICIrIHN0YXR1c01hdGNoZXIuZ3JvdXAoMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG93bmxvYWRpbmdQYXRoLnRvUmVhbFBhdGgoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
