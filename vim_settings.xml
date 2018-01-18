@@ -30,6 +30,13 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1516239551102">
+        <mark key="'" line="423" column="8" />
+        <mark key="[" line="460" column="14" />
+        <mark key="]" line="460" column="18" />
+        <mark key="." line="460" column="18" />
+        <mark key="^" line="460" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
       </file>
@@ -341,7 +348,7 @@
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516177059738">
+      <file name="/Dummy.txt" timestamp="1516239307769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/dto/LocalErrorDTO.java" timestamp="1515742360045">
@@ -372,12 +379,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516233986812">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516239218333">
         <mark key="a" line="189" column="20" />
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -390,8 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="54" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
-      <jump line="502" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="518" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="541" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="579" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
@@ -490,10 +495,12 @@
       <jump line="321" column="6" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="332" column="79" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="198" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.10.RELEASE/spring-jdbc-4.3.10.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
+      <jump line="410" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
+      <jump line="423" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCWpvYkluZm8uc2V0SG9zdGFkZHJlc3MoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>sendFax_success</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -616,23 +623,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>attr.getDeviceHostAddress()</text>
+        <text>sendFax_success</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
-      <register name="0" type="4">
-        <text>downloading_20180115011429</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlJbWFnZUxvZ0pvYkluZm8gbG9nSW5mbyA9IEltYWdlTG9nUGFyc2VyLnVubWFyc2hhbGxKb2JJbmZvKHhtbFJlYWRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCWpvYkluZm8uc2V0SG9zdGFkZHJlc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>horentQ의 큐 및 보안설정을 추가한다
-
-thread-pool 사이즈 30
-인증된 사용자의 메시지만 받도록 보안룰을 적용
-message 전달에 문제가 생길시 5초후에 재전송</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -759,22 +762,26 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoJCXJlc3RUZW1wbGF0ZS5zZXRFcnJvckhhbmRsZXIobmV3IFJlc3BvbnNlRXJyb3JIYW5kbGVyKCkgewoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIGJvb2xlYW4gaGFzRXJyb3IoQ2xpZW50SHR0cFJlc3BvbnNlIGNsaWVudEh0dHBSZXNwb25zZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQkJCXJldHVybiB0cnVlOwoJCQl9CgoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIHZvaWQgaGFuZGxlRXJyb3IoQ2xpZW50SHR0cFJlc3BvbnNlIGNsaWVudEh0dHBSZXNwb25zZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQkJCWxvZy5lcnJvcihJT1V0aWxzLnRvU3RyaW5nKGNsaWVudEh0dHBSZXNwb25zZS5nZXRCb2R5KCksICJVVEYtOCIpKTsKCQkJfQoJCX0pOyovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZihpbmRleCA9PSAzKSB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiwMe1tcD7wM4gv6G3ryIpOwo=</text>
+        <text encoding="base64">CQkJCQkJCWpvYkluZm8uc2V0SG9zdGFkZHJlc3MoKTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSAqIDwvcD4K</text>
+      <register name="5" type="4">
+        <text>horentQ의 큐 및 보안설정을 추가한다
+
+thread-pool 사이즈 30
+인증된 사용자의 메시지만 받도록 보안룰을 적용
+message 전달에 문제가 생길시 5초후에 재전송</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIDxwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CQlpZihpbmRleCA9PSAzKSB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiwMe1tcD7wM4gv6G3ryIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -790,10 +797,10 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CSAqIDwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIDXDyr+hIMfRufi+vyByZXBvc2l0b3J5wMcgvPa9xSB0bXDG+rT1uKYguK69usbDx8+/qSDBpLvzwPvAuLfOIMDMuczB9rfOsdcgvPa9xcDMIL/Pt+G1yCwKCSAqIMHvLCC89r3Fxvq09SCz18DMudYgcHJlZml4IGRvd25sb2FkaW5nwMwgvsa00SB3YWl0aW5nwLi3ziC1x77uIMDWtMIgxvq09bimILDLu/bHz7+pIHF1ZXVlZLfOCgkgKiC6r7DmyMQgTWVzc2FnZSBRdWV1Zb+hILqvsObH0SDAzLnMwfa3zrHXIMb6tPWz18DMudbAuyC6uLO9tNkuCg==</text>
+        <text encoding="base64">CSAqIDxwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -830,8 +837,6 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         <entry>post</entry>
       </history-search>
       <history-cmd>
-        <entry>set surround</entry>
-        <entry>on</entry>
         <entry>only</entry>
         <entry>ls</entry>
         <entry>43</entry>
@@ -849,6 +854,8 @@ message 전달에 문제가 생길시 5초후에 재전송</text>
         <entry>qw</entry>
         <entry>vs</entry>
         <entry>wq</entry>
+        <entry>424</entry>
+        <entry>425</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
