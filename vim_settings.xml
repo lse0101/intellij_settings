@@ -18,7 +18,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsDirectoryStream.class" timestamp="1515486164257">
         <mark key="'" line="55" column="16" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/mixedPaper.xml" timestamp="1516257790312">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/mixedPaper.xml" timestamp="1516262920314">
         <mark key="'" line="78" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/core/JmsTemplate.class" timestamp="1515486912891">
@@ -33,6 +33,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar!/org/springframework/util/xml/StaxUtils.class" timestamp="1516263298537" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1516252988635">
         <mark key="'" line="272" column="31" />
         <mark key="[" line="477" column="0" />
@@ -149,12 +150,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1515480119650">
         <mark key="'" line="118" column="11" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" timestamp="1516261134590">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" timestamp="1516263502132">
         <mark key="'" line="22" column="28" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="34" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" timestamp="1515981385654">
         <mark key="'" line="30" column="0" />
@@ -171,10 +172,11 @@
         <mark key="^" line="33" column="55" />
         <mark key="." line="33" column="55" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogDetail.java" timestamp="1516260839938">
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogDetail.java" timestamp="1516263459547">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1515378467034">
         <mark key="'" line="89" column="12" />
@@ -271,6 +273,11 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/FileTypeMap.class" timestamp="1513749083489">
         <mark key="'" line="21" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobDetailInfo.java" timestamp="1516263466899">
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
       </file>
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
@@ -520,7 +527,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGluRG9jdW1lbnROYW1lOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgaW50IGluVG90YWxDb3BpZXM7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -643,19 +650,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Sheets</text>
       </register>
       <register name="/" type="4">
-        <text>document</text>
+        <text>size</text>
       </register>
       <register name="0" type="4">
         <text>out</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGluRG9jdW1lbnROYW1lOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgaW50IGluVG90YWxDb3BpZXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KHByaW50RGV0YWlsLCBoYXNQcm9wZXJ0eSgidHlwZSIsIGlzKCJwaG90byBhbmQgdGV4dCIpKSk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgaW50IG91dFRvdGFsUGFnZXM7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -782,22 +789,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KHByaW50RGV0YWlsLCBoYXNQcm9wZXJ0eSgidHlwZSIsIGlzKCJwaG90byBhbmQgdGV4dCIpKSk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGluVG90YWxEb2N1bWVudE5hbWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG91dFNpemU7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGluU2l6ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGluRG9jdW1lbnROYW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHR5cGU7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0KHByaW50RGV0YWlsLCBoYXNQcm9wZXJ0eSgidHlwZSIsIGlzKCJwaG90byBhbmQgdGV4dCIpKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -813,25 +820,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0KHByaW50RGV0YWlsLCBoYXNQcm9wZXJ0eSgidHlwZSIsIGlzKCJwaG90byBhbmQgdGV4dCIpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>document</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern>document</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>agent</entry>
         <entry encoding="base64">XDxUTVBfUEFUSFw+</entry>
         <entry>logdata</entry>
         <entry>regex</entry>
@@ -847,10 +853,11 @@
         <entry>Sheets</entry>
         <entry encoding="base64">XDxsb2dJbmZvXD4=</entry>
         <entry>Nup</entry>
-        <entry>pages</entry>
         <entry>copies</entry>
         <entry>cop</entry>
         <entry>document</entry>
+        <entry>pages</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry>only</entry>
