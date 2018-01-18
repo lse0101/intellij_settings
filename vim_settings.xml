@@ -110,6 +110,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/deploy.jar!/com/sun/deploy/util/StringUtils.class" timestamp="1515644569908">
         <mark key="'" line="17" column="13" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/print.xml" timestamp="1516258438546">
+        <mark key="'" line="81" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueFactoryImpl.class" timestamp="1514269230370">
         <mark key="'" line="26" column="44" />
       </file>
@@ -408,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="775" column="117" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="56" column="40" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="71" column="45" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
       <jump line="72" column="40" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/impl/client/HttpClientBuilder.class" />
@@ -508,6 +510,7 @@
       <jump line="150" column="65" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/ImageLogParser.java" />
       <jump line="274" column="31" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
       <jump line="78" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/mixedPaper.xml" />
+      <jump line="81" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/print.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -637,7 +640,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Nup</text>
+        <text>cop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dJbmZvLnNldFByaW50RGV0YWlsTGlzdChuZXcgTGlua2VkTGlzdDw+KCkpOwo=</text>
@@ -814,17 +817,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Nup</last-search>
+      <last-search>cop</last-search>
       <last-offset />
-      <last-pattern>Nup</last-pattern>
+      <last-pattern>cop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b1NhdmVkU3VjY3Vlc3NQYXRoXD4=</entry>
-        <entry encoding="base64">XDx0b1NraXBGYXhMb2dQYXRoXD4=</entry>
-        <entry>Handler</entry>
         <entry>retry</entry>
         <entry>agent</entry>
         <entry encoding="base64">XDxUTVBfUEFUSFw+</entry>
@@ -842,6 +842,9 @@
         <entry>Sheets</entry>
         <entry encoding="base64">XDxsb2dJbmZvXD4=</entry>
         <entry>Nup</entry>
+        <entry>pages</entry>
+        <entry>copies</entry>
+        <entry>cop</entry>
       </history-search>
       <history-cmd>
         <entry>only</entry>
