@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultJobInfoTransformer.java" timestamp="1516586809378">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultJobInfoTransformer.java" timestamp="1516597011765">
         <mark key="[" line="13" column="69" />
         <mark key="]" line="13" column="69" />
         <mark key="^" line="18" column="97" />
@@ -44,6 +44,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/core/JmsTemplate.class" timestamp="1515486912891">
         <mark key="'" line="289" column="71" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoSend.xml" timestamp="1516595477243">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="43" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransformer.java" timestamp="1516586571799">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="7" column="52" />
@@ -55,6 +59,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultFaxJobInfoTransformer.java" timestamp="1516597093772">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoReceivePrint.xml" timestamp="1516586953396" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" timestamp="1516581584484">
@@ -68,10 +78,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" timestamp="1516582752548">
-        <mark key="[" line="226" column="62" />
-        <mark key="]" line="226" column="64" />
-        <mark key="." line="226" column="64" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" timestamp="1516597134083">
+        <mark key="'" line="112" column="40" />
+        <mark key="[" line="495" column="65" />
+        <mark key="]" line="495" column="66" />
+        <mark key="." line="495" column="66" />
         <mark key="^" line="226" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" timestamp="1515478778508">
@@ -88,11 +99,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" timestamp="1514271184314">
         <mark key="'" line="2151" column="35" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/report.xml" timestamp="1516351712812">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="50" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" timestamp="1515559584412">
         <mark key="'" line="1493" column="26" />
@@ -142,6 +148,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/time/DateUtils.class" timestamp="1515575053044">
         <mark key="'" line="18" column="13" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutosendTransformer.java" timestamp="1516596695336">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/config/impl/FileConfiguration.class" timestamp="1515479177697">
         <mark key="'" line="17" column="83" />
       </file>
@@ -164,11 +176,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" timestamp="1515981385654">
         <mark key="'" line="30" column="0" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/privateReceive.xml" timestamp="1516351291447">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="90" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/privateReceive.xml" timestamp="1516584620201">
         <mark key="'" line="6" column="21" />
@@ -216,18 +223,8 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/itf/PropService.java" timestamp="1515060684124">
         <mark key="'" line="34" column="6" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/faxAutoReceivePrint.xml" timestamp="1516347085430">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="50" />
-      </file>
       <file name="$USER_HOME$/Development/workspace/XPMS_20_Sophia_Admin_Tools_GUI/pom.xml" timestamp="1513314356823">
         <mark key="'" line="159" column="48" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/receiveFax_success.xml" timestamp="1516338860332">
-        <mark key="'" line="73" column="26" />
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-client/2.4.7.Final/hornetq-jms-client-2.4.7.Final.jar!/org/hornetq/jms/client/HornetQMessage.class" timestamp="1515748455878">
         <mark key="'" line="102" column="43" />
@@ -277,11 +274,6 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-spring-integration/2.4.7.Final/hornetq-spring-integration-2.4.7.Final.jar!/org/hornetq/integration/spring/SpringBindingRegistry.class" timestamp="1514279363508">
         <mark key="'" line="22" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/sendFax_success.xml" timestamp="1516342455047">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="32" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.10.RELEASE/spring-messaging-4.3.10.RELEASE.jar!/org/springframework/messaging/Message.class" timestamp="1515658071442">
         <mark key="'" line="2" column="0" />
       </file>
@@ -297,16 +289,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/DefaultMessageListenerContainer.class" timestamp="1515668485024">
         <mark key="'" line="61" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/mailboxPrint.xml" timestamp="1516346615980">
-        <mark key="'" line="64" column="25" />
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="50" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransFormers.java" timestamp="1516588602218">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="30" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransFormers.java" timestamp="1516596411696">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/JAASSecurityManager.class" timestamp="1515479306440">
         <mark key="'" line="25" column="13" />
@@ -314,7 +301,8 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/client/RestTemplate.class" timestamp="1516087443134">
         <mark key="'" line="58" column="18" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1516586778325">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1516597263825">
+        <mark key="'" line="109" column="12" />
         <mark key="[" line="294" column="67" />
         <mark key="]" line="294" column="67" />
         <mark key="^" line="294" column="67" />
@@ -388,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
-      <jump line="319" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/ImageLogParser.java" />
       <jump line="290" column="25" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
       <jump line="401" column="29" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
       <jump line="104" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
@@ -488,10 +474,12 @@
       <jump line="63" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/print.xml" />
       <jump line="27" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/print.xml" />
       <jump line="6" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/privateReceive.xml" />
+      <jump line="112" column="40" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
+      <jump line="109" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PEltYWdlTG9nSm9iSW5mbz4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0cmEK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -614,19 +602,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEltYWdlTG9nSm9iSW5mbz4=</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>lpd</text>
+        <text>FaxOut</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SW1hZ2VMb2dKb2JJbmZvIA==</text>
+        <text>fax auto send</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl0cmEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -753,22 +741,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIEltYWdlTG9nVHJhbnNmb3JtZXI8SW1hZ2VMb2dKb2JJbmZvPiBkZWZhdWx0SW1hZ2VMb2dUcmFuc2Zvcm1lciA9IG5ldyBEZWZhdWx0Sm9iSW5mb1RyYW5zZm9ybWVyKCk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -784,25 +772,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIEltYWdlTG9nVHJhbnNmb3JtZXI8SW1hZ2VMb2dKb2JJbmZvPiBkZWZhdWx0SW1hZ2VMb2dUcmFuc2Zvcm1lciA9IG5ldyBEZWZhdWx0Sm9iSW5mb1RyYW5zZm9ybWVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lpd</last-search>
+      <last-search>FaxOut</last-search>
       <last-offset />
-      <last-pattern>lpd</last-pattern>
+      <last-pattern>FaxOut</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Protocol</entry>
         <entry>scan.xml</entry>
         <entry>print.xml</entry>
         <entry>Leaf</entry>
@@ -822,6 +809,7 @@
         <entry>Nup</entry>
         <entry>Host</entry>
         <entry>lpd</entry>
+        <entry>FaxOut</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -840,9 +828,9 @@
         <entry>424</entry>
         <entry>425</entry>
         <entry>320</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
