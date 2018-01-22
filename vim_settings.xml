@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultJobInfoTransformer.java" timestamp="1516597011765">
-        <mark key="[" line="13" column="69" />
-        <mark key="]" line="13" column="69" />
-        <mark key="^" line="18" column="97" />
-        <mark key="." line="13" column="69" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultJobInfoTransformer.java" timestamp="1516613370822">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="30" column="99" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogStatusEnum.java" timestamp="1516070053378">
         <mark key="'" line="6" column="0" />
@@ -510,8 +510,8 @@
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/copy.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -634,16 +634,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>getOutTotalImpressions</text>
       </register>
       <register name="/" type="4">
         <text>scanToMail</text>
       </register>
-      <register name="0" type="4">
-        <text>logInfo.getLeafJobList().get(0);</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJbG9nSW5mby5zZXREdXBsZXhZbihpc0R1cGxleChsb2dJbmZvLmdldE91dFRvdGFsU2hlZXRzKCksIGxvZ0luZm8uZ2V0T3V0VG90YWxJbXByZXNzaW9ucygpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlJbWFnZUxvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -773,26 +773,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCWxvZ0luZm8gPSBsb2dJbmZvLmdldExlYWZKb2JMaXN0KCkuZ2V0KDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsZWFmSm9iSW5mbwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpbnQgc2hlZXRzLCBpbXByZXNzaW9uOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>imageLog parser로직 수정 및 반환되는 imagelogJobInfo transformer 추가
-
-* 기존에는 존재하지 않았던 input과 output 정보를 나누어서 parsing함.
-* parsing된 imagelogJobInfo의 결과를 일관된 형태의 결과을 반환할수 있도록
-  ImageLogTransformer로 변환하여 반환하도록 함.</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlpZihsb2dJbmZvLmdldEluVG90YWxTaGVldHMoKSAhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KGxvZ0luZm8uZ2V0T3V0cHV0RGV0YWlsTGlzdCgpLnNpemUoKSwgaXMoMCkpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -808,10 +804,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZihsb2dJbmZvLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
