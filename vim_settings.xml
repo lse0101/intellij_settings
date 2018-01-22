@@ -91,12 +91,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/MimeType.class" timestamp="1513752654827">
         <mark key="'" line="146" column="28" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/internal-jobFlow-error.xml" timestamp="1516356429171">
-        <mark key="'" line="52" column="32" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="24" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" timestamp="1514271184314">
         <mark key="'" line="2151" column="35" />
       </file>
@@ -346,8 +340,10 @@
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516598383041">
+      <file name="/Dummy.txt" timestamp="1516603034452">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1516598336117">
         <mark key="'" line="3" column="43" />
@@ -481,8 +477,12 @@
       <jump line="3" column="43" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KGxvZ0luZm8uZ2V0T3V0cHV0RGV0YWlsTGlzdCgpLnNpemUoKSwgaXMoMCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>imageLog parser로직 수정 및 반환되는 imagelogJobInfo transformer 추가
+
+* 기존에는 존재하지 않았던 input과 output 정보를 나누어서 parsing함.
+* parsing된 imagelogJobInfo의 결과를 일관된 형태의 결과을 반환할수 있도록
+  ImageLogTransformer로 변환하여 반환하도록 함.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -613,11 +613,15 @@
       <register name="0" type="4">
         <text>fax auto send</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlhc3NlcnRUaGF0KGxvZ0luZm8uZ2V0T3V0cHV0RGV0YWlsTGlzdCgpLnNpemUoKSwgaXMoMCkpOwo=</text>
+      <register name="1" type="4">
+        <text>imageLog parser로직 수정 및 반환되는 imagelogJobInfo transformer 추가
+
+* 기존에는 존재하지 않았던 input과 output 정보를 나누어서 parsing함.
+* parsing된 imagelogJobInfo의 결과를 일관된 형태의 결과을 반환할수 있도록
+  ImageLogTransformer로 변환하여 반환하도록 함.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0KGxvZ0luZm8uZ2V0T3V0cHV0RGV0YWlsTGlzdCgpLnNpemUoKSwgaXMoMCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -747,19 +751,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2dJbmZvID0gbG9nSW5mby5nZXRMZWFmSm9iTGlzdCgpLmdldCgwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQlsb2dJbmZvID0gbG9nSW5mby5nZXRMZWFmSm9iTGlzdCgpLmdldCgwKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0cmEK</text>
+        <text encoding="base64">CQlsb2dJbmZvID0gbG9nSW5mby5nZXRMZWFmSm9iTGlzdCgpLmdldCgwKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -775,10 +779,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl0cmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
