@@ -390,12 +390,14 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516691129917">
-        <mark key="a" line="148" column="20" />
-        <mark key="'" line="55" column="24" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516693748480">
+        <mark key="a" line="90" column="62" />
+        <mark key="b" line="96" column="38" />
+        <mark key="'" line="146" column="31" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="106" column="16" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -408,9 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
-      <jump line="142" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
-      <jump line="473" column="73" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
       <jump line="168" column="85" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
       <jump line="102" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/ImageLogParserTest.java" />
       <jump line="24" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/mailboxPrint.xml" />
@@ -508,10 +507,13 @@
       <jump line="37" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
       <jump line="55" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="77" column="43" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="91" column="62" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
+      <jump line="96" column="40" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
+      <jump line="146" column="31" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJTGlzdDxJbWFnZUxvZ0pvYkluZm8+IGltYWdlTG9nSm9iSW5mb0xpc3QgPSA7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -634,19 +636,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>targetPath</text>
+        <text>imageLogJobInfoList</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text encoding="base64">XDxpbWFnZUxvZ0pvYkluZm9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZXJyb3IodmFsdWVPZihpbWdMb2dQYXRoKSwgZS5nZXRNZXNzYWdlKCksIEVtYmVkZWRDb25zdGFudHMuRVJST1JfR09MT0JBTCk7Cg==</text>
+        <text encoding="base64">CQkJCQlsb2cuaW5mbygie33AuyB7fbfOIMDMtb/H1bTPtNkiLCB2YWx1ZU9mKHNyY1BhdGgpLCB2YWx1ZU9mKHRhcmdldFBhdGgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJTGlzdDxJbWFnZUxvZ0pvYkluZm8+IGltYWdlTG9nSm9iSW5mb0xpc3QgPSA7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y2F0Y2ggKEpvYlN0aWxsUmVtYWluRXhjZXB0aW9uIGUpIHsKCQkJCgkJfSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlpc0VyciA9IHRydWU7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -773,22 +775,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQlGaWxlcy5tb3ZlKHNyY1BhdGgsIG51bGwpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y2F0Y2ggKEpvYlN0aWxsUmVtYWluRXhjZXB0aW9uIGUpIHsKCQkJCgkJfSA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlTdHJpbmcgZXJyTXNnID0gIkRhdGFBY2Nlc3O8rbn2t84gtaXAzMXNuKYgam9iSW5mb8C7IHJlcXVlc3THz7TCILW1wd8gv6G3r7ChILnfu/3H373AtM+02S4iOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -804,7 +806,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoJCQl0cnkoU3RyZWFtPFBhdGg+IGxvZ1BhdGhTdHJlYW0gPSBGaWxlcy5saXN0KGltZ0xvZ1BhdGgpKSB7CgkJCQlMaXN0PFBhdGg+IGNvcHllZFN0cmVhbSA9IGxvZ1BhdGhTdHJlYW0uY29sbGVjdCh0b0xpc3QoKSk7CgoJCQkJUGF0aCBqb2JJbmZvWG1sID0gaW1hZ2VMb2dQYXRocy5maW5kSm9iSW5mb1hNTChjb3B5ZWRTdHJlYW0pOwoJCQkJUGF0aCBhdHRyWG1sID0gaW1hZ2VMb2dQYXRocy5maW5kQXR0clhNTChjb3B5ZWRTdHJlYW0pOwoKCQkJCU1hcDxTdHJpbmcsIFBhdGg+IGxvZ0ZpbGVNYXAgPSBpbWFnZUxvZ1BhdGhzLmltYWdlTG9nTGlzdE1hcChjb3B5ZWRTdHJlYW0pOwoKCQkJCXRyeShSZWFkZXIgam9iSW5mb1JlYWRlciA9IEZpbGVzLm5ld0J1ZmZlcmVkUmVhZGVyKGpvYkluZm9YbWwpOwoJCQkJCVJlYWRlciBhdHRyUmVhZGVyID0gRmlsZXMubmV3QnVmZmVyZWRSZWFkZXIoYXR0clhtbCkpIHsKCgkJCQkJaW50IGkgPSAwOwoJCQkJCWludCBzZW5kQ250ID0gMDsKCgkJCQkJSW1hZ2VMb2dKb2JJbmZvIHJvb3RJbWFnZUxvZ0pvYiA9IEltYWdlTG9nUGFyc2VyLnVubWFyc2hhbGxKb2JJbmZvKGpvYkluZm9SZWFkZXIpOwoJCQkJCUltYWdlTG9nU29hcFBheWxvYWQgYXR0ciA9IEltYWdlTG9nUGFyc2VyLnVubWFyc2hhbGxBdHRyaWJ1dGVzKGF0dHJSZWFkZXIpOwoKCQkJCQlmb3IgKEltYWdlTG9nSm9iSW5mbyBqb2JJbmZvIDogcm9vdEltYWdlTG9nSm9iKSB7CgoJCQkJCQlQYXRoIHNyY1BhdGggPSBudWxsOwoJCQkJCQlQYXRoIHRhcmdldFBhdGggPSBudWxsOwoKCQkJCQkJdHJ5IHsKCQkJCQkJCSsraTsKCQkJCQkJCWlmKCFsb2dGaWxlTWFwLmNvbnRhaW5zS2V5KHZhbHVlT2YoaSkpKSBjb250aW51ZTsKCgkJCQkJCQlzcmNQYXRoID0gbG9nRmlsZU1hcC5nZXQodmFsdWVPZihpKSk7CgkJCQkJCQl0YXJnZXRQYXRoID0gaW1hZ2VMb2dQYXRocy50b1NhdmVkU3VjY3Vlc3NQYXRoKGpvYkluZm8uZ2V0Sm9iSUQoKSwgZ2V0RXh0ZW5zaW9uKHZhbHVlT2Yoc3JjUGF0aC5nZXRGaWxlTmFtZSgpKSkpOwoKCQkJCQkJCWpvYkluZm8uc2V0UmVjZWl2ZWR0aW1lKHZhbHVlT2Yoc3JjUGF0aC5nZXRQYXJlbnQoKS5nZXRGaWxlTmFtZSgpKS5zcGxpdCgiXyIpWzFdKTsKCQkJCQkJCWpvYkluZm8uc2V0SW1nUGF0aCh2YWx1ZU9mKHNyY1BhdGgpKTsKCQkJCQkJCWpvYkluZm8uc2V0SW1nU2l6ZShGaWxlcy5zaXplKHNyY1BhdGgpKTsKLy8JCQkJCQkJam9iSW5mby5zZXRSb290Sm9iSUQocm9vdEltYWdlTG9nSm9iLmdldEpvYklEKCkpOwoJCQkJCQkJam9iSW5mby5zZXREZXZpY2VJcChhdHRyLmdldERldmljZUhvc3RBZGRyZXNzKCkpOwoJCQkJCQkJam9iSW5mby5zZXREZXZpY2VIb3N0TmFtZShhdHRyLmdldERldmljZUhvc3ROYW1lKCkpOwoJCQkJCQkJam9iSW5mby5zZXREZXZpY2VTZXJpYWwoYXR0ci5nZXRTZXJpYWxOdW1iZXIoKSk7CgkJCQkJCQlqb2JJbmZvLnNldFNhdmVZbigiWSIpOwoKCQkJCQkJCUZpbGVzLm1vdmUoc3JjUGF0aCwgdGFyZ2V0UGF0aCk7CgkJCQkJCQlzZW5kTWVzc2FnZVRvRGF0YUFjY2Vzc1NlcnZlcihqb2JJbmZvLCBpKTsKCgkJCQkJCQlzZW5kQ250Kys7CgkJCQkJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJCQkJCVN0cmluZyBpb0Vyck1zZyA9IHZhbHVlT2Yoc3JjUGF0aCkgKyAiv6G8rSIrIHZhbHVlT2YodGFyZ2V0UGF0aCkgKyLAuLfOIMDMtb/B37+hIL+ht6+woSC537v9x9+9wLTPtNkuIjsKCgkJCQkJCQlsb2cuZXJyb3IoaW9FcnJNc2csIGUpOwoJCQkJCQkJZXJyb3IodmFsdWVPZihzcmNQYXRoKSwgaW9FcnJNc2csIEVtYmVkZWRDb25zdGFudHMuRVJST1JfU1RBR0VfU0FWRSk7CgoJCQkJCQkJam9iSW5mby5zZXRTYXZlWW4oIk4iKTsKCQkJCQkJCXNlbmRNZXNzYWdlVG9EYXRhQWNjZXNzU2VydmVyKGpvYkluZm8sIGkpOwoJCQkJCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQkJCQkJU3RyaW5nIGVyck1zZyA9ICJEYXRhQWNjZXNzvK259rfOILWlwMzFzbimIGpvYkluZm/AuyByZXF1ZXN0x8+0wiC1tcHfIL+ht6+woSC537v9x9+9wLTPtNkuIjsKCgkJCQkJCQlsb2cuZXJyb3IoZXJyTXNnLCBlKTsKCQkJCQkJCWVycm9yKHZhbHVlT2Yoc3JjUGF0aCksIGVyck1zZywgRW1iZWRlZENvbnN0YW50cy5FUlJPUl9TVEFHRV9NT0RJRlkpOwoKCQkJCQkJCUZpbGVzLm1vdmUodGFyZ2V0UGF0aCwgc3JjUGF0aCk7CgkJCQkJCX0KCQkJCQl9CgoJCQkJCWlmKGxvZ0ZpbGVNYXAuc2l6ZSgpICE9IHNlbmRDbnQpCgkJCQkJCXRocm93IG5ldyBKb2JTdGlsbFJlbWFpbkV4Y2VwdGlvbih2YWx1ZU9mKGltZ0xvZ1BhdGgpKyAiv6EgvsbB9yDDs7iutcfB9iC+ysC6IMDMuczB9rfOsdcgxsTAz8DMIMG4wOfH1bTPtNkiKTsKCgkJCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCQkJdGhyb3cgbmV3IElPRXhjZXB0aW9uKHZhbHVlT2Yoam9iSW5mb1htbCkgKyAiIMDHIGpvYkluZm/AuyB1bm1hcnNoYWxsaW5nwLsgvcfG0MfPv7S9wLTPtNkiLCBlLmdldENhdXNlKCkpOwoJCQkJfQoKCQkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQkJdGhyb3cgbmV3IElPRXhjZXB0aW9uKHZhbHVlT2YoaW1nTG9nUGF0aCkgKyAiv6G8rSDGxMDPwLsgwNC+7iC16cDMtNkgv6G3r7ChILnfu/3H373AtM+02SIsIGUuZ2V0Q2F1c2UoKSk7CgkJCX0qLwo=</text>
+        <text encoding="base64">CQkJCQlGaWxlcy5tb3ZlKHNyY1BhdGgsIG51bGwpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -814,15 +816,14 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search encoding="base64">XDxpbWFnZUxvZ0pvYkluZm9cPg==</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZUxvZ0pvYkluZm9cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Impr</entry>
         <entry>mailboxP</entry>
         <entry>mixed</entry>
         <entry>print</entry>
@@ -842,6 +843,7 @@
         <entry encoding="base64">XDxzcmNQYXRoXD4=</entry>
         <entry encoding="base64">XDxwcm9wU2VydmljZVw+</entry>
         <entry>http</entry>
+        <entry encoding="base64">XDxpbWFnZUxvZ0pvYkluZm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
