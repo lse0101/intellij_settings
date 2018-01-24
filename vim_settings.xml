@@ -98,7 +98,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class" timestamp="1513838526570">
         <mark key="'" line="909" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" timestamp="1516770119959">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" timestamp="1516771707571">
         <mark key="a" line="402" column="38" />
         <mark key="'" line="632" column="20" />
         <mark key="[" line="698" column="50" />
@@ -400,10 +400,8 @@
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516770836012">
+      <file name="/Dummy.txt" timestamp="1516772745347">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/report.xml" timestamp="1516768172327">
         <mark key="'" line="19" column="33" />
@@ -430,14 +428,14 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516757527331">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1516772364410">
         <mark key="a" line="86" column="62" />
-        <mark key="b" line="97" column="38" />
+        <mark key="b" line="93" column="38" />
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="95" column="21" />
-        <mark key="]" line="96" column="20" />
-        <mark key="." line="96" column="20" />
-        <mark key="^" line="96" column="20" />
+        <mark key="[" line="115" column="10" />
+        <mark key="]" line="115" column="10" />
+        <mark key="." line="115" column="10" />
+        <mark key="^" line="128" column="18" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -559,7 +557,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW1hZ2VMb2dKb2JJbmZvIA==</text>
+        <text encoding="base64">Y2F0Y2ggKEpvYlN0aWxsUmVtYWluRXhjZXB0aW9uIGUpIHsKCQkJZXJyb3IodmFsdWVPZihpbWdMb2dQYXRoKSwgZS5nZXRNZXNzYWdlKCksIEVtYmVkZWRDb25zdGFudHMuRVJST1JfR09MT0JBTCk7CgoJCQl0aHJvdyBlOwoJCX0g</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -682,7 +680,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW1hZ2VMb2dKb2JJbmZvIA==</text>
+        <text>new RuntimeException(e.getMessage(), e.getCause())</text>
       </register>
       <register name="/" type="4">
         <text>Proto</text>
@@ -690,11 +688,11 @@
       <register name="0" type="4">
         <text>successfulCompletion</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlqb2JJbmZvLnNldER1cGxleFluKCJOIik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2F0Y2ggKEpvYlN0aWxsUmVtYWluRXhjZXB0aW9uIGUpIHsKCQkJZXJyb3IodmFsdWVPZihpbWdMb2dQYXRoKSwgZS5nZXRNZXNzYWdlKCksIEVtYmVkZWRDb25zdGFudHMuRVJST1JfR09MT0JBTCk7CgoJCQl0aHJvdyBlOwoJCX0g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlsb2cuc2V0ZHVwbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -821,7 +819,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiBkdXBsZXhZbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -830,13 +828,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlsb2cuZXJyb3IoCgkJCQkJCQluZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKGpvYkluZm8pCgkJCQkJKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGlzRHVwbGV4KEltYWdlTG9nSm9iSW5mbyBsb2dJbmZvKSB7CgkJU3RyaW5nIGR1cGxleFluID0gIk4iOwoKCQlpZihpc0R1cGxleChsb2dJbmZvLmdldE91dFRvdGFsU2hlZXRzKCksIGxvZ0luZm8uZ2V0T3V0VG90YWxJbXByZXNzaW9ucygpKSkgewoJCQlyZXR1cm4gIlkiOwoJCX0gZWxzZSBpZiAoaXNEdXBsZXgobG9nSW5mby5nZXRJblRvdGFsU2hlZXRzKCksIGxvZ0luZm8uZ2V0SW5Ub3RhbEltcHJlc3Npb25zKCkpKSB7CgkJCXJldHVybiAiWSI7CgkJfQoKCQlyZXR1cm4gZHVwbGV4WW47Cgl9CgoJcHJpdmF0ZSBib29sZWFuIGlzRHVwbGV4KGludCBzaGVldHMsIGludCBpbXByZXNzaW9ucykgewoJCWlmKHNoZWV0cyA9PSAwIHx8IGltcHJlc3Npb25zID09IDApIHJldHVybiBmYWxzZTsKCQlpZihzaGVldHMgPT0gaW1wcmVzc2lvbnMpIHJldHVybiBmYWxzZTsKCgkJcmV0dXJuIHRydWU7Cgl9Cg==</text>
+        <text encoding="base64">CQlqb2JJbmZvLnNldER1cGxleFluKCJOIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlsb2cuc2V0ZHVwbAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -852,10 +850,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCXJldHVybiBkdXBsZXhZbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb2dJbmZvID0gbG9nSW5mby5nZXRMZWFmSm9iTGlzdCgpLmdldCgwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
