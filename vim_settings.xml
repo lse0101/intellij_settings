@@ -423,11 +423,11 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516858486908">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="55" column="6" />
-        <mark key="." line="55" column="6" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516865016803">
+        <mark key="'" line="47" column="32" />
+        <mark key="[" line="413" column="28" />
+        <mark key="]" line="413" column="28" />
+        <mark key="." line="413" column="28" />
         <mark key="^" line="55" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
@@ -462,8 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="677" column="44" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
-      <jump line="683" column="41" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="711" column="44" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="717" column="41" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="119" column="41" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
@@ -562,10 +560,12 @@
       <jump line="24" column="51" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-commons/2.4.7.Final/hornetq-commons-2.4.7.Final.jar!/org/hornetq/utils/DefaultSensitiveStringCodec.class" />
       <jump line="46" column="51" filename="$MAVEN_REPOSITORY$/org/hornetq/hornetq-commons/2.4.7.Final/hornetq-commons-2.4.7.Final.jar!/org/hornetq/utils/DefaultSensitiveStringCodec.class" />
       <jump line="41" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/dataaccess/impl/HttpDataAccess.java" />
+      <jump line="274" column="10" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="47" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.resolve(TMP_PATH)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -688,10 +688,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>otp</text>
+        <text>.resolve(TMP_PATH)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkZXJzXD4=</text>
+        <text encoding="base64">XDxUTVBfUEFUSFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvZGVjLmVuY29kZSgiZnVqaXhlcm94MSEiKQo=</text>
@@ -868,16 +868,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFkZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxUTVBfUEFUSFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUTVBfUEFUSFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Impr</entry>
-        <entry>destinat</entry>
         <entry>Desti</entry>
         <entry>Proto</entry>
         <entry encoding="base64">XDxkb3dubG9hZGluZ1BhdGhcPg==</entry>
@@ -896,6 +894,8 @@
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxpbnRlcm5hbEtleVw+</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
+        <entry>tmp</entry>
+        <entry encoding="base64">XDxUTVBfUEFUSFw+</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
