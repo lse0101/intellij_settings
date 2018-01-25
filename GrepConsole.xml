@@ -110,5 +110,10 @@
         </Profile>
       </list>
     </option>
+    <option name="tailSettings">
+      <TailSettings>
+        <option name="autodetectEncoding" value="false" />
+      </TailSettings>
+    </option>
   </component>
 </application>
