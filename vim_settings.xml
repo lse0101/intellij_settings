@@ -450,7 +450,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517204837492">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517211345601">
         <mark key="'" line="394" column="4" />
         <mark key="[" line="399" column="33" />
         <mark key="]" line="400" column="31" />
@@ -466,14 +466,14 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerDeployer.class" timestamp="1514941636891">
         <mark key="'" line="43" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1517210753760">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1517211977376">
         <mark key="a" line="88" column="62" />
-        <mark key="b" line="94" column="38" />
-        <mark key="'" line="91" column="24" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="124" column="8" />
-        <mark key="." line="96" column="0" />
+        <mark key="b" line="96" column="38" />
+        <mark key="'" line="119" column="12" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="79" />
+        <mark key="^" line="91" column="16" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1513573193547">
         <mark key="'" line="397" column="29" />
@@ -492,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="120" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="116" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="107" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
@@ -592,10 +591,11 @@
       <jump line="352" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="377" column="35" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="42" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
+      <jump line="119" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldEltZ1BhdGgodGFyZ2V0UGF0aC50b0Fic29sdXRlUGF0aCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -718,16 +718,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>imageLogJobInfo.getJobType()+</text>
+        <text>+ UUID.randomUUID()</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxpbWFnZUxvZ1BhdGhzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>workingPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldEltZ1BhdGgodGFyZ2V0UGF0aC50b0Fic29sdXRlUGF0aCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -860,19 +860,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcm9wU2VydmljZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlwcm9wU2VydmljZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,25 +888,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS5nZXQoKQo=</text>
+        <text encoding="base64">CQkJCS5lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxpbWFnZUxvZ1BhdGhzXD4=</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxpbWFnZUxvZ1BhdGhzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>faxMailboxRe</entry>
         <entry>fax</entry>
         <entry>FAXIN</entry>
         <entry>FAXOUT</entry>
@@ -926,6 +925,7 @@
         <entry>map</entry>
         <entry>dsl</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDxpbWFnZUxvZ1BhdGhzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>831</entry>
