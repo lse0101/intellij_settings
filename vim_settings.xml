@@ -390,11 +390,11 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogJobTypeSkipFilter.java" timestamp="1517193513699">
-        <mark key="[" line="13" column="86" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogJobTypeSkipFilter.java" timestamp="1517206268732">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="54" />
+        <mark key="^" line="37" column="54" />
+        <mark key="." line="37" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
@@ -435,11 +435,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" timestamp="1517189199506">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="33" column="32" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" timestamp="1517206032331">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1516696161813">
         <mark key="'" line="41" column="13" />
@@ -595,7 +595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LWVhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -718,7 +718,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>imgLogPath</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -727,10 +727,10 @@
         <text>workingPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWVhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LURzdW4uaW8udXNlQ2Fub25DYWNoZXM9ZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -857,22 +857,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LVhYOk1heFBlcm1TaXplPTUxMm0KLVhYOitVc2VQYXJOZXdHQwotWFg6UGFyYWxsZWxHQ1RocmVhZHM9MQotWFg6TWF4VGVudXJpbmdUaHJlc2hvbGQ9MQotWFg6U3Vydml2b3JSYXRpbz04Ci1YWDorVXNlQ29kZUNhY2hlRmx1c2hpbmcKLVhYOitVc2VDb25jTWFya1N3ZWVwR0MKLVhYOitBZ2dyZXNzaXZlT3B0cwotWFg6K0NNU0NsYXNzVW5sb2FkaW5nRW5hYmxlZAotWFg6K0NNU0luY3JlbWVudGFsTW9kZQotWFg6K0NNU0luY3JlbWVudGFsUGFjaW5nCi1YWDorQ01TUGFyYWxsZWxSZW1hcmtFbmFibGVkCi1YWDpDTVNJbml0aWF0aW5nT2NjdXBhbmN5RnJhY3Rpb249NjUKLVhYOitDTVNTY2F2ZW5nZUJlZm9yZVJlbWFyawotWFg6K1VzZUNNU0luaXRpYXRpbmdPY2N1cGFuY3lPbmx5Ci1YWDpSZXNlcnZlZENvZGVDYWNoZVNpemU9NjRtCi1YWDotVHJhY2VDbGFzc1VubG9hZGluZwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LVhYOk1heE5ld1NpemU9NTEybQo=</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LVhYOk5ld1NpemU9NTEybQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWVhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">LURzdW4uaW8udXNlQ2Fub25DYWNoZXM9ZmFsc2UK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,10 +888,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhYOk1heFBlcm1TaXplPTUxMm0KLVhYOitVc2VQYXJOZXdHQwotWFg6UGFyYWxsZWxHQ1RocmVhZHM9MQotWFg6TWF4VGVudXJpbmdUaHJlc2hvbGQ9MQotWFg6U3Vydml2b3JSYXRpbz04Ci1YWDorVXNlQ29kZUNhY2hlRmx1c2hpbmcKLVhYOitVc2VDb25jTWFya1N3ZWVwR0MKLVhYOitBZ2dyZXNzaXZlT3B0cwotWFg6K0NNU0NsYXNzVW5sb2FkaW5nRW5hYmxlZAotWFg6K0NNU0luY3JlbWVudGFsTW9kZQotWFg6K0NNU0luY3JlbWVudGFsUGFjaW5nCi1YWDorQ01TUGFyYWxsZWxSZW1hcmtFbmFibGVkCi1YWDpDTVNJbml0aWF0aW5nT2NjdXBhbmN5RnJhY3Rpb249NjUKLVhYOitDTVNTY2F2ZW5nZUJlZm9yZVJlbWFyawotWFg6K1VzZUNNU0luaXRpYXRpbmdPY2N1cGFuY3lPbmx5Ci1YWDpSZXNlcnZlZENvZGVDYWNoZVNpemU9NjRtCi1YWDotVHJhY2VDbGFzc1VubG9hZGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhYOk1heE5ld1NpemU9NTEybQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
