@@ -201,7 +201,6 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/config/impl/FileConfiguration.class" timestamp="1515479177697">
         <mark key="'" line="17" column="83" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/scanToMailbox.xml" timestamp="1516944047556" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RegistImagelogScheduler.java" timestamp="1516868955642">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -466,12 +465,12 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1516954303258">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517185385580">
         <mark key="'" line="122" column="57" />
-        <mark key="[" line="165" column="17" />
-        <mark key="]" line="165" column="17" />
-        <mark key="^" line="125" column="68" />
-        <mark key="." line="165" column="17" />
+        <mark key="[" line="170" column="90" />
+        <mark key="]" line="172" column="30" />
+        <mark key="^" line="172" column="30" />
+        <mark key="." line="172" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -610,8 +609,8 @@
       <jump line="122" column="57" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>XMLParseException | IO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -734,19 +733,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>XMLParseException | IO</text>
+        <text>ImageLogJobInfo</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCWV2ZW50UmVhZGVyLm5leHRFdmVudCgpOwo=</text>
+      <register name="0" type="4">
+        <text>rootImageLogJob</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUTVBfUEFUSCA9ICJ0bXAiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -873,7 +872,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIDxwPgoJICogICAgIGRvd25sb2FkaW5n7J2YIOyDge2DnOyXkOyEnOuKlCBqb2JUeXBl7J2YIEZBWChSZXBvcnQsIEludGVybmFsKeyduCDqsr3smrDsl5DripQg7Jyg7KeA7ZWgIO2VhOyalOqwgCDsl4bripQg66Gc6re47J206riwCgkgKiAgICAg65WM66y47JeQIHJlcG9zaXRvcnnsnZggZmF47Y+0642U7J2YIFBhdGjsnYQg67CY7ZmY7ZWY66mwLCDqt7jroIfsp4DslYrsnYAg6rK97Jqw64qUIOygleyDgeyggeycvOuhnCDri6TsnYzsg4Htg5zsnZggcGF0aOydhAoJICogICAgIOuwmO2ZmO2VnOuLpC4KCSAqIDwvcD4K</text>
+        <text encoding="base64">CQkJSW1hZ2VMb2dKb2JJbmZvIHJvb3RJbWFnZUxvZ0pvYiA9IEltYWdlTG9nUGFyc2VyLnVubWFyc2hhbGxKb2JJbmZvKGpvYkluZm9SZWFkZXIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -882,10 +881,10 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoY3VyU3RhdHVzRW51bSA9PSBET1dOTE9BRElORykgewoJCQl0cnkoU3RyZWFtPFBhdGg+IGxpc3QgPSBGaWxlcy5saXN0KHdvcmtpbmdQYXRoKSkgewoJCQkJSW1hZ2VMb2dKb2JJbmZvIGpvYkluZm8gPSBJbWFnZUxvZ1BhcnNlci51bm1hcnNoYWxsSm9iSW5mbyhmaW5kSm9iSW5mb1hNTChsaXN0KSk7CgoJCQkJaWYoam9iSW5mby5pc1VubmVjZXNzYXJ5RmF4Sm9iTG9nKCkpCgkJCQkJcmV0dXJuIHRvU2tpcEZheExvZ1BhdGgoKS5yZXNvbHZlKGpvYkluZm8uZ2V0Sm9iSUQoKSk7CgkJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IGU7CgkJCX0KCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoY3VyU3RhdHVzRW51bSA9PSBET1dOTE9BRElORykgewoJCQl0cnkoU3RyZWFtPFBhdGg+IGxpc3QgPSBGaWxlcy5saXN0KHdvcmtpbmdQYXRoKSkgewoJCQkJSW1hZ2VMb2dKb2JJbmZvIGpvYkluZm8gPSBJbWFnZUxvZ1BhcnNlci51bm1hcnNoYWxsSm9iSW5mbyhmaW5kSm9iSW5mb1hNTChsaXN0KSk7CgoJCQkJaWYoam9iSW5mby5pc1VubmVjZXNzYXJ5RmF4Sm9iTG9nKCkpCgkJCQkJcmV0dXJuIHRvU2tpcEZheExvZ1BhdGgoKS5yZXNvbHZlKGpvYkluZm8uZ2V0Sm9iSUQoKSk7CgkJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IGU7CgkJCX0KCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -904,10 +903,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBKc29uSWdub3JlCglwdWJsaWMgYm9vbGVhbiBpc1VubmVjZXNzYXJ5RmF4Sm9iTG9nKCkgewovKgkJaWYoam9iVHlwZS5lcXVhbHMoIkludGVybmFsIikgfHwgam9iVHlwZS5lcXVhbHMoIlJlcG9ydCIpKSByZXR1cm4gdHJ1ZTsKCQlpZihqb2JUeXBlLmVxdWFscygiRkFYIikgJiYgbGVhZkpvYkxpc3QgPT0gbnVsbCkgcmV0dXJuIHRydWU7Ki8KCgkJcmV0dXJuIGZhbHNlOwoJfQo=</text>
+        <text encoding="base64">CQkJaW50IGkgPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
