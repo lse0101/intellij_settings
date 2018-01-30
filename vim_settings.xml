@@ -368,11 +368,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dd92caf1-94d7-4acc-be9c-fcff9298ae5a/console_2.sql" timestamp="1517213315995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogUserSkipFilter.java" timestamp="1517216601748">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="19" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogUserSkipFilter.java" timestamp="1517270712207">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.class" timestamp="1514338466219">
         <mark key="'" line="62" column="20" />
@@ -383,11 +383,11 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogJobTypeSkipFilter.java" timestamp="1517215916738">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="93" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="19" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogJobTypeSkipFilter.java" timestamp="1517270601197">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
@@ -449,12 +449,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517217175288">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517270516194">
         <mark key="'" line="417" column="20" />
-        <mark key="[" line="416" column="56" />
-        <mark key="]" line="416" column="92" />
-        <mark key="." line="416" column="92" />
-        <mark key="^" line="416" column="92" />
+        <mark key="[" line="415" column="22" />
+        <mark key="]" line="415" column="26" />
+        <mark key="." line="415" column="26" />
+        <mark key="^" line="415" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -594,7 +594,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -717,7 +717,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Vyclw+</text>
@@ -729,7 +729,7 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgY2hlY2tWYWwgPSByZWN2VGltZTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -859,19 +859,19 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgY2hlY2tWYWwgPSByZWN2VGltZTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQloZWFkZXJWYWx1ZSA9IGhlYWRlclZhbHVlICsgY2hlY2tWYWw7CgkJU3RyaW5nIHNlY3JldEtleSA9IG90cEdlbmVyYXRvci5nZXRTZWNyZXRLZXkoKTsKCQloZWFkZXJWYWx1ZSA9IG5ldyBBcmlhKCBzZWNyZXRLZXkgKS5lbmNyeXB0KCBoZWFkZXJWYWx1ZSApOwoKCQlyZXR1cm4gaGVhZGVyVmFsdWU7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQloZWFkZXJWYWx1ZSA9IGhlYWRlclZhbHVlICsgY2hlY2tWYWw7CgkJU3RyaW5nIHNlY3JldEtleSA9IG90cEdlbmVyYXRvci5nZXRTZWNyZXRLZXkoKTsKCQloZWFkZXJWYWx1ZSA9IG5ldyBBcmlhKCBzZWNyZXRLZXkgKS5lbmNyeXB0KCBoZWFkZXJWYWx1ZSApOwoKCQlyZXR1cm4gaGVhZGVyVmFsdWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -887,10 +887,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfWNhdGNoIChFeGNlcHRpb24gZTEpIHsKCQkJCWUxLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdHJ5IHsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
