@@ -224,11 +224,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1515378467034">
         <mark key="'" line="89" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517217946726">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
       </file>
@@ -354,6 +349,9 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/receiveFax_success.xml" timestamp="1515118812834">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/FolderAction.class" timestamp="1517298486779">
+        <mark key="'" line="475" column="59" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/core/client/impl/ServerLocatorImpl.class" timestamp="1514940265405">
         <mark key="'" line="1174" column="224" />
       </file>
@@ -404,6 +402,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="21" column="22" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/HeungkukScanDocAction.class" timestamp="1517299023160">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogJobTypeSkipFilter.java" timestamp="1517273581080">
         <mark key="[" line="15" column="6" />
@@ -512,9 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/dataaccess/impl/HttpDataAccess.java" />
-      <jump line="274" column="10" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
-      <jump line="47" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="409" column="5" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="230" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="123" column="30" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
@@ -612,6 +610,9 @@
       <jump line="60" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="33" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="52" column="13" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/management/modelmbean/XMLParseException.java" />
+      <jump line="475" column="59" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/FolderAction.class" />
+      <jump line="102" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/HeungkukScanDocAction.class" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/HeungkukScanDocAction.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -741,7 +742,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>FromDate</text>
       </register>
       <register name="0" type="4">
         <text>XMLParseException</text>
@@ -918,22 +919,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1338</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>FromDate</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>FromDate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>FaxOut</entry>
-        <entry>un</entry>
-        <entry encoding="base64">XDxGQVhfUEFUSFw+</entry>
-        <entry>skip</entry>
         <entry encoding="base64">XDx0b2RheUZvcm1hdFw+</entry>
         <entry encoding="base64">XDxyb290UmVjdkRpclw+</entry>
         <entry>ImageLogPaths</entry>
@@ -950,9 +947,12 @@
         <entry>#</entry>
         <entry>error</entry>
         <entry>value</entry>
+        <entry>Scan</entry>
+        <entry>scan</entry>
+        <entry>cacul</entry>
+        <entry>FromDate</entry>
       </history-search>
       <history-cmd>
-        <entry>88</entry>
         <entry>37</entry>
         <entry>140</entry>
         <entry>903</entry>
@@ -972,6 +972,7 @@
         <entry>216</entry>
         <entry>123</entry>
         <entry>w</entry>
+        <entry>1338</entry>
       </history-cmd>
       <history-expr />
       <history-input />
