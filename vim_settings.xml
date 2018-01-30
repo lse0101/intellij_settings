@@ -36,8 +36,12 @@
       <file name="/a.dummy" timestamp="1517294192982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" timestamp="1517203810138">
-        <mark key="'" line="377" column="35" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" timestamp="1517305438063">
+        <mark key="'" line="42" column="45" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/security/impl/SecurityStoreImpl.class" timestamp="1515479140289">
         <mark key="'" line="78" column="71" />
@@ -139,7 +143,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/src/main/java/com/fujixerox/kor/security/otp/OtpGenerator.java" timestamp="1517217998093" />
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/api/core/TransportConfiguration.class" timestamp="1514939742478">
         <mark key="'" line="55" column="4" />
       </file>
@@ -197,6 +200,13 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1515480119650">
         <mark key="'" line="118" column="11" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1517305537328">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="42" column="4" />
+        <mark key="^" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" timestamp="1516784721875">
         <mark key="'" line="33" column="23" />
       </file>
@@ -251,7 +261,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/Stream.java" timestamp="1516625758832">
         <mark key="'" line="806" column="53" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/PropServiceImpl.java" timestamp="1517213023973" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
         <mark key="'" line="318" column="35" />
       </file>
@@ -319,11 +328,11 @@
         <mark key="'" line="364" column="215" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1517299701531">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="57" column="86" />
-        <mark key="]" line="57" column="86" />
-        <mark key="." line="57" column="86" />
-        <mark key="^" line="57" column="105" />
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="56" column="86" />
+        <mark key="]" line="56" column="86" />
+        <mark key="." line="56" column="86" />
+        <mark key="^" line="56" column="105" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
@@ -513,24 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="25" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="44" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="44" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
-      <jump line="217" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
-      <jump line="303" column="56" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
-      <jump line="391" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
-      <jump line="5" column="52" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoReceivePrint.xml" />
-      <jump line="89" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoReceivePrint.xml" />
-      <jump line="665" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
-      <jump line="48" column="21" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="85" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="36" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="37" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="38" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="47" column="19" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="580" column="60" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
-      <jump line="594" column="41" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="576" column="85" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="585" column="54" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="453" column="40" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
@@ -585,7 +576,6 @@
       <jump line="33" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/pom.xml" />
       <jump line="18" column="34" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/src/main/java/com/fujixerox/kor/orm/entitys/imglog/dsl/QImgFile.java" />
       <jump line="305" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="379" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="338" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="352" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
@@ -613,10 +603,29 @@
       <jump line="330" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/HeungkukScanDocAction.class" />
       <jump line="50" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/HeungkukScanDocAction.class" />
       <jump line="370" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="26" column="58" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="121" column="25" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="122" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="160" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="391" column="26" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="12" column="41" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="43" column="42" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="44" column="40" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="53" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="55" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="104" column="29" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="115" column="29" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="123" column="31" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="42" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
+      <jump line="9" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" />
+      <jump line="66" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" />
+      <jump line="1" column="75" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" />
+      <jump line="17" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsiXyIgKyBVVUlELnJhbmRvbVVVSUQoKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -739,16 +748,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsiXyIgKyBVVUlELnJhbmRvbVVVSUQoKQ==</text>
+        <text>2.0.8</text>
       </register>
       <register name="/" type="4">
-        <text>UUID</text>
+        <text>apache</text>
       </register>
       <register name="0" type="4">
         <text>XMLParseException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IEltYWdlTG9nTm90U2F2ZUV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -878,26 +887,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CQkJPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUucGRmYm94L3BkZmJveCAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IEltYWdlTG9nTm90U2F2ZUV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>catch (XMLParseException e) {
-			e.printStackTrace();
-		}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>catch (XMLParseException e) {
-			e.printStackTrace();
-		}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -913,29 +918,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>catch (XMLParseException e) {
+			e.printStackTrace();
+		}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UUID</last-search>
+      <last-search>apache</last-search>
       <last-offset />
-      <last-pattern>UUID</last-pattern>
+      <last-pattern>apache</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290UmVwb3NpdG9yeVw+</entry>
-        <entry encoding="base64">XDx2YXIxXD4=</entry>
-        <entry encoding="base64">XDx2YXI2Nlw+</entry>
-        <entry>mkdir</entry>
-        <entry>create</entry>
         <entry>map</entry>
         <entry>dsl</entry>
         <entry>test</entry>
@@ -951,6 +953,11 @@
         <entry>calcul</entry>
         <entry encoding="base64">XDxkb2NBdXRvRGVsU2F2ZVBlcmlvZFw+</entry>
         <entry>UUID</entry>
+        <entry>commons-io</entry>
+        <entry>commons.io</entry>
+        <entry encoding="base64">XDwyXD4=</entry>
+        <entry encoding="base64">XDxwZGZib3hcPg==</entry>
+        <entry>apache</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
