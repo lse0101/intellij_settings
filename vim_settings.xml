@@ -154,12 +154,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueFactoryImpl.class" timestamp="1514269230370">
         <mark key="'" line="26" column="44" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" timestamp="1517311385005">
-        <mark key="'" line="35" column="25" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="45" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" timestamp="1517313698193">
+        <mark key="'" line="42" column="71" />
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="21" />
+        <mark key="." line="77" column="21" />
+        <mark key="^" line="77" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/connection/CachingConnectionFactory.class" timestamp="1515465992835">
         <mark key="'" line="79" column="27" />
@@ -233,13 +233,6 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1515378467034">
         <mark key="'" line="89" column="12" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1517205617794">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="87" column="102" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/nio/file/attribute/PosixFilePermissions.class" timestamp="1513823450663">
         <mark key="'" line="60" column="37" />
@@ -532,10 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="613" column="85" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
-      <jump line="626" column="59" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
-      <jump line="628" column="61" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
-      <jump line="192" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
       <jump line="474" column="58" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="588" column="58" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="627" column="58" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
@@ -632,10 +621,14 @@
       <jump line="1515" column="48" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/imageio/ImageIO.java" />
       <jump line="1528" column="12" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/imageio/ImageIO.java" />
       <jump line="35" column="25" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
+      <jump line="45" column="64" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
+      <jump line="30" column="57" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
+      <jump line="74" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
+      <jump line="42" column="71" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZG9jLmdldFBhZ2UoMCkuc2UK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -758,19 +751,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUGF0aCBleHRyYWN0VGh1bW5haWwoUGF0aCBwZGZQYXRoLCBQYXRoIG91dHB1dFBhdGgsIEltYWdlVHlwZSB0eXBlKSB7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUGF0aCBleHRyYWN0VGh1bW5haWwoUGF0aCBwZGZQYXRoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZG9jLmdldFBhZ2UoMCkuc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUGF0aCBleHRyYWN0VGh1bW5haWwoUGF0aCBwZGZQYXRoLCBJbWFnZVNjYWxlIHNjYWxlLCBJbWFnZVNjYWxlIHNjYWxlKSB7CgkJCgl9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -897,22 +890,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlwZGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaW1nLgo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm8KCQlQREZCb3hVdGlsLmV4dHJhY3RUaHVtbmFpbChQYXRocy5nZXQoIkY6XFxEcm9wYm94XFxjb21wYW55XFx4ZXJveFxcc2VjdUh1YlxcdGVzdFxc7ZSE66aw7Yq4XFxiZDgxMzg2NS1lNDgzLTExZTctODAwMC0wODAwMzdmODczZTcuN0AxMy4xOTcuNS4xNjAucGRmIikpOwoJfQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJSW1hZ2VJTy53cml0ZShpbWcsIHR5cGUpCg==</text>
+        <text encoding="base64">CQkJc3dpdGNoKHRoaXMpIHsKCQkJCWNhc2UgVkVSWV9TTUFMTDogcmV0dXJuIHRoaXMuc2NhbGU7CgkJCQkKCQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGUoQnVmZmVyZWRJbWFnZSBpbWcsIFN0cmluZyBzLCBQYXRoIHJlc29sdmUpIHsKCQl0cnkoQnVrZmZlcmVkKQoJfQo=</text>
+        <text encoding="base64">CQkJaW1nLndpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaW1nLnNldFJHQigxNTAsIDE1MCwgKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -928,10 +921,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJbmV3IEJ1ZmZlcmVkSW1hZ2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJQnVmZmVyZWRJbWFnZSBpbWcgPSBwZGZSZW5kZXJlci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
