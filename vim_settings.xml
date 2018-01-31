@@ -85,6 +85,11 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/copy.xml" timestamp="1516324525372">
         <mark key="'" line="50" column="5" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/ImageLogSkipFilter.java" timestamp="1517270976439">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
       </file>
@@ -132,6 +137,11 @@
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/scan.xml" timestamp="1516336870267">
         <mark key="'" line="15" column="33" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoSendTransformer.java" timestamp="1516790363169">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/api/core/TransportConfiguration.class" timestamp="1514939742478">
         <mark key="'" line="55" column="4" />
@@ -311,6 +321,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-commons/2.4.7.Final/hornetq-commons-2.4.7.Final.jar!/org/hornetq/utils/DefaultSensitiveStringCodec.class" timestamp="1516859165339">
         <mark key="'" line="46" column="51" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/controller/ReceiveImageLogWebServiceController.java" timestamp="1517360759559">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar!/org/springframework/web/servlet/mvc/condition/ProducesRequestCondition.class" timestamp="1513752919201">
         <mark key="'" line="231" column="10" />
@@ -632,8 +647,8 @@
       <jump line="33" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -765,10 +780,10 @@
         <text encoding="base64">CQkJSW1hZ2VJTy53cml0ZShpbWcsIHR5cGUuZXh0TmFtZSgpLCBvdXRQYXRoRGlyLnJlc29sdmUoZ2V0QmFzZU5hbWUob3V0RmlsZU5hbWUpICsgIi4iICsgdHlwZS5leHROYW1lKCkpLnRvRmlsZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJUERGQm94VXRpbC5leHRyYWN0VGh1bW5haWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -895,10 +910,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdGhyb3cgZTsK</text>
+        <text encoding="base64">CQkJUERGQm94VXRpbC5leHRyYWN0VGh1bW5haWwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJdGhyb3cgZTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -907,10 +922,10 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
