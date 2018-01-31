@@ -322,12 +322,12 @@
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1517372836647">
-        <mark key="'" line="69" column="38" />
-        <mark key="[" line="67" column="32" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1517375465309">
+        <mark key="'" line="89" column="38" />
+        <mark key="[" line="70" column="47" />
+        <mark key="]" line="69" column="52" />
+        <mark key="." line="69" column="52" />
+        <mark key="^" line="69" column="52" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
@@ -508,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="58" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="468" column="60" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" />
       <jump line="253" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
       <jump line="190" column="30" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
@@ -608,10 +607,11 @@
       <jump line="33" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
       <jump line="68" column="38" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="49" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" />
+      <jump line="85" column="38" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>generateThumbnail(targetPath, jobInfo.getJobID())</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -734,19 +734,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>generateThumbnail(targetPath, jobInfo.getJobID())</text>
       </register>
       <register name="/" type="4">
         <text>imgPath</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJSW1hZ2VJTy53cml0ZShpbWcsIHR5cGUuZXh0TmFtZSgpLCBvdXRQYXRoRGlyLnJlc29sdmUoZ2V0QmFzZU5hbWUob3V0RmlsZU5hbWUpICsgIi4iICsgdHlwZS5leHROYW1lKCkpLnRvRmlsZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>targetPath.getParent().resolve(&quot;thumb&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlQYXRoIAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -873,10 +873,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZihGaWxlcy5leGlzdHMoKSkK</text>
+        <text encoding="base64">CQlQYXRoIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZihGaWxlcy5leGlzdHMoKSkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -885,10 +885,10 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgb3V0UGF0aDsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldHRoCg==</text>
+        <text encoding="base64">CQlTdHJpbmcgb3V0UGF0aDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -904,10 +904,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldHRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
