@@ -322,11 +322,12 @@
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1517371769773">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1517372836647">
         <mark key="'" line="69" column="38" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="67" column="32" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
@@ -610,7 +611,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldHRoCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -733,7 +734,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>e.printStackTrace();</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>imgPath</text>
@@ -742,10 +743,10 @@
         <text encoding="base64">CQkJSW1hZ2VJTy53cml0ZShpbWcsIHR5cGUuZXh0TmFtZSgpLCBvdXRQYXRoRGlyLnJlc29sdmUoZ2V0QmFzZU5hbWUob3V0RmlsZU5hbWUpICsgIi4iICsgdHlwZS5leHROYW1lKCkpLnRvRmlsZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldHRoCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlQYXRoIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -872,22 +873,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlpZihGaWxlcy5leGlzdHMoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlQREZCb3hVdGlsLmV4dHJhY3RUaHVtbmFpbCh0YXJnZXRQYXRoLCB0YXJnZXRQYXRoLmdldFBhcmVudCgpLnJlc29sdmUoInRodW1uYWlsIikpOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgb3V0UGF0aDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlQREZCb3hVdGlsLmV4dHJhY3RUaHVtbmFpbCh0YXJnZXRQYXRoLCB0YXJnZXRQYXRoLmdldFBhcmVudCgpLnJlc29sdmUoInRodW1uYWlsIikpOwo=</text>
+        <text encoding="base64">CQkJCQlqb2JJbmZvLnNldHRoCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -903,10 +904,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV2ViU2VydmljZVN0YXR1cy5zdGF0dXMoImZhaWwiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
