@@ -115,6 +115,9 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueImpl.class" timestamp="1514271184314">
         <mark key="'" line="2151" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dd92caf1-94d7-4acc-be9c-fcff9298ae5a/console_4.sql" timestamp="1517466053414">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxLeafTransformer.java" timestamp="1516712030664">
         <mark key="[" line="16" column="71" />
         <mark key="]" line="16" column="83" />
@@ -239,6 +242,11 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1515378467034">
         <mark key="'" line="89" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517466076426">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1517205617794">
         <mark key="'" line="42" column="0" />
@@ -468,7 +476,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
         <mark key="'" line="60" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1517461927360">
+      <file name="/dummy.sql" timestamp="1517466069035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/scan.xml" timestamp="1514461999769">
@@ -652,8 +660,8 @@
       <jump line="42" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -776,7 +784,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>thumbDirPath</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>imgPath</text>
