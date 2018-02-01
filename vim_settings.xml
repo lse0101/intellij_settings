@@ -21,11 +21,11 @@
         <mark key="^" line="17" column="71" />
         <mark key="." line="17" column="71" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1516861397406">
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="10" column="84" />
-        <mark key="^" line="10" column="84" />
-        <mark key="." line="10" column="84" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1517483440730">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" timestamp="1515480207690">
         <mark key="'" line="110" column="19" />
@@ -661,7 +661,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -784,7 +784,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>imgPath</text>
