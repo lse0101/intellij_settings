@@ -249,6 +249,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1515378467034">
         <mark key="'" line="89" column="12" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" timestamp="1517485969810">
+        <mark key="'" line="50" column="24" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517466076426">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -564,11 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
-      <jump line="410" column="25" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
-      <jump line="25" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/ImageLogJobInfo.java" />
-      <jump line="266" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
-      <jump line="310" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="48" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="45" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="346" column="15" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
@@ -664,6 +662,11 @@
       <jump line="8" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" />
       <jump line="23" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" />
       <jump line="30" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" />
+      <jump line="17" column="14" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" />
+      <jump line="30" column="54" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" />
+      <jump line="35" column="71" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" />
+      <jump line="44" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" />
+      <jump line="50" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -793,7 +796,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>jms</text>
+        <text>connection</text>
       </register>
       <register name="0" type="4">
         <text>targetPath.getParent()</text>
@@ -970,16 +973,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jms</last-search>
+      <last-search>connection</last-search>
       <last-offset />
-      <last-pattern>jms</last-pattern>
+      <last-pattern>connection</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Scan</entry>
-        <entry>scan</entry>
         <entry>cacul</entry>
         <entry>FromDate</entry>
         <entry>calcul</entry>
@@ -998,6 +999,8 @@
         <entry>skip</entry>
         <entry>imgPath</entry>
         <entry>jms</entry>
+        <entry encoding="base64">XDxjbGllbnRDb25uZWN0aW9uRmFjdG9yeVw+</entry>
+        <entry>connection</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
