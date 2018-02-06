@@ -21,6 +21,12 @@
         <mark key="^" line="17" column="71" />
         <mark key="." line="17" column="71" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1517562711775">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/HornetQSecurityManagerImpl.class" timestamp="1515480207690">
         <mark key="'" line="110" column="19" />
       </file>
@@ -189,12 +195,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/utils/OrderedExecutorFactory.class" timestamp="1514269927665">
         <mark key="'" line="34" column="71" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" timestamp="1517903377473">
-        <mark key="'" line="60" column="8" />
-        <mark key="[" line="63" column="67" />
-        <mark key="]" line="63" column="68" />
-        <mark key="." line="63" column="68" />
-        <mark key="^" line="63" column="68" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" timestamp="1517904924567">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
@@ -744,8 +749,8 @@
       <jump line="145" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -877,10 +882,10 @@
         <text encoding="base64">T3BlcmF0ZVNlcnZpY2VSZXNwb25zZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkhPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1007,22 +1012,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUuc2VuZAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXIuCg==</text>
+        <text encoding="base64">CQlNYXJzaGFsbGVyIG1hcnNoYWxsZXIgPSBqYXhiQ29udGV4dC5jcmVhdGVNYXJzaGFsbGVyKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlCYXNpY0NyZWRlbnRpYWxzUHJvdmlkZXIgYmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyID0gbmV3IEJhc2ljQ3JlZGVudGlhbHNQcm92aWRlcigpOwo=</text>
+        <text encoding="base64">LyoKCQltYXJzaGFsbGVyLnNldFByb3BlcnR5KE1hcnNoYWxsZXIuSkFYQl9GT1JNQVRURURfT1VUUFVULCB0cnVlKTsKCQltYXJzaGFsbGVyLm1hcnNoYWwob3BlcmF0ZVNlcnZpY2UsIFN5c3RlbS5vdXQpOwoqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQliYXNpY0NyZWRlbnRpYWxzUHJvdmlkZXIuc2V0Q3JlZGVudGlhbHMoQXV0aFNjb3BlLkFOWSwgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQluZXcgSFRUUAo=</text>
+        <text encoding="base64">LyoJCVN0cmluZ1Jlc3VsdCBzdHJpbmdSZXN1bHQgPSBuZXcgU3RyaW5nUmVzdWx0KCk7CgkJamF4YjJNYXJzaGFsbGVyLm1hcnNoYWwob3BlcmF0ZVNlcnZpY2UsIHN0cmluZ1Jlc3VsdCk7CgoJCVN5c3RlbS5vdXQucHJpbnRsbihzdHJpbmdSZXN1bHQpOyovCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1038,10 +1043,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXIuc2V0Q3JlZGVudGlhbHMoYmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlCYXNpY0NyZWRlbnRpYWxzUHJvdmlkZXIK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
