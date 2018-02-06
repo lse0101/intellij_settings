@@ -421,12 +421,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" timestamp="1517887618385">
-        <mark key="'" line="53" column="61" />
-        <mark key="[" line="133" column="8" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="128" column="4" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" timestamp="1517890849556">
+        <mark key="'" line="134" column="48" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="138" column="97" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.10.RELEASE/spring-messaging-4.3.10.RELEASE.jar!/org/springframework/messaging/Message.class" timestamp="1515658071442">
         <mark key="'" line="2" column="0" />
@@ -434,11 +434,11 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/config/EmbededConstants.java" timestamp="1516085762249">
         <mark key="'" line="3" column="24" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestSetAttribute.java" timestamp="1517834727442">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestSetAttribute.java" timestamp="1517891014898">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/src/main/java/com/fujixerox/kor/orm/entitys/imglog/dsl/QImgFile.java" timestamp="1517203044575">
         <mark key="'" line="18" column="34" />
@@ -623,9 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
-      <jump line="204" column="51" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
-      <jump line="228" column="12" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
       <jump line="232" column="15" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
       <jump line="289" column="58" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
       <jump line="335" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
@@ -723,10 +720,13 @@
       <jump line="28" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
       <jump line="88" column="19" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
       <jump line="52" column="61" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
+      <jump line="145" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
+      <jump line="135" column="49" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
+      <jump line="134" column="48" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZihhZ2VudEF0dHJpYnV0ZUxpc3QuaW5kZXhPZihuZXcgQXR0cmlidXRlKCIiLCAiIikpID09IC0xKQo=</text>
+        <text encoding="base64">CQkJCQkJLnMK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -849,16 +849,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Document</text>
+        <text>!=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlBdHRyaWJ1dGUgYWdlbnRBZHIgPSBuZXcgQXR0cmlidXRlKEFUVFJfQUdFTlRfQUREUkVTUywgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZihhZ2VudEF0dHJpYnV0ZUxpc3QuaW5kZXhPZihuZXcgQXR0cmlidXRlKCIiLCAiIikpID09IC0xKQo=</text>
+        <text encoding="base64">CQkJCQkJLnMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -991,19 +991,19 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGhybwo=</text>
+        <text encoding="base64">CQkgCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlMaXN0Cg==</text>
+        <text encoding="base64">CQlpZigxIDw9IDEpe30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBUcmFuCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1019,25 +1019,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZ2VudGNvbmZpZ1ZhbGlkYXRlKCkgewoJfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Document</last-search>
+      <last-search>!=</last-search>
       <last-offset />
-      <last-pattern>Document</last-pattern>
+      <last-pattern>!=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UUID</entry>
         <entry>commons-io</entry>
         <entry>commons.io</entry>
         <entry encoding="base64">XDwyXD4=</entry>
@@ -1057,6 +1056,7 @@
         <entry>Link</entry>
         <entry>DocumentID</entry>
         <entry>Document</entry>
+        <entry>!=</entry>
       </history-search>
       <history-cmd>
         <entry>903</entry>
