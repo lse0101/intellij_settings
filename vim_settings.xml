@@ -421,12 +421,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" timestamp="1517884744165">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" timestamp="1517887618385">
         <mark key="'" line="53" column="61" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="67" column="56" />
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="128" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.10.RELEASE/spring-messaging-4.3.10.RELEASE.jar!/org/springframework/messaging/Message.class" timestamp="1515658071442">
         <mark key="'" line="2" column="0" />
@@ -726,7 +726,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZihhZ2VudEF0dHJpYnV0ZUxpc3QuaW5kZXhPZihuZXcgQXR0cmlidXRlKCIiLCAiIikpID09IC0xKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -849,19 +849,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>this.agentConfig.getAttributeList()</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>Document</text>
       </register>
-      <register name="0" type="4">
-        <text>ClearingTime</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlBdHRyaWJ1dGUgYWdlbnRBZHIgPSBuZXcgQXR0cmlidXRlKEFUVFJfQUdFTlRfQUREUkVTUywgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZihhZ2VudEF0dHJpYnV0ZUxpc3QuaW5kZXhPZihuZXcgQXR0cmlidXRlKCIiLCAiIikpID09IC0xKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdGhybwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -988,22 +988,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlMaXN0Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">CQkJdGhybwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBUcmFuCg==</text>
+        <text encoding="base64">CQlMaXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZ2VudGNvbmZpZ1ZhbGlkYXRlKCkgewoJfQo=</text>
+        <text encoding="base64">CUBUcmFuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1019,10 +1019,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS5hZGRBdHRyaWJ1dGUoIkZBWEF1ZGl0cm9uIiwgInRydWUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LVhYOitVc2VHMUdDCg==</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZ2VudGNvbmZpZ1ZhbGlkYXRlKCkgewoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
