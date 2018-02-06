@@ -120,6 +120,9 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/embedded/EmbeddedJMS.class" timestamp="1515478778508">
         <mark key="'" line="26" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/client/support/WebServiceAccessor.class" timestamp="1517900674112">
+        <mark key="'" line="41" column="60" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/javax/activation/MimeType.class" timestamp="1513752654827">
         <mark key="'" line="146" column="28" />
       </file>
@@ -192,11 +195,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/utils/OrderedExecutorFactory.class" timestamp="1514269927665">
         <mark key="'" line="34" column="71" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" timestamp="1517896334129">
-        <mark key="[" line="27" column="55" />
-        <mark key="]" line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="29" column="23" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" timestamp="1517901293427">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Development/workspace/aia-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1513576695206">
         <mark key="'" line="2" column="4" />
@@ -225,19 +228,22 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-jms-server/2.4.7.Final/hornetq-jms-server-2.4.7.Final.jar!/org/hornetq/jms/server/impl/JMSServerManagerImpl.class" timestamp="1515480119650">
         <mark key="'" line="118" column="11" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaConstants.java" timestamp="1517883348364">
-        <mark key="'" line="16" column="53" />
-        <mark key="[" line="46" column="55" />
-        <mark key="]" line="46" column="55" />
-        <mark key="^" line="46" column="55" />
-        <mark key="." line="46" column="55" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaConstants.java" timestamp="1517898066473">
+        <mark key="'" line="48" column="55" />
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1517305537328">
-        <mark key="'" line="17" column="22" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1517897129687">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="41" column="21" />
         <mark key="]" line="42" column="4" />
         <mark key="^" line="42" column="4" />
         <mark key="." line="42" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" timestamp="1517899990988">
+        <mark key="'" line="122" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.class" timestamp="1516784721875">
         <mark key="'" line="33" column="23" />
@@ -464,6 +470,9 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1517833363886">
         <mark key="'" line="230" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/auth/UsernamePasswordCredentials.class" timestamp="1517901654266">
+        <mark key="'" line="37" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-xml/3.0.0.RELEASE/spring-xml-3.0.0.RELEASE.jar!/org/springframework/xml/transform/TraxUtils.class" timestamp="1513680736052">
         <mark key="'" line="163" column="0" />
       </file>
@@ -478,6 +487,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dd92caf1-94d7-4acc-be9c-fcff9298ae5a/console_2.sql" timestamp="1517213315995">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" timestamp="1517901682800">
+        <mark key="'" line="57" column="27" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogUserSkipFilter.java" timestamp="1517273639587">
         <mark key="[" line="13" column="15" />
@@ -512,6 +524,13 @@
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
         <mark key="^" line="49" column="40" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/pom.xml" timestamp="1517897162291">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.0.0.RELEASE/spring-ws-core-3.0.0.RELEASE.jar!/org/springframework/ws/soap/saaj/SaajSoapMessage.class" timestamp="1513771615295">
         <mark key="'" line="44" column="13" />
@@ -623,23 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="15" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
-      <jump line="289" column="58" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
-      <jump line="335" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/fs/WindowsFileCopy.class" />
-      <jump line="21" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/src/main/java/com/fujixerox/kor/orm/entitys/imglog/dsl/QImgFile.java" />
-      <jump line="33" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/pom.xml" />
-      <jump line="18" column="34" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_common/src/main/java/com/fujixerox/kor/orm/entitys/imglog/dsl/QImgFile.java" />
-      <jump line="305" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="379" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="338" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="352" column="23" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="377" column="35" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="42" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" />
-      <jump line="119" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
-      <jump line="77" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
-      <jump line="84" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
-      <jump line="417" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
-      <jump line="416" column="90" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="11" column="61" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="58" column="49" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" />
       <jump line="109" column="51" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
@@ -723,10 +725,27 @@
       <jump line="145" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
       <jump line="135" column="49" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
       <jump line="134" column="48" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
+      <jump line="37" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
+      <jump line="15" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" />
+      <jump line="6" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/pom.xml" />
+      <jump line="46" column="55" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaConstants.java" />
+      <jump line="31" column="54" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" />
+      <jump line="44" column="39" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" />
+      <jump line="1" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" />
+      <jump line="122" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
+      <jump line="38" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
+      <jump line="56" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
+      <jump line="38" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/client/support/WebServiceAccessor.class" />
+      <jump line="41" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/client/support/WebServiceAccessor.class" />
+      <jump line="60" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestOperateService.java" />
+      <jump line="129" column="115" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
+      <jump line="128" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
+      <jump line="37" column="11" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/auth/UsernamePasswordCredentials.class" />
+      <jump line="57" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>agentPort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXIuCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -849,19 +868,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>agentPort</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text encoding="base64">XDxjcmVkZW50aWFsc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlBdHRyaWJ1dGUgYWdlbnRBZHIgPSBuZXcgQXR0cmlidXRlKEFUVFJfQUdFTlRfQUREUkVTUywgIiIpOwo=</text>
+      <register name="0" type="4">
+        <text>com.fujixerox.kor.secuhub.propmanager.sofia.authenticate.model.operate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlCYXNpY0NyZWRlbnRpYWxzUHJvdmlkZXIgYmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyID0gbmV3IEJhc2ljQ3JlZGVudGlhbHNQcm92aWRlcigpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -988,22 +1007,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhZ2VudEFkciA9IGFnZW50QXR0cmlidXRlTGlzdC4K</text>
+        <text encoding="base64">CQliYXNpY0NyZWRlbnRpYWxzUHJvdmlkZXIuc2V0Q3JlZGVudGlhbHMoQXV0aFNjb3BlLkFOWSwgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQluZXcgSFRUUAo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlBdHRyaWJ1dGUgCg==</text>
+        <text encoding="base64">CQlodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXIuc2V0Q3JlZGVudGlhbHMoYmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlCYXNpY0NyZWRlbnRpYWxzUHJvdmlkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpbnQgaW5kZXggPSBhZ2VudAo=</text>
+        <text encoding="base64">Ly8JCWpheGIyTWFyc2hhbGxlci5zZXRDb250ZXh0UGF0aCgiY29tLmZ1aml4ZXJveC5rb3Iuc2VjdWh1Yi5wcm9wbWFuYWdlci5zb2ZpYS5hdXRoZW50aWNhdGUubW9kZWwub3BlcmF0ZSIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1019,32 +1038,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlqYXhiMk1hcnNoYWxsZXIuc2V0TWFwcGVkQ2xhc3MoT3BlcmF0ZVNlcnZpY2UuY2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search encoding="base64">XDxjcmVkZW50aWFsc1w+</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVkZW50aWFsc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyXD4=</entry>
-        <entry encoding="base64">XDxwZGZib3hcPg==</entry>
-        <entry>apache</entry>
-        <entry>JPEG</entry>
-        <entry>jpg</entry>
-        <entry encoding="base64">XDxmb3JtYXROYW1lXD4=</entry>
-        <entry encoding="base64">XDxuYW1lc1w+</entry>
-        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry>skip</entry>
         <entry>imgPath</entry>
         <entry encoding="base64">XDxjbGllbnRDb25uZWN0aW9uRmFjdG9yeVw+</entry>
@@ -1057,6 +1068,14 @@
         <entry>!=</entry>
         <entry>search</entry>
         <entry>find</entry>
+        <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
+        <entry>ws</entry>
+        <entry encoding="base64">XDxtZXNzYWdlU2VuZGVyc1w+</entry>
+        <entry>base</entry>
+        <entry>Base</entry>
+        <entry>64</entry>
+        <entry encoding="base64">XDx3ZWJTZXJ2aWNlVGVtcGxhdGVcPg==</entry>
+        <entry encoding="base64">XDxjcmVkZW50aWFsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>903</entry>
