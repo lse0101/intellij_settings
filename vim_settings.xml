@@ -91,6 +91,11 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/copy.xml" timestamp="1516324525372">
         <mark key="'" line="50" column="5" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/ImageLogSkipFilter.java" timestamp="1517270976439">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/deployers/impl/BasicUserCredentialsDeployer.class" timestamp="1515480616381">
         <mark key="'" line="40" column="16" />
       </file>
@@ -141,6 +146,11 @@
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/ws/common/log/scan.xml" timestamp="1516336870267">
         <mark key="'" line="15" column="33" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoSendTransformer.java" timestamp="1516790363169">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-core-client/2.4.7.Final/hornetq-core-client-2.4.7.Final.jar!/org/hornetq/api/core/TransportConfiguration.class" timestamp="1514939742478">
         <mark key="'" line="55" column="4" />
@@ -256,6 +266,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1515378467034">
         <mark key="'" line="89" column="12" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-jms.xml" timestamp="1517545759012">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/attribute/SetAttribute.java" timestamp="1517836284276">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -263,6 +278,11 @@
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/target/classes/config/spring-jms-beans.xml" timestamp="1517485969810">
         <mark key="'" line="50" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517551151924">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/common/ImageLogPathsTest.java" timestamp="1517205617794">
         <mark key="'" line="42" column="0" />
@@ -555,11 +575,10 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/controller/ReceiveImageLogWebServiceController.java" timestamp="1516696161813">
         <mark key="'" line="41" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1517205726887">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1517879391302">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517315082557">
         <mark key="'" line="367" column="16" />
@@ -706,8 +725,8 @@
       <jump line="28" column="4" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.attributeList.indexOf(attribute)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LVhYOitVc2VHMUdDCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -839,10 +858,10 @@
         <text>&quot;boolean&quot;,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LVhYOitVc2VHMUdDCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhYOitVc2VHMUdDCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -969,10 +988,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBBdXRoZW50aWNhdGlvbkFnZW50UmVxdWVzdEJ1aWxkZXIgc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -981,10 +1000,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID09Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBBdXRoZW50aWNhdGlvbkFnZW50UmVxdWVzdEJ1aWxkZXIgc2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICE9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1000,10 +1019,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID09Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICE9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
