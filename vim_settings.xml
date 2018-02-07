@@ -97,6 +97,13 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" timestamp="1517977067492">
+        <mark key="'" line="42" column="64" />
+        <mark key="[" line="42" column="78" />
+        <mark key="]" line="42" column="85" />
+        <mark key="." line="42" column="85" />
+        <mark key="^" line="42" column="85" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/attribute/SetAttributeResponse.java" timestamp="1517907639996">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -122,12 +129,12 @@
         <mark key="." line="72" column="75" />
         <mark key="^" line="72" column="75" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaConstants.java" timestamp="1517969899408">
-        <mark key="'" line="67" column="55" />
-        <mark key="[" line="26" column="99" />
-        <mark key="]" line="26" column="99" />
-        <mark key="." line="26" column="99" />
-        <mark key="^" line="26" column="99" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaConstants.java" timestamp="1517976438354">
+        <mark key="'" line="80" column="55" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="68" />
+        <mark key="^" line="49" column="68" />
+        <mark key="." line="49" column="68" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1517897129687">
         <mark key="'" line="15" column="0" />
@@ -247,11 +254,11 @@
         <mark key="^" line="25" column="60" />
         <mark key="." line="25" column="60" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogEnableConfigBuilder.java" timestamp="1517970262437">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="27" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogEnableConfigBuilder.java" timestamp="1517976008205">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" timestamp="1517969709833">
         <mark key="[" line="63" column="0" />
@@ -326,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="61" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="58" column="49" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" />
       <jump line="109" column="51" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="112" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
@@ -426,10 +432,11 @@
       <jump line="37" column="11" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/auth/UsernamePasswordCredentials.class" />
       <jump line="57" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
       <jump line="145" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" />
+      <jump line="41" column="64" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text>MIDDLE</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -552,7 +559,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>MIDDLE</text>
       </register>
       <register name="/" type="4">
         <text>!=</text>
