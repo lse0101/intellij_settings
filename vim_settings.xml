@@ -204,12 +204,12 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/ws.jar!/schemas/wsdl11_mimebinding.xsd" timestamp="1513656884471">
         <mark key="'" line="63" column="20" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" timestamp="1518075200320">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="30" column="45" />
-        <mark key="^" line="30" column="45" />
-        <mark key="." line="30" column="45" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" timestamp="1518078256979">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="43" column="107" />
+        <mark key="]" line="43" column="156" />
+        <mark key="^" line="40" column="54" />
+        <mark key="." line="43" column="107" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dd92caf1-94d7-4acc-be9c-fcff9298ae5a/console_1.sql" timestamp="1516929827081">
         <mark key="[" line="0" column="0" />
@@ -565,9 +565,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" timestamp="1517902539430">
         <mark key="'" line="57" column="27" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" timestamp="1518077570453">
-        <mark key="[" line="47" column="85" />
-        <mark key="]" line="47" column="85" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" timestamp="1518078251200">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="69" />
         <mark key="." line="47" column="85" />
         <mark key="^" line="47" column="85" />
       </file>
@@ -865,7 +865,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>url</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -988,19 +988,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>Result</text>
       </register>
       <register name="0" type="4">
-        <text>((SoapMessage) m)</text>
+        <text>&quot;http://13.197.5.172/ssm/Management/StatusConfig&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlPcGVyYXRlU2VydmljZVJlc3BvbnNlIHJlc3BvbnNlID0gKE9wZXJhdGVTZXJ2aWNlUmVzcG9uc2Upd2ViU2VydmljZVRlbXBsYXRlLm1hcnNoYWxTZW5kQW5kUmVjZWl2ZSh1cmwsIG9wZXJhdGVTZXJ2aWNlLCBtIC0+IHsK</text>
+        <text encoding="base64">CQlKQVhCQ29udGV4dCBqYXhiQ29udGV4dCA9IEpBWEJDb250ZXh0Lm5ld0luc3RhbmNlKFByb2Nlc3NSZXF1ZXN0LmNsYXNzKTsKCgkJTWFyc2hhbGxlciBtYXJzaGFsbGVyID0gamF4YkNvbnRleHQuY3JlYXRlTWFyc2hhbGxlcigpOwoJCW1hcnNoYWxsZXIuc2V0UHJvcGVydHkoTWFyc2hhbGxlci5KQVhCX0ZPUk1BVFRFRF9PVVRQVVQsIHRydWUpOwoJCW1hcnNoYWxsZXIuc2V0UHJvcGVydHkoImNvbS5zdW4ueG1sLmJpbmQuY2hhcmFjdGVyRXNjYXBlSGFuZGxlciIsIE5vRXNjYXBlSGFuZGxlci50aGVJbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlPcGVyYXRlU2VydmljZVJlc3BvbnNlIHJlc3BvbnNlID0gKE9wZXJhdGVTZXJ2aWNlUmVzcG9uc2Upd2ViU2VydmljZVRlbXBsYXRlLm1hcnNoYWxTZW5kQW5kUmVjZWl2ZSh1cmwsIG9wZXJhdGVTZXJ2aWNlLCBtIC0+IHsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1127,22 +1127,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJKChTb2FwTWVzc2FnZSkgbSkuZ2V0aAo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJc29hcEJvZHkuYXBwZW5kKCJdXT4iKTsK</text>
+        <text encoding="base64">CQkJKChTb2FwTWVzc2FnZSkgbSkuZ2V0aAo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc29hcEJvZHkuYXBwZW5kKCJdXT4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoJcHVibGljIHN0YXRpYyBjbGFzcyBTb3VyY2UgewoKCQlAWG1sVmFsdWUKCQlTdHJpbmcgdmFsdWU7CgoJCXB1YmxpYyBTb3VyY2UoKSB7CgkJCXZhbHVlID0gIjxjb250ZW50IGhyZWY9XCJcIi8+IjsKCQl9Cgl9Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJc29hcEJvZHkuYXBwZW5kKCI8IVtDREFUQVsiKTsK</text>
+        <text encoding="base64">LyoJcHVibGljIHN0YXRpYyBjbGFzcyBTb3VyY2UgewoKCQlAWG1sVmFsdWUKCQlTdHJpbmcgdmFsdWU7CgoJCXB1YmxpYyBTb3VyY2UoKSB7CgkJCXZhbHVlID0gIjxjb250ZW50IGhyZWY9XCJcIi8+IjsKCQl9Cgl9Ki8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1157,11 +1157,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">d2Vic2VydmljZV9wYXRoCgkJCQkJCQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJc29hcEJvZHkuYXBwZW5kKCI8IVtDREFUQVsiKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">d2Vic2VydmljZV9wYXRoCgkJCQkJCQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
