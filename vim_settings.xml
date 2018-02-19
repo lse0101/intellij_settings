@@ -375,6 +375,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/Stream.java" timestamp="1516625758832">
         <mark key="'" line="806" column="53" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/PropServiceImpl.java" timestamp="1519034535546" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.1.RELEASE/spring-core-5.0.1.RELEASE.jar!/org/springframework/util/MimeType.class" timestamp="1513737740301">
         <mark key="'" line="318" column="35" />
       </file>
@@ -680,7 +681,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/HornetQServerImpl.class" timestamp="1515480783516">
         <mark key="'" line="60" column="39" />
       </file>
-      <file name="/dummy.sql" timestamp="1519025508287">
+      <file name="/dummy.sql" timestamp="1519034502200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar!/org/joda/time/DateTimeUtils.class" timestamp="1515575090835">
@@ -723,8 +724,8 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1517315082557">
-        <mark key="'" line="367" column="16" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519034735435">
+        <mark key="'" line="401" column="16" />
         <mark key="[" line="404" column="106" />
         <mark key="]" line="404" column="125" />
         <mark key="^" line="404" column="125" />
@@ -779,7 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
       <jump line="74" column="42" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
       <jump line="109" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
       <jump line="99" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
@@ -879,6 +879,7 @@
       <jump line="189" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/jobFlowSheet_multi.xml" />
       <jump line="53" column="19" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" />
       <jump line="9" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/config/EmbededConstants.java" />
+      <jump line="401" column="16" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1008,7 +1009,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>mailbox</text>
+        <text encoding="base64">XDxza2lwSW1hZ2VMb2dcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlhc3NlcnRUaGF0KGxvZ0luZm8uZ2V0TGVhZkpvYkxpc3QoKS5nZXQoMSksIGhhc1Byb3BlcnR5KCJOdW1iZXIiLCBpcygiMTEiKSkpOwoJCWFzc2VydFRoYXQobG9nSW5mby5nZXRMZWFmSm9iTGlzdCgpLmdldCgxKSwgaGFzUHJvcGVydHkoIkRlc3RpbmF0aW9uIiwgaXMoIjEzLjE5Ny41LjIwMC9TY2FuVG9QQyBOYW1lLTAwMDIueGR3IikpKTsKCQlhc3NlcnRUaGF0KGxvZ0luZm8uZ2V0TGVhZkpvYkxpc3QoKS5nZXQoMSksIGhhc1Byb3BlcnR5KCJEb2N1bWVudElEIiwgaXMoIjc5MDIiKSkpOwo=</text>
@@ -1185,17 +1186,16 @@
       </register>
     </registers>
     <search>
-      <last-search>mailbox</last-search>
+      <last-search encoding="base64">XDxza2lwSW1hZ2VMb2dcPg==</last-search>
       <last-offset />
-      <last-pattern>mailbox</last-pattern>
+      <last-pattern encoding="base64">XDxza2lwSW1hZ2VMb2dcPg==</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>DocumentName</entry>
         <entry encoding="base64">XDxodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXJcPg==</entry>
         <entry>auth</entry>
@@ -1215,6 +1215,7 @@
         <entry>Dest</entry>
         <entry>number</entry>
         <entry>mailbox</entry>
+        <entry encoding="base64">XDxza2lwSW1hZ2VMb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
