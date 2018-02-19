@@ -501,6 +501,9 @@
       <file name="$USER_HOME$/Development/workspace/sophia/XPMS_20_Sophia_Admin_Tools_GUI/src/main/resources/Install_Config.xml" timestamp="1513576181274">
         <mark key="'" line="364" column="215" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoReceive2.xml" timestamp="1519014621620">
+        <mark key="'" line="39" column="12" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/bind/JAXBContext.java" timestamp="1517997202355">
         <mark key="'" line="261" column="22" />
       </file>
@@ -569,8 +572,8 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/JAASSecurityManager.class" timestamp="1515479306440">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1518165710608">
-        <mark key="'" line="0" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1519014696204">
+        <mark key="'" line="215" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar!/org/apache/http/auth/UsernamePasswordCredentials.class" timestamp="1517901654266">
         <mark key="'" line="37" column="11" />
@@ -609,12 +612,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" timestamp="1517443650368">
-        <mark key="'" line="50" column="13" />
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" timestamp="1519014856536">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/DocumentProcess.java" timestamp="1518052557000">
         <mark key="'" line="21" column="0" />
@@ -785,11 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" />
-      <jump line="132" column="15" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" />
-      <jump line="148" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" />
-      <jump line="153" column="35" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" />
-      <jump line="33" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" />
       <jump line="411" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
       <jump line="36" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
@@ -885,6 +883,11 @@
       <jump line="37" column="4317" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/UrlConnectionTest.java" />
       <jump line="38" column="2297" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/UrlConnectionTest.java" />
       <jump line="199" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/UrlConnectionTest.java" />
+      <jump line="306" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
+      <jump line="271" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
+      <jump line="39" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoReceive2.xml" />
+      <jump line="215" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
+      <jump line="40" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1014,7 +1017,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text>dest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTdHJpbmcgc29hcE1lc3NhZ2UgPSI8P3htbCB2ZXJzaW9uPVwiMS4wXCIgZW5jb2Rpbmc9XCJVVEYtOFwiID8+PHNvYXBFTlY6RW52ZWxvcGUgeG1sbnM6U09BUC1FTlY9XCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy9zb2FwL2VudmVsb3BlL1wiIHhtbG5zOmp0PVwiaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwMy8xMi9zc20vam9iVGVtcGxhdGVcIj4gPFNPQVAtRU5WOkhlYWRlcj4gPGp0OkpvYlRlbXBsYXRlIGp0OnByb2ZpbGU9XCIyXCIganQ6dmVyc2lvbj1cIjMuMC40XCIgeG1sbnM6bnM0PVwiaHR0cDovL3d3dy5mdWppeGVyb3guY28uanAvMjAwMy8xMi9zc20vbWFuYWdlbWVudC9zdGF0dXNDb25maWdcIiB4bWxuczpuczU9XCJodHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbFwiIHhtbG5zOm5zNz1cImh0dHA6Ly93d3cuZnVqaXhlcm94LmNvLmpwLzIwMDMvMTIvc3NtL21hbmFnZW1lbnQvc3RhdGVcIiB4bWxuczp4c2k9XCJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZVwiPiA8anQ6TmFtZT5JbWFnZSBsb2cgdHJhbnNmZXIgcnVsZTwvanQ6TmFtZT4gPGp0OkRlc2NyaXB0aW9uPlRoZSB0cmFuc2ZlciBydWxlIHRvIHJlZ2lzdGVyIHRoZSBpbWFnZSBsb2cgaW4gdGhlIGltYWdlIGxvZyBtYW5hZ2VtZW50IHNlcnZlci48L2p0OkRlc2NyaXB0aW9uPiA8anQ6Q29weXJpZ2h0PkNvcHlyaWdodCAoQykgMjAwNS0yMDA2IGJ5IEZ1amkgWGVyb3ggQ28uLEx0ZC4gQWxsIFJpZ2h0cyBSZXNlcnZlZDwvanQ6Q29weXJpZ2h0PiA8anQ6QXV0aG9yLz4gPGp0OkNyZWF0ZWRCeT5JbWFnZUxvZy1lUk08L2p0OkNyZWF0ZWRCeT4gPGp0OkNyZWF0aW9uRGF0ZVRpbWU+MjAwNS0xMS0xMFQwMDowMDowMCswOTowMDwvanQ6Q3JlYXRpb25EYXRlVGltZT4gPGp0Ok1vZGlmaWNhdGlvbkRhdGVUaW1lPjIwMDUtMTEtMTBUMDA6MDA6MDArMDk6MDA8L2p0Ok1vZGlmaWNhdGlvbkRhdGVUaW1lPiA8anQ6VGFyZ2V0SW50ZXJwcmV0ZXJzPiA8anQ6TWFjaGluZU9JRD4xLjMuNi4xLjQuMTwvanQ6TWFjaGluZU9JRD4gPC9qdDpUYXJnZXRJbnRlcnByZXRlcnM+IDxqdDpFeGVjdXRpb25IaW50cz4gPGp0OlJlc291cmNlcz4gPGp0OlJlc291cmNlPkV4ZWN1dGlvbldpdGhvdXREb2N1bWVudDwvanQ6UmVzb3VyY2U+IDxqdDpSZXNvdXJjZT5JbnZva2UvV2ViU2VydmljZS9SZWxhdGVkSm9iSW5mbzwvanQ6UmVzb3VyY2U+IDwvanQ6UmVzb3VyY2VzPiA8L2p0OkV4ZWN1dGlvbkhpbnRzPiA8anQ6S2V5d29yZHMvPiA8L2p0OkpvYlRlbXBsYXRlPiA8L1NPQVAtRU5WOkhlYWRlcj4gPFNPQVAtRU5WOkJvZHk+IDxqdDpQcm9jZXNzUmVxdWVzdCB4bWxuczp4c2k9XCJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZVwiPiA8anQ6U2V0dXA+IDxqdDpFeGNlcHRpb25IYW5kbGVyPiA8anQ6Q2F0Y2hBbGwganQ6YWN0aW9uPVwiQ29udGludWVQcm9jZXNzXCIvPiA8L2p0OkV4Y2VwdGlvbkhhbmRsZXI+IDwvanQ6U2V0dXA+IDxqdDpEb2N1bWVudFByb2Nlc3M+IDxqdDpBc3NpZ24+IDxqdDpEdXBsaWNhdGUgeHNpOnR5cGU9XCJqdDpBcHBlbmRcIj4gPGp0OlNvdXJjZSBqdDp4cGF0aD1cIi8vanQ6TWV0YWRhdGEvanQ6RW52aXJvbm1lbnQvanQ6SG9zdC9qdDpBZGRyZXNzL2p0OklwdjQvbm9kZSgpXCIvPiA8anQ6RGVzdGluYXRpb24ganQ6eHBhdGg9XCIvL25zMDpwdXRSZWNvcmQvcmVjb3JkL2F0dHJpYnV0ZXMvYXR0cmlidXRlWzNdL3ZhbHVlXCIvPiA8L2p0OkR1cGxpY2F0ZT4gPGp0OkR1cGxpY2F0ZSB4c2k6dHlwZT1cImp0OkFwcGVuZFwiPiA8anQ6U291cmNlIGp0OnhwYXRoPVwiLy9qdDpNZXRhZGF0YS9qdDpFbnZpcm9ubWVudC9qdDpIb3N0L2p0Ok5hbWUvbm9kZSgpXCIvPiA8anQ6RGVzdGluYXRpb24ganQ6eHBhdGg9XCIvL25zMDpwdXRSZWNvcmQvcmVjb3JkL2F0dHJpYnV0ZXMvYXR0cmlidXRlWzRdL3ZhbHVlXCIvPiA8L2p0OkR1cGxpY2F0ZT4gPGp0OkR1cGxpY2F0ZSB4c2k6dHlwZT1cImp0OkFwcGVuZFwiPiA8anQ6U291cmNlIGp0OnhwYXRoPVwiLy9qdDpNZXRhZGF0YS9qdDpFbnZpcm9ubWVudC9qdDpTZXJpYWxOdW1iZXIvbm9kZSgpXCIvPiA8anQ6RGVzdGluYXRpb24ganQ6eHBhdGg9XCIvL25zMDpwdXRSZWNvcmQvcmVjb3JkL2F0dHJpYnV0ZXMvYXR0cmlidXRlWzVdL3ZhbHVlXCIvPiA8L2p0OkR1cGxpY2F0ZT4gPC9qdDpBc3NpZ24+IDxqdDpJbnZva2UganQ6Y29udGFpbmVyPVwiaW1hZ2VMb2dcIiBqdDpsYWJlbD1cIkV4dGVybmFsIHNlcnZpY2UgY2FsbFwiIGp0Om5hbWU9XCJTZW5kSW1hZ2VMb2dcIj4gPGp0OlByb2ZpbGU+IDxqdDpEZXNjcmlwdGlvbj5UcmFuc2ZlciB0byBpbWFnZSBsb2cgbWFuYWdlbWVudCBzZXJ2ZXI8L2p0OkRlc2NyaXB0aW9uPiA8anQ6VGFyZ2V0Pmh0dHA6Ly8xMy4xOTcuNS4xODI6ODA4MC93cy9pbWFnZUxvZzwvanQ6VGFyZ2V0PiA8anQ6VHlwZT5TT0FQLzEuMTwvanQ6VHlwZT4gPGp0OlNjaGVtYT4gPGp0Ok5hbWVzcGFjZT5odHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbDwvanQ6TmFtZXNwYWNlPiA8anQ6TG9jYXRpb24+aHR0cDovLzEzLjE5Ny41LjE4Mjo4MDgwL3dzL2ltYWdlTG9nLndzZGw8L2p0OkxvY2F0aW9uPiA8L2p0OlNjaGVtYT4gPGp0Ok1ldGhvZE5hbWU+cHV0UmVjb3JkPC9qdDpNZXRob2ROYW1lPiA8L2p0OlByb2ZpbGU+IDxqdDpSZXF1ZXN0PiA8anQ6TWVzc2FnZVR5cGU+UlBDL1N5bmNocm9ub3VzPC9qdDpNZXNzYWdlVHlwZT4gPGp0OkF1dGhJbmZvPiA8anQ6TWV0aG9kPlVuYXV0aGVudGljYXRlZDwvanQ6TWV0aG9kPiA8L2p0OkF1dGhJbmZvPiA8anQ6U09BUEFjdGlvbj5wdXRSZWNvcmQ8L2p0OlNPQVBBY3Rpb24+IDxqdDpQcm90b3R5cGU+IDxqdDpNZXNzYWdlPiA8U29hcEVOVjpFbnZlbG9wZSB4bWxuczpTb2FwRU5WPVwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvc29hcC9lbnZlbG9wZS9cIiB4bWxuczpuczA9XCJodHRwOi8vd3d3LmZ1aml4ZXJveC5jby5qcC8yMDA1LzA2L2VybWEvaW1hZ2Vsb2cvd3NkbFwiPiA8U29hcEVOVjpCb2R5PiA8bnMwOnB1dFJlY29yZD4gPHJlY29yZD4gPGF0dHJpYnV0ZXM+IDxhdHRyaWJ1dGUgbmFtZT1cImNsaWVudFR5cGVcIj4gPHZhbHVlPk1GUDwvdmFsdWU+IDwvYXR0cmlidXRlPiA8YXR0cmlidXRlIG5hbWU9XCJwcm90b2NvbFZlcnNpb25cIj4gPHZhbHVlPjEuMC4wPC92YWx1ZT4gPC9hdHRyaWJ1dGU+IDxhdHRyaWJ1dGUgbmFtZT1cImRldmljZUhvc3RBZGRyZXNzXCI+IDx2YWx1ZS8+IDwvYXR0cmlidXRlPiA8YXR0cmlidXRlIG5hbWU9XCJkZXZpY2VIb3N0TmFtZVwiPiA8dmFsdWUvPiA8L2F0dHJpYnV0ZT4gPGF0dHJpYnV0ZSBuYW1lPVwic2VyaWFsTnVtYmVyXCI+IDx2YWx1ZS8+IDwvYXR0cmlidXRlPiA8L2F0dHJpYnV0ZXM+IDwvcmVjb3JkPiA8L25zMDpwdXRSZWNvcmQ+IDwvU29hcEVOVjpCb2R5PiA8L1NvYXBFTlY6RW52ZWxvcGU+IDwvanQ6TWVzc2FnZT4gPGp0OkF0dGFjaG1lbnQganQ6cmVsYXRlZEpvYkluZm89XCJBdXRvXCI+IDxqdDpSZWd1bGF0aW9uPlNPQVBNZXNzYWdlc1dpdGhBdHRhY2htZW50czwvanQ6UmVndWxhdGlvbj4gPGp0OlJlZmVyZW5jZT4gPGp0OlBvaW50IGp0OnhwYXRoPVwiLi4vanQ6U291cmNlL2NvbnRlbnQvQGhyZWZcIi8+IDxqdDpTb3VyY2U+IDxjb250ZW50IGhyZWY9XCJcIi8+IDwvanQ6U291cmNlPiA8anQ6RGVzdGluYXRpb24ganQ6b3BlcmF0aW9uPVwianQ6QXBwZW5kXCIganQ6eHBhdGg9XCIvL25zMDpwdXRSZWNvcmQvcmVjb3JkXCIvPiA8L2p0OlJlZmVyZW5jZT4gPGp0OlNlcmlhbGl6YXRpb24+IDxqdDpDb21wcmVzc2lvbj5Ob3RTcGVjaWZpZWQ8L2p0OkNvbXByZXNzaW9uPiA8anQ6Rm9ybWF0PlBERjwvanQ6Rm9ybWF0PiA8L2p0OlNlcmlhbGl6YXRpb24+IDxqdDpDb250ZW50VHJhbnNmZXJFbmNvZGluZz5iaW5hcnk8L2p0OkNvbnRlbnRUcmFuc2ZlckVuY29kaW5nPiA8L2p0OkF0dGFjaG1lbnQ+IDwvanQ6UHJvdG90eXBlPiA8anQ6VGltZW91dFZhbHVlPjYwPC9qdDpUaW1lb3V0VmFsdWU+IDwvanQ6UmVxdWVzdD4gPGp0OlJlc3BvbnNlPiA8anQ6SGFuZGxpbmc+RmF1bHQ8L2p0OkhhbmRsaW5nPiA8anQ6SnVkZ2VtZW50PiA8anQ6VmFsdWU+IDxqdDpGYWlsZWQvPiA8L2p0OlZhbHVlPiA8L2p0Okp1ZGdlbWVudD4gPC9qdDpSZXNwb25zZT4gPGp0OkNvbmRpdGlvbnM+IDxqdDpFeGNsdWRlSm9iVHlwZXMvPiA8L2p0OkNvbmRpdGlvbnM+IDwvanQ6SW52b2tlPiA8L2p0OkRvY3VtZW50UHJvY2Vzcz4gPC9qdDpQcm9jZXNzUmVxdWVzdD4gPC9TT0FQLUVOVjpCb2R5PiA8L1NPQVAtRU5WOkVudmVsb3BlPiI7Cg==</text>
@@ -1191,9 +1194,9 @@
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search>dest</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern>dest</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1201,11 +1204,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NoEscape</entry>
-        <entry>NoEs</entry>
-        <entry>StringSource</entry>
-        <entry>messageType</entry>
-        <entry encoding="base64">XDxQcm90b3R5cGVcPg==</entry>
         <entry encoding="base64">XDxNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
@@ -1221,6 +1219,11 @@
         <entry>\/Invoke</entry>
         <entry>Invoke</entry>
         <entry>template</entry>
+        <entry>DEST</entry>
+        <entry>Des</entry>
+        <entry>Dest</entry>
+        <entry>mail</entry>
+        <entry>dest</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
