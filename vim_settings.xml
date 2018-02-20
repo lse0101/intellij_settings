@@ -400,11 +400,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogData.java" timestamp="1519120646534">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogData.java" timestamp="1519123480691">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/service/itf/PropService.java" timestamp="1515060684124">
         <mark key="'" line="34" column="6" />
@@ -528,12 +528,12 @@
         <mark key="^" line="189" column="16" />
         <mark key="." line="189" column="16" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519123071608">
-        <mark key="'" line="112" column="24" />
-        <mark key="[" line="87" column="46" />
-        <mark key="]" line="87" column="47" />
-        <mark key="." line="87" column="47" />
-        <mark key="^" line="87" column="40" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519124487683">
+        <mark key="'" line="144" column="17" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="84" column="48" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
@@ -822,7 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="76" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/operate/OperateService.java" />
       <jump line="21" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/NoEscapeHandler.java" />
       <jump line="81" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" />
       <jump line="14" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" />
@@ -922,10 +921,11 @@
       <jump line="190" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
       <jump line="111" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="253" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
+      <jump line="144" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1048,19 +1048,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>valueOf(generateThumbnail(targetPath))</text>
       </register>
       <register name="/" type="4">
         <text>Nup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmb3IgKEltYWdlTG9nSm9iSW5mbyBqb2JJbmZvIDogbG9nRGF0YS5nZXRKb2JzKCkpIHsK</text>
+        <text encoding="base64">CQlpbWFnZUxvZ1BhdGhzLmRlbGV0ZUltYWdlTG9nRGlyKGltZ0xvZ1BhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCW5ldyBSdW50aW1lRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1202,7 +1202,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLm51cCA9IG51cDsK</text>
+        <text encoding="base64">LyoJcHJpdmF0ZSB2b2lkIHJlc3RvcmVJbWFnZUxvZyhJbWFnZUxvZ0pvYkluZm8gam9iSW5mbykgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQlpZihqb2JJbmZvLmdldEpvYlR5cGUoKS5lcXVhbHMoIk1haWxCb3giKQoJCQkJJiYgam9iSW5mby5nZXRJbWdQYXRoKCkgPT0gbnVsbCkgewoJCQlyZXR1cm47CgkJfQoKCQlQYXRoIHNyY1BhdGggPSBQYXRocy5nZXQoam9iSW5mby5nZXRJbWdQYXRoKCkpOwoJCVBhdGggdGFyZ2V0UGF0aCA9CgkJCQlpbWFnZUxvZ1BhdGhzLnRvU2F2ZWRTdWNjdWVzc1BhdGgoCgkJCQkJCWpvYkluZm8uZ2V0Sm9iSUQoKSwKCQkJCQkJZ2V0RXh0ZW5zaW9uKHZhbHVlT2Yoc3JjUGF0aC5nZXRGaWxlTmFtZSgpKSkKCQkJCSk7CgoJCWxvZy5lcnJvcigie33snYQge33roZwg67O17JuQ7ZWp64uI64ukIiwgdmFsdWVPZih0YXJnZXRQYXRoKSwgdmFsdWVPZihzcmNQYXRoKSk7CgkJRmlsZXMubW92ZSh0YXJnZXRQYXRoLCBzcmNQYXRoKTsKCX0qLwoKCgoKCi8qCXByaXZhdGUgdm9pZCBwcm9jZXNzSW1hZ2VMb2coSW1hZ2VMb2dKb2JJbmZvIGpvYkluZm8pIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJaWYoam9iSW5mby5nZXRKb2JUeXBlKCkuZXF1YWxzKCJNYWlsQm94IikKCQkJCSYmIGpvYkluZm8uZ2V0SW1nUGF0aCgpID09IG51bGwpIHsKCQkJbG9nLmluZm8oCgkJCQkJIk1haWxCb3ggTnVtYmVyKHt9KSwgRG9jdW1lbnRJRCh7fSkiLAoJCQkJCWpvYkluZm8uZ2V0TWFpbGJveE51bWJlcigpLAoJCQkJCWpvYkluZm8uZ2V0TWFpbGJveERvY3VtZW50SUQoKQoJCQkpOwoJCQlyZXR1cm47CgkJfQoKCQlTdHJpbmcgaW1hZ2Vsb2dOYW1lID0KCQkJCShqb2JJbmZvLmdldEpvYlR5cGUoKS5lcXVhbHMoIk1haWxCb3giKSkgPwoJCQkJCQlqb2JJbmZvLmdldFJvb3RKb2JJRCgpCgkJCQkJCTogam9iSW5mby5nZXRKb2JJRCgpOwoKCQlQYXRoIHNyY1BhdGggPSBQYXRocy5nZXQoam9iSW5mby5nZXRJbWdQYXRoKCkpOwoJCVBhdGggdGFyZ2V0UGF0aCA9CgkJCQlpbWFnZUxvZ1BhdGhzLnRvU2F2ZWRTdWNjdWVzc1BhdGgoCgkJCQkJCWltYWdlbG9nTmFtZSwKCQkJCQkJZ2V0RXh0ZW5zaW9uKHZhbHVlT2Yoc3JjUGF0aC5nZXRGaWxlTmFtZSgpKSkKCQkJCSk7CgoJCXRyeSB7CgkJCWxvZy5pbmZvKCJ7feydhCB7feuhnCDsnbTrj5ntlanri4jri6QiLCB2YWx1ZU9mKHNyY1BhdGgpLCB2YWx1ZU9mKHRhcmdldFBhdGgpKTsKCQkJRmlsZXMubW92ZShzcmNQYXRoLCB0YXJnZXRQYXRoLCBTdGFuZGFyZENvcHlPcHRpb24uUkVQTEFDRV9FWElTVElORyk7CgoJCQlqb2JJbmZvLnNldFNhdmVZbigiWSIpOwoJCQlqb2JJbmZvLnNldEltZ1BhdGgodmFsdWVPZih0YXJnZXRQYXRoKSk7CgkJCWpvYkluZm8uc2V0VGh1bWJQYXRoKHZhbHVlT2YoZ2VuZXJhdGVUaHVtYm5haWwodGFyZ2V0UGF0aCkpKTsKCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCWpvYkluZm8uc2V0U2F2ZVluKCJOIik7CgkJCWpvYkluZm8uc2V0SW1nUGF0aCh2YWx1ZU9mKHNyY1BhdGgpKTsKCgkJCXRocm93IG5ldyBJT0V4Y2VwdGlvbih2YWx1ZU9mKHNyY1BhdGgpICsgIuyXkOyEnCIrIHZhbHVlT2YodGFyZ2V0UGF0aCkgKyLsnLzroZwg7J2064+Z7KSR7JeQIOyXkOufrOqwgCDrsJzsg53tlojsirXri4jri6QuIiwgZSk7CgkJfQoJfSovCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1218,10 +1218,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCW51cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCQkJcHJvY2Vzc0ludGVybmFsSW1hZ2VMb2coaW1nTG9nUGF0aCwgbG9nRGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
