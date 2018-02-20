@@ -526,12 +526,12 @@
         <mark key="^" line="189" column="16" />
         <mark key="." line="189" column="16" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519105973110">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519106947601">
         <mark key="'" line="80" column="20" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="101" column="0" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
+        <mark key="^" line="47" column="4" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
@@ -764,8 +764,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519103577116">
-        <mark key="'" line="159" column="46" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519107181309">
+        <mark key="'" line="190" column="22" />
         <mark key="[" line="159" column="67" />
         <mark key="]" line="159" column="67" />
         <mark key="^" line="159" column="67" />
@@ -820,10 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
-      <jump line="96" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
-      <jump line="89" column="62" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
-      <jump line="255" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.9.RELEASE/spring-oxm-4.2.9.RELEASE.jar!/org/springframework/oxm/jaxb/Jaxb2Marshaller.class" />
       <jump line="19" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" />
       <jump line="47" column="42" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/impl/ImageLogJobTypeSkipFilter.java" />
       <jump line="19" column="76" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/operate/OperateService.java" />
@@ -920,6 +916,10 @@
       <jump line="62" column="38" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="80" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="159" column="46" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="218" column="30" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="219" column="15" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="123" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="190" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1049,7 +1049,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Card</text>
+        <text encoding="base64">XDxpbWFnZUxvZ0xpc3RcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW1hZ2Vsb2dOYW1lIA==</text>
@@ -1226,18 +1226,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Card</last-search>
+      <last-search encoding="base64">XDxpbWFnZUxvZ0xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>Card</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZUxvZ0xpc3RcPg==</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwQ29tcG9uZW50c01lc3NhZ2VTZW5kZXJcPg==</entry>
-        <entry>auth</entry>
         <entry>Auth</entry>
         <entry>Header</entry>
         <entry>Pro</entry>
@@ -1256,6 +1254,8 @@
         <entry>mailbox</entry>
         <entry encoding="base64">XDxza2lwSW1hZ2VMb2dcPg==</entry>
         <entry>Card</entry>
+        <entry encoding="base64">XDxpbWFnZUxvZ0xpc3RNYXBcPg==</entry>
+        <entry encoding="base64">XDxpbWFnZUxvZ0xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
