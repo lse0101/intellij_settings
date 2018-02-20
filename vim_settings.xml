@@ -177,7 +177,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/management/modelmbean/XMLParseException.java" timestamp="1517294263594">
         <mark key="'" line="52" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519122266478">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519126007340">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="0" column="61" />
         <mark key="^" line="0" column="59" />
@@ -202,16 +202,17 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/core/server/impl/QueueFactoryImpl.class" timestamp="1514269230370">
         <mark key="'" line="26" column="44" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" timestamp="1519037699769">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" timestamp="1519126142860">
         <mark key="'" line="42" column="64" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="109" column="0" />
+        <mark key="[" line="76" column="47" />
+        <mark key="]" line="76" column="51" />
+        <mark key="." line="76" column="51" />
+        <mark key="^" line="76" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jms/4.3.10.RELEASE/spring-jms-4.3.10.RELEASE.jar!/org/springframework/jms/connection/CachingConnectionFactory.class" timestamp="1515465992835">
         <mark key="'" line="79" column="27" />
       </file>
+      <file name="/LocalImageLogRepository.java" timestamp="1519125033238" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/operate/OperateServiceResponse.java" timestamp="1517983474942">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="50" />
@@ -528,12 +529,12 @@
         <mark key="^" line="189" column="16" />
         <mark key="." line="189" column="16" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519124487683">
-        <mark key="'" line="144" column="17" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="84" column="48" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519126408486">
+        <mark key="'" line="75" column="47" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="77" column="8" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/stream/XMLStreamReader.java" timestamp="1513680860533">
         <mark key="'" line="163" column="17" />
@@ -594,8 +595,8 @@
       <file name="$MAVEN_REPOSITORY$/org/hornetq/hornetq-server/2.4.7.Final/hornetq-server-2.4.7.Final.jar!/org/hornetq/spi/core/security/JAASSecurityManager.class" timestamp="1515479306440">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1519121616344">
-        <mark key="'" line="253" column="33" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1519126742766">
+        <mark key="'" line="230" column="30" />
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="0" />
         <mark key="^" line="247" column="56" />
@@ -822,10 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/NoEscapeHandler.java" />
-      <jump line="81" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" />
-      <jump line="14" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" />
-      <jump line="16" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/soap/SoapHeader.class" />
       <jump line="9" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/soap/SoapHeader.class" />
       <jump line="12" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/soap/SoapHeader.class" />
       <jump line="52" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/JobTemplate.java" />
@@ -922,6 +919,10 @@
       <jump line="111" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
       <jump line="253" column="33" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
       <jump line="144" column="17" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
+      <jump line="45" column="12" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
+      <jump line="75" column="47" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" />
+      <jump line="221" column="37" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
+      <jump line="230" column="30" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1048,19 +1049,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>valueOf(generateThumbnail(targetPath))</text>
+        <text>outPathDir.resolve(getBaseName(outFileName) + &quot;.&quot; + type.extName())</text>
       </register>
       <register name="/" type="4">
-        <text>Nup</text>
+        <text>Document</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlpbWFnZUxvZ1BhdGhzLmRlbGV0ZUltYWdlTG9nRGlyKGltZ0xvZ1BhdGgpOwo=</text>
+      <register name="0" type="4">
+        <text>outPathDir.resolve(getBaseName(outFileName) + &quot;.&quot; + type.extName()).toFile()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1187,22 +1188,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIGltZ1RodW1iUGF0aCA9IHZhbHVlT2YoZ2VuZXJhdGVUaHVtYm5haWwodGFyZ2V0UGF0aCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUGF0aCB0aHVtYjsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUGF0aCB0aHVtYlBhdGggPSB0YXJnZXRQYXRoLmdldFBhcmVudCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoJcHJpdmF0ZSB2b2lkIHJlc3RvcmVJbWFnZUxvZyhJbWFnZUxvZ0pvYkluZm8gam9iSW5mbykgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQlpZihqb2JJbmZvLmdldEpvYlR5cGUoKS5lcXVhbHMoIk1haWxCb3giKQoJCQkJJiYgam9iSW5mby5nZXRJbWdQYXRoKCkgPT0gbnVsbCkgewoJCQlyZXR1cm47CgkJfQoKCQlQYXRoIHNyY1BhdGggPSBQYXRocy5nZXQoam9iSW5mby5nZXRJbWdQYXRoKCkpOwoJCVBhdGggdGFyZ2V0UGF0aCA9CgkJCQlpbWFnZUxvZ1BhdGhzLnRvU2F2ZWRTdWNjdWVzc1BhdGgoCgkJCQkJCWpvYkluZm8uZ2V0Sm9iSUQoKSwKCQkJCQkJZ2V0RXh0ZW5zaW9uKHZhbHVlT2Yoc3JjUGF0aC5nZXRGaWxlTmFtZSgpKSkKCQkJCSk7CgoJCWxvZy5lcnJvcigie33snYQge33roZwg67O17JuQ7ZWp64uI64ukIiwgdmFsdWVPZih0YXJnZXRQYXRoKSwgdmFsdWVPZihzcmNQYXRoKSk7CgkJRmlsZXMubW92ZSh0YXJnZXRQYXRoLCBzcmNQYXRoKTsKCX0qLwoKCgoKCi8qCXByaXZhdGUgdm9pZCBwcm9jZXNzSW1hZ2VMb2coSW1hZ2VMb2dKb2JJbmZvIGpvYkluZm8pIHRocm93cyBJT0V4Y2VwdGlvbiB7CgkJaWYoam9iSW5mby5nZXRKb2JUeXBlKCkuZXF1YWxzKCJNYWlsQm94IikKCQkJCSYmIGpvYkluZm8uZ2V0SW1nUGF0aCgpID09IG51bGwpIHsKCQkJbG9nLmluZm8oCgkJCQkJIk1haWxCb3ggTnVtYmVyKHt9KSwgRG9jdW1lbnRJRCh7fSkiLAoJCQkJCWpvYkluZm8uZ2V0TWFpbGJveE51bWJlcigpLAoJCQkJCWpvYkluZm8uZ2V0TWFpbGJveERvY3VtZW50SUQoKQoJCQkpOwoJCQlyZXR1cm47CgkJfQoKCQlTdHJpbmcgaW1hZ2Vsb2dOYW1lID0KCQkJCShqb2JJbmZvLmdldEpvYlR5cGUoKS5lcXVhbHMoIk1haWxCb3giKSkgPwoJCQkJCQlqb2JJbmZvLmdldFJvb3RKb2JJRCgpCgkJCQkJCTogam9iSW5mby5nZXRKb2JJRCgpOwoKCQlQYXRoIHNyY1BhdGggPSBQYXRocy5nZXQoam9iSW5mby5nZXRJbWdQYXRoKCkpOwoJCVBhdGggdGFyZ2V0UGF0aCA9CgkJCQlpbWFnZUxvZ1BhdGhzLnRvU2F2ZWRTdWNjdWVzc1BhdGgoCgkJCQkJCWltYWdlbG9nTmFtZSwKCQkJCQkJZ2V0RXh0ZW5zaW9uKHZhbHVlT2Yoc3JjUGF0aC5nZXRGaWxlTmFtZSgpKSkKCQkJCSk7CgoJCXRyeSB7CgkJCWxvZy5pbmZvKCJ7feydhCB7feuhnCDsnbTrj5ntlanri4jri6QiLCB2YWx1ZU9mKHNyY1BhdGgpLCB2YWx1ZU9mKHRhcmdldFBhdGgpKTsKCQkJRmlsZXMubW92ZShzcmNQYXRoLCB0YXJnZXRQYXRoLCBTdGFuZGFyZENvcHlPcHRpb24uUkVQTEFDRV9FWElTVElORyk7CgoJCQlqb2JJbmZvLnNldFNhdmVZbigiWSIpOwoJCQlqb2JJbmZvLnNldEltZ1BhdGgodmFsdWVPZih0YXJnZXRQYXRoKSk7CgkJCWpvYkluZm8uc2V0VGh1bWJQYXRoKHZhbHVlT2YoZ2VuZXJhdGVUaHVtYm5haWwodGFyZ2V0UGF0aCkpKTsKCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCWpvYkluZm8uc2V0U2F2ZVluKCJOIik7CgkJCWpvYkluZm8uc2V0SW1nUGF0aCh2YWx1ZU9mKHNyY1BhdGgpKTsKCgkJCXRocm93IG5ldyBJT0V4Y2VwdGlvbih2YWx1ZU9mKHNyY1BhdGgpICsgIuyXkOyEnCIrIHZhbHVlT2YodGFyZ2V0UGF0aCkgKyLsnLzroZwg7J2064+Z7KSR7JeQIOyXkOufrOqwgCDrsJzsg53tlojsirXri4jri6QuIiwgZSk7CgkJfQoJfSovCg==</text>
+        <text encoding="base64">CQkJUGF0aCB0aHVtYkltZ1BhdGggPSB0YXJnZXRQYXRoLmdldFBhcmVudCgpLnJlc29sdmUoInRodW1iLyIrIHNoYXJlZEltYWdlTG9nLmdldFJvb3RKb2JJRCgpICsgIi5wbmciKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1218,7 +1219,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZihGaWxlcy5leGlzdHModGh1bWJQYXRoKSkgOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1228,9 +1229,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Nup</last-search>
+      <last-search>Document</last-search>
       <last-offset />
-      <last-pattern>Nup</last-pattern>
+      <last-pattern>Document</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1238,7 +1239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pro</entry>
         <entry encoding="base64">XDxjcmVhdGVIdHRwUHJvY2Vzc29yXD4=</entry>
         <entry>MessageSen</entry>
         <entry>SOAP-ENV</entry>
@@ -1258,6 +1258,7 @@
         <entry encoding="base64">XDxpbWFnZUxvZ0xpc3RcPg==</entry>
         <entry>nup</entry>
         <entry>Nup</entry>
+        <entry>Document</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
