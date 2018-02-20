@@ -179,11 +179,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/management/modelmbean/XMLParseException.java" timestamp="1517294263594">
         <mark key="'" line="52" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519100768859">
-        <mark key="[" line="0" column="66" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="65" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519103144567">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/jre/lib/deploy.jar!/com/sun/deploy/util/StringUtils.class" timestamp="1515644569908">
         <mark key="'" line="17" column="13" />
@@ -764,12 +764,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519102222422">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519103577116">
         <mark key="'" line="159" column="46" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="^" line="165" column="16" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="159" column="67" />
+        <mark key="]" line="159" column="67" />
+        <mark key="^" line="159" column="67" />
+        <mark key="." line="159" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar!/org/apache/commons/io/FileUtils.class" timestamp="1514525644990">
         <mark key="'" line="512" column="25" />
@@ -923,7 +923,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCQk/IGxvZ0ZpbGVNYXAuZ2V0KFN0cmluZy52YWx1ZU9mKGkpKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1055,7 +1055,7 @@
         <text encoding="base64">aW1hZ2Vsb2dOYW1lIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCQk/IGxvZ0ZpbGVNYXAuZ2V0KFN0cmluZy52YWx1ZU9mKGkpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1185,10 +1185,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWpvYkluZm8uc2V0SW1nUGF0aCh2YWx1ZU9mKGxvZ1BhdGgpKTsKCQkJCWpvYkluZm8uc2V0SW1nU2l6ZShGaWxlcy5zaXplKGxvZ1BhdGgpKTsK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCWlmKGxvZ1BhdGggIT0gbnVsbCkgewo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -1197,10 +1197,10 @@
         <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWpvYkluZm8uc2V0RGV2aWNlSXAoYXR0ci5nZXREZXZpY2VIb3N0QWRkcmVzcygpKTsKCQkJCWpvYkluZm8uc2V0RGV2aWNlSG9zdE5hbWUoYXR0ci5nZXREZXZpY2VIb3N0TmFtZSgpKTsKCQkJCWpvYkluZm8uc2V0RGV2aWNlU2VyaWFsKGF0dHIuZ2V0U2VyaWFsTnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">CQkJCWlmKGxvZ1BhdGggIT0gbnVsbCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWpvYkluZm8uc2V0RGV2aWNlSXAoYXR0ci5nZXREZXZpY2VIb3N0QWRkcmVzcygpKTsKCQkJCWpvYkluZm8uc2V0RGV2aWNlSG9zdE5hbWUoYXR0ci5nZXREZXZpY2VIb3N0TmFtZSgpKTsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1216,10 +1216,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCW5vdy5nZXRIb3VyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb250aW51ZTsK</text>
+        <text encoding="base64">CQkJCWpvYkluZm8uc2V0SW1nUGF0aCh2YWx1ZU9mKGxvZ1BhdGgpKTsKCQkJCWpvYkluZm8uc2V0SW1nU2l6ZShGaWxlcy5zaXplKGxvZ1BhdGgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
