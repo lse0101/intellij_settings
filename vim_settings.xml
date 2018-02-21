@@ -79,11 +79,11 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoReceivePrintTransformer.java" timestamp="1519191049039">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoReceivePrintTransformer.java" timestamp="1519211509491">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="32" column="46" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransformer.java" timestamp="1516586571799">
         <mark key="[" line="7" column="52" />
@@ -536,7 +536,7 @@
         <mark key="^" line="189" column="16" />
         <mark key="." line="189" column="16" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519196839077">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519211207270">
         <mark key="'" line="75" column="47" />
         <mark key="[" line="54" column="23" />
         <mark key="]" line="54" column="29" />
@@ -932,8 +932,8 @@
       <jump line="38" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoSendTransformer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f6013ed1-f9e3-11e7-8000-080037f873e7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8JCWlmKGxvZ0luZm8uZ2V0Sm9iRGV0YWlsVHlwZSgpLmVxdWFscygiZmF4IGF1dG8gcmVjZWl2ZSBwcmludCIpKSByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1065,7 +1065,7 @@
         <text encoding="base64">CQlsZWFmSm9iSW5mby5zZXREdXBsZXhZbigiTiIpOwoJCWxlYWZKb2JJbmZvLnNldFJvb3RKb2JJRChsb2dJbmZvLmdldEpvYklEKCkpOwoJCWxlYWZKb2JJbmZvLnNldERldGFpbExpc3QoZGV0YWlsTGlzdCk7CgkJbGVhZkpvYkluZm8uc2V0SW5Ub3RhbFNoZWV0cyhsb2dJbmZvLmdldEluVG90YWxTaGVldHMoKSk7CgkJbGVhZkpvYkluZm8uc2V0SW5Ub3RhbEltcHJlc3Npb25zKGxvZ0luZm8uZ2V0SW5Ub3RhbEltcHJlc3Npb25zKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCWlmKGxvZ0luZm8uZ2V0Sm9iRGV0YWlsVHlwZSgpLmVxdWFscygiZmF4IGF1dG8gcmVjZWl2ZSBwcmludCIpKSByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1204,13 +1204,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gbGVhZkxvZzsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm4gbGVhZkxvZzsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlpbnRbXSBpID0gbmV3IGludFtdezEsMiwzLDR9OwoJCQoJCUludFN0cmVhbS5vZihpKS5tYXAoYSAtPiBhICogMSk7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1226,10 +1226,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlJbnRTdHJlYW0ub2YoMSwyLDMsNCkK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlpbnRbXSBpID0gbmV3IGludFtdezEsMiwzLDR9OwoJCQoJCUludFN0cmVhbS5vZihpKS5tYXAoYSAtPiBhICogMSk7Cgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQlJbnRTdHJlYW0ub2YoMSwyLDMsNCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
