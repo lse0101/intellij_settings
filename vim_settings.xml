@@ -177,7 +177,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/management/modelmbean/XMLParseException.java" timestamp="1517294263594">
         <mark key="'" line="52" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519187406117">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519189175430">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="59" />
@@ -639,12 +639,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" timestamp="1519122047650">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" timestamp="1519189002272">
         <mark key="'" line="53" column="19" />
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="25" />
-        <mark key="." line="78" column="25" />
-        <mark key="^" line="78" column="25" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="78" column="17" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/DocumentProcess.java" timestamp="1518052557000">
         <mark key="'" line="21" column="0" />
@@ -926,7 +926,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IG5vdygpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1049,19 +1049,24 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Name</text>
       </register>
       <register name="0" type="4">
-        <text>outPathDir.resolve(getBaseName(outFileName) + &quot;.&quot; + type.extName()).toFile()</text>
+        <text>if(nup == null
+			|| nup.equals(&quot;unspecified&quot;)
+			|| nup.equals(&quot;off&quot;)) {
+
+			this.nup = &quot;1-up&quot;;
+		}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IG5vdygpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXByb2Nlc3NJbnRlcm5hbEltYWdlTG9nKGltZ0xvZ1BhdGgsIGxvZ0RhdGEpOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1188,22 +1193,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXByb2Nlc3NQcmludEltYWdlTG9nKGltZ0xvZ1BhdGgsIGxvZ0RhdGEpOwo=</text>
+        <text encoding="base64">CQlpZihudXAgPT0gbnVsbAoJCQl8fCBudXAuZXF1YWxzKCJ1bnNwZWNpZmllZCIpCgkJCXx8IG51cC5lcXVhbHMoIm9mZiIpKSB7CgoJCQl0aGlzLm51cCA9ICIxLXVwIjsKCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfHwgbnVwLmVxdWFscygibnVsbCIpCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">c2VsZWN0IG5vdygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIGltZ1RodW1iUGF0aCA9IHZhbHVlT2YoZ2VuZXJhdGVUaHVtYm5haWwodGFyZ2V0UGF0aCkpOwo=</text>
+        <text encoding="base64">CQkJCXByb2Nlc3NJbnRlcm5hbEltYWdlTG9nKGltZ0xvZ1BhdGgsIGxvZ0RhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJUGF0aCB0aHVtYjsK</text>
+        <text encoding="base64">CQkJCXByb2Nlc3NQcmludEltYWdlTG9nKGltZ0xvZ1BhdGgsIGxvZ0RhdGEpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1219,10 +1224,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJUGF0aCB0aHVtYlBhdGggPSB0YXJnZXRQYXRoLmdldFBhcmVudCgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
