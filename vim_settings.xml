@@ -332,12 +332,12 @@
         <mark key="^" line="189" column="16" />
         <mark key="." line="189" column="16" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519211207270">
-        <mark key="'" line="75" column="47" />
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="54" column="29" />
-        <mark key="." line="54" column="29" />
-        <mark key="^" line="54" column="29" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/repository/impl/LocalImageLogRepository.java" timestamp="1519272799062">
+        <mark key="'" line="100" column="47" />
+        <mark key="[" line="74" column="6" />
+        <mark key="]" line="74" column="7" />
+        <mark key="." line="74" column="7" />
+        <mark key="^" line="74" column="7" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/UrlConnectionTest.java" timestamp="1518177404216">
         <mark key="'" line="199" column="45" />
@@ -501,12 +501,12 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519196767588">
-        <mark key="'" line="190" column="22" />
-        <mark key="[" line="159" column="25" />
-        <mark key="]" line="159" column="25" />
-        <mark key="^" line="159" column="25" />
-        <mark key="." line="159" column="25" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519272489220">
+        <mark key="'" line="54" column="22" />
+        <mark key="[" line="123" column="25" />
+        <mark key="]" line="123" column="40" />
+        <mark key="^" line="123" column="40" />
+        <mark key="." line="123" column="40" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/listener/ReceiveImageLogMessageListener.java" timestamp="1519101257354">
         <mark key="'" line="19" column="0" />
@@ -533,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="29" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
-      <jump line="249" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="273" column="56" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="61" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
       <jump line="320" column="46" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" />
@@ -633,10 +631,12 @@
       <jump line="30" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" />
       <jump line="31" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" />
       <jump line="32" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" />
+      <jump line="203" column="46" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
+      <jump line="54" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">PDwv44WUPg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -759,19 +759,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">PDwv44WUPg==</text>
       </register>
       <register name="/" type="4">
-        <text>03013ed2-f9e4-11e7-8000-080037f873e7</text>
+        <text>ImageLogD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqKioqKioqKioqKioqKioqKiDthYzsiqTtirggam9iIOyCreygnCAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCUltYWdlTG9nSm9iSW5mbyBsZWFmSm9iSW5mbyA9IGxvZ0luZm8uZ2V0TGVhZkpvYkxpc3QoKS5nZXQoMCk7CgovKgkJTGlzdDxJbWFnZUxvZ0pvYkRldGFpbEluZm8+IGRldGFpbExpc3QgPQoJCQkJU3RyZWFtCgkJCQkJLm9mKGxvZ0luZm8uZ2V0RGV0YWlsTGlzdCgpLCBsZWFmSm9iSW5mby5nZXREZXRhaWxMaXN0KCkpCgkJCQkJLmZsYXRNYXAoQ29sbGVjdGlvbjo6c3RyZWFtKQoJCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOyovCgovKgkJbGVhZkpvYkluZm8uc2V0RHVwbGV4WW4oIk4iKTsKCQlsZWFmSm9iSW5mby5zZXRSb290Sm9iSUQobG9nSW5mby5nZXRKb2JJRCgpKTsKCQlsZWFmSm9iSW5mby5zZXREZXRhaWxMaXN0KGRldGFpbExpc3QpOwoJCWxlYWZKb2JJbmZvLnNldEluVG90YWxTaGVldHMobG9nSW5mby5nZXRJblRvdGFsU2hlZXRzKCkpOwoJCWxlYWZKb2JJbmZvLnNldEluVG90YWxJbXByZXNzaW9ucyhsb2dJbmZvLmdldEluVG90YWxJbXByZXNzaW9ucygpKTsqLwoK</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -898,22 +898,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCWlmKGxvZ0luZm8uZ2V0Sm9iRGV0YWlsVHlwZSgpLmVxdWFscygiZmF4IGF1dG8gc2VuZCIpKSByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">Ly8JCUltYWdlTG9nSm9iSW5mbyBsZWFmSm9iSW5mbyA9IGxvZ0luZm8uZ2V0TGVhZkpvYkxpc3QoKS5nZXQoMCk7CgovKgkJTGlzdDxJbWFnZUxvZ0pvYkRldGFpbEluZm8+IGRldGFpbExpc3QgPQoJCQkJU3RyZWFtCgkJCQkJLm9mKGxvZ0luZm8uZ2V0RGV0YWlsTGlzdCgpLCBsZWFmSm9iSW5mby5nZXREZXRhaWxMaXN0KCkpCgkJCQkJLmZsYXRNYXAoQ29sbGVjdGlvbjo6c3RyZWFtKQoJCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOyovCgovKgkJbGVhZkpvYkluZm8uc2V0RHVwbGV4WW4oIk4iKTsKCQlsZWFmSm9iSW5mby5zZXRSb290Sm9iSUQobG9nSW5mby5nZXRKb2JJRCgpKTsKCQlsZWFmSm9iSW5mby5zZXREZXRhaWxMaXN0KGRldGFpbExpc3QpOwoJCWxlYWZKb2JJbmZvLnNldEluVG90YWxTaGVldHMobG9nSW5mby5nZXRJblRvdGFsU2hlZXRzKCkpOwoJCWxlYWZKb2JJbmZvLnNldEluVG90YWxJbXByZXNzaW9ucyhsb2dJbmZvLmdldEluVG90YWxJbXByZXNzaW9ucygpKTsqLwoK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIDxwPgoJICogICAgIAoJICogPC9wPgo=</text>
+        <text encoding="base64">Ly8JCWlmKGxvZ0luZm8uZ2V0Sm9iRGV0YWlsVHlwZSgpLmVxdWFscygiZmF4IGF1dG8gc2VuZCIpKSByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqICAgICAgCg==</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqICAgICAgCg==</text>
+        <text encoding="base64">CSAqIDxwPgoJICogICAgIAoJICogPC9wPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -929,19 +929,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CSAqICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIOuzte2Vqeq4sOuhnOu2gO2EsCBGQVjsnYQg67Cb64qUIOqyveyasOydmCDsvIDsnbTsiqTripQgbWFpbEJveOuhnOunjCDrsJvripQg6rK97Jqw7JmAIOuwm+yekOuniOyekAoJICog7J6Q64+Z7Jy866GcIHByaW507ZWY64qUIOyXrOufrCDqsr3smrDsnZgg7IiY6rCAIOyeiOycvOupsCBsZWFm7KCV67O06rCAIOyhtOyerO2VoCDqsr3smrDrj4Qg7J6I6rOgCgkgKiBwcmludOygleuztOunjCDtj6ztlajrkJwg7KCV67O066eMIOyghOuLrO2VmOyXrCBsZWFm6rCAIOyhtOyerO2VmOyngCDslYrripQg6rK97Jqw64+EIOyhtOyerO2VnOuLpAo=</text>
+        <text encoding="base64">CSAqICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>03013ed2-f9e4-11e7-8000-080037f873e7</last-search>
+      <last-search>ImageLogD</last-search>
       <last-offset />
-      <last-pattern>03013ed2-f9e4-11e7-8000-080037f873e7</last-pattern>
+      <last-pattern>ImageLogD</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -949,7 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/Invoke</entry>
         <entry>Invoke</entry>
         <entry>template</entry>
         <entry>Des</entry>
@@ -969,6 +968,7 @@
         <entry>Protocol</entry>
         <entry>Name</entry>
         <entry>03013ed2-f9e4-11e7-8000-080037f873e7</entry>
+        <entry>ImageLogD</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
