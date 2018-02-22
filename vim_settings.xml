@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultJobInfoTransformer.java" timestamp="1519017799608">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="18" column="29" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultJobInfoTransformer.java" timestamp="1519264395521">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/InternalJobFlowTransformer.java" timestamp="1519017735642">
         <mark key="[" line="18" column="0" />
@@ -20,12 +20,6 @@
         <mark key="]" line="17" column="71" />
         <mark key="^" line="17" column="71" />
         <mark key="." line="17" column="71" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1517562711775">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_root/pom.xml" timestamp="1519011669382">
         <mark key="'" line="143" column="51" />
@@ -40,12 +34,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/dataaccess/impl/HttpDataAccess.java" timestamp="1519036746659">
-        <mark key="'" line="45" column="36" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" timestamp="1518086743044">
         <mark key="[" line="20" column="63" />
         <mark key="]" line="23" column="55" />
@@ -58,17 +46,23 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoReceivePrintTransformer.java" timestamp="1519211509491">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="32" column="46" />
-        <mark key="." line="17" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoReceivePrintTransformer.java" timestamp="1519264489755">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransformer.java" timestamp="1516586571799">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="7" column="52" />
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="25" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxOutTransformer.java" timestamp="1519266216496">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="23" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultFaxJobInfoTransformer.java" timestamp="1519190636034">
         <mark key="[" line="19" column="34" />
@@ -120,12 +114,12 @@
         <mark key="." line="16" column="83" />
         <mark key="^" line="16" column="83" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoSendTransformer.java" timestamp="1519215106744">
-        <mark key="'" line="34" column="45" />
-        <mark key="[" line="41" column="69" />
-        <mark key="]" line="42" column="16" />
-        <mark key="." line="42" column="16" />
-        <mark key="^" line="42" column="16" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoSendTransformer.java" timestamp="1519265266600">
+        <mark key="'" line="33" column="45" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="41" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519261052208">
         <mark key="'" line="32" column="39" />
@@ -224,12 +218,6 @@
         <mark key="]" line="13" column="13" />
         <mark key="^" line="17" column="4" />
         <mark key="." line="13" column="13" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" timestamp="1518163510894">
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/exception/ThumnailCreateException.java" timestamp="1517314396297">
         <mark key="[" line="10" column="63" />
@@ -334,12 +322,6 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ImageLogAttributesMessage.java" timestamp="1518150239287">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/faxAutoReceive2.xml" timestamp="1519187998961">
         <mark key="'" line="39" column="12" />
       </file>
@@ -383,11 +365,11 @@
         <mark key="." line="25" column="68" />
         <mark key="^" line="25" column="68" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransFormers.java" timestamp="1519258053771">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="24" column="60" />
-        <mark key="." line="22" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogTransFormers.java" timestamp="1519264018513">
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/ImageLogParser.java" timestamp="1519127774694">
         <mark key="'" line="235" column="43" />
@@ -483,6 +465,12 @@
       <file name="/dummy.sql" timestamp="1519261521654">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxINPrintTransformer.java" timestamp="1519265233858">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1519258321202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -512,12 +500,6 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/package-info.java" timestamp="1518171276397">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519196767588">
         <mark key="'" line="190" column="22" />
@@ -654,7 +636,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>d</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -777,7 +759,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>03013ed2-f9e4-11e7-8000-080037f873e7</text>
@@ -789,7 +771,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCUltYWdlTG9nSm9iSW5mbyBsZWFmSm9iSW5mbyA9IGxvZ0luZm8uZ2V0TGVhZkpvYkxpc3QoKS5nZXQoMCk7CgovKgkJTGlzdDxJbWFnZUxvZ0pvYkRldGFpbEluZm8+IGRldGFpbExpc3QgPQoJCQkJU3RyZWFtCgkJCQkJLm9mKGxvZ0luZm8uZ2V0RGV0YWlsTGlzdCgpLCBsZWFmSm9iSW5mby5nZXREZXRhaWxMaXN0KCkpCgkJCQkJLmZsYXRNYXAoQ29sbGVjdGlvbjo6c3RyZWFtKQoJCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOyovCgovKgkJbGVhZkpvYkluZm8uc2V0RHVwbGV4WW4oIk4iKTsKCQlsZWFmSm9iSW5mby5zZXRSb290Sm9iSUQobG9nSW5mby5nZXRKb2JJRCgpKTsKCQlsZWFmSm9iSW5mby5zZXREZXRhaWxMaXN0KGRldGFpbExpc3QpOwoJCWxlYWZKb2JJbmZvLnNldEluVG90YWxTaGVldHMobG9nSW5mby5nZXRJblRvdGFsU2hlZXRzKCkpOwoJCWxlYWZKb2JJbmZvLnNldEluVG90YWxJbXByZXNzaW9ucyhsb2dJbmZvLmdldEluVG90YWxJbXByZXNzaW9ucygpKTsqLwoK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -916,22 +898,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCWlmKGxvZ0luZm8uZ2V0Sm9iRGV0YWlsVHlwZSgpLmVxdWFscygiZmF4IGF1dG8gc2VuZCIpKSByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIDxwPgoJICogICAgIAoJICogPC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -947,10 +929,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCXRyYW5zZm9ybWVycy5hZGQobmV3IERlZmF1bHRGYXhKb2JJbmZvVHJhbnNmb3JtZXIoKSk7Cg==</text>
+        <text encoding="base64">CSAqIOuzte2Vqeq4sOuhnOu2gO2EsCBGQVjsnYQg67Cb64qUIOqyveyasOydmCDsvIDsnbTsiqTripQgbWFpbEJveOuhnOunjCDrsJvripQg6rK97Jqw7JmAIOuwm+yekOuniOyekAoJICog7J6Q64+Z7Jy866GcIHByaW507ZWY64qUIOyXrOufrCDqsr3smrDsnZgg7IiY6rCAIOyeiOycvOupsCBsZWFm7KCV67O06rCAIOyhtOyerO2VoCDqsr3smrDrj4Qg7J6I6rOgCgkgKiBwcmludOygleuztOunjCDtj6ztlajrkJwg7KCV67O066eMIOyghOuLrO2VmOyXrCBsZWFm6rCAIOyhtOyerO2VmOyngCDslYrripQg6rK97Jqw64+EIOyhtOyerO2VnOuLpAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
