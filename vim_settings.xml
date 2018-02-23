@@ -47,11 +47,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" timestamp="1519364880888">
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="35" />
-        <mark key="^" line="59" column="35" />
-        <mark key="." line="59" column="35" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" timestamp="1519366484735">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="64" column="4" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoReceivePrintTransformer.java" timestamp="1519264489755">
         <mark key="[" line="13" column="16" />
@@ -714,7 +714,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCQkJImh0dHA6Ly8xMy4xOTcuNS4xNjAvc3NtL01hbmFnZW1lbnQvU3RhdHVzQ29uZmlnIiwK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -846,10 +846,10 @@
         <text>GetJobTemplateResponse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCQkJImh0dHA6Ly8xMy4xOTcuNS4xNjAvc3NtL01hbmFnZW1lbnQvU3RhdHVzQ29uZmlnIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -976,22 +976,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImFrbHNkamZhbGtqIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCVN0cmluZyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBYbWxFbGVtZW50KG5hbWUgPSAiSWRlbnRpZmllciIpCglwcml2YXRlIFN0cmluZyBpZGVudGlmaWVyOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZnVqaXhlcm94Lmtvci5zZWN1aHViLnByb3BtYW5hZ2VyLnNvZmlhLlNvZmlhQ29uc3RhbnRzLk5TX0pPQl9URU1QTEFURTsK</text>
+        <text encoding="base64">Ly8JCVN0cmluZyAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1007,10 +1007,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CUBYbWxFbGVtZW50KG5hbWUgPSAiSWRlbnRpZmllciIpCglwcml2YXRlIFN0cmluZyBpZGVudGlmaWVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
