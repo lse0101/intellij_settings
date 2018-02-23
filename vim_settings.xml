@@ -47,11 +47,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" timestamp="1519366484735">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="64" column="4" />
-        <mark key="." line="60" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" timestamp="1519368779513">
+        <mark key="[" line="65" column="55" />
+        <mark key="]" line="65" column="70" />
+        <mark key="^" line="65" column="70" />
+        <mark key="." line="65" column="70" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxAutoReceivePrintTransformer.java" timestamp="1519264489755">
         <mark key="[" line="13" column="16" />
@@ -64,6 +64,12 @@
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ResponseJobTemplate.java" timestamp="1519368324251">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="9" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" timestamp="1519215383068">
         <mark key="'" line="710" column="4" />
@@ -267,9 +273,6 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1519301498096">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxINPrintTransformer.java" timestamp="1519265233858">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="39" column="23" />
@@ -313,12 +316,11 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" timestamp="1519364520063">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="39" />
-        <mark key="." line="39" column="29" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" timestamp="1519368350321">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/attribute/GetAttributeResponse.java" timestamp="1519359384789">
         <mark key="[" line="18" column="35" />
@@ -338,9 +340,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="56" column="28" />
-      </file>
-      <file name="/fragment.java" timestamp="1519020926284">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/LogManagerConfiguration.java" timestamp="1516785057918">
         <mark key="[" line="26" column="46" />
@@ -391,6 +390,18 @@
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="25" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ManageJobTemplate.java" timestamp="1519368894446">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/SetJobTemplate.java" timestamp="1519368702806">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" timestamp="1518162711953">
         <mark key="'" line="103" column="28" />
@@ -557,8 +568,8 @@
         <mark key="^" line="247" column="56" />
         <mark key="." line="246" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogEnableConfigBuilder.java" timestamp="1517981499432">
-        <mark key="'" line="34" column="8" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogEnableConfigBuilder.java" timestamp="1519367386782">
+        <mark key="'" line="81" column="19" />
         <mark key="[" line="32" column="27" />
         <mark key="]" line="32" column="42" />
         <mark key="." line="32" column="42" />
@@ -611,9 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" />
-      <jump line="44" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" />
-      <jump line="73" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/client/core/support/WebServiceGatewaySupport.class" />
       <jump line="34" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
       <jump line="44" column="86" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
       <jump line="155" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/transport/http/HttpComponentsMessageSender.class" />
@@ -711,10 +719,13 @@
       <jump line="50" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplate.java" />
       <jump line="19" column="68" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplate.java" />
       <jump line="17" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" />
+      <jump line="81" column="19" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogEnableConfigBuilder.java" />
+      <jump line="25" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" />
+      <jump line="23" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCQkJImh0dHA6Ly8xMy4xOTcuNS4xNjAvc3NtL01hbmFnZW1lbnQvU3RhdHVzQ29uZmlnIiwK</text>
+      <register name="&quot;" type="4">
+        <text>category</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -837,16 +848,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>GetJobTemplate</text>
+        <text>ManageJobTemplate</text>
       </register>
       <register name="/" type="4">
-        <text>Ide</text>
+        <text encoding="base64">XDxSZXNKb2JUZW1wbGF0ZUhlYWRlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>GetJobTemplateResponse</text>
+        <text>category</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQkJImh0dHA6Ly8xMy4xOTcuNS4xNjAvc3NtL01hbmFnZW1lbnQvU3RhdHVzQ29uZmlnIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -976,22 +987,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImFrbHNkamZhbGtqIik7Cg==</text>
+        <text encoding="base64">QFhtbFJvb3RFbGVtZW50KG5hbWUgPSAiSm9iVGVtcGxhdGVIZWFkZXIiKQpwdWJsaWMgc3RhdGljIGNsYXNzIFJlc0pvYlRlbXBsYXRlSGVhZGVyIHsKCUBYbWxFbGVtZW50KG5hbWUgPSAiSm9iVGVtcGxhdGUiKQoJSm9iVGVtcGxhdGUgam9iVGVtcGxhdGU7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1hbmFnZUpvYlRlbXBsYXRlIHsKCQp9Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CUBYbWxSb290RWxlbWVudChuYW1lID0gIkpvYlRlbXBsYXRlSGVhZGVyIikKCXB1YmxpYyBzdGF0aWMgY2xhc3MgUmVzSm9iVGVtcGxhdGVIZWFkZXIgewoJCUBYbWxFbGVtZW50KG5hbWUgPSAiSm9iVGVtcGxhdGUiKQoJCUpvYlRlbXBsYXRlIGpvYlRlbXBsYXRlOwoJfQoKCUBYbWxSb290RWxlbWVudChuYW1lID0gIkpvYlRlbXBsYXRlIiwgbmFtZXNwYWNlID0gTlNfSk9CX01BTkFHRV9URU1QTEFURSkKCXB1YmxpYyBzdGF0aWMgY2xhc3MgUmVzcG9uc2VKb2JUZW1wbGF0ZSB7CgkJQFhtbEVsZW1lbnQobmFtZSA9ICJJZGVudGlmaWVyIikKCQlwcml2YXRlIFN0cmluZyBpZGVudGlmaWVyOwoKCQlAWG1sRWxlbWVudChuYW1lID0gIkpvYlRlbXBsYXRlSGVhZGVyIikKCQlwcml2YXRlIFJlc0pvYlRlbXBsYXRlSGVhZGVyIGpvYlRlbXBsYXRlSGVhZGVyOwoKCQlAWG1sRWxlbWVudChuYW1lID0gIkVuY29kZWQiKQoJCXByaXZhdGUgU3RyaW5nIGVuY29kZWQ7CgoJCUBYbWxFbGVtZW50KG5hbWUgPSAiSm9iVGVtcGxhdGUiKQoJCVJlc3BvbnNlSm9iVGVtcGxhdGUgam9iVGVtcGxhdGU7Cgl9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCVN0cmluZyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1007,19 +1018,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBYbWxFbGVtZW50KG5hbWUgPSAiSWRlbnRpZmllciIpCglwcml2YXRlIFN0cmluZyBpZGVudGlmaWVyOwo=</text>
+        <text encoding="base64">CQlXZWJTZXJ2aWNlVGVtcGxhdGUgd2ViU2VydmljZVRlbXBsYXRlID0gZ2V0V2ViU2VydmljZVRlbXBsYXRlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">LyoJCUpBWEJDb250ZXh0IGpheGJDb250ZXh0ID0gSkFYQkNvbnRleHQubmV3SW5zdGFuY2UoR2V0Sm9iVGVtcGxhdGUuY2xhc3MpOwoJCU1hcnNoYWxsZXIgbWFyc2hhbGxlciA9IGpheGJDb250ZXh0LmNyZWF0ZU1hcnNoYWxsZXIoKTsKCQltYXJzaGFsbGVyLnNldFByb3BlcnR5KE1hcnNoYWxsZXIuSkFYQl9GT1JNQVRURURfT1VUUFVULCB0cnVlKTsKCQltYXJzaGFsbGVyLm1hcnNoYWwobmV3IEdldEpvYlRlbXBsYXRlKCksIFN5c3RlbS5vdXQpOyovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ide</last-search>
+      <last-search encoding="base64">XDxSZXNKb2JUZW1wbGF0ZUhlYWRlclw+</last-search>
       <last-offset />
-      <last-pattern>Ide</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNKb2JUZW1wbGF0ZUhlYWRlclw+</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,8 +1038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Protocol</entry>
-        <entry>Name</entry>
         <entry>03013ed2-f9e4-11e7-8000-080037f873e7</entry>
         <entry>ImageLogD</entry>
         <entry>root</entry>
@@ -1047,6 +1056,8 @@
         <entry>NS</entry>
         <entry>id</entry>
         <entry>Ide</entry>
+        <entry encoding="base64">XDxqb2JUZW1wbGF0ZVw+</entry>
+        <entry encoding="base64">XDxSZXNKb2JUZW1wbGF0ZUhlYWRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
