@@ -84,11 +84,11 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/JobTemplate.java" timestamp="1519377076270">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/JobTemplate.java" timestamp="1519640100678">
         <mark key="'" line="57" column="62" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/dataaccess/DataAccess.java" timestamp="1516770302450">
@@ -173,12 +173,12 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" timestamp="1519633476348">
-        <mark key="'" line="205" column="31" />
-        <mark key="[" line="201" column="36" />
-        <mark key="]" line="201" column="36" />
-        <mark key="^" line="69" column="245" />
-        <mark key="." line="201" column="36" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" timestamp="1519640615303">
+        <mark key="'" line="206" column="31" />
+        <mark key="[" line="207" column="28" />
+        <mark key="]" line="207" column="47" />
+        <mark key="^" line="207" column="47" />
+        <mark key="." line="207" column="47" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/util/PDFBoxUtil.java" timestamp="1519300539471">
         <mark key="'" line="40" column="0" />
@@ -276,11 +276,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" timestamp="1519626520814">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" timestamp="1519640677921">
         <mark key="'" line="64" column="24" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="206" column="29" />
+        <mark key="]" line="206" column="62" />
+        <mark key="." line="206" column="62" />
+        <mark key="^" line="206" column="62" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/exception/ThumnailCreateException.java" timestamp="1517314396297">
         <mark key="[" line="10" column="63" />
@@ -751,8 +752,8 @@
       <jump line="141" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new ResponseJudgement()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -875,19 +876,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>builder.toString().getBytes()</text>
+        <text>new ResponseJudgement()</text>
       </register>
       <register name="/" type="4">
         <text>SOAP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJQFhtbE5zKHByZWZpeCA9ICJ4c2kiLCBuYW1lc3BhY2VVUkkgPSBOU19XMyksCg==</text>
+        <text encoding="base64">CQkJdGhpcy5qdWRnZW1lbnQgPSBuZXcgUmVzcG9uc2VKdWRnZW1lbnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBYbWxBdHRyaWJ1dGUobmFtZSA9ICJwcm9maWxlIiwgbmFtZXNwYWNlID0gTlNfSk9CX1RFTVBMQVRFKQoJcHJpdmF0ZSBTdHJpbmcgcHJvZmlsZTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQlAWG1sTnMocHJlZml4ID0gIm5zMCIsIG5hbWVzcGFjZVVSSSA9IE5TX0lNQUdFX0xPR19XU0RMKSwKLy8JCQlAWG1sTnMocHJlZml4ID0gInhzaSIsIG5hbWVzcGFjZVVSSSA9IE5TX1czKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1014,16 +1015,16 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQlAWG1sTnMocHJlZml4ID0gIlNvYXBFTlYiLCBuYW1lc3BhY2VVUkkgPSBOU19TT0FQX0VOViksCg==</text>
+        <text encoding="base64">Ly8JCQlAWG1sTnMocHJlZml4ID0gIm5zMCIsIG5hbWVzcGFjZVVSSSA9IE5TX0lNQUdFX0xPR19XU0RMKSwKLy8JCQlAWG1sTnMocHJlZml4ID0gInhzaSIsIG5hbWVzcGFjZVVSSSA9IE5TX1czKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJQFhtbE5zKHByZWZpeCA9ICJ4c2kiLCBuYW1lc3BhY2VVUkkgPSBOU19XMyksCg==</text>
+        <text encoding="base64">Ly8JCQlAWG1sTnMocHJlZml4ID0gIlNvYXBFTlYiLCBuYW1lc3BhY2VVUkkgPSBOU19TT0FQX0VOViksCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJQFhtbE5zKHByZWZpeCA9ICJ4c2kiLCBuYW1lc3BhY2VVUkkgPSBOU19XMyksCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
