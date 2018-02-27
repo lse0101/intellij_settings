@@ -87,12 +87,12 @@
         <mark key="^" line="43" column="23" />
         <mark key="." line="43" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" timestamp="1519711210623">
-        <mark key="'" line="32" column="5" />
-        <mark key="[" line="68" column="58" />
-        <mark key="]" line="68" column="76" />
-        <mark key="." line="68" column="76" />
-        <mark key="^" line="68" column="76" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" timestamp="1519712443686">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="77" column="54" />
+        <mark key="]" line="79" column="22" />
+        <mark key="." line="79" column="22" />
+        <mark key="^" line="79" column="22" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultFaxJobInfoTransformer.java" timestamp="1519190636034">
         <mark key="[" line="19" column="34" />
@@ -481,11 +481,6 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519696500340">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/jobFlowSheet_multi.xml" timestamp="1519017028012">
         <mark key="'" line="189" column="16" />
         <mark key="[" line="0" column="0" />
@@ -723,8 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="68" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplate.java" />
-      <jump line="17" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" />
       <jump line="81" column="19" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogEnableConfigBuilder.java" />
       <jump line="25" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" />
       <jump line="23" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/GetJobTemplateResponse.java" />
@@ -823,10 +816,12 @@
       <jump line="48" column="79" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/common/SofiaConstants.java" />
       <jump line="64" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" />
       <jump line="29" column="5" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" />
+      <jump line="77" column="8" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" />
+      <jump line="9" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS5mb3JFYWNoKGEgLT4gewoJCQkJCWxvZy5pbmZvKGEuZ2V0TmFtZSgpICsgIiAiICsgYS5nZXRWYWx1ZSgpKTsKCQkJCX0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -949,19 +944,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>ssm</text>
       </register>
-      <register name="0" type="4">
-        <text>com.fujixerox.kor.secuhub.propmanager.sofia.model</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQlyZXN1bHREYXRhID0gbmV3IFNvcGhpYUF1dGhSZXN1bHREYXRhKDEpOwoJCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJCQoJCQl0aHJvdyBlOwoJCX0KCgkJcmVzcG9uc2UuZ2V0T2JqZWN0QXR0cmlidXRlcygpLnN0cmVhbSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS5mb3JFYWNoKGEgLT4gewoJCQkJCWxvZy5pbmZvKGEuZ2V0TmFtZSgpICsgIiAiICsgYS5nZXRWYWx1ZSgpKTsKCQkJCX0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuQmVhblV0aWxzOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1088,22 +1083,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PE9iamVjdEF0dHJpYnV0ZT4gZ2V0T2JqZWN0QXR0cmlidXRlKCkgewoJCXJldHVybiBvYmplY3RBdHRyaWJ1dGU7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXNwb25zZS4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJQmVhblV0aWxzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXNwb25zZS4K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1122,7 +1117,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCWNvbm5lY3Rpb24ucG8K</text>
+        <text encoding="base64">CQlyZXNwb25zZS5nZXRPYmplY3RBdHRyaWJ1dGVzKCkuc3RyZWFtKCkKCQkJCS5mbGF0TWFwKG8gLT4gby5nZXRBdHRyaWJ1dGVMaXN0KCkuc3RyZWFtKCkpCgkJCQkuY29sbGVjdCh0b01hcChhIC0+IGEuZ2V0TmFtZSgpLCBhIC0+IGEuZ2V0VmFsdWUoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
