@@ -200,9 +200,9 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="18" column="71" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/TestCheckAuthentication.java" timestamp="1519718644582">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="35" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/TestCheckAuthentication.java" timestamp="1519719364041">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="95" />
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
@@ -639,7 +639,12 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/TestSetAttribute.java" timestamp="1519706779312" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/TestSetAttribute.java" timestamp="1519719408730">
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="53" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxINPrintTransformer.java" timestamp="1519265233858">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="39" column="23" />
@@ -828,8 +833,8 @@
       <jump line="1" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/TestStringReplace.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -952,19 +957,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdGaWxlUGF0dGVyblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>UserInfomationPath</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCW0gLT4gKChTb2FwTWVzc2FnZSkgbSkuc2V0U29hcEFjdGlvbihTb3BoaWFDb25zdGFudHMuU09BUF9BQ1RJT05fR0VUX0FUVFJJQlVURSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1091,22 +1096,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk7Cg==</text>
+        <text encoding="base64">CQkJCSJodHRwOi8vMTMuMTk3LjUuMTE3LyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oCgkJCQkiVXNlckluZm9tYXRpb25QYXRoIi5yZXBsYWNlQWxsKCJeKFxcdykiLCAiJDEiKQoJCSk7CgoJCVN5c3RlbS5vdXQucHJpbnRsbigKCQkJCVN0cmluZ1V0aWxzLnVuY2FwaXRhbGl6ZSgiUG9ydCIpCgkJKTsK</text>
+        <text encoding="base64">CQkgICAgICAgIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN0cmluZ1V0aWxzLgo=</text>
+        <text encoding="base64">CQkJCSAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSJha2xkc2pmbGFraiIucmVwbAo=</text>
+        <text encoding="base64">CQkJCSAgICAgICAgLmRlZmF1bHRBdXRoQWdlbnRDb25pZygpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1122,10 +1127,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCVN0cmluZ1V0aWxzLnRvKCJVc2VySW5mb21hdGlvblBhdGgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCVN0cmluZ1V0aWxzLmNhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
