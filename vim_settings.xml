@@ -35,8 +35,11 @@
         <mark key="." line="453" column="0" />
         <mark key="^" line="328" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaClient.java" timestamp="1519694551431">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaClient.java" timestamp="1519695697797">
         <mark key="[" line="10" column="26" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/operate/OperateService.java" timestamp="1517903589952">
         <mark key="[" line="20" column="31" />
@@ -453,6 +456,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519696500340">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/jobFlowSheet_multi.xml" timestamp="1519017028012">
         <mark key="'" line="189" column="16" />
         <mark key="[" line="0" column="0" />
@@ -797,7 +805,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0ibWEiCg==</text>
+        <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUubWFyc2hhbAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -925,14 +933,14 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYXJzaGFsbGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlHZXRKb2JUZW1wbGF0ZVJlc3BvbnNlIGEgPSAoR2V0Sm9iVGVtcGxhdGVSZXNwb25zZSl3ZWJTZXJ2aWNlVGVtcGxhdGUubWFyc2hhbFNlbmRBbmRSZWNlaXZlKAoJCQkJImh0dHA6Ly8xMy4xOTcuNS4xNzIvc3NtL01hbmFnZW1lbnQvSW1hZ2VMb2cvSm9iVGVtcGxhdGUiLAoJCQkJbmV3IEdldEpvYlRlbXBsYXRlKCksCgkJCQltIC0+ICgoU29hcE1lc3NhZ2UpIG0pLnNldFNvYXBBY3Rpb24oU09BUF9BQ1RJT05fR0VUX1RFTVBMQVRFKQoJCSk7Cg==</text>
+      <register name="0" type="4">
+        <text>((SoapMessage) m)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0ibWEiCg==</text>
+        <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUubWFyc2hhbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUuZ2V0TWVzc2FnZVNlbmRlcnMoKVswXS5zCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1059,7 +1067,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1068,13 +1076,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZigxPT0xKSByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUuc2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoJCUpBWEJDb250ZXh0IGpheGJDb250ZXh0ID0gSkFYQkNvbnRleHQubmV3SW5zdGFuY2UoUHJvY2Vzc1JlcXVlc3QuY2xhc3MpOwoJCU1hcnNoYWxsZXIgbWFyc2hhbGxlciA9IGpheGJDb250ZXh0LmNyZWF0ZU1hcnNoYWxsZXIoKTsKCQltYXJzaGFsbGVyLnNldFByb3BlcnR5KCJjb20uc3VuLnhtbC5iaW5kLmNoYXJhY3RlckVzY2FwZUhhbmRsZXIiLCBOb0VzY2FwZUhhbmRsZXIudGhlSW5zdGFuY2UpOwovLwkJbWFyc2hhbGxlci5zZXRQcm9wZXJ0eShNYXJzaGFsbGVyLkpBWEJfRk9STUFUVEVEX09VVFBVVCwgdHJ1ZSk7Ci8vCQltYXJzaGFsbGVyLnNldFByb3BlcnR5KE1hcnNoYWxsZXIuSkFYQl9GUkFHTUVOVCwgZmFsc2UpOwovLwkJbWFyc2hhbGxlci5tYXJzaGFsKG5ldyBQcm9jZXNzUmVxdWVzdCgpLCBTeXN0ZW0ub3V0KTsqLwo=</text>
+        <text encoding="base64">CQkJCQkJCSgoU29hcE1lc3NhZ2UpIG0pLmgK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1090,10 +1098,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCVNvYXBNZXNzYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCW0uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
