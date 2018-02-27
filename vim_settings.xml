@@ -35,11 +35,11 @@
         <mark key="." line="453" column="0" />
         <mark key="^" line="328" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaClient.java" timestamp="1519695697797">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaClient.java" timestamp="1519697730144">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/operate/OperateService.java" timestamp="1517903589952">
         <mark key="[" line="20" column="31" />
@@ -66,9 +66,9 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/service/SophiaServiceImpl.java" timestamp="1519693262041">
-        <mark key="[" line="67" column="86" />
-        <mark key="]" line="69" column="0" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/service/SophiaServiceImpl.java" timestamp="1519697390451">
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="77" />
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
@@ -804,8 +804,8 @@
       <jump line="44" column="72" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUubWFyc2hhbAo=</text>
+      <register name="&quot;" type="4">
+        <text>Sofia</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -928,13 +928,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Sofia</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXJzaGFsbGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>((SoapMessage) m)</text>
+        <text>SophiaAuthResultData</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQl3ZWJTZXJ2aWNlVGVtcGxhdGUubWFyc2hhbAo=</text>
