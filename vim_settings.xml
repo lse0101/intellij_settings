@@ -488,12 +488,12 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519724518266">
-        <mark key="'" line="66" column="66" />
-        <mark key="[" line="216" column="67" />
-        <mark key="]" line="216" column="68" />
-        <mark key="." line="216" column="68" />
-        <mark key="^" line="216" column="68" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519726226429">
+        <mark key="'" line="112" column="75" />
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="54" />
+        <mark key="." line="54" column="54" />
+        <mark key="^" line="219" column="68" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/jobFlowSheet_multi.xml" timestamp="1519017028012">
         <mark key="'" line="189" column="16" />
@@ -739,11 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="76" filename="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.4.2.RELEASE/spring-ws-core-2.4.2.RELEASE.jar!/org/springframework/ws/client/core/WebServiceTemplate.class" />
-      <jump line="14" column="53" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/testJobTemplate.java" />
-      <jump line="36" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" />
-      <jump line="44" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" />
-      <jump line="27" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" />
       <jump line="84" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" />
       <jump line="107" column="24" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestProcessRequest.java" />
       <jump line="17" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogTransferRuleBuilder.java" />
@@ -839,10 +834,15 @@
       <jump line="31" column="40" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
       <jump line="116" column="26" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" />
       <jump line="66" column="66" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
+      <jump line="38" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
+      <jump line="182" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
+      <jump line="109" column="84" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
+      <jump line="116" column="79" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
+      <jump line="112" column="75" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -965,10 +965,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>reboot</text>
+        <text>imageLog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlnZXRSZXF1ZXN0VXJsKHNvcGhpYURUTywgU29waGlhQ29uc3RhbnRzLlNPQVBfU1RBVFVTX0NPTkZJR19VUkwpLAo=</text>
@@ -1145,9 +1145,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reboot</last-search>
+      <last-search>imageLog</last-search>
       <last-offset />
-      <last-pattern>reboot</last-pattern>
+      <last-pattern>imageLog</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1155,7 +1155,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZGVudGlmaWVyXD4=</entry>
         <entry>ident</entry>
         <entry encoding="base64">XDxJZGVudGlmaWVyXD4=</entry>
         <entry>Object</entry>
@@ -1175,6 +1174,7 @@
         <entry encoding="base64">XDxpbWdGaWxlUGF0dGVyblw+</entry>
         <entry encoding="base64">XDxnZXRXZWJTZXJ2aWNlQ2FsbEJhY2tcPg==</entry>
         <entry>reboot</entry>
+        <entry>imageLog</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
