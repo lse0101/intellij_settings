@@ -694,7 +694,7 @@
         <mark key="]" line="41" column="49" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="/dummy.sql" timestamp="1520211840330">
+      <file name="/dummy.sql" timestamp="1520226302437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/FaxINPrintTransformer.java" timestamp="1519265233858">
@@ -703,7 +703,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519798618925">
+      <file name="/Dummy.txt" timestamp="1520225804397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -780,7 +780,12 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1520215108143" />
+      <file name="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1520226206563">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/ws/model/view/LogView.java" timestamp="1516756474814">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="35" />
@@ -902,13 +907,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sophia agent 기능을 웹으로 구현한다
-
-* 인증 agent 설정
-* 인증 agent 설정확인
-* 이미지로그 agent 설정
-* 이미지로그 agent 설정확인
-* 재부팅</text>
+        <text>192.168.192.130</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1031,7 +1030,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>192.168.192.130</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdMb2dSdWxlTXNnXD4=</text>
