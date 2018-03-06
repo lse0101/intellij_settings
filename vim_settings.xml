@@ -103,7 +103,6 @@
         <mark key="." line="154" column="29" />
         <mark key="^" line="154" column="29" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1520313007898" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/parser/transformers/DefaultFaxJobInfoTransformer.java" timestamp="1519190636034">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="35" />
@@ -199,6 +198,12 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="41" column="16" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/vo/KpmgContractCodeVO.java" timestamp="1520326354112">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="16" column="52" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/AuthenticationAgentRequestBuilder.java" timestamp="1520250010593">
         <mark key="'" line="119" column="28" />
         <mark key="[" line="201" column="0" />
@@ -278,9 +283,9 @@
         <mark key="^" line="27" column="160" />
         <mark key="." line="27" column="160" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/KpmgContractCodeDAO.java" timestamp="1520325062462">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="52" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/KpmgContractCodeDAO.java" timestamp="1520326305311">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="42" />
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
       </file>
@@ -500,6 +505,9 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/KpmgClientCode-sqlmap.xml" timestamp="1520325680243">
+        <mark key="[" line="2" column="80" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogData.java" timestamp="1519123480691">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="26" />
@@ -519,9 +527,9 @@
         <mark key="^" line="186" column="47" />
         <mark key="." line="186" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/KpmgClientCodeDAO.java" timestamp="1520324996011">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="49" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/KpmgClientCodeDAO.java" timestamp="1520325804817">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
@@ -552,6 +560,12 @@
         <mark key="]" line="48" column="60" />
         <mark key="^" line="48" column="60" />
         <mark key="." line="48" column="60" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/vo/KpmgClientCodeVO.java" timestamp="1520326024023">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/TestGetAttributesImagelog.java" timestamp="1519729257755">
         <mark key="[" line="22" column="47" />
@@ -662,6 +676,12 @@
         <mark key="^" line="216" column="30" />
         <mark key="." line="216" column="30" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/KpmgClientCodeDAO.xml" timestamp="1520326228481">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/model/TestSetAttribute.java" timestamp="1517906552205">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="23" column="32" />
@@ -700,6 +720,12 @@
         <mark key="]" line="26" column="10" />
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/KpmgContractCodeDAO.xml" timestamp="1520326359021">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="51" />
+        <mark key="^" line="3" column="51" />
+        <mark key="." line="3" column="51" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/TestOperateService.java" timestamp="1519617543478">
         <mark key="'" line="27" column="20" />
@@ -1009,8 +1035,8 @@
       <jump line="80" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1133,19 +1159,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">S3BtZ0NvbnRyYWN0Q29kZVZPIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlXSEVSRSAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1272,10 +1298,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmcm9tIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKCQl0aGlzLm5hbWUgPSBuYW1lOwoJfQo=</text>
+        <text encoding="base64">CQlzZWxlY3QgKgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -1284,7 +1310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldENvZGUoU3RyaW5nIGNvZGUpIHsKCQl0aGlzLmNvZGUgPSBjb2RlOwoJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1303,10 +1329,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQk8YnV0dG9uIGlkPSJmaW5kUG9zdE51bSI+CgkJCQkJCQkJCeyasO2OuOuyiO2YuOywvuq4sAoJCQkJCQkJCTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKCQl0aGlzLm5hbWUgPSBuYW1lOwoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJYWxlcnQoJ2FBJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
