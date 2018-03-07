@@ -257,6 +257,14 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" timestamp="1520406461825">
+        <mark key="a" line="152" column="0" />
+        <mark key="'" line="3" column="32" />
+        <mark key="[" line="151" column="36" />
+        <mark key="]" line="152" column="20" />
+        <mark key="^" line="152" column="20" />
+        <mark key="." line="152" column="20" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/filter/ImageLogSkipFilters.java" timestamp="1517273242570">
         <mark key="[" line="23" column="7" />
         <mark key="]" line="23" column="6" />
@@ -704,7 +712,7 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="163" column="74" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" timestamp="1520402282566">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" timestamp="1520406233364">
         <mark key="'" line="278" column="23" />
         <mark key="[" line="166" column="48" />
         <mark key="]" line="166" column="48" />
@@ -824,6 +832,10 @@
         <mark key="^" line="15" column="61" />
         <mark key="." line="15" column="63" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/Constants.java" timestamp="1520406283563">
+        <mark key="[" line="71" column="55" />
+        <mark key="]" line="71" column="65" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/attribute/SetAttribute.java" timestamp="1520247298447">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="51" />
@@ -900,7 +912,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520399913419">
+      <file name="/Dummy.txt" timestamp="1520406979808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1016,14 +1028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_options_view.jsp" />
-      <jump line="22" column="60" filename="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/jsp/order/include_order_options_view.jsp" />
-      <jump line="135" column="43" filename="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
-      <jump line="7" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b803d935-454f-419d-a040-17af0c752754/console.sql" />
-      <jump line="3" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b803d935-454f-419d-a040-17af0c752754/console.sql" />
-      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
-      <jump line="14" column="9" filename="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
-      <jump line="18" column="69" filename="F:/Dropbox/company/xerox/samjung/aia-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
       <jump line="82" column="45" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/AuthenticationAgentRequestBuilder.java" />
       <jump line="32" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/AuthenticationAgentRequestBuilder.java" />
       <jump line="197" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/AuthenticationAgentRequestBuilder.java" />
@@ -1116,10 +1120,18 @@
       <jump line="55" column="193" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="137" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
+      <jump line="182" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="170" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="153" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="151" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="8" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="152" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="21" column="78" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
+      <jump line="3" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxjOmlmIHRlc3Q9IiR7IWVtcHR5IGdvb2RzVk8uZ29vZHNJdGVtTGlzdH0iPgoJCQkJCTxmaWVsZHNldCBpZD0iZ29vZEF0dHIiPgoJCQkJCQk8bGVnZW5kPuyjvOusuOyYteyFmDwvbGVnZW5kPgoJCQkJCQk8JUAgaW5jbHVkZSBmaWxlPSIuLi9nb29kcy9nb29kc19vcHRpb25zX2Zvcm0uanNwIiU+CgkJCQkJPC9maWVsZHNldD4KCQkJCTwvYzppZj4K</text>
+      <register name="&quot;" type="4">
+        <text>sessionInfo</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1245,10 +1257,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text encoding="base64">XDx1c2VyVk9cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCTxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj4K</text>
+      <register name="0" type="4">
+        <text>sessionInfo</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCTxjOmlmIHRlc3Q9IiR7IWVtcHR5IGdvb2RzVk8uZ29vZHNJdGVtTGlzdH0iPgoJCQkJCTxmaWVsZHNldCBpZD0iZ29vZEF0dHIiPgoJCQkJCQk8bGVnZW5kPuyjvOusuOyYteyFmDwvbGVnZW5kPgoJCQkJCQk8JUAgaW5jbHVkZSBmaWxlPSIuLi9nb29kcy9nb29kc19vcHRpb25zX2Zvcm0uanNwIiU+CgkJCQkJPC9maWVsZHNldD4KCQkJCTwvYzppZj4K</text>
@@ -1422,19 +1434,16 @@
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search encoding="base64">XDx1c2VyVk9cPg==</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyVk9cPg==</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmFibGVJbWFnZUxvZ1J1bGVKb2JUZW1wbGF0ZUJ1aWxkXD4=</entry>
-        <entry>JobTemplate</entry>
-        <entry>status</entry>
         <entry>result</entry>
         <entry>re</entry>
         <entry>res</entry>
@@ -1452,6 +1461,9 @@
         <entry>client</entry>
         <entry>requi</entry>
         <entry>css</entry>
+        <entry>최초</entry>
+        <entry>session</entry>
+        <entry encoding="base64">XDx1c2VyVk9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
