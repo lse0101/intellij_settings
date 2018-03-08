@@ -252,6 +252,9 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" timestamp="1520469259267">
+        <mark key="'" line="35" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d9d88941-e270-4467-8567-8bea9699bbdf/console_2.sql" timestamp="1519301026139">
         <mark key="'" line="33" column="39" />
         <mark key="[" line="1" column="26" />
@@ -784,9 +787,9 @@
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520414547933">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520469303208">
         <mark key="a" line="267" column="11" />
-        <mark key="'" line="330" column="4" />
+        <mark key="'" line="83" column="33" />
         <mark key="[" line="274" column="0" />
         <mark key="]" line="277" column="29" />
         <mark key="." line="304" column="0" />
@@ -1050,11 +1053,11 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1520414645678">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1520469182341">
         <mark key="a" line="330" column="44" />
         <mark key="'" line="79" column="64" />
         <mark key="[" line="329" column="0" />
-        <mark key="]" line="329" column="64" />
+        <mark key="]" line="332" column="94" />
         <mark key="." line="332" column="94" />
         <mark key="^" line="332" column="94" />
       </file>
@@ -1085,12 +1088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="92" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/JobTemplateBuilder.java" />
-      <jump line="79" column="103" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/JobTemplateBuilder.java" />
-      <jump line="121" column="236" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/JobTemplateBuilder.java" />
-      <jump line="22" column="27" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/JobTemplateBuilder.java" />
-      <jump line="209" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/JobTemplateBuilder.java" />
-      <jump line="13" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ConfigJobTemplate.java" />
       <jump line="11" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="34" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="274" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
@@ -1185,10 +1182,16 @@
       <jump line="43" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/interceptor/LoginCheckInterceptor.java" />
       <jump line="183" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
       <jump line="46" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
+      <jump line="3" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
+      <jump line="35" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
+      <jump line="167" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="84" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="83" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vendor_type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgidmVuZG9ycyIsIE91dHB1dFZlbmRvckVudW0udmFsdWVzKCkpOwoJCQltYXYuYWRkT2JqZWN0KCJjbGllbnRDb2RlTGlzdCIsIGtwbWdDbGllbnRDb2RlU2VydmljZS5zZWxlY3RDbGllbnRDb2RlTGlzdCgpKTsKCQkJbWF2LmFkZE9iamVjdCgiY29udHJhY3RDb2RlTGlzdCIsIGtwbWdDb250cmFjdENvZGVTZXJ2aWNlLnNlbGVjdENvbnRyYWN0Q29kZUxpc3QoKSk7CgkJCW1hdi5hZGRPYmplY3QoIm9yZGVySW5mb0NvZGVMaXN0Iiwga3BtZ09yZGVySW5mb1NlcnZpY2Uuc2VsZWN0S3BtZ09yZGVySW5mb0xpc3QoKSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1314,10 +1317,10 @@
         <text>vendor_type</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXJ2bGV0XD4=</text>
+        <text>단가</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgidmVuZG9ycyIsIE91dHB1dFZlbmRvckVudW0udmFsdWVzKCkpOwo=</text>
+        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgidmVuZG9ycyIsIE91dHB1dFZlbmRvckVudW0udmFsdWVzKCkpOwoJCQltYXYuYWRkT2JqZWN0KCJjbGllbnRDb2RlTGlzdCIsIGtwbWdDbGllbnRDb2RlU2VydmljZS5zZWxlY3RDbGllbnRDb2RlTGlzdCgpKTsKCQkJbWF2LmFkZE9iamVjdCgiY29udHJhY3RDb2RlTGlzdCIsIGtwbWdDb250cmFjdENvZGVTZXJ2aWNlLnNlbGVjdENvbnRyYWN0Q29kZUxpc3QoKSk7CgkJCW1hdi5hZGRPYmplY3QoIm9yZGVySW5mb0NvZGVMaXN0Iiwga3BtZ09yZGVySW5mb1NlcnZpY2Uuc2VsZWN0S3BtZ09yZGVySW5mb0xpc3QoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQluZXcgT3JkZXJTZWFyY2hWTygpLmlzCgl9Cg==</text>
@@ -1491,9 +1494,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXJ2bGV0XD4=</last-search>
+      <last-search>단가</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXJ2bGV0XD4=</last-pattern>
+      <last-pattern>단가</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1501,8 +1504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enco</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZUltYWdlTG9nUnVsZVN0cmluZ1w+</entry>
         <entry>en</entry>
         <entry encoding="base64">XDxlbmNvZGVkXD4=</entry>
         <entry>encode</entry>
@@ -1521,6 +1522,8 @@
         <entry encoding="base64">XDxzZXRBdXRoTGlzdFw+</entry>
         <entry>vnd</entry>
         <entry encoding="base64">XDxTZXJ2bGV0XD4=</entry>
+        <entry>include</entry>
+        <entry>단가</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
