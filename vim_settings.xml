@@ -397,13 +397,16 @@
         <mark key="^" line="222" column="75" />
         <mark key="." line="222" column="75" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520502815448">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520503460356">
         <mark key="a" line="213" column="57" />
-        <mark key="'" line="189" column="33" />
-        <mark key="[" line="322" column="42" />
-        <mark key="]" line="322" column="45" />
-        <mark key="^" line="322" column="45" />
-        <mark key="." line="322" column="45" />
+        <mark key="'" line="321" column="19" />
+        <mark key="[" line="214" column="69" />
+        <mark key="]" line="214" column="78" />
+        <mark key="^" line="214" column="78" />
+        <mark key="." line="214" column="78" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" timestamp="1520503404197">
+        <mark key="'" line="44" column="36" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/scheduler/RetryErrorImagelogScheduler.java" timestamp="1519301809326">
         <mark key="'" line="26" column="5" />
@@ -493,7 +496,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520502758303">
+      <file name="/Dummy.txt" timestamp="1520503536550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -542,11 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="78" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
-      <jump line="3" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/user/user_list_layer_form.jsp" />
-      <jump line="134" column="58" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
-      <jump line="170" column="27" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
-      <jump line="136" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" />
       <jump line="59" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/vo/UserVO.java" />
@@ -642,10 +640,15 @@
       <jump line="126" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="142" column="141" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="189" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="321" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="128" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" />
+      <jump line="3" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" />
+      <jump line="35" column="61" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" />
+      <jump line="44" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>!</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -768,22 +771,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>esti</text>
+        <text encoding="base64">XDxWSUVXTU9ERVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIENsb25lciBjbG9uZXIgPSBuZXcgQ2xvbmVyKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>VIEWMODE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkke1ZJRVdNT0RFfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Merge branch 'master' of https://gitlab.com/samjong/webddp
-
-# Conflicts:
-#	src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -909,20 +909,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUIENPVU5UKCopCkZST00gdGJfb3Jkcl9tc3RyIG8KCUpPSU4gdGJfZ29vZF9tc3RyIGcKCQlPTiBvLmdvb2RfbXN0ciA9IGcuZ29vZF9jb2RlCglKT0lOIHRiX3Byb2NfdW5pdCBwCgkJT04gby5wcm9jX3VuaXQgPSBwLnByb2NfY29kZQoJSk9JTiB0Yl91c2VyX21zdHIgdQoJCU9OIG8ub3Jkcl91c2VyID0gdS51c2VyX2luZHgKCUpPSU4gdGJfdXNlcl9kZXB0IGQKCQlPTiB1LnVzZXJfZGVwdCA9IGQuZGVwdF9pbmR4CldIRVJFIG8ub3V0cF92bmRyID0gPyBBTkQgU1VCU1RSSU5HKG9yZHJfZHR0bSwgMSwgOCkgQkVUV0VFTiA/IEFORCA/IEFORCBwcm9jX3VuaXQgIT0gJ29yZGVyY25jbCcK</text>
+      <register name="3" type="4">
+        <text>Merge branch 'master' of https://gitlab.com/samjong/webddp
+
+# Conflicts:
+#	src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGM6aWYgdGVzdD0iJHtpc09yZHJNYW5hZ2VyID09ICd0cnVlJ30iPgo=</text>
+        <text encoding="base64">U0VMRUNUIENPVU5UKCopCkZST00gdGJfb3Jkcl9tc3RyIG8KCUpPSU4gdGJfZ29vZF9tc3RyIGcKCQlPTiBvLmdvb2RfbXN0ciA9IGcuZ29vZF9jb2RlCglKT0lOIHRiX3Byb2NfdW5pdCBwCgkJT04gby5wcm9jX3VuaXQgPSBwLnByb2NfY29kZQoJSk9JTiB0Yl91c2VyX21zdHIgdQoJCU9OIG8ub3Jkcl91c2VyID0gdS51c2VyX2luZHgKCUpPSU4gdGJfdXNlcl9kZXB0IGQKCQlPTiB1LnVzZXJfZGVwdCA9IGQuZGVwdF9pbmR4CldIRVJFIG8ub3V0cF92bmRyID0gPyBBTkQgU1VCU1RSSU5HKG9yZHJfZHR0bSwgMSwgOCkgQkVUV0VFTiA/IEFORCA/IEFORCBwcm9jX3VuaXQgIT0gJ29yZGVyY25jbCcK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJYWxrc2RqZmwke2lzT3Jkck1hbmFnZXJ9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPGM6aWYgdGVzdD0iJHtpc09yZHJNYW5hZ2VyID09ICd0cnVlJ30iPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJYWxrc2RqZmwke2lzT3Jkck1hbmFnZXJ9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -941,7 +944,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQo=</text>
@@ -951,9 +954,9 @@
       </register>
     </registers>
     <search>
-      <last-search>esti</last-search>
+      <last-search encoding="base64">XDxWSUVXTU9ERVw+</last-search>
       <last-offset />
-      <last-pattern>esti</last-pattern>
+      <last-pattern encoding="base64">XDxWSUVXTU9ERVw+</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ADMIN</entry>
         <entry>include</entry>
         <entry>auth</entry>
         <entry>Auth</entry>
@@ -981,6 +983,7 @@
         <entry encoding="base64">XDxjbG9uZXJcPg==</entry>
         <entry>주문</entry>
         <entry>esti</entry>
+        <entry encoding="base64">XDxWSUVXTU9ERVw+</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
