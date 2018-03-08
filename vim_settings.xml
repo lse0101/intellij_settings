@@ -129,12 +129,12 @@
         <mark key="." line="28" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" timestamp="1520474305692">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" timestamp="1520482256544">
         <mark key="'" line="34" column="31" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="22" />
-        <mark key="^" line="37" column="22" />
-        <mark key="." line="37" column="22" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="25" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="38" column="25" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/resources/conf/springContext.xml" timestamp="1519710687267">
         <mark key="[" line="22" column="59" />
@@ -585,13 +585,13 @@
         <mark key="^" line="222" column="75" />
         <mark key="." line="222" column="75" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520477698483">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520483602607">
         <mark key="a" line="266" column="11" />
-        <mark key="'" line="234" column="32" />
-        <mark key="[" line="221" column="49" />
-        <mark key="]" line="221" column="49" />
-        <mark key="^" line="221" column="23" />
-        <mark key="." line="221" column="49" />
+        <mark key="'" line="300" column="20" />
+        <mark key="[" line="368" column="36" />
+        <mark key="]" line="368" column="37" />
+        <mark key="^" line="368" column="36" />
+        <mark key="." line="368" column="37" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/KpmgClientCodeDAO.xml" timestamp="1520385881017">
         <mark key="[" line="2" column="61" />
@@ -797,8 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="130" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/common/SophiaConstants.java" />
-      <jump line="154" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
       <jump line="167" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
       <jump line="29" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
       <jump line="180" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
@@ -897,10 +895,12 @@
       <jump line="220" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="221" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="234" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="328" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="300" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y3NzQ2xhc3M9ImtwbWdPcHQiIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkKCcjZ29vZEF0dHIgaW5wdXQnKS5rZXl1cChmdW5jdGlvbigpIHsKCQkJY29uc29sZS5sb2codGhpcy52YWx1ZSkKCQl9KTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1023,19 +1023,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3NzQ2xhc3M9ImtwbWdPcHQiIA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>pan</text>
+        <text>계약</text>
       </register>
       <register name="0" type="4">
-        <text>${isOperator</text>
+        <text>$('#goodAttr input')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+Cg==</text>
+        <text encoding="base64">CQkkKCcjZ29vZEF0dHIgaW5wdXQnKS5rZXl1cChmdW5jdGlvbigpIHsKCQkJY29uc29sZS5sb2codGhpcy52YWx1ZSkKCQl9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+Cg==</text>
+        <text encoding="base64">CQkJdmFyICR0aGlzCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1161,23 +1161,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJPHRyPgoJCQkJPHRkPgoJCQkJCSR7aXNPcGVyYXRvcn0KCQkJCTwvdGQ+CgkJCTwvdHI+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQl2YXIgJHRleHRhcmVhID0gJCgnI21lbW9jb250LW9yZGVyJyk7CgkJYWRqdXN0SGVpZ2h0KCR0ZXh0YXJlYSk7CgkJJHRleHRhcmVhLm9uKCdpbnB1dCcsIGZ1bmN0aW9uKCkgewoJCQlhZGp1c3RIZWlnaHQodGhpcyk7CgkJfSk7CgoJCSQoJyNnb29kQXR0ciBpbnB1dFtuYW1lPSAiYXR0cnNcXFtHMDAwMDFJMDFBMDFcXF0iXScpLmtleXVwKGZ1bmN0aW9uKCkgewoJCQljb25zb2xlLmxvZyh0aGlzLnZhbHVlKQoJCX0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPC90cj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPHRyPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCTxjOmlmIHRlc3Q9IiR7YXV0aC5ncnVwSW5keCA+PSAyfSI+CgkJCQkJPHRoIGNsYXNzPSJ0aDAxIj4KCQkJCQkJPGxhYmVsPuy2nOugpeyXheyytDwvbGFiZWw+CgkJCQkJCTxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj4KCQkJCQk8L3RoPgoJCQkJCTx0ZD4KCQkJCQkJPGZvcm06c2VsZWN0IHBhdGg9Im91dHBWbmRyIiBjc3NDbGFzcz0ia3BtZ09wdCIgZGlzYWJsZWQ9IiR7VklFV01PREUgPyAndHJ1ZScgOiAnZmFsc2UnfSI+CgkJCQkJCQk8Zm9ybTpvcHRpb24gdmFsdWU9IiI+7ISg7YOdPC9mb3JtOm9wdGlvbj4KCQkJCQkJCTxmb3JtOm9wdGlvbnMgaXRlbXM9IiR7dmVuZG9yc30iIGl0ZW1WYWx1ZT0iY29kZSIgaXRlbUxhYmVsPSJuYW1lIi8+CgkJCQkJCTwvZm9ybTpzZWxlY3Q+CgkJCQkJPC90ZD4KCQkJCTwvYzppZj4K</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1196,16 +1196,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQk8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pan</last-search>
+      <last-search>계약</last-search>
       <last-offset />
-      <last-pattern>pan</last-pattern>
+      <last-pattern>계약</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1213,7 +1213,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setAuth</entry>
         <entry encoding="base64">XDxzZXRBdXRoTGlzdFw+</entry>
         <entry>vnd</entry>
         <entry encoding="base64">XDxTZXJ2bGV0XD4=</entry>
@@ -1233,6 +1232,7 @@
         <entry>Auth</entry>
         <entry>처리과정</entry>
         <entry>pan</entry>
+        <entry>계약</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
