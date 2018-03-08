@@ -585,13 +585,13 @@
         <mark key="^" line="222" column="75" />
         <mark key="." line="222" column="75" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520487010332">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520488243358">
         <mark key="a" line="266" column="11" />
-        <mark key="'" line="300" column="20" />
-        <mark key="[" line="386" column="38" />
-        <mark key="]" line="386" column="38" />
-        <mark key="^" line="386" column="38" />
-        <mark key="." line="386" column="38" />
+        <mark key="'" line="104" column="53" />
+        <mark key="[" line="380" column="19" />
+        <mark key="]" line="380" column="19" />
+        <mark key="^" line="380" column="19" />
+        <mark key="." line="380" column="34" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/KpmgClientCodeDAO.xml" timestamp="1520385881017">
         <mark key="[" line="2" column="61" />
@@ -797,9 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
-      <jump line="29" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
-      <jump line="180" column="28" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" />
       <jump line="227" column="58" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" />
       <jump line="19" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/dto/SophiaDTO.java" />
       <jump line="19" column="13" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_embeded/src/main/java/com/fujixerox/kor/secuhub/embeded/dto/CommonDTO.java" />
@@ -897,6 +894,9 @@
       <jump line="234" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="328" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="300" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="373" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="96" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="104" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1026,7 +1026,7 @@
         <text>console.log(p);</text>
       </register>
       <register name="/" type="4">
-        <text>계약</text>
+        <text>견적</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCSQoJyNlc3RpUHJpY2UnKS52YWwoCg==</text>
@@ -1035,7 +1035,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1162,7 +1162,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmKCFwcmljZUNyaXRlcmlhKSByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1171,13 +1171,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdmFyIGN1ckNpcmN1bAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1193,19 +1193,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkKCcjZ29vZEF0dHIgaW5wdXQnKS5rZXl1cChmdW5jdGlvbigpIHsKCQkJY29uc29sZS5sb2codGhpcy52YWx1ZSkKCQl9KTsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>계약</last-search>
+      <last-search>견적</last-search>
       <last-offset />
-      <last-pattern>계약</last-pattern>
+      <last-pattern>견적</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1213,8 +1213,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRBdXRoTGlzdFw+</entry>
-        <entry>vnd</entry>
         <entry encoding="base64">XDxTZXJ2bGV0XD4=</entry>
         <entry>단가</entry>
         <entry>outputVendor</entry>
@@ -1233,6 +1231,8 @@
         <entry>처리과정</entry>
         <entry>pan</entry>
         <entry>계약</entry>
+        <entry>겭ㄱ</entry>
+        <entry>견적</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
