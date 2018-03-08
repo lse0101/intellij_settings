@@ -787,12 +787,13 @@
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520469303208">
-        <mark key="a" line="267" column="11" />
-        <mark key="'" line="83" column="33" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="277" column="29" />
-        <mark key="." line="304" column="0" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520471770386">
+        <mark key="a" line="266" column="11" />
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="351" column="0" />
+        <mark key="^" line="299" column="38" />
+        <mark key="." line="351" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/KpmgClientCodeDAO.xml" timestamp="1520385881017">
         <mark key="[" line="2" column="61" />
@@ -1088,7 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="34" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="274" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="10" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -1188,10 +1188,11 @@
       <jump line="167" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="84" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="83" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="172" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgidmVuZG9ycyIsIE91dHB1dFZlbmRvckVudW0udmFsdWVzKCkpOwoJCQltYXYuYWRkT2JqZWN0KCJjbGllbnRDb2RlTGlzdCIsIGtwbWdDbGllbnRDb2RlU2VydmljZS5zZWxlY3RDbGllbnRDb2RlTGlzdCgpKTsKCQkJbWF2LmFkZE9iamVjdCgiY29udHJhY3RDb2RlTGlzdCIsIGtwbWdDb250cmFjdENvZGVTZXJ2aWNlLnNlbGVjdENvbnRyYWN0Q29kZUxpc3QoKSk7CgkJCW1hdi5hZGRPYmplY3QoIm9yZGVySW5mb0NvZGVMaXN0Iiwga3BtZ09yZGVySW5mb1NlcnZpY2Uuc2VsZWN0S3BtZ09yZGVySW5mb0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1320,13 +1321,13 @@
         <text>단가</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgidmVuZG9ycyIsIE91dHB1dFZlbmRvckVudW0udmFsdWVzKCkpOwoJCQltYXYuYWRkT2JqZWN0KCJjbGllbnRDb2RlTGlzdCIsIGtwbWdDbGllbnRDb2RlU2VydmljZS5zZWxlY3RDbGllbnRDb2RlTGlzdCgpKTsKCQkJbWF2LmFkZE9iamVjdCgiY29udHJhY3RDb2RlTGlzdCIsIGtwbWdDb250cmFjdENvZGVTZXJ2aWNlLnNlbGVjdENvbnRyYWN0Q29kZUxpc3QoKSk7CgkJCW1hdi5hZGRPYmplY3QoIm9yZGVySW5mb0NvZGVMaXN0Iiwga3BtZ09yZGVySW5mb1NlcnZpY2Uuc2VsZWN0S3BtZ09yZGVySW5mb0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">CQk8dHI+CgkJCTx0aCBjbGFzcz0idGgwMSI+CgkJCQk8bGFiZWw+7Lac66Cl7JeF7LK0PC9sYWJlbD4KCQkJCTxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj4KCQkJPC90aD4KCQkJPHRkPgoJCQkJPGZvcm06c2VsZWN0IHBhdGg9Im91dHB1dFZlbmRvciIgY3NzQ2xhc3M9ImtwbWdPcHQiPgoJCQkJCTxmb3JtOm9wdGlvbiB2YWx1ZT0iIj7shKDtg508L2Zvcm06b3B0aW9uPgoJCQkJCTxmb3JtOm9wdGlvbnMgaXRlbXM9IiR7dmVuZG9yc30iIGl0ZW1WYWx1ZT0iY29kZSIgaXRlbUxhYmVsPSJuYW1lIi8+CgkJCQk8L2Zvcm06c2VsZWN0PgoJCQk8L3RkPgoJCQk8dGggY2xhc3M9InRoMDEiPgoJCQkJPGxhYmVsPuqzoOqwneygleuztDwvbGFiZWw+CgkJCQk8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+CgkJCTwvdGg+CgkJCTx0ZD4KCQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJjbGllbnRDb2RlIiBjc3NDbGFzcz0ia3BtZ09wdCI+CgkJCQkJPGZvcm06b3B0aW9uIHZhbHVlPSIiPuyEoO2DnTwvZm9ybTpvcHRpb24+CgkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHtjbGllbnRDb2RlTGlzdH0iIGl0ZW1WYWx1ZT0iY2xudENvZGUiIGl0ZW1MYWJlbD0iY2xudEtvcm4iLz4KCQkJCTwvZm9ybTpzZWxlY3Q+CgkJCTwvdGQ+CgkJPC90cj4KCgkJPHRyPgoJCQk8dGggY2xhc3M9InRoMDEiPgoJCQkJPGxhYmVsPuqzhOyVvey9lOuTnDwvbGFiZWw+CgkJCQk8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+CgkJCTwvdGg+CgkJCTx0ZD4KCQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJjb250cmFjdENvZGUiIGNzc0NsYXNzPSJrcG1nT3B0Ij4KCQkJCQk8Zm9ybTpvcHRpb24gdmFsdWU9IiI+7ISg7YOdPC9mb3JtOm9wdGlvbj4KCQkJCQk8Zm9ybTpvcHRpb25zIGl0ZW1zPSIke2NvbnRyYWN0Q29kZUxpc3R9IiBpdGVtVmFsdWU9ImN0cnRDb2RlIiBpdGVtTGFiZWw9ImN0cnROYW1lIi8+CgkJCQk8L2Zvcm06c2VsZWN0PgoJCQk8L3RkPgoJCQk8dGggY2xhc3M9InRoMDEiPgoJCQkJPGxhYmVsPuyjvOusuOygleuztDwvbGFiZWw+CgkJCQk8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+CgkJCTwvdGg+CgkJCTx0ZD4KCQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJvcmRlckluZm9Db2RlIiBjc3NDbGFzcz0ia3BtZ09wdCI+CgkJCQkJPGZvcm06b3B0aW9uIHZhbHVlPSIiPuyEoO2DnTwvZm9ybTpvcHRpb24+CgkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHtvcmRlckluZm9Db2RlTGlzdH0iIGl0ZW1WYWx1ZT0ib3JkckNvZGUiIGl0ZW1MYWJlbD0ib3Jkck5hbWUiLz4KCQkJCTwvZm9ybTpzZWxlY3Q+CgkJCTwvdGQ+CgkJPC90cj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQluZXcgT3JkZXJTZWFyY2hWTygpLmlzCgl9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGdydXAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1453,7 +1454,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLCB2bmRyX3R5cGUgCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1464,11 +1465,11 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PHRkPgkKPC90ZD4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJvcmRlckluZm9Db2RlIiBjc3NDbGFzcz0ia3BtZ09wdCI+CgkJCQkJPGZvcm06b3B0aW9uIHZhbHVlPSIiPuyEoO2DnTwvZm9ybTpvcHRpb24+CgkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHtvcmRlckluZm9Db2RlTGlzdH0iIGl0ZW1WYWx1ZT0ib3JkckNvZGUiIGl0ZW1MYWJlbD0ib3Jkck5hbWUiLz4KCQkJCTwvZm9ybTpzZWxlY3Q+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJjb250cmFjdENvZGUiIGNzc0NsYXNzPSJrcG1nT3B0Ij4KCQkJCQk8Zm9ybTpvcHRpb24gdmFsdWU9IiI+7ISg7YOdPC9mb3JtOm9wdGlvbj4KCQkJCQk8Zm9ybTpvcHRpb25zIGl0ZW1zPSIke2NvbnRyYWN0Q29kZUxpc3R9IiBpdGVtVmFsdWU9ImN0cnRDb2RlIiBpdGVtTGFiZWw9ImN0cnROYW1lIi8+CgkJCQk8L2Zvcm06c2VsZWN0Pgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1484,10 +1485,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJYWxrc2pkZmxrYWpzZGZrbGoK</text>
+        <text encoding="base64">CQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJjbGllbnRDb2RlIiBjc3NDbGFzcz0ia3BtZ09wdCI+CgkJCQkJPGZvcm06b3B0aW9uIHZhbHVlPSIiPuyEoO2DnTwvZm9ybTpvcHRpb24+CgkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHtjbGllbnRDb2RlTGlzdH0iIGl0ZW1WYWx1ZT0iY2xudENvZGUiIGl0ZW1MYWJlbD0iY2xudEtvcm4iLz4KCQkJCTwvZm9ybTpzZWxlY3Q+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkke3VzZXJWTy5pc09wZXJhdG9yfQo=</text>
+        <text encoding="base64">CQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJvdXRwdXRWZW5kb3IiIGNzc0NsYXNzPSJrcG1nT3B0Ij4KCQkJCQk8Zm9ybTpvcHRpb24gdmFsdWU9IiI+7ISg7YOdPC9mb3JtOm9wdGlvbj4KCQkJCQk8Zm9ybTpvcHRpb25zIGl0ZW1zPSIke3ZlbmRvcnN9IiBpdGVtVmFsdWU9ImNvZGUiIGl0ZW1MYWJlbD0ibmFtZSIvPgoJCQkJPC9mb3JtOnNlbGVjdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
