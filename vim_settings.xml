@@ -23,6 +23,12 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/DeleteJobTemplateResponse.java" timestamp="1520577477916">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="15" column="52" />
+        <mark key="^" line="15" column="99" />
+        <mark key="." line="15" column="52" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/hornetq/hornetq-configuration.xml" timestamp="1519297402969">
         <mark key="'" line="31" column="32" />
         <mark key="[" line="37" column="35" />
@@ -127,7 +133,7 @@
         <mark key="." line="57" column="49" />
         <mark key="^" line="57" column="49" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/AddJobTemplate.java" timestamp="1520576207063">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/AddJobTemplate.java" timestamp="1520577456610">
         <mark key="[" line="16" column="76" />
         <mark key="]" line="17" column="35" />
         <mark key="^" line="17" column="35" />
@@ -220,7 +226,7 @@
         <mark key="." line="71" column="82" />
         <mark key="^" line="71" column="82" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ManageJobTemplate.java" timestamp="1520576304381">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ManageJobTemplate.java" timestamp="1520576873937">
         <mark key="'" line="69" column="38" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -484,12 +490,12 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/interceptor/LoginCheckInterceptor.java" timestamp="1520415334591">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ConfigJobTemplate.java" timestamp="1520341303150">
-        <mark key="'" line="14" column="35" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
-        <mark key="^" line="32" column="48" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ConfigJobTemplate.java" timestamp="1520577064205">
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminAsyncController.java" timestamp="1520492346390">
         <mark key="[" line="67" column="54" />
@@ -650,7 +656,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$.number(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -773,7 +779,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>enco</text>
@@ -782,10 +788,10 @@
         <text>$.number(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkke1ZJRVdNT0RFfQo=</text>
+        <text encoding="base64">CQkJCQkJRGVsZXRlSm9iVGVtcGxhdGVSZXNwb25zZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkke1ZJRVdNT0RFfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -911,26 +917,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>Merge branch 'master' of https://gitlab.com/samjong/webddp
 
 # Conflicts:
 #	src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIENPVU5UKCopCkZST00gdGJfb3Jkcl9tc3RyIG8KCUpPSU4gdGJfZ29vZF9tc3RyIGcKCQlPTiBvLmdvb2RfbXN0ciA9IGcuZ29vZF9jb2RlCglKT0lOIHRiX3Byb2NfdW5pdCBwCgkJT04gby5wcm9jX3VuaXQgPSBwLnByb2NfY29kZQoJSk9JTiB0Yl91c2VyX21zdHIgdQoJCU9OIG8ub3Jkcl91c2VyID0gdS51c2VyX2luZHgKCUpPSU4gdGJfdXNlcl9kZXB0IGQKCQlPTiB1LnVzZXJfZGVwdCA9IGQuZGVwdF9pbmR4CldIRVJFIG8ub3V0cF92bmRyID0gPyBBTkQgU1VCU1RSSU5HKG9yZHJfZHR0bSwgMSwgOCkgQkVUV0VFTiA/IEFORCA/IEFORCBwcm9jX3VuaXQgIT0gJ29yZGVyY25jbCcK</text>
-      </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGM6aWYgdGVzdD0iJHtpc09yZHJNYW5hZ2VyID09ICd0cnVlJ30iPgo=</text>
+        <text encoding="base64">U0VMRUNUIENPVU5UKCopCkZST00gdGJfb3Jkcl9tc3RyIG8KCUpPSU4gdGJfZ29vZF9tc3RyIGcKCQlPTiBvLmdvb2RfbXN0ciA9IGcuZ29vZF9jb2RlCglKT0lOIHRiX3Byb2NfdW5pdCBwCgkJT04gby5wcm9jX3VuaXQgPSBwLnByb2NfY29kZQoJSk9JTiB0Yl91c2VyX21zdHIgdQoJCU9OIG8ub3Jkcl91c2VyID0gdS51c2VyX2luZHgKCUpPSU4gdGJfdXNlcl9kZXB0IGQKCQlPTiB1LnVzZXJfZGVwdCA9IGQuZGVwdF9pbmR4CldIRVJFIG8ub3V0cF92bmRyID0gPyBBTkQgU1VCU1RSSU5HKG9yZHJfZHR0bSwgMSwgOCkgQkVUV0VFTiA/IEFORCA/IEFORCBwcm9jX3VuaXQgIT0gJ29yZGVyY25jbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJYWxrc2RqZmwke2lzT3Jkck1hbmFnZXJ9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPGM6aWYgdGVzdD0iJHtpc09yZHJNYW5hZ2VyID09ICd0cnVlJ30iPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJYWxrc2RqZmwke2lzT3Jkck1hbmFnZXJ9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -949,7 +955,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
