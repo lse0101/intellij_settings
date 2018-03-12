@@ -242,12 +242,12 @@
         <mark key="." line="179" column="58" />
         <mark key="^" line="179" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520844316641">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520846192236">
         <mark key="a" line="213" column="57" />
-        <mark key="[" line="361" column="7" />
-        <mark key="]" line="364" column="4" />
-        <mark key="." line="364" column="4" />
-        <mark key="^" line="364" column="4" />
+        <mark key="[" line="363" column="33" />
+        <mark key="]" line="363" column="33" />
+        <mark key="^" line="363" column="33" />
+        <mark key="." line="363" column="33" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" timestamp="1519640615303">
         <mark key="'" line="206" column="31" />
@@ -654,8 +654,8 @@
       <jump line="208" column="39" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>inputs.eq(1);</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -778,19 +778,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>$.number(calculatedPrice)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bml0UHJpY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KAoJCQkgICAgICAgU0VMRUNUCgkJCQkgICAgICAgY2FzZQoJCQkJICAgICAgIHdoZW4gYS5jbnQgPiAxCgkJCQkJICAgICAgIHRoZW4gJ1knCgkJCQkgICAgICAgZWxzZSAnTicgZW5kCgkJCSAgICAgICBGUk9NICgKCQkJCSAgICAgICAgICAgIFNFTEVDVAoJCQkJCSAgICAgICAgICAgIGNvdW50KCopIGFzIGNudAoJCQkJICAgICAgICAgICAgRlJPTSB0Yl9hdXRoX2dydXAgZyBKT0lOIHRiX2F1dGhfbWVtYiBtCgkJCQkJCSAgICAgICAgICAgIG9uIGcuZ3J1cF9pbmR4ID0gbS5ncnVwX2luZHgKCQkJCSAgICAgICAgICAgIFdIRVJFCgkJCQkJICAgICAgICAgICAgZy5ncnVwX2luZHggPSA0CgkJCQkJICAgICAgICAgICAgQU5EIG0ubWVtYl9pbmR4ID0gdS51c2VyX2luZHgKCQkJICAgICAgICAgICAgKSBhCgkJICAgICAgICkgQVMgaXNPcmRyTWFuYWdlcg==</text>
+        <text>inputs.eq(1);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCSRvcmRyTW9ueS52YWwoMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSRlc3RpTW9ueS52YWwoMCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -917,22 +917,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCSRlc3RpTW9ueS52YWwoKTsKCQkJCSRvcmRyTW9ueS52YWwoKTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkkZXN0aU1vbnkudmFsKCQubnVtYmVyKGNhbGN1bGF0ZWRQcmljZSkpOwoJCSRvcmRyTW9ueS52YWwoJC5udW1iZXIoY2FsY3VsYXRlZFByaWNlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -948,10 +948,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVsKCXsKCQkic3RhcnQiOiAxLAoJCSJlbmQiOiAzMCwKCQkicGFnZVVuaXRQcmljZSI6IDIxOTgsCgkJImNvdmVyUHJpY2UiOiA1OTk0NgoJfSwKCXsKCQkic3RhcnQiOiAzMSwKCQkiZW5kIjogNjAsCgkJInBhZ2VVbml0UHJpY2UiOiAyNjk4LAoJCSJjb3ZlclByaWNlIjogNjQ5NDIKCX0sCgl7CgkJInN0YXJ0IjogNjEsCgkJImVuZCI6IDEwMCwKCQkicGFnZVVuaXRQcmljZSI6IDM1OTcsCgkJImNvdmVyUHJpY2UiOiA2OTkzNwoJfSwKCXsKCQkic3RhcnQiOiAxMDEsCgkJImVuZCI6IDE1MCwKCQkicGFnZVVuaXRQcmljZSI6IDQ0OTYsCgkJImNvdmVyUHJpY2UiOiA3OTkyOAoJfSwKCXsKCQkic3RhcnQiOiAxNTEsCgkJImVuZCI6IDIwMCwKCQkicGFnZVVuaXRQcmljZSI6IDUzOTUsCgkJImNvdmVyUHJpY2UiOiA4OTkxOQoJfQpdOwo=</text>
+        <text encoding="base64">CQkJdmFyICRvcmRyTW9ueSA9ICQoJyNvcmRyTW9ueScpOwoJCQl2YXIgJGVzdGlNb255ID0gJCgnI2VzdGlNb255Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
