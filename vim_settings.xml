@@ -108,8 +108,8 @@
         <mark key="^" line="48" column="60" />
         <mark key="." line="48" column="60" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" timestamp="1520843024364">
-        <mark key="'" line="432" column="4" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" timestamp="1520844239784">
+        <mark key="'" line="208" column="39" />
         <mark key="[" line="433" column="0" />
         <mark key="]" line="433" column="0" />
         <mark key="^" line="432" column="5" />
@@ -242,12 +242,12 @@
         <mark key="." line="179" column="58" />
         <mark key="^" line="179" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520835513322">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520844316641">
         <mark key="a" line="213" column="57" />
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="329" column="0" />
-        <mark key="^" line="217" column="68" />
-        <mark key="." line="329" column="0" />
+        <mark key="[" line="361" column="7" />
+        <mark key="]" line="364" column="4" />
+        <mark key="." line="364" column="4" />
+        <mark key="^" line="364" column="4" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" timestamp="1519640615303">
         <mark key="'" line="206" column="31" />
@@ -552,7 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="5" column="7" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="8" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="28" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -652,6 +651,7 @@
       <jump line="11" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" />
       <jump line="439" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" />
       <jump line="432" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" />
+      <jump line="208" column="39" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/unitPrice.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -790,7 +790,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -932,7 +932,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVsKCXsKCQkic3RhcnQiOiAxLAoJCSJlbmQiOiAzMCwKCQkicGFnZVVuaXRQcmljZSI6IDIxOTgsCgkJImNvdmVyUHJpY2UiOiA1OTk0NgoJfSwKCXsKCQkic3RhcnQiOiAzMSwKCQkiZW5kIjogNjAsCgkJInBhZ2VVbml0UHJpY2UiOiAyNjk4LAoJCSJjb3ZlclByaWNlIjogNjQ5NDIKCX0sCgl7CgkJInN0YXJ0IjogNjEsCgkJImVuZCI6IDEwMCwKCQkicGFnZVVuaXRQcmljZSI6IDM1OTcsCgkJImNvdmVyUHJpY2UiOiA2OTkzNwoJfSwKCXsKCQkic3RhcnQiOiAxMDEsCgkJImVuZCI6IDE1MCwKCQkicGFnZVVuaXRQcmljZSI6IDQ0OTYsCgkJImNvdmVyUHJpY2UiOiA3OTkyOAoJfSwKCXsKCQkic3RhcnQiOiAxNTEsCgkJImVuZCI6IDIwMCwKCQkicGFnZVVuaXRQcmljZSI6IDUzOTUsCgkJImNvdmVyUHJpY2UiOiA4OTkxOQoJfQpdOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -948,10 +948,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciB1bml0UHJpY2UgPSAgWwoJCXsKCQkJInN0YXJ0IjogMSwKCQkJImVuZCI6IDMwLAoJCQkicGFnZVVuaXRQcmljZSI6IDIxOTgsCgkJCSJjb3ZlclByaWNlIjogNTk5NDYKCQl9LAoJCXsKCQkJInN0YXJ0IjogMzEsCgkJCSJlbmQiOiA2MCwKCQkJInBhZ2VVbml0UHJpY2UiOiAyNjk4LAoJCQkiY292ZXJQcmljZSI6IDY0OTQyCgkJfSwKCQl7CgkJCSJzdGFydCI6IDYxLAoJCQkiZW5kIjogMTAwLAoJCQkicGFnZVVuaXRQcmljZSI6IDM1OTcsCgkJCSJjb3ZlclByaWNlIjogNjk5MzcKCQl9LAoJCXsKCQkJInN0YXJ0IjogMTAxLAoJCQkiZW5kIjogMTUwLAoJCQkicGFnZVVuaXRQcmljZSI6IDQ0OTYsCgkJCSJjb3ZlclByaWNlIjogNzk5MjgKCQl9LAoJCXsKCQkJInN0YXJ0IjogMTUxLAoJCQkiZW5kIjogMjAwLAoJCQkicGFnZVVuaXRQcmljZSI6IDUzOTUsCgkJCSJjb3ZlclByaWNlIjogODk5MTkKCQl9CgldOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Yi1hZG1pbgo=</text>
+        <text encoding="base64">CVsKCXsKCQkic3RhcnQiOiAxLAoJCSJlbmQiOiAzMCwKCQkicGFnZVVuaXRQcmljZSI6IDIxOTgsCgkJImNvdmVyUHJpY2UiOiA1OTk0NgoJfSwKCXsKCQkic3RhcnQiOiAzMSwKCQkiZW5kIjogNjAsCgkJInBhZ2VVbml0UHJpY2UiOiAyNjk4LAoJCSJjb3ZlclByaWNlIjogNjQ5NDIKCX0sCgl7CgkJInN0YXJ0IjogNjEsCgkJImVuZCI6IDEwMCwKCQkicGFnZVVuaXRQcmljZSI6IDM1OTcsCgkJImNvdmVyUHJpY2UiOiA2OTkzNwoJfSwKCXsKCQkic3RhcnQiOiAxMDEsCgkJImVuZCI6IDE1MCwKCQkicGFnZVVuaXRQcmljZSI6IDQ0OTYsCgkJImNvdmVyUHJpY2UiOiA3OTkyOAoJfSwKCXsKCQkic3RhcnQiOiAxNTEsCgkJImVuZCI6IDIwMCwKCQkicGFnZVVuaXRQcmljZSI6IDUzOTUsCgkJImNvdmVyUHJpY2UiOiA4OTkxOQoJfQpdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
