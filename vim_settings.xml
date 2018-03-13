@@ -16,8 +16,8 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1520850189487">
-        <mark key="'" line="39" column="36" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1520931245770">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="61" />
         <mark key="^" line="45" column="12" />
@@ -168,14 +168,6 @@
         <mark key="^" line="72" column="53" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/order-common.js" timestamp="1520505710906">
-        <mark key="a" line="784" column="0" />
-        <mark key="'" line="732" column="34" />
-        <mark key="[" line="782" column="0" />
-        <mark key="]" line="782" column="0" />
-        <mark key="." line="782" column="0" />
-        <mark key="^" line="786" column="38" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519791770420">
         <mark key="'" line="109" column="75" />
         <mark key="[" line="55" column="37" />
@@ -249,13 +241,13 @@
         <mark key="." line="179" column="58" />
         <mark key="^" line="179" column="58" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520852006293">
-        <mark key="a" line="327" column="0" />
-        <mark key="'" line="328" column="23" />
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="357" column="0" />
-        <mark key="." line="357" column="0" />
-        <mark key="^" line="344" column="4" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1520931306162">
+        <mark key="a" line="280" column="38" />
+        <mark key="'" line="345" column="24" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="^" line="329" column="0" />
+        <mark key="." line="328" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Request.java" timestamp="1519640615303">
         <mark key="'" line="206" column="31" />
@@ -494,14 +486,6 @@
         <mark key="^" line="43" column="14" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogRuleConfigBuilder.java" timestamp="1520336899711">
-        <mark key="a" line="183" column="28" />
-        <mark key="'" line="183" column="28" />
-        <mark key="[" line="66" column="75" />
-        <mark key="]" line="67" column="4" />
-        <mark key="^" line="67" column="4" />
-        <mark key="." line="191" column="48" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/interceptor/LoginCheckInterceptor.java" timestamp="1520415334591">
         <mark key="'" line="43" column="22" />
       </file>
@@ -572,11 +556,6 @@
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/webapp/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" timestamp="1520925160137" />
     </filemarks>
     <jumps>
-      <jump line="57" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="75" column="126" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="126" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="142" column="141" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="189" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="321" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="128" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" />
       <jump line="3" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" />
@@ -672,10 +651,15 @@
       <jump line="19" column="43" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/target/secuhub.web.propmanager/WEB-INF/views/web/propmanager/sophia/sophiaAuthForm.jsp" />
       <jump line="15" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/target/secuhub.web.propmanager/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" />
       <jump line="160" column="50" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/webapp/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" />
+      <jump line="281" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="170" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="280" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="346" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -798,19 +782,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>getResoultion</text>
+        <text>G000</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>goodMstr</text>
       </register>
       <register name="0" type="4">
-        <text>inputs.eq(0)</text>
+        <text>G00004</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9jOmlmPgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -937,22 +921,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyIGlucHV0cyA9ICQoJ2lucHV0LCBzZWxlY3QnLCAnI2dvb2RBdHRyICcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXIgaW5wdXRzID0gJCgnaW5wdXQsIHNlbGVjdCcsICcjZ29vZEF0dHIgJyk7CgoJCXZhciBwcm9kdWN0VHlwZSA9IGlucHV0cy5lcSgwKS5maW5kKCc6c2VsZWN0ZWQnKS50ZXh0KCkudHJpbSgpOwoJCXZhciBjaXJjdWxhdGlvbiA9IGlucHV0cy5lcSgxKTsKCQl2YXIgcGFnZXMgPSBpbnB1dHMuZXEoMik7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJzExMScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpbnB1dHMuZXEoMCkuY2hhbmdlKGNhbGN1bGF0ZVByaWNlKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhbGVydChpbnB1dHMuZXEoMCkuaHRtbCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -968,19 +952,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhbGVydChwcm9kdWN0VHlwZSk7Cg==</text>
+        <text encoding="base64">CQkJdmFyIGlucHV0cyA9ICQoJ2lucHV0LCBzZWxlY3QnLCAnI2dvb2RBdHRyICcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search>goodMstr</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>goodMstr</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -988,7 +972,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9uZXJcPg==</entry>
         <entry>주문</entry>
         <entry encoding="base64">XDxWSUVXTU9ERVw+</entry>
         <entry>esti</entry>
@@ -1008,6 +991,7 @@
         <entry encoding="base64">XDx1bml0UHJpY2VcPg==</entry>
         <entry>script</entry>
         <entry>res</entry>
+        <entry>goodMstr</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
