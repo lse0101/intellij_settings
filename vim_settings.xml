@@ -87,13 +87,13 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/applicationContext.xml" timestamp="1520386066180">
         <mark key="'" line="28" column="55" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" timestamp="1520583070834">
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" timestamp="1520922061104">
         <mark key="a" line="197" column="12" />
         <mark key="'" line="192" column="0" />
-        <mark key="[" line="228" column="36" />
-        <mark key="]" line="229" column="8" />
-        <mark key="." line="229" column="8" />
-        <mark key="^" line="229" column="8" />
+        <mark key="[" line="186" column="53" />
+        <mark key="]" line="186" column="67" />
+        <mark key="." line="186" column="67" />
+        <mark key="^" line="186" column="67" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.java" timestamp="1520492883030">
         <mark key="'" line="47" column="0" />
@@ -273,7 +273,6 @@
         <mark key="^" line="207" column="47" />
         <mark key="." line="207" column="47" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1520818915649" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_bundle_goods.jsp" timestamp="1520503404197">
         <mark key="'" line="44" column="36" />
       </file>
@@ -436,12 +435,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="42" column="14" />
       </file>
-      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/dto/SophiaDTO.java" timestamp="1520338419155">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="49" column="9" />
-        <mark key="." line="49" column="9" />
-        <mark key="^" line="49" column="9" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/dto/SophiaDTO.java" timestamp="1520921780115">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/pom.xml" timestamp="1517897129687">
         <mark key="'" line="15" column="0" />
@@ -577,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="41" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="47" column="89" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="51" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -677,10 +675,11 @@
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="328" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="39" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="20" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/dto/SophiaDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getResoultion</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -803,10 +802,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getResoultion</text>
       </register>
       <register name="/" type="4">
-        <text>script</text>
+        <text>res</text>
       </register>
       <register name="0" type="4">
         <text>inputs.eq(0)</text>
@@ -983,9 +982,9 @@
       </register>
     </registers>
     <search>
-      <last-search>script</last-search>
+      <last-search>res</last-search>
       <last-offset />
-      <last-pattern>script</last-pattern>
+      <last-pattern>res</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -993,7 +992,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaXJjdWxhdGlvblw+</entry>
         <entry encoding="base64">XDxjbG9uZXJcPg==</entry>
         <entry>주문</entry>
         <entry encoding="base64">XDxWSUVXTU9ERVw+</entry>
@@ -1013,6 +1011,7 @@
         <entry>outp</entry>
         <entry encoding="base64">XDx1bml0UHJpY2VcPg==</entry>
         <entry>script</entry>
+        <entry>res</entry>
       </history-search>
       <history-cmd>
         <entry>424</entry>
