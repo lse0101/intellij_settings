@@ -87,6 +87,9 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/applicationContext.xml" timestamp="1520386066180">
         <mark key="'" line="28" column="55" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/target/secuhub.web.propmanager/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" timestamp="1520925030186">
+        <mark key="'" line="15" column="22" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SophiaClient.java" timestamp="1520922061104">
         <mark key="a" line="197" column="12" />
         <mark key="'" line="192" column="0" />
@@ -178,12 +181,6 @@
         <mark key="]" line="782" column="0" />
         <mark key="." line="782" column="0" />
         <mark key="^" line="786" column="38" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/dao/sqlmap/mssql/login-sqlmap.xml" timestamp="1520819792346">
-        <mark key="[" line="55" column="36" />
-        <mark key="]" line="55" column="36" />
-        <mark key="." line="55" column="36" />
-        <mark key="^" line="55" column="36" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519791770420">
         <mark key="'" line="109" column="75" />
@@ -476,7 +473,7 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520853727068">
+      <file name="/Dummy.txt" timestamp="1520924769453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -534,6 +531,9 @@
         <mark key="." line="432" column="4" />
         <mark key="^" line="432" column="4" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/target/secuhub.web.propmanager/WEB-INF/views/web/propmanager/sophia/sophiaAuthForm.jsp" timestamp="1520925025425">
+        <mark key="'" line="19" column="43" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520827394543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -574,11 +574,14 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-process-sqlmap.xml" timestamp="1520820708475">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/webapp/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" timestamp="1520925160137">
+        <mark key="'" line="160" column="50" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="47" column="89" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="51" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="57" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="75" column="126" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="126" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -676,10 +679,13 @@
       <jump line="328" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="39" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="20" column="0" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/web/dto/SophiaDTO.java" />
+      <jump line="19" column="43" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/target/secuhub.web.propmanager/WEB-INF/views/web/propmanager/sophia/sophiaAuthForm.jsp" />
+      <jump line="15" column="22" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/target/secuhub.web.propmanager/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" />
+      <jump line="160" column="50" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/webapp/WEB-INF/views/web/propmanager/sophia/imglogForm.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getResoultion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -811,10 +817,10 @@
         <text>inputs.eq(0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIGlucHV0cyA9ICQoJ2lucHV0LCBzZWxlY3QnLCAnI2dvb2RBdHRyICcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -941,22 +947,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJdmFyIGlucHV0cyA9ICQoJ2lucHV0LCBzZWxlY3QnLCAnI2dvb2RBdHRyICcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXIgaW5wdXRzID0gJCgnaW5wdXQsIHNlbGVjdCcsICcjZ29vZEF0dHIgJyk7CgoJCXZhciBwcm9kdWN0VHlwZSA9IGlucHV0cy5lcSgwKS5maW5kKCc6c2VsZWN0ZWQnKS50ZXh0KCkudHJpbSgpOwoJCXZhciBjaXJjdWxhdGlvbiA9IGlucHV0cy5lcSgxKTsKCQl2YXIgcGFnZXMgPSBpbnB1dHMuZXEoMik7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpbnB1dHMuZXEoMCkuY2hhbmdlKGNhbGN1bGF0ZVByaWNlKTsK</text>
+        <text encoding="base64">CQl2YXIgaW5wdXRzID0gJCgnaW5wdXQsIHNlbGVjdCcsICcjZ29vZEF0dHIgJyk7CgoJCXZhciBwcm9kdWN0VHlwZSA9IGlucHV0cy5lcSgwKS5maW5kKCc6c2VsZWN0ZWQnKS50ZXh0KCkudHJpbSgpOwoJCXZhciBjaXJjdWxhdGlvbiA9IGlucHV0cy5lcSgxKTsKCQl2YXIgcGFnZXMgPSBpbnB1dHMuZXEoMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlhbGVydChpbnB1dHMuZXEoMCkuaHRtbCgpKTsK</text>
+        <text encoding="base64">CQlpbnB1dHMuZXEoMCkuY2hhbmdlKGNhbGN1bGF0ZVByaWNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhbGVydChwcm9kdWN0VHlwZSk7Cg==</text>
+        <text encoding="base64">CQlhbGVydChpbnB1dHMuZXEoMCkuaHRtbCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -972,10 +978,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQlhbGVydChwcm9kdWN0VHlwZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSRvcmRyTW9ueS52YWwoMCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
