@@ -629,7 +629,7 @@
         <mark key="." line="323" column="100" />
         <mark key="^" line="323" column="103" />
       </file>
-      <file name="/dummy.sql" timestamp="1521107692819">
+      <file name="/dummy.sql" timestamp="1521159121893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -695,6 +695,11 @@
         <mark key="]" line="27" column="42" />
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/constants/type/JobTitleType.java" timestamp="1521159521039">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Invoke.java" timestamp="1518052933838">
         <mark key="'" line="16" column="2" />
@@ -816,8 +821,8 @@
       <jump line="167" column="49" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -835,28 +840,28 @@
         <text>${IS_NEW_ORDER}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhbGVydCgnYWFhJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhbGVydCgnYWFhJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWFsZXJ0KCcke0lTX05FV19PUkRFUn0nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWFsZXJ0KCcke0lTX05FV19PUkRFUn0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CXZhciAK</text>
@@ -875,10 +880,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFsZXJ0KCcke0lTX05FV30nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
