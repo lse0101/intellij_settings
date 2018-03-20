@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.*</mask>
       <mask>*.jxml</mask>
@@ -27,7 +27,6 @@
       <mask>*.p</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xm</mask>
@@ -37,6 +36,7 @@
       <mask>*.jsp</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
