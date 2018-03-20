@@ -300,12 +300,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" timestamp="1521510157971">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" timestamp="1521511803801">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="15" column="64" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/operate/OperateService.java" timestamp="1520831463849">
         <mark key="[" line="12" column="2" />
@@ -495,9 +495,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>명함주문 주문조회자(매니저)는 모든 사용자의 명함주문을 조회 할수 있다
-
-- 모든 상태의 명함주문을 조회할수 있으며, 지정한 월의 내역을 엑셀로 다운로드 한다</text>
+        <text>/var/opt/mssql/bak</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -506,7 +504,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/var/opt/mssql/bak</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
