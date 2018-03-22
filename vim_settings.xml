@@ -70,18 +70,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/controller/UserAsyncController.java" timestamp="1521104768501">
-        <mark key="'" line="204" column="13" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="344" column="0" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" timestamp="1521535165918">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/file/service/impl/FileServiceImpl.java" timestamp="1521534433589">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="129" column="0" />
@@ -145,6 +133,7 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/resource/CommonProperty.java" timestamp="1521685372574" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" timestamp="1521544979781">
         <mark key="'" line="107" column="42" />
         <mark key="[" line="103" column="0" />
@@ -278,12 +267,6 @@
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderCartController.java" timestamp="1521526398887">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/jobtitle/service/JobTitleService.java" timestamp="1521100144892">
         <mark key="[" line="113" column="53" />
         <mark key="]" line="113" column="58" />
@@ -332,6 +315,7 @@
         <mark key="^" line="46" column="44" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/props-webpath.xml" timestamp="1521685322238" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" timestamp="1519640677921">
         <mark key="'" line="64" column="24" />
         <mark key="[" line="206" column="29" />
@@ -360,12 +344,6 @@
         <mark key="]" line="68" column="45" />
         <mark key="^" line="68" column="45" />
         <mark key="." line="68" column="45" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/goods/service/impl/GoodsServiceImpl.java" timestamp="1521013426515">
-        <mark key="'" line="63" column="32" />
-        <mark key="[" line="557" column="0" />
-        <mark key="]" line="557" column="0" />
-        <mark key="." line="557" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" timestamp="1521105623944">
         <mark key="'" line="182" column="91" />
@@ -614,13 +592,13 @@
         <mark key="^" line="223" column="75" />
         <mark key="." line="223" column="75" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1521682403491">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1521686860740">
         <mark key="a" line="280" column="38" />
-        <mark key="'" line="434" column="0" />
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="36" />
-        <mark key="." line="312" column="36" />
-        <mark key="^" line="288" column="24" />
+        <mark key="'" line="184" column="86" />
+        <mark key="[" line="667" column="16" />
+        <mark key="]" line="667" column="26" />
+        <mark key="." line="667" column="26" />
+        <mark key="^" line="667" column="26" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1521436368488">
         <mark key="'" line="64" column="0" />
@@ -679,12 +657,6 @@
         <mark key="." line="25" column="59" />
         <mark key="^" line="25" column="59" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_approval_list_account.jsp" timestamp="1521176728774">
-        <mark key="'" line="28" column="24" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/structure/order/TbOrdrCart.java" timestamp="1521524169087">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -698,12 +670,7 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" timestamp="1521608698077">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/resource/SystemPropertyInitializingBean.java" timestamp="1521685364806" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/pom.xml" timestamp="1519789568024">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="46" column="21" />
@@ -716,12 +683,6 @@
         <mark key="]" line="12" column="57" />
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1521108724426">
-        <mark key="'" line="167" column="49" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1519278156628">
         <mark key="'" line="36" column="10" />
@@ -756,7 +717,7 @@
         <mark key="." line="213" column="47" />
         <mark key="^" line="213" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521681963696">
+      <file name="/Dummy.txt" timestamp="1521684902925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -847,16 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="199" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="200" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="201" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="215" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="216" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="217" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="218" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="235" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
-      <jump line="394" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="272" column="14" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="14" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" />
       <jump line="315" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
@@ -947,10 +898,20 @@
       <jump line="68" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_contents_view.jsp" />
       <jump line="45" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="434" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="444" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="315" column="61" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="414" column="72" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="420" column="129" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="423" column="159" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="445" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="666" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="178" column="72" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="184" column="86" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQk8dGggY2xhc3M9InRoMDEiPuyjvOusuOyekDwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7IUlTX0NBUlQgJiYgIWVtcHR5IG9yZGVyVk8ub3JkclVzZXJ9Ij4KCQkJCQkJCQk8YSBjbGFzcz0iZGVjby1saW5lIiBocmVmPSIjd2hvYXJleW91IiBvbmNsaWNrPSJjb21tb25GdW5jLnZpZXdVc2VyKCR7b3JkZXJWTy5vcmRyVXNlcn0pO3JldHVybiBmYWxzZTsiPgoJCQkJCQkJCQk8YzpvdXQgdmFsdWU9IiR7b3JkZXJWTy5vcmRyVXNlck5hbWV9Ii8+PGM6aWYgdGVzdD0iJHshZW1wdHkgb3JkZXJWTy5vcmRyRHB0eX0iPjxzdXA+KOS7oyk8L3N1cD48L2M6aWY+CgkJCQkJCQkJCS8gPGM6b3V0IHZhbHVlPSIke29yZGVyVk8ub3JkckRwbm19Ii8+CgkJCQkJCQkJPC9hPgoJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQk8c3BhbiBpZD0ib3JkZXItdXNlci1zZWxlY3RlZCI+CgkJCQkJCQkJPGM6b3V0IHZhbHVlPSIke1NFU1NJT04udXNlck5hbWV9Ii8+CgkJCQkJCQkJLyA8YzpvdXQgdmFsdWU9IiR7U0VTU0lPTi5kZXB0TmFtZX0iLz4KCQkJCQkJCTwvc3Bhbj4KCQkJCQkJCTwvYzpvdGhlcndpc2U+CgkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCTxjOmlmIHRlc3Q9IiR7REVQVVRZICYmIFNFU1NJT04ub3BlcmF0b3IgJiYgSVNfTkVXfSI+CgkJCQkJCTxzcGFuIGNsYXNzPSJyaWdodCIgaWQ9ImFkZE9yZGVyVXNlciI+CgkJCQkJCQk8YSBjbGFzcz0iYnRuIHNtIiBvbmNsaWNrPSJvcmRlckNvbW1vbi5hZGRVc2VyTGlzdCgnVScpO3JldHVybiBmYWxzZTsiIGhyZWY9IiNuZXciIGRhdGEtbXR5cGU9IlUiPuyjvOusuOyekCDshKDtg508L2E+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyVXNlciIgaWQ9Im9yZHJVc2VyIi8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyRGVwdCIgaWQ9Im9yZHJEZXB0Ii8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyRHBubSIgaWQ9Im9yZHJEcG5tIi8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRySm9idCIgaWQ9Im9yZHJKb2J0Ii8+CgkJCQkJCTwvc3Bhbj4KCQkJCQkJPC9jOmlmPgoJCQkJCTwvdGQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -959,13 +920,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>dlvy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCTx0Ym9keT4KCQkJCTxjOmNob29zZT4KCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7VklFV01PREV9Ij4KCQkJCQkJPHRyPgoJCQkJCQkJPHRoIGNsYXNzPSJ0aDAxIj7so7zrrLjrqoU8L3RoPgoJCQkJCQkJPHRkPjxiPjxjOm91dCB2YWx1ZT0iJHtvcmRlclZPLm9yZHJUaXRsfSIvPjwvYj48L3RkPgoJCQkJCQkJPHRoIGNsYXNzPSJ0aDAxIj7so7zrrLjrsojtmLg8L3RoPgoJCQkJCQkJPHRkPiR7b3JkZXJWTy5vcmRyTnVtYn08L3RkPgoJCQkJCQk8L3RyPgoJCQkJCTwvYzp3aGVuPgoJCQkJCTxjOm90aGVyd2lzZT4KCQkJCQkJPHRyPgoJCQkJCQkJPHRoIGNsYXNzPSJ0aDAxIG9yZHJUaXRsIj7so7zrrLjrqoU8c3BhbiBjbGFzcz0icmVxdWlyZWQiIGRhdGEtcmVxbXNnPSLso7zrrLjrqoXsnYQg7J6F66Cl7ZWY7Iut7Iuc7JikLiI+Kjwvc3Bhbj48L3RoPgoJCQkJCQkJPHRkPgoJCQkJCQkJCTxmb3JtOmlucHV0IHBhdGg9Im9yZHJUaXRsIiBkYXRhLW9yZGVydGl0bGU9IiR7b3JkZXJWTy5vcmRyVGl0bH0iIHJlYWRvbmx5PSJ0cnVlIi8+CgkJCQkJCQk8L3RkPgoJCQkJCQkJPHRoIGNsYXNzPSJ0aDAxIj7so7zrrLjrsojtmLg8L3RoPgoJCQkJCQkJPHRkPiR7ZW1wdHkgb3JkZXJWTy5vcmRyTnVtYiA/ICc8c3BhbiBjbGFzcz0ibi1hIj5OL0E8L3NwYW4+JyA6IG9yZGVyVk8ub3Jkck51bWJ9PC90ZD4KCQkJCQkJPC90cj4KCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJPC9jOmNob29zZT4KCQkJCTx0cj4KCQkJCQk8dGggY2xhc3M9InRoMDEiPuyjvOusuOyekDwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7IUlTX0NBUlQgJiYgIWVtcHR5IG9yZGVyVk8ub3JkclVzZXJ9Ij4KCQkJCQkJCQk8YSBjbGFzcz0iZGVjby1saW5lIiBocmVmPSIjd2hvYXJleW91IiBvbmNsaWNrPSJjb21tb25GdW5jLnZpZXdVc2VyKCR7b3JkZXJWTy5vcmRyVXNlcn0pO3JldHVybiBmYWxzZTsiPgoJCQkJCQkJCQk8YzpvdXQgdmFsdWU9IiR7b3JkZXJWTy5vcmRyVXNlck5hbWV9Ii8+PGM6aWYgdGVzdD0iJHshZW1wdHkgb3JkZXJWTy5vcmRyRHB0eX0iPjxzdXA+KOS7oyk8L3N1cD48L2M6aWY+CgkJCQkJCQkJCS8gPGM6b3V0IHZhbHVlPSIke29yZGVyVk8ub3JkckRwbm19Ii8+CgkJCQkJCQkJPC9hPgoJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQk8c3BhbiBpZD0ib3JkZXItdXNlci1zZWxlY3RlZCI+CgkJCQkJCQkJPGM6b3V0IHZhbHVlPSIke1NFU1NJT04udXNlck5hbWV9Ii8+CgkJCQkJCQkJLyA8YzpvdXQgdmFsdWU9IiR7U0VTU0lPTi5kZXB0TmFtZX0iLz4KCQkJCQkJCTwvc3Bhbj4KCQkJCQkJCTwvYzpvdGhlcndpc2U+CgkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCTxjOmlmIHRlc3Q9IiR7REVQVVRZICYmIFNFU1NJT04ub3BlcmF0b3IgJiYgSVNfTkVXfSI+CgkJCQkJCTxzcGFuIGNsYXNzPSJyaWdodCIgaWQ9ImFkZE9yZGVyVXNlciI+CgkJCQkJCQk8YSBjbGFzcz0iYnRuIHNtIiBvbmNsaWNrPSJvcmRlckNvbW1vbi5hZGRVc2VyTGlzdCgnVScpO3JldHVybiBmYWxzZTsiIGhyZWY9IiNuZXciIGRhdGEtbXR5cGU9IlUiPuyjvOusuOyekCDshKDtg508L2E+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyVXNlciIgaWQ9Im9yZHJVc2VyIi8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyRGVwdCIgaWQ9Im9yZHJEZXB0Ii8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyRHBubSIgaWQ9Im9yZHJEcG5tIi8+CQoJCQkJCQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ib3JkckpvYnQiIGlkPSJvcmRySm9idCIvPgkKCQkJCQkJPC9zcGFuPgoJCQkJCQk8L2M6aWY+CgkJCQkJPC90ZD4KCQkJCQk8dGggY2xhc3M9InRoMDEiPuuLqOqwgDwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7SVNfQlVORExFfSI+CgkJCQkJCQkJPHNwYW4gY2xhc3M9Im4tYSI+Ti9BPC9zcGFuPgoJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQkJPGM6Y2hvb3NlPgoJCQkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7SVNfTkVXIHx8IElTX0NBUlR9Ij4KCQkJCQkJCQkJCTxjOmNob29zZT4KCQkJCQkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7IWVtcHR5IGdvb2RzVk8uZ29vZE1vbnl9Ij4KCQkJCQkJCQkJCQkJPGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7Z29vZHNWTy5nb29kTW9ueX0iLz7sm5AKCQkJCQkJCQkJCQk8L2M6d2hlbj4KCQkJCQkJCQkJCQk8YzpvdGhlcndpc2U+6rKs7KCB7IOB7ZKIPC9jOm90aGVyd2lzZT4KCQkJCQkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCQkJCTwvYzp3aGVuPgoJCQkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQkJCQkJPGM6d2hlbiB0ZXN0PSIkeyFlbXB0eSBvcmRlclZPLmdvb2RNb255fSI+CgkJCQkJCQkJCQkJCTxmbXQ6Zm9ybWF0TnVtYmVyIHZhbHVlPSIke29yZGVyVk8uZ29vZE1vbnl9Ii8+7JuQCgkJCQkJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQkJCQkJPGM6b3RoZXJ3aXNlPuqyrOyggeyDge2SiDwvYzpvdGhlcndpc2U+CgkJCQkJCQkJCQk8L2M6Y2hvb3NlPgoJCQkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQk8L2M6Y2hvb3NlPgoJCQkJCTwvdGQ+CgkJCQk8L3RyPgoJCQkJPHRyPgoJCQkJCTxjOmNob29zZT4KCQkJCQkJPGM6d2hlbiB0ZXN0PSIke0lTX0NBUlR9Ij4KCQkJCQkJCTx0aCBjbGFzcz0idGgwMSI+7KCA7J6l7J287IucPC90aD4KCQkJCQkJCTx0ZD4KCQkJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQkJCTxjOndoZW4gdGVzdD0iJHshZW1wdHkgb3JkZXJWTy5vcmRyRHR0bX0iPgoJCQkJCQkJCQkJPHdlYmRkcHRhZ3M6Zm9ybWF0RGF0ZSB2YWx1ZT0iJHtvcmRlclZPLm9yZHJEdHRtfSIgZm9ybWF0PSJtaW4iLz4KCQkJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQkJCTxjOm90aGVyd2lzZT48c3BhbiBjbGFzcz0ibi1hIj5OL0E8L3NwYW4+PC9jOm90aGVyd2lzZT4KCQkJCQkJCQk8L2M6Y2hvb3NlPgoJCQkJCQkJPC90ZD4KCQkJCQkJPC9jOndoZW4+CgkJCQkJCTxjOm90aGVyd2lzZT4KCQkJCQkJCTx0aCBjbGFzcz0idGgwMSI+7KO866y47J287IucPC90aD4KCQkJCQkJCTx0ZD4KCQkJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQkJCTxjOndoZW4gdGVzdD0iJHshSVNfTkVXfSI+CgkJCQkJCQkJCQk8d2ViZGRwdGFnczpmb3JtYXREYXRlIHZhbHVlPSIke29yZGVyVk8ub3JkckR0dG19IiBmb3JtYXQ9Im1pbiIvPgoJCQkJCQkJCQkJPGM6aWYgdGVzdD0iJHshZW1wdHkgb3JkZXJWTy5tZGZ5RHR0bX0iPgoJCQkJCQkJCQkJPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyIgY2xhc3M9InJpZ2h0Ij4KCQkJCQkJCQkJCQko7LWc7KKF7IiY7KCVIDogPGM6b3V0IHZhbHVlPSIke29yZGVyVk8ubWRmeVVzZXJOYW1lfSIvPjx3ZWJkZHB0YWdzOmZvcm1hdERhdGUgdmFsdWU9IiR7b3JkZXJWTy5tZGZ5RHR0bX0iIGZvcm1hdD0ibWluIiBkZXNpZ249ImNsb2NrIi8+KQoJCQkJCQkJCQkJPC9zcGFuPgoJCQkJCQkJCQkJPC9jOmlmPgoJCQkJCQkJCQk8L2M6d2hlbj4KCQkJCQkJCQkJPGM6b3RoZXJ3aXNlPjxzcGFuIGNsYXNzPSJuLWEiPk4vQTwvc3Bhbj48L2M6b3RoZXJ3aXNlPgoJCQkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCQk8L3RkPgoJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCTwvYzpjaG9vc2U+CgkJCQkJPHRoIGNsYXNzPSJ0aDAxIj7so7zrrLjsiJjrn4k8YzppZiB0ZXN0PSIkeyFJU19CVU5ETEUgJiYgKCghVklFV01PREUgJiYgSEFTX1BSSUNFKSB8fCBJU19DQVJUKX0iPjxzcGFuIGNsYXNzPSJyZXF1aXJlZCIgZGF0YS1yZXFtc2c9IuyjvOusuOyImOufieydhCDsnoXroKXtlZjsi63si5zsmKQuIj4qPC9zcGFuPjwvYzppZj48L3RoPgoJCQkJCTx0ZD4KCQkJCQkJPGM6Y2hvb3NlPgoJCQkJCQkJPGM6d2hlbiB0ZXN0PSIke1ZJRVdNT0RFfSI+CgkJCQkJCQkJPGM6Y2hvb3NlPgoJCQkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7ZW1wdHkgb3JkZXJWTy5vcmRyQW1udCB8fCBvcmRlclZPLm9yZHJBbW50ID09IDB9Ij4KCQkJCQkJCQkJCTxzcGFuIGNsYXNzPSJuLWEiPk4vQTwvc3Bhbj4KCQkJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQkJCTxjOm90aGVyd2lzZT4KCQkJCQkJCQkJCTxmbXQ6Zm9ybWF0TnVtYmVyIHZhbHVlPSIke29yZGVyVk8ub3JkckFtbnR9Ii8+CgkJCQkJCQkJCTwvYzpvdGhlcndpc2U+CgkJCQkJCQkJPC9jOmNob29zZT4KCQkJCQkJCTwvYzp3aGVuPgoJCQkJCQkJPGM6b3RoZXJ3aXNlPgoJCQkJCQkJCTxjOmNob29zZT4KCQkJCQkJCQkJPGM6d2hlbiB0ZXN0PSIke0lTX0JVTkRMRX0iPgoJCQkJCQkJCQkJPHNwYW4gY2xhc3M9Im4tYSI+Ti9BPC9zcGFuPgoJCQkJCQkJCQkJPGZvcm06aGlkZGVuIHBhdGg9Im9yZHJBbW50Ii8+CgkJCQkJCQkJCTwvYzp3aGVuPgoJCQkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQkJCQk8Zm9ybTppbnB1dCBwYXRoPSJvcmRyQW1udCIgY3NzQ2xhc3M9Im51bWJlciIgc3R5bGU9IndpZHRoOjcwcHg7IiBkYXRhLXVuaXRtb25leT0iJHtnb29kc1ZPLmdvb2RNb255fSIvPgoJCQkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQk8L2M6Y2hvb3NlPgoJCQkJCTwvdGQ+CgkJCQk8L3RyPgoJCQkJPHRyPgoJCQkJCTx0aCBjbGFzcz0idGgwMSI+64Kp6riw7JqU7LKt7J28PC90aD4KCQkJCQk8dGQ+CgkJCQkJCTxjOmNob29zZT4KCQkJCQkJCTxjOndoZW4gdGVzdD0iJHtWSUVXTU9ERX0iPgoJCQkJCQkJCTx3ZWJkZHB0YWdzOmZvcm1hdERhdGUgdmFsdWU9IiR7b3JkZXJWTy5kbHZ5UnFkdH0iLz4KCQkJCQkJCTwvYzp3aGVuPgoJCQkJCQkJPGM6b3RoZXJ3aXNlPgoJCQkJCQkJCTxkaXYgY2xhc3M9ImRhdGVwaWNrZXItdyI+CgkJCQkJCQkJCTxjOmNob29zZT4KCQkJCQkJCQkJCTxjOndoZW4gdGVzdD0iJHtJU19ORVcgfHwgSVNfQ0FSVH0iPgoJCQkJCQkJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZGF0ZXBpY2tlciIgaWQ9ImRsdnlScWR0IiBuYW1lPSJkbHZ5UnFkdCIgdmFsdWU9IiR7b3JkZXJWTy5kbHZ5UnFkdH0iIHJlYWRvbmx5PSJyZWFkb25seSIvPgoJCQkJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQkJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJkYXRlcGlja2VyIiBpZD0iZGx2eVJxZHQiIG5hbWU9ImRsdnlScWR0IiB2YWx1ZT0iPHdlYmRkcHRhZ3M6Zm9ybWF0RGF0ZSB2YWx1ZT0iJHtvcmRlclZPLmRsdnlScWR0fSIvPiIgcmVhZG9ubHk9InJlYWRvbmx5Ii8+CgkJCQkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQkJCQk8L2M6Y2hvb3NlPgoJCQkJCQkJCQk8YzppZiB0ZXN0PSIke0lTX05FVyB8fCBJU19DQVJUfSI+CgkJCQkJCQkJCQkoKyR7Z29vZHNWTy5jb21wVGVybX3snbwpCgkJCQkJCQkJCTwvYzppZj4KCQkJCQkJCQk8L2Rpdj4KCQkJCQkJCTwvYzpvdGhlcndpc2U+CgkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCTxjOmlmIHRlc3Q9IiR7IWVtcHR5IG9yZGVyVk8uY29tcGxldGVEdHRtfSI+CgkJCQkJCTxzcGFuIHN0eWxlPSJmb250LXNpemU6MTRweDsiIGNsYXNzPSJyaWdodCI+CgkJCQkJCQko7JmE66OMIDx3ZWJkZHB0YWdzOmZvcm1hdERhdGUgdmFsdWU9IiR7b3JkZXJWTy5jb21wbGV0ZUR0dG19IiBmb3JtYXQ9Im1pbiIgZGVzaWduPSJjbG9jazAiLz4pCgkJCQkJCTwvc3Bhbj4KCQkJCQkJPC9jOmlmPgoJCQkJCTwvdGQ+CgkJCQkJPHRoIGNsYXNzPSJ0aDAxIj4ke0hBU19QUklDRSB8fCBJU19CVU5ETEUgPyAn7KO866y4JyA6ICfqsqzsoIEnfeq4iOyVoTwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8Zm9ybTppbnB1dCBwYXRoPSJvcmRyTW9ueSIgY3NzQ2xhc3M9Im51bWJlciIgcmVhZG9ubHk9IiR7KCFWSUVXTU9ERSBhbmQgaXNPcGVyYXRvciA9PSAndHJ1ZScpID8gJ2ZhbHNlJyA6ICd0cnVlJ30iLz4KCQkJCQk8L3RkPgoJCQkJPC90cj4KCQkJCTxjOmlmIHRlc3Q9IiR7U0VTU0lPTi51c2VyVk8uaXNCemNkTWFuYWdlciA9PSAnWScgb3IgU0VTU0lPTi51c2VyVk8uaXNPcmRyTWFuYWdlciA9PSAnWSd9Ij4KCQkJCQk8dHI+CgkJCQkJCTx0aCBjbGFzcz0idGgwMSI+CgkJCQkJCQk8bGFiZWw+7Lac66Cl7JeF7LK0PC9sYWJlbD4KCQkJCQkJCTxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj4KCQkJCQkJPC90aD4KCQkJCQkJPHRkIGNvbHNwYW49IjMiPgoJCQkJCQkJPGZvcm06c2VsZWN0IHBhdGg9Im91dHBWbmRyIiBjc3NDbGFzcz0ia3BtZ09wdCIgZGlzYWJsZWQ9IiR7VklFV01PREUgPyAndHJ1ZScgOiAnZmFsc2UnfSI+CgkJCQkJCQkJPGZvcm06b3B0aW9uIHZhbHVlPSIiPuyEoO2DnTwvZm9ybTpvcHRpb24+CgkJCQkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHt2ZW5kb3JzfSIgaXRlbVZhbHVlPSJjb2RlIiBpdGVtTGFiZWw9Im5hbWUiLz4KCQkJCQkJCTwvZm9ybTpzZWxlY3Q+CgkJCQkJCTwvdGQ+CgkJCQkJPC90cj4KCQkJCTwvYzppZj4KCQkJCTx0cj4KCQkJCQk8YzpjaG9vc2U+CgkJCQkJCTxjOndoZW4gdGVzdD0iJHtJU19ORVcgfHwgSVNfQ0FSVH0iPgoJCQkJCQkJPHRoIGNsYXNzPSJ0aDAxIj7sspjrpqzqs7zsoJU8L3RoPgoJCQkJCQkJPHRkIGNvbHNwYW49IjMiPgoJCQkJCQkJCTxhIGNsYXNzPSJkZWNvLWxpbmUiIGhyZWY9IiNwcm9jZXNzIiBvbmNsaWNrPSJvcmRlclByb2Nlc3Mudmlld0dvb2RzUHJvY2VzcygnJHtvcmRlclZPLmdvb2RNc3RyfScpO3JldHVybiBmYWxzZTsiIHRpdGxlPSLso7zrrLgg7ZSE66Gc7IS47IqkIOyDgeyEuOuztOq4sCI+CgkJCQkJCQkJCTxjOmZvckVhY2ggdmFyPSJwbGlzdCIgaXRlbXM9IiR7b3JkZXJWTy5wcm9jZXNzTGlzdH0iIHZhclN0YXR1cz0iaSI+CgkJCQkJCQkJCQk8YzppZiB0ZXN0PSIke2kuaW5kZXggPiAwfSI+Jm5ic3A7JnJhcnI7Jm5ic3A7PC9jOmlmPgoJCQkJCQkJCQkJPHNwYW4gY2xhc3M9InByb2Nlc3MiPjxjOm91dCB2YWx1ZT0iJHtwbGlzdC5wcm9jTmFtZX0iLz48L3NwYW4+CgkJCQkJCQkJCTwvYzpmb3JFYWNoPgoJCQkJCQkJCTwvYT4KCQkJCQkJCTwvdGQ+CgkJCQkJCTwvYzp3aGVuPgoJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQk8dGggY2xhc3M9InRoMDEiPuyymOumrOyDge2DnDwvdGg+CgkJCQkJCQk8dGQgY29sc3Bhbj0iMyI+CgkJCQkJCQkJPGEgY2xhc3M9ImRlY28tbGluZSIgaHJlZj0iI3Byb2Nlc3MiIG9uY2xpY2s9Im9yZGVyUHJvY2Vzcy52aWV3T3JkZXJQcm9jZXNzKCcke29yZGVyVk8ub3JkckNvZGV9Jyk7cmV0dXJuIGZhbHNlOyIgdGl0bGU9IuyjvOusuCDtlITroZzshLjsiqQg7IOB7IS467O06riwIj4KCQkJCQkJCQkJPGM6Zm9yRWFjaCB2YXI9InBsaXN0IiBpdGVtcz0iJHtvcmRlclZPLnByb2Nlc3NMaXN0fSIgdmFyU3RhdHVzPSJpIj4KCQkJCQkJCQkJCTxjOnNldCB2YXI9IkNTU19QUk9DRVNTRUQiIHZhbHVlPSIkeyFlbXB0eSBwbGlzdC5wcm9jRHR0bSA/ICdwcm9jZXNzZWQnIDogJyd9Ii8+CgkJCQkJCQkJCQk8YzpzZXQgdmFyPSJDU1NfQ1VSUkVOVCIgICB2YWx1ZT0iJHtvcmRlclZPLnByb2NVbml0ID09IHBsaXN0LnByb2NDb2RlID8gJ2N1cnJlbnQnIDogJyd9Ii8+CgkJCQkJCQkJCQk8YzppZiB0ZXN0PSIke2kuaW5kZXggPiAwfSI+Jm5ic3A7JnJhcnI7Jm5ic3A7PC9jOmlmPgoJCQkJCQkJCQkJPHNwYW4gY2xhc3M9InByb2Nlc3MgJHtDU1NfUFJPQ0VTU0VEfSAke0NTU19DVVJSRU5UfSBzdGF0dXMtJHtwbGlzdC5wcm9jQ29kZX0iPjxjOm91dCB2YWx1ZT0iJHtwbGlzdC5wcm9jTmFtZX0iLz48L3NwYW4+CgkJCQkJCQkJCTwvYzpmb3JFYWNoPgoJCQkJCQkJCTwvYT4KCQkJCQkJCTwvdGQ+CgkJCQkJCTwvYzpvdGhlcndpc2U+CgkJCQkJPC9jOmNob29zZT4KCQkJCTwvdHI+CgkJCQk8YzppZiB0ZXN0PSIke0lTX0NBUlQgfHwgSVNfTkVXfSI+CgkJCQkJPHRyPgoJCQkJCQk8dGggY2xhc3M9InRoMDEiPuyjvOusuOuplOuqqDwvdGg+CgkJCQkJCTx0ZCBjb2xzcGFuPSIzIiBzdHlsZT0icGFkZGluZzoxMHB4OyI+CgkJCQkJCQk8dGV4dGFyZWEgaWQ9Im1lbW9jb250LW9yZGVyIiBuYW1lPSJtZW1vQ29udCIgY2xhc3M9IncxMDBwIiBzdHlsZT0ibWluLWhlaWdodDo1MHB4OyBwYWRkaW5nOjVweCAxMHB4OyI+PC90ZXh0YXJlYT4KCQkJCQkJPC90ZD4KCQkJCQk8L3RyPgoJCQkJPC9jOmlmPgoKCQkJCQk8JS0tIOuzuOusuCDsnbTrr7jsp4AgLS0lPgoJCQkJPGM6aWYgdGVzdD0iJHshZW1wdHkgZ29vZHNWTy5jb250SW1tZ30iPgoJCQkJCTx0cj4KCQkJCQkJPHRkIGNvbHNwYW49IjQiIHN0eWxlPSJwYWRkaW5nOjBweDsiPgoJCQkJCQkJPGltZyBzcmM9IiR7UEFUSF9USFVNQl9HT09EU30vJHtnb29kc1ZPLmNvbnRJbW1nfSIgb25lcnJvcj0idGhpcy5zcmM9JyR7UEFUSF9JTUd9L25vLWltYWdlLmdpZiciIDxjOmlmIHRlc3Q9IiR7IWVtcHR5IGdvb2RzVk8uY29udEltbWd9Ij5zdHlsZT0id2lkdGg6MTAwJTsiPC9jOmlmPj4KCQkJCQkJPC90ZD4KCQkJCQk8L3RyPgoJCQkJPC9jOmlmPgoJCQkJPC90Ym9keT4K</text>
+      <register name="0" type="4">
+        <text>dlvyRqdt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQk8dGggY2xhc3M9InRoMDEiPuyjvOusuOyekDwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8YzpjaG9vc2U+CgkJCQkJCQk8Yzp3aGVuIHRlc3Q9IiR7IUlTX0NBUlQgJiYgIWVtcHR5IG9yZGVyVk8ub3JkclVzZXJ9Ij4KCQkJCQkJCQk8YSBjbGFzcz0iZGVjby1saW5lIiBocmVmPSIjd2hvYXJleW91IiBvbmNsaWNrPSJjb21tb25GdW5jLnZpZXdVc2VyKCR7b3JkZXJWTy5vcmRyVXNlcn0pO3JldHVybiBmYWxzZTsiPgoJCQkJCQkJCQk8YzpvdXQgdmFsdWU9IiR7b3JkZXJWTy5vcmRyVXNlck5hbWV9Ii8+PGM6aWYgdGVzdD0iJHshZW1wdHkgb3JkZXJWTy5vcmRyRHB0eX0iPjxzdXA+KOS7oyk8L3N1cD48L2M6aWY+CgkJCQkJCQkJCS8gPGM6b3V0IHZhbHVlPSIke29yZGVyVk8ub3JkckRwbm19Ii8+CgkJCQkJCQkJPC9hPgoJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQk8c3BhbiBpZD0ib3JkZXItdXNlci1zZWxlY3RlZCI+CgkJCQkJCQkJPGM6b3V0IHZhbHVlPSIke1NFU1NJT04udXNlck5hbWV9Ii8+CgkJCQkJCQkJLyA8YzpvdXQgdmFsdWU9IiR7U0VTU0lPTi5kZXB0TmFtZX0iLz4KCQkJCQkJCTwvc3Bhbj4KCQkJCQkJCTwvYzpvdGhlcndpc2U+CgkJCQkJCTwvYzpjaG9vc2U+CgkJCQkJCTxjOmlmIHRlc3Q9IiR7REVQVVRZICYmIFNFU1NJT04ub3BlcmF0b3IgJiYgSVNfTkVXfSI+CgkJCQkJCTxzcGFuIGNsYXNzPSJyaWdodCIgaWQ9ImFkZE9yZGVyVXNlciI+CgkJCQkJCQk8YSBjbGFzcz0iYnRuIHNtIiBvbmNsaWNrPSJvcmRlckNvbW1vbi5hZGRVc2VyTGlzdCgnVScpO3JldHVybiBmYWxzZTsiIGhyZWY9IiNuZXciIGRhdGEtbXR5cGU9IlUiPuyjvOusuOyekCDshKDtg508L2E+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyVXNlciIgaWQ9Im9yZHJVc2VyIi8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyRGVwdCIgaWQ9Im9yZHJEZXB0Ii8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRyRHBubSIgaWQ9Im9yZHJEcG5tIi8+CgkJCQkJCQk8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvcmRySm9idCIgaWQ9Im9yZHJKb2J0Ii8+CgkJCQkJCTwvc3Bhbj4KCQkJCQkJPC9jOmlmPgoJCQkJCTwvdGQ+Cg==</text>
@@ -1018,9 +979,9 @@
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>dlvy</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>dlvy</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -1028,10 +989,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJU19DQVJUXD4=</entry>
-        <entry>pageMony</entry>
-        <entry>인쇄</entry>
-        <entry>out</entry>
         <entry>수정</entry>
         <entry encoding="base64">XDxidXR0b25NYXBcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUtwbWdPcHRcPg==</entry>
@@ -1048,6 +1005,10 @@
         <entry>ADMIN</entry>
         <entry encoding="base64">XDxzZXNzaW9uSW5mb1w+</entry>
         <entry>admin</entry>
+        <entry>webPath</entry>
+        <entry encoding="base64">XDxkbHZ5UnFkdFw+</entry>
+        <entry>dly</entry>
+        <entry>dlvy</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
