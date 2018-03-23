@@ -121,12 +121,11 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-ajax.js" timestamp="1521706752997">
         <mark key="'" line="15" column="12" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" timestamp="1521700451621">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" timestamp="1521770318132">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="54" column="35" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/AuthenticationAgentRequestBuilder.java" timestamp="1520831556604">
         <mark key="'" line="204" column="34" />
@@ -744,11 +743,11 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1521711247959">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1521769799932">
         <mark key="'" line="196" column="0" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="298" column="41" />
-        <mark key="." line="221" column="0" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="308" column="102" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1519278156628">
         <mark key="'" line="36" column="10" />
@@ -980,7 +979,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlsaW5lLWhlaWdodDogMS4zOwo=</text>
+        <text encoding="base64">CQlleGNlbENvbnRlbnQucHV0KCJ5ZWFyIiwgc2VhcmNoVk8uZ2V0RnJvbURhdGUoKSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -989,28 +988,28 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getSearchYear()</text>
       </register>
       <register name="/" type="4">
         <text>attrtxt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCTxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJiemNkVG1wbCIgCQkJdmFsdWU9IiR7Z29vZHNWTy5iemNkVG1wbH0iLz4K</text>
+        <text encoding="base64">CQlleGNlbENvbnRlbnQucHV0KCJhY2NvdW50RGF0ZSIsIHNlYXJjaFZPLmdldEZyb21EYXRlKCkgKyAiIH4gIiArIHNlYXJjaFZPLmdldFRvRGF0ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsaW5lLWhlaWdodDogMS4zOwo=</text>
+        <text encoding="base64">CQlleGNlbENvbnRlbnQucHV0KCJ5ZWFyIiwgc2VhcmNoVk8uZ2V0RnJvbURhdGUoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJd2lkdGggICA6IHdkdGgrJ3B4Jwo=</text>
+        <text encoding="base64">CQkJCQkJPCUtLTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImZyb250Qml6Y2FyZFZPLnNpZGVUeXBlIiB2YWx1ZT0iJHtTSURFX0ZST05UfSIvPi0tJT4KCQkJCQkJPCUtLTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImJhY2tCaXpjYXJkVk8uc2lkZVR5cGUiICB2YWx1ZT0iJHtTSURFX0JBQ0t9Ii8+LS0lPgo=</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsaW5lLWhlaWdodDogMS4zOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTp0ZXh0Cg==</text>
+        <text encoding="base64">CQkJd2lkdGggICA6IHdkdGgrJ3B4Jwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -1019,7 +1018,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImJ6Y2RUbXBsIiAJCQl2YWx1ZT0iJHtnb29kc1ZPLmJ6Y2RUbXBsfSIvPgo=</text>
+        <text encoding="base64">CTp0ZXh0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1038,10 +1037,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZAo=</text>
+        <text encoding="base64">CQkJPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImJ6Y2RUbXBsIiAJCQl2YWx1ZT0iJHtnb29kc1ZPLmJ6Y2RUbXBsfSIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPGZvcm06aGlkZGVuIHBhdGg9ImJ6Y2RUbXBsIiAJCQl2YWx1ZT0iJHtnb29kc1ZPLmJ6Y2RUbXBsfSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
