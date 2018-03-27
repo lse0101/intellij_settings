@@ -639,7 +639,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522125303068">
+      <file name="/Dummy.txt" timestamp="1522127156919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -802,8 +802,11 @@
       <jump line="607" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>명함상품을 장바구니에 넣을시 생기는 버그 수정한다
+
+- 장바구니에 있는 명함상품을 불러올시 옵션정보가 제대로 불러오지 않는 문제를 수정한다
+- 기존의</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -820,8 +823,11 @@
       <register name="0" type="2">
         <text encoding="base64">KGZ1bmN0aW9uKCl7aWYoalF1ZXJ5JiZqUXVlcnkuZm4mJmpRdWVyeS5mbi5zZWxlY3QyJiZqUXVlcnkuZm4uc2VsZWN0Mi5hbWQpdmFyIGU9alF1ZXJ5LmZuLnNlbGVjdDIuYW1kO3JldHVybiBlLmRlZmluZSgic2VsZWN0Mi9pMThuL2tvIixbXSxmdW5jdGlvbigpe3JldHVybntlcnJvckxvYWRpbmc6ZnVuY3Rpb24oKXtyZXR1cm4i6rKw6rO866W8IOu2iOufrOyYrCDsiJgg7JeG7Iq164uI64ukLiJ9LGlucHV0VG9vTG9uZzpmdW5jdGlvbihlKXt2YXIgdD1lLmlucHV0Lmxlbmd0aC1lLm1heGltdW0sbj0i64SI66y0IOq5geuLiOuLpC4gIit0KyIg6riA7J6QIOyngOybjOyjvOyEuOyalC4iO3JldHVybiBufSxpbnB1dFRvb1Nob3J0OmZ1bmN0aW9uKGUpe3ZhciB0PWUubWluaW11bS1lLmlucHV0Lmxlbmd0aCxuPSLrhIjrrLQg7Ken7Iq164uI64ukLiAiK3QrIiDquIDsnpAg642UIOyeheugpe2VtOyjvOyEuOyalC4iO3JldHVybiBufSxsb2FkaW5nTW9yZTpmdW5jdGlvbigpe3JldHVybiLrtojrn6zsmKTripQg7KSR4oCmIn0sbWF4aW11bVNlbGVjdGVkOmZ1bmN0aW9uKGUpe3ZhciB0PSLstZzrjIAgIitlLm1heGltdW0rIuqwnOq5jOyngOunjCDshKDtg50g6rCA64ql7ZWp64uI64ukLiI7cmV0dXJuIHR9LG5vUmVzdWx0czpmdW5jdGlvbigpe3JldHVybiLqsrDqs7zqsIAg7JeG7Iq164uI64ukLiJ9LHNlYXJjaGluZzpmdW5jdGlvbigpe3JldHVybiLqsoDsg4kg7KSR4oCmIn19fSkse2RlZmluZTplLmRlZmluZSxyZXF1aXJlOmUucmVxdWlyZX19KSgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>명함상품을 장바구니에 넣을시 생기는 버그 수정한다
+
+- 장바구니에 있는 명함상품을 불러올시 옵션정보가 제대로 불러오지 않는 문제를 수정한다
+- 기존의</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -864,7 +870,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uKCl7aWYoalF1ZXJ5JiZqUXVlcnkuZm4mJmpRdWVyeS5mbi5zZWxlY3QyJiZqUXVlcnkuZm4uc2VsZWN0Mi5hbWQpdmFyIGU9alF1ZXJ5LmZuLnNlbGVjdDIuYW1kO3JldHVybiBlLmRlZmluZSgic2VsZWN0Mi9pMThuL2tvIixbXSxmdW5jdGlvbigpe3JldHVybntlcnJvckxvYWRpbmc6ZnVuY3Rpb24oKXtyZXR1cm4i6rKw6rO866W8IOu2iOufrOyYrCDsiJgg7JeG7Iq164uI64ukLiJ9LGlucHV0VG9vTG9uZzpmdW5jdGlvbihlKXt2YXIgdD1lLmlucHV0Lmxlbmd0aC1lLm1heGltdW0sbj0i64SI66y0IOq5geuLiOuLpC4gIit0KyIg6riA7J6QIOyngOybjOyjvOyEuOyalC4iO3JldHVybiBufSxpbnB1dFRvb1Nob3J0OmZ1bmN0aW9uKGUpe3ZhciB0PWUubWluaW11bS1lLmlucHV0Lmxlbmd0aCxuPSLrhIjrrLQg7Ken7Iq164uI64ukLiAiK3QrIiDquIDsnpAg642UIOyeheugpe2VtOyjvOyEuOyalC4iO3JldHVybiBufSxsb2FkaW5nTW9yZTpmdW5jdGlvbigpe3JldHVybiLrtojrn6zsmKTripQg7KSR4oCmIn0sbWF4aW11bVNlbGVjdGVkOmZ1bmN0aW9uKGUpe3ZhciB0PSLstZzrjIAgIitlLm1heGltdW0rIuqwnOq5jOyngOunjCDshKDtg50g6rCA64ql7ZWp64uI64ukLiI7cmV0dXJuIHR9LG5vUmVzdWx0czpmdW5jdGlvbigpe3JldHVybiLqsrDqs7zqsIAg7JeG7Iq164uI64ukLiJ9LHNlYXJjaGluZzpmdW5jdGlvbigpe3JldHVybiLqsoDsg4kg7KSR4oCmIn19fSkse2RlZmluZTplLmRlZmluZSxyZXF1aXJlOmUucmVxdWlyZX19KSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
