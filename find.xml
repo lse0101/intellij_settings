@@ -5,37 +5,15 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.*</mask>
-      <mask>*.jxml</mask>
-      <mask>*.jxm</mask>
-      <mask>*.jx</mask>
-      <mask>ja</mask>
-      <mask>jav</mask>
-      <mask>java</mask>
-      <mask>*.ja</mask>
-      <mask>*.ㅓ</mask>
-      <mask>*</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
-      <mask>*.propertie</mask>
-      <mask>*.prope</mask>
-      <mask>*.prop</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
-      <mask>*.xml</mask>
-      <mask>*.css</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
