@@ -84,6 +84,9 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="69" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" timestamp="1522211337372">
+        <mark key="'" line="4" column="23" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/ImageLogParserTest.java" timestamp="1519215383068">
         <mark key="'" line="710" column="4" />
         <mark key="[" line="485" column="47" />
@@ -144,6 +147,11 @@
         <mark key="]" line="56" column="28" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_manage_inner_list.jsp" timestamp="1522211653846">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" timestamp="1521711549670">
         <mark key="'" line="72" column="37" />
@@ -238,6 +246,12 @@
         <mark key="]" line="59" column="31" />
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_approval_list_inner_list.jsp" timestamp="1522211560743">
+        <mark key="[" line="27" column="79" />
+        <mark key="]" line="27" column="91" />
+        <mark key="." line="27" column="91" />
+        <mark key="^" line="27" column="91" />
       </file>
       <file name="/a.sql" timestamp="1521775701548">
         <mark key="[" line="0" column="0" />
@@ -456,8 +470,8 @@
         <mark key="." line="68" column="178" />
         <mark key="^" line="68" column="178" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_manage_list.jsp" timestamp="1522054487635">
-        <mark key="'" line="87" column="12" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_manage_list.jsp" timestamp="1522211693365">
+        <mark key="'" line="30" column="24" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="159" />
         <mark key="^" line="91" column="60" />
@@ -648,7 +662,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522127156919">
+      <file name="/Dummy.txt" timestamp="1522211731704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -701,7 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderCartServiceImpl.java" />
       <jump line="259" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderServiceImpl.java" />
       <jump line="205" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderCartServiceImpl.java" />
       <jump line="48" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderCartServiceImpl.java" />
@@ -738,7 +751,6 @@
       <jump line="338" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" />
       <jump line="192" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderCartController.java" />
-      <jump line="4" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" />
       <jump line="162" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderCartServiceImpl.java" />
       <jump line="175" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderCartServiceImpl.java" />
       <jump line="47" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/spring-webmvc-4.2.3.RELEASE.jar!/org/springframework/web/servlet/view/AbstractView.class" />
@@ -801,13 +813,12 @@
       <jump line="99" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
       <jump line="106" column="50" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="567" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="4" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_1.sql" />
+      <jump line="30" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_manage_list.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>명함상품을 장바구니에 넣을시 생기는 버그 수정한다
-
-- 장바구니에 있는 명함상품을 불러올시 옵션정보가 제대로 불러오지 않는 문제를 수정한다
-- 기존의</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJPGEgY2xhc3M9ImRlY28tbGluZSIgaHJlZj0iI3ZpZXciIG9uY2xpY2s9Im9yZGVyQ29tbW9uLm1vZGZvcm1PcmRlcignJHtsaXN0Lm9yZHJDb2RlfScpO3JldHVybiBmYWxzZTsiPgo=</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -816,22 +827,22 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.kpmgop</text>
+        <text>viewOrder</text>
       </register>
       <register name="/" type="4">
-        <text>script</text>
+        <text>view</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uKCl7aWYoalF1ZXJ5JiZqUXVlcnkuZm4mJmpRdWVyeS5mbi5zZWxlY3QyJiZqUXVlcnkuZm4uc2VsZWN0Mi5hbWQpdmFyIGU9alF1ZXJ5LmZuLnNlbGVjdDIuYW1kO3JldHVybiBlLmRlZmluZSgic2VsZWN0Mi9pMThuL2tvIixbXSxmdW5jdGlvbigpe3JldHVybntlcnJvckxvYWRpbmc6ZnVuY3Rpb24oKXtyZXR1cm4i6rKw6rO866W8IOu2iOufrOyYrCDsiJgg7JeG7Iq164uI64ukLiJ9LGlucHV0VG9vTG9uZzpmdW5jdGlvbihlKXt2YXIgdD1lLmlucHV0Lmxlbmd0aC1lLm1heGltdW0sbj0i64SI66y0IOq5geuLiOuLpC4gIit0KyIg6riA7J6QIOyngOybjOyjvOyEuOyalC4iO3JldHVybiBufSxpbnB1dFRvb1Nob3J0OmZ1bmN0aW9uKGUpe3ZhciB0PWUubWluaW11bS1lLmlucHV0Lmxlbmd0aCxuPSLrhIjrrLQg7Ken7Iq164uI64ukLiAiK3QrIiDquIDsnpAg642UIOyeheugpe2VtOyjvOyEuOyalC4iO3JldHVybiBufSxsb2FkaW5nTW9yZTpmdW5jdGlvbigpe3JldHVybiLrtojrn6zsmKTripQg7KSR4oCmIn0sbWF4aW11bVNlbGVjdGVkOmZ1bmN0aW9uKGUpe3ZhciB0PSLstZzrjIAgIitlLm1heGltdW0rIuqwnOq5jOyngOunjCDshKDtg50g6rCA64ql7ZWp64uI64ukLiI7cmV0dXJuIHR9LG5vUmVzdWx0czpmdW5jdGlvbigpe3JldHVybiLqsrDqs7zqsIAg7JeG7Iq164uI64ukLiJ9LHNlYXJjaGluZzpmdW5jdGlvbigpe3JldHVybiLqsoDsg4kg7KSR4oCmIn19fSkse2RlZmluZTplLmRlZmluZSxyZXF1aXJlOmUucmVxdWlyZX19KSgpOwo=</text>
+        <text encoding="base64">CQkJCQk8YSBjbGFzcz0iZGVjby1saW5lIiBocmVmPSIjdmlldyIgb25jbGljaz0ib3JkZXJDb21tb24udmlld09yZGVyKCcke2xpc3Qub3JkckNvZGV9Jyk7cmV0dXJuIGZhbHNlOyI+Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJPGEgY2xhc3M9ImRlY28tbGluZSIgaHJlZj0iI3ZpZXciIG9uY2xpY2s9Im9yZGVyQ29tbW9uLm1vZGZvcm1PcmRlcignJHtsaXN0Lm9yZHJDb2RlfScpO3JldHVybiBmYWxzZTsiPgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>명함상품을 장바구니에 넣을시 생기는 버그 수정한다
 
 - 장바구니에 있는 명함상품을 불러올시 옵션정보가 제대로 불러오지 않는 문제를 수정한다
 - 기존의</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
@@ -878,9 +889,9 @@
       </register>
     </registers>
     <search>
-      <last-search>script</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>script</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +899,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry>request</entry>
         <entry>Desti</entry>
         <entry encoding="base64">XDxWSUVXTU9ERVw+</entry>
@@ -908,6 +918,7 @@
         <entry>주문</entry>
         <entry>주문정보</entry>
         <entry>script</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
