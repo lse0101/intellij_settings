@@ -507,20 +507,12 @@
         <mark key="." line="106" column="61" />
         <mark key="^" line="106" column="61" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" timestamp="1521680371647">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" timestamp="1522220270757">
         <mark key="'" line="54" column="13" />
-        <mark key="[" line="223" column="64" />
-        <mark key="]" line="223" column="75" />
-        <mark key="^" line="223" column="75" />
-        <mark key="." line="223" column="75" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1522202315890">
-        <mark key="a" line="593" column="17" />
-        <mark key="'" line="567" column="16" />
-        <mark key="[" line="631" column="27" />
-        <mark key="]" line="631" column="32" />
-        <mark key="." line="631" column="32" />
-        <mark key="^" line="631" column="32" />
+        <mark key="[" line="106" column="41" />
+        <mark key="]" line="106" column="43" />
+        <mark key="^" line="106" column="43" />
+        <mark key="." line="106" column="43" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-approval-sqlmap.xml" timestamp="1522214800530">
         <mark key="[" line="36" column="0" />
@@ -757,8 +749,8 @@
       <jump line="46" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_cart_list_inner_list.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJKDxjOm91dCB2YWx1ZT0iJHtsaXN0LnByb2R1Y3ROYW1lfSIvPikK</text>
+      <register name="&quot;" type="4">
+        <text>OrderVO</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -767,13 +759,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KDxjOm91dCB2YWx1ZT0iJHtsaXN0LnByb2R1Y3ROYW1lfSIvPik=</text>
+        <text>OrderVO</text>
       </register>
       <register name="/" type="4">
         <text>Titl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJPGM6aWYgdGVzdD0iJHshZW1wdHkgbGlzdC5wcm9kdWN0TmFtZX0iPgoJCQkJCQkJKDxjOm91dCB2YWx1ZT0iJHtsaXN0LnByb2R1Y3ROYW1lfSIvPikKCQkJCQkJPC9jOmlmPgo=</text>
+        <text encoding="base64">CQkJb3JkZXJMaXN0ID0gb3JkZXJTZXJ2aWNlLmxpc3RPcmRlcihzZWFyY2hWTyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJKDxjOm91dCB2YWx1ZT0iJHtsaXN0LnByb2R1Y3ROYW1lfSIvPikK</text>
