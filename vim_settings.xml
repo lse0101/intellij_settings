@@ -509,12 +509,11 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="163" column="74" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" timestamp="1520492726844">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" timestamp="1523255819273">
         <mark key="'" line="167" column="50" />
-        <mark key="[" line="127" column="54" />
-        <mark key="]" line="128" column="51" />
-        <mark key="." line="128" column="51" />
-        <mark key="^" line="128" column="51" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/authenticate/AuthenticationAgentRequestBuilder.java" timestamp="1517913979870">
         <mark key="'" line="146" column="8" />
@@ -536,13 +535,19 @@
         <mark key="^" line="106" column="43" />
         <mark key="." line="106" column="43" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1522229107381">
-        <mark key="a" line="593" column="17" />
-        <mark key="'" line="111" column="57" />
-        <mark key="[" line="631" column="27" />
-        <mark key="]" line="631" column="32" />
-        <mark key="." line="631" column="32" />
-        <mark key="^" line="631" column="32" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1523255866562">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="208" column="48" />
+        <mark key="]" line="209" column="50" />
+        <mark key="^" line="209" column="50" />
+        <mark key="." line="209" column="50" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" timestamp="1523255975007">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-approval-sqlmap.xml" timestamp="1522214800530">
         <mark key="[" line="36" column="0" />
@@ -671,6 +676,13 @@
         <mark key="^" line="32" column="58" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/lucy-xss-servlet-filter-rule.xml" timestamp="1523256487824">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1522239980441">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="382" column="0" />
@@ -686,9 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="145" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="437" column="65" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="456" column="65" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="468" column="153" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="493" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="525" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -786,13 +795,13 @@
       <jump line="21" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_3.sql" />
       <jump line="25" column="56" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_3.sql" />
       <jump line="29" column="99" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_3.sql" />
+      <jump line="131" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" />
+      <jump line="22" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
+      <jump line="72" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/lucy-xss-servlet-filter-rule.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>처리해야할 주문목록에서 view로가지 않고 수정으로 가는 기능을 revert한다.
-
-수정페이지에서는 접수완료와 같은 프로세스기능을 사용할시 주문 내용을 수정을 별도로 처리해야
-되기 때문에 전체적인 흐름에 맞지 않아 다시 복원한다</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -801,43 +810,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>DISTINCT</text>
+        <text encoding="base64">ICAgICAgICAgPCEtLSDtlYTthLDrp4HrkJwg7L2U66mY7Yq466W8IOuCqOq4uOyngCDsl6zrtoAsIOyEseuKpSDtmqjsnKjsg4EgZmFsc2Ug7LaU7LKcIC0tPg==</text>
       </register>
       <register name="/" type="4">
-        <text>?</text>
+        <text>filter</text>
       </register>
       <register name="0" type="4">
         <text>downloadBizCardDetailsByTab</text>
       </register>
-      <register name="1" type="4">
-        <text>처리해야할 주문목록에서 view로가지 않고 수정으로 가는 기능을 revert한다.
-
-수정페이지에서는 접수완료와 같은 프로세스기능을 사용할시 주문 내용을 수정을 별도로 처리해야
-되기 때문에 전체적인 흐름에 맞지 않아 다시 복원한다</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopCkZST00gKAoJU0VMRUNUIERJU1RJTkNUIG8ub3Jkcl9jb2RlCglGUk9NIHRiX29yZHJfbXN0ciBvLCB0Yl9nb29kX21zdHIgZywgdGJfcHJvY19ncnVwIHAsIHRiX3Byb2NfdW5pdCB1LCB0Yl9wcm9jX3N0ZXAgcywgdGJfcHJvY19zdGVwIG4sIHRiX3VzZXJfbXN0ciBlCglXSEVSRQoJCTEgPSAxIEFORCBTVUJTVFJJTkcoby5vcmRyX2R0dG0sIDEsIDgpIEJFVFdFRU4gJzIwMTgwMTA5JyBBTkQgJzIwMTgwNDA5JyBBTkQgZy51c2dlX2ZsYWcgPSAnWScgQU5EIHAudXNnZV9mbGFnID0gJ1knCgkJQU5ECgkJdS51c2dlX2ZsYWcgPSAnWScgQU5EIG8uZ29vZF9tc3RyID0gZy5nb29kX2NvZGUgQU5EIG8ucHJvY191bml0ID0gdS5wcm9jX2NvZGUgQU5EIGcucHJvY19ncnVwID0gcC5ncnVwX2luZHggQU5ECgkJcC5ncnVwX2luZHggPSBzLmdydXBfaW5keCBBTkQgcy5wcm9jX2NvZGUgPSBvLnByb2NfdW5pdCBBTkQgcC5ncnVwX2luZHggPSBuLmdydXBfaW5keCBBTkQKCQlvLm9yZHJfdXNlciA9IGUudXNlcl9pbmR4IEFORCBvLnByb2NfdW5pdCBOT1QgSU4gKCdvcmRyY25jbCcpIEFORAoJCSgobi5hY3RuX2F1dGggSVMgTlVMTCBBTkQgby5vcmRyX3VzZXIgPSAyNykgT1IgKG4uYWN0bl9hdXRoIElOICgKCQkJU0VMRUNUIGdydXBfaW5keAoJCQlGUk9NIHRiX2F1dGhfbWVtYgoJCQlXSEVSRQoJCQkJZ3J1cF9pbmR4IE5PVCBJTiAoMSwgMikgQU5EICgobWVtYl90eXBlID0gJ1UnIEFORCBtZW1iX2luZHggPSAyNykgT1IgKG1lbWJfdHlwZSA9ICdEJyBBTkQgbWVtYl9pbmR4ID0gMikpKSkKCQkgT1IgKG4uYWN0bl9hdXRoIElOICgKCQkJU0VMRUNUIGdydXBfaW5keAoJCQlGUk9NIHRiX2F1dGhfbWVtYgoJCQlXSEVSRSBncnVwX2luZHggTk9UIElOICgxLCAyKSBBTkQgKChtZW1iX3R5cGUgPSAnSicgQU5EIG1lbWJfaW5keCBJTiAoTlVMTCwgTlVMTCwgTlVMTCkpKSkgQU5EIG9yZHJfZGVwdCA9IDIpKQopIGEK</text>
+        <text encoding="base64">CQk8IS0tIHVybCBkaXNhYmxl7J20IHRydWXsnbTrqbQg7KeA7KCV7ZWcIHVybCDrgrTsnZgg66qo65OgIO2MjOudvOuplO2EsOuKlCDtlYTthLDrp4Eg65CY7KeAIOyViuuKlOuLpC4gLS0+CgkJPHVybC1ydWxlPgoJCQk8dXJsIGRpc2FibGU9InRydWUiPi9kaXNhYmxlVXJsMS5kbzwvdXJsPgoJCTwvdXJsLXJ1bGU+CgoJCTwhLS0gdXJsMSDrgrTsnZggdXJsMVBhcmFtZXRlcuuKlCDtlYTthLDrp4Eg65CY7KeAIOyViuycvOupsCDrmJDtlZwgdXJsMVByZWZpeFBhcmFtZXRlcuuhnCDsi5zsnpHtlZjripQg7YyM652866mU7YSw64+EIO2VhO2EsOungSDrkJjsp4Ag7JWK64qU64ukLiAtLT4KCQk8dXJsLXJ1bGU+CgkJCTx1cmw+L3VybDEuZG88L3VybD4KCQkJPHBhcmFtcz4KCQkJCTxwYXJhbSBuYW1lPSJ1cmwxUGFyYW1ldGVyIiB1c2VEZWZlbmRlcj0iZmFsc2UiIC8+CgkJCQk8cGFyYW0gbmFtZT0idXJsMVByZWZpeFBhcmFtZXRlciIgdXNlUHJlZml4PSJ0cnVlIiB1c2VEZWZlbmRlcj0iZmFsc2UiIC8+CgkJCTwvcGFyYW1zPgoJCTwvdXJsLXJ1bGU+CgoJCTwhLS0gdXJsMiDrgrTsnZggdXJsMlBhcmFtZXRlcjHrp4wg7ZWE7YSw66eBIOuQmOyngCDslYrsnLzrqbAgdXJsMlBhcmFtZXRlcjLripQgeHNzU2F4RmlsdGVyRGVmZW5kZXLrpbwg7IKs7Jqp7ZW0IO2VhO2EsOungSDtlZzri6QuICAtLT4KCQk8dXJsLXJ1bGU+CgkJCTx1cmw+L3VybDIuZG88L3VybD4KCQkJPHBhcmFtcz4KCQkJCTxwYXJhbSBuYW1lPSJ1cmwyUGFyYW1ldGVyMSIgdXNlRGVmZW5kZXI9ImZhbHNlIiAvPgoJCQkJPHBhcmFtIG5hbWU9InVybDJQYXJhbWV0ZXIyIj4KCQkJCQk8ZGVmZW5kZXI+eHNzU2F4RmlsdGVyRGVmZW5kZXI8L2RlZmVuZGVyPgoJCQkJPC9wYXJhbT4KCQkJPC9wYXJhbXM+CgkJPC91cmwtcnVsZT4K</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPHBhcmFtIG5hbWU9Imdsb2JhbFBhcmFtZXRlciIgdXNlRGVmZW5kZXI9ImZhbHNlIiAvPgoJCQk8cGFyYW0gbmFtZT0iZ2xvYmFsUHJlZml4UGFyYW1ldGVyIiB1c2VQcmVmaXg9InRydWUiIHVzZURlZmVuZGVyPSJmYWxzZSIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTRUxFQ1QgRElTVElOQ1QKCQkJby5vcmRyX2NvZGUKCQlGUk9NIHRiX29yZHJfbXN0ciBvCgkJLCB0Yl9nb29kX21zdHIgZwoJCSwgdGJfcHJvY19ncnVwIHAKCQksIHRiX3Byb2NfdW5pdCB1CgkJLCB0Yl9wcm9jX3N0ZXAgcwoJCSwgdGJfcHJvY19zdGVwIG4KCQksIHRiX3VzZXJfbXN0ciBlCgkJV0hFUkUgMT0xCgkJPGluY2x1ZGUgcmVmaWQ9IndoZXJlLWFwcHJvdmFsIi8+Cg==</text>
+        <text encoding="base64">CTwhLS0gdXJsIOuzhCDtlYTthLDrp4Eg66OwIOyEoOyWuCAtLT4K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCeuYkO2VnCBnbG9iYWxQcmVmaXhQYXJhbWV0ZXLroZwg7Iuc7J6R7ZWY64qUIO2MjOudvOuplO2EsOuPhCDtlYTthLDrp4Eg65CY7KeAIOyViuuKlOuLpC4gLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8IS0tIOuqqOuToCB1cmzsl5DshJwg65Ok7Ja07Jik64qUIGdsb2JhbFBhcmFtZXRlciDtjIzrnbzrqZTthLDripQg7ZWE7YSw66eBIOuQmOyngCDslYrsnLzrqbAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIERJU1RJTkNUIG8ub3Jkcl9jb2RlCkZST00gdGJfb3Jkcl9tc3RyIG8sIHRiX2dvb2RfbXN0ciBnLCB0Yl9wcm9jX2dydXAgcCwgdGJfcHJvY191bml0IHUsIHRiX3Byb2Nfc3RlcCBzLCB0Yl9wcm9jX3N0ZXAgbiwgdGJfdXNlcl9tc3RyIGUKV0hFUkUKCTEgPSAxIEFORCBTVUJTVFJJTkcoby5vcmRyX2R0dG0sIDEsIDgpIEJFVFdFRU4gJzIwMTgwMTA5JyBBTkQgJzIwMTgwNDA5JyBBTkQgZy51c2dlX2ZsYWcgPSAnWScgQU5EIHAudXNnZV9mbGFnID0gJ1knCglBTkQKCXUudXNnZV9mbGFnID0gJ1knIEFORCBvLmdvb2RfbXN0ciA9IGcuZ29vZF9jb2RlIEFORCBvLnByb2NfdW5pdCA9IHUucHJvY19jb2RlIEFORCBnLnByb2NfZ3J1cCA9IHAuZ3J1cF9pbmR4IEFORAoJcC5ncnVwX2luZHggPSBzLmdydXBfaW5keCBBTkQgcy5wcm9jX2NvZGUgPSBvLnByb2NfdW5pdCBBTkQgcC5ncnVwX2luZHggPSBuLmdydXBfaW5keCBBTkQKCW8ub3Jkcl91c2VyID0gZS51c2VyX2luZHggQU5EIG8ucHJvY191bml0IE5PVCBJTiAoJ29yZHJjbmNsJykgQU5ECgkoKG4uYWN0bl9hdXRoIElTIE5VTEwgQU5EIG8ub3Jkcl91c2VyID0gMjcpIE9SIChuLmFjdG5fYXV0aCBJTiAoCgkJU0VMRUNUIGdydXBfaW5keAoJCUZST00gdGJfYXV0aF9tZW1iCgkJV0hFUkUKCQkJZ3J1cF9pbmR4IE5PVCBJTiAoMSwgMikgQU5EICgobWVtYl90eXBlID0gJ1UnIEFORCBtZW1iX2luZHggPSAyNykgT1IgKG1lbWJfdHlwZSA9ICdEJyBBTkQgbWVtYl9pbmR4ID0gMikpKSkKCSBPUiAobi5hY3RuX2F1dGggSU4gKAoJCVNFTEVDVCBncnVwX2luZHgKCQlGUk9NIHRiX2F1dGhfbWVtYgoJCVdIRVJFIGdydXBfaW5keCBOT1QgSU4gKDEsIDIpIEFORCAoKG1lbWJfdHlwZSA9ICdKJyBBTkQgbWVtYl9pbmR4IElOIChOVUxMLCBOVUxMLCBOVUxMKSkpKSBBTkQgb3Jkcl9kZXB0ID0gMikpCg==</text>
+        <text encoding="base64">CTwhLS0gZ2xvYmFsIO2VhO2EsOungSDro7Ag7ISg7Ja4IC0tPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -853,19 +859,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsCg==</text>
+        <text encoding="base64">CTwhLS0gZGVmYXVsdCBkZWZlbmRlciDshKDslrgsIOuzhOuLpOuluCBkZWZlbmRlciDshKDslrjsnbQg7JeG7Jy866m0IGRlZmF1bHQgZGVmZW5kZXLrpbwg7IKs7Jqp7ZW0IO2VhO2EsOungSDtlZzri6QuIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIENPVU5UKCopCkZST00gdGJfb3Jkcl9tc3RyIG8sIHRiX2dvb2RfbXN0ciBnLCB0Yl9wcm9jX2dydXAgcCwgdGJfcHJvY191bml0IHUsIHRiX3Byb2Nfc3RlcCBzLCB0Yl9wcm9jX3N0ZXAgbiwgdGJfdXNlcl9tc3RyIGUKV0hFUkUgMSA9IDEgQU5EIGcudXNnZV9mbGFnID0gJ1knIEFORCBwLnVzZ2VfZmxhZyA9ICdZJyBBTkQgdS51c2dlX2ZsYWcgPSAnWScgQU5EIG8uZ29vZF9tc3RyID0gZy5nb29kX2NvZGUgQU5ECiAgICAgIG8ucHJvY191bml0ID0gdS5wcm9jX2NvZGUgQU5EIGcucHJvY19ncnVwID0gcC5ncnVwX2luZHggQU5EIHAuZ3J1cF9pbmR4ID0gcy5ncnVwX2luZHggQU5ECiAgICAgIHMucHJvY19jb2RlID0gby5wcm9jX3VuaXQgQU5EIHAuZ3J1cF9pbmR4ID0gbi5ncnVwX2luZHggQU5EIG4ucHJvY19zdGVwID0gcy5wcm9jX3N0ZXAgKyAxIEFORAogICAgICBvLm9yZHJfdXNlciA9IGUudXNlcl9pbmR4IEFORCBvLnByb2NfdW5pdCBOT1QgSU4gKCdjb21wbGV0ZScsICdvcmRyY25jbCcpIEFORAogICAgICAoKG4uYWN0bl9hdXRoIElTIE5VTEwgQU5EIG8ub3Jkcl91c2VyID0gMjcpIE9SIChuLmFjdG5fYXV0aCBJTiAoCgkgICAgICBTRUxFQ1QgZ3J1cF9pbmR4CgkgICAgICBGUk9NIHRiX2F1dGhfbWVtYgoJICAgICAgV0hFUkUKCQkgICAgICBncnVwX2luZHggTk9UIElOICgxLCAyKSBBTkQgKChtZW1iX3R5cGUgPSAnVScgQU5EIG1lbWJfaW5keCA9IDI3KSBPUiAobWVtYl90eXBlID0gJ0QnIEFORCBtZW1iX2luZHggPSAyKSkpKQogICAgICAgT1IgKG4uYWN0bl9hdXRoIElOICgKCSAgICAgIFNFTEVDVCBncnVwX2luZHgKCSAgICAgIEZST00gdGJfYXV0aF9tZW1iCgkgICAgICBXSEVSRSBncnVwX2luZHggTk9UIElOICgxLCAyKSBBTkQgKChtZW1iX3R5cGUgPSAnSicgQU5EIG1lbWJfaW5keCBJTiAobnVsbCwgbnVsbCwgbnVsbCkpKSkgQU5EIG9yZHJfZGVwdCA9IDIpKQo=</text>
+        <text encoding="base64">CQk8IS0tIFhzc0ZpbHRlciDrk7HroZ0gLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>?</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>?</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -873,8 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pro</entry>
-        <entry>Titl</entry>
         <entry>Session</entry>
         <entry encoding="base64">XDx3aGVyZVw+</entry>
         <entry>Biz</entry>
@@ -893,6 +897,8 @@
         <entry>search_form</entry>
         <entry>searchForm</entry>
         <entry>?</entry>
+        <entry>gener</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
