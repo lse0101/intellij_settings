@@ -316,7 +316,6 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/lucy-xss-servlet-2.0.0.jar!/com/navercorp/lucy/security/xss/servletfilter/XssEscapeServletFilter.class" timestamp="1523265907936" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ProcessRequest.java" timestamp="1519640677921">
         <mark key="'" line="64" column="24" />
         <mark key="[" line="206" column="29" />
@@ -351,7 +350,6 @@
         <mark key="." line="154" column="22" />
         <mark key="^" line="154" column="22" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/lucy-xss-servlet-2.0.0.jar!/com/navercorp/lucy/security/xss/servletfilter/defender/XssPreventerDefender.class" timestamp="1523260670802" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/util/DateUtil.java" timestamp="1523262601099">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="30" />
@@ -499,6 +497,12 @@
         <mark key="]" line="20" column="30" />
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" timestamp="1523413496612">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Profile.java" timestamp="1518147605637">
         <mark key="'" line="32" column="21" />
@@ -688,6 +692,11 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1523413129829">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" timestamp="1517272891154">
         <mark key="'" line="58" column="49" />
         <mark key="[" line="88" column="11" />
@@ -695,7 +704,6 @@
         <mark key="." line="89" column="6" />
         <mark key="^" line="89" column="6" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/lucy-xss-servlet-2.0.0.jar!/com/navercorp/lucy/security/xss/servletfilter/XssEscapeFilterConfig.class" timestamp="1523266357042" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/mail/service/impl/MailSettingServiceImpl.java" timestamp="1523262795027">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="30" />
@@ -751,7 +759,6 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/commons-configuration-1.10.jar!/org/apache/commons/configuration/ConfigurationException.class" timestamp="1523263457782" />
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Invoke.java" timestamp="1518052933838">
         <mark key="'" line="16" column="2" />
         <mark key="[" line="16" column="0" />
@@ -864,7 +871,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>read</text>
+        <text>w2p-director</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -873,13 +880,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>read</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>nhn</text>
       </register>
       <register name="0" type="4">
-        <text>downloadBizCardDetailsByTab</text>
+        <text>w2p-director</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
