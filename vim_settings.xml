@@ -117,8 +117,8 @@
         <mark key="." line="220" column="378" />
         <mark key="^" line="220" column="378" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-attribute.js" timestamp="1521776808278">
-        <mark key="'" line="238" column="37" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-attribute.js" timestamp="1523523756047">
+        <mark key="'" line="163" column="37" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" timestamp="1523521329689">
         <mark key="[" line="133" column="0" />
@@ -441,6 +441,9 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/.gitignore" timestamp="1523265681214">
         <mark key="'" line="79" column="33" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1523523612280">
+        <mark key="'" line="2" column="4" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/KpmgClientCodeDAO.java" timestamp="1520385992046">
         <mark key="'" line="17" column="27" />
         <mark key="[" line="17" column="9" />
@@ -499,7 +502,8 @@
       <file name="/TB_BZCD_ATDF [samjung]" timestamp="1523518080549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" timestamp="1523419637861">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" timestamp="1523523383049">
+        <mark key="'" line="151" column="23" />
         <mark key="[" line="14" column="49" />
         <mark key="]" line="14" column="49" />
         <mark key="." line="14" column="49" />
@@ -522,6 +526,7 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/spring-webmvc-4.2.3.RELEASE.jar!/org/springframework/web/servlet/view/AbstractView.class" timestamp="1522051824426">
         <mark key="'" line="169" column="98" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/controller/BizcardTemplateController.java" timestamp="1523523590657" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" timestamp="1521777958607">
         <mark key="'" line="26" column="21" />
         <mark key="[" line="22" column="108" />
@@ -638,6 +643,9 @@
         <mark key="." line="64" column="84" />
         <mark key="^" line="64" column="84" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" timestamp="1523523810322">
+        <mark key="'" line="290" column="22" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/model/ImageLogJobInfo.java" timestamp="1519189002272">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="84" column="0" />
@@ -692,11 +700,6 @@
       </file>
       <file name="/dummy.sql" timestamp="1523521208130">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523508985986">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" timestamp="1517272891154">
         <mark key="'" line="58" column="49" />
@@ -757,26 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="12" column="11" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="13" column="11" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="20" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="56" column="42" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="106" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="128" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="27" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="28" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="29" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="56" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="130" column="34" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="47" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderSearchVO.java" />
-      <jump line="28" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/vo/UserVO.java" />
-      <jump line="126" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="180" column="46" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="3" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="7" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
-      <jump line="22" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
       <jump line="23" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
       <jump line="24" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
       <jump line="25" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" />
@@ -857,6 +840,26 @@
       <jump line="52" column="67" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
       <jump line="139" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
       <jump line="187" column="28" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
+      <jump line="85" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="91" column="45" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" />
+      <jump line="150" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" />
+      <jump line="157" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" />
+      <jump line="151" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" />
+      <jump line="162" column="62" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="2" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="164" column="50" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="187" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-attribute.js" />
+      <jump line="306" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-attribute.js" />
+      <jump line="163" column="37" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-attribute.js" />
+      <jump line="173" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="273" column="14" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="316" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="344" column="105" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="351" column="98" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="372" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="119" column="72" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="171" column="87" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
+      <jump line="290" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_layer_form.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -872,7 +875,7 @@
         <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>disable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJb3JkZXJEQU8ubW9kRXN0aW1hdGUob3JkZXJWTyk7Cg==</text>
@@ -928,9 +931,9 @@
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search>disable</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>disable</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -938,16 +941,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logo.png</entry>
-        <entry>contain</entry>
-        <entry encoding="base64">XDxwcm9jQ29kZVw+</entry>
-        <entry>orderVO</entry>
-        <entry encoding="base64">XDxvcmRlclZPXD4=</entry>
-        <entry encoding="base64">XDxTVEFUX0NPTVBMRVRFXD4=</entry>
-        <entry>procCode</entry>
-        <entry>procunit</entry>
-        <entry>procUnit</entry>
-        <entry>isAd</entry>
         <entry>isAdmin</entry>
         <entry>min</entry>
         <entry encoding="base64">XDxkYW5nZXJcPg==</entry>
@@ -958,6 +951,16 @@
         <entry encoding="base64">XDxwcm9jTWVtb1w+</entry>
         <entry>Esti</entry>
         <entry>base</entry>
+        <entry>mod</entry>
+        <entry>modAttr</entry>
+        <entry>attr</entry>
+        <entry>modformAttr</entry>
+        <entry>접미</entry>
+        <entry>include</entry>
+        <entry encoding="base64">XDxzdWZ4TWFya1w+</entry>
+        <entry encoding="base64">XDxkYXRhU3VmeG1hcmtcPg==</entry>
+        <entry>script</entry>
+        <entry>disable</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
