@@ -541,12 +541,12 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/spring-webmvc-4.2.3.RELEASE.jar!/org/springframework/web/servlet/view/AbstractView.class" timestamp="1522051824426">
         <mark key="'" line="169" column="98" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" timestamp="1523583165088">
-        <mark key="'" line="149" column="16" />
-        <mark key="[" line="125" column="29" />
-        <mark key="]" line="125" column="33" />
-        <mark key="^" line="125" column="33" />
-        <mark key="." line="125" column="33" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" timestamp="1523584905823">
+        <mark key="'" line="147" column="16" />
+        <mark key="[" line="159" column="29" />
+        <mark key="]" line="159" column="36" />
+        <mark key="." line="159" column="36" />
+        <mark key="^" line="159" column="36" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519791770420">
         <mark key="'" line="109" column="75" />
@@ -691,11 +691,11 @@
         <mark key="^" line="47" column="4" />
         <mark key="." line="47" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1523582556863">
-        <mark key="[" line="278" column="43" />
-        <mark key="]" line="278" column="43" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1523585036772">
+        <mark key="[" line="278" column="61" />
+        <mark key="]" line="278" column="62" />
         <mark key="^" line="278" column="43" />
-        <mark key="." line="278" column="43" />
+        <mark key="." line="278" column="62" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" timestamp="1521436929604">
         <mark key="'" line="77" column="23" />
@@ -887,7 +887,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>html()</text>
+        <text>#</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -896,40 +896,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>html()</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>명함</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQlkYXRhLXNpZGV0eXBlPSIke0ZWTy5zaWRlVHlwZX0iCg==</text>
+      <register name="0" type="4">
+        <text>'#attrtxt-' + dataLinkattr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZGF0YS1zaWRldHlwZSA6IHNpZGV0eXBlCg==</text>
+        <text encoding="base64">CQkJCS5maWx0ZXIoZnVuY3Rpb24oKXsKCQkJCQl2YXIgJHRoaXMgPSAkKHRoaXMpOwoJCQkJCXZhciB0eXBlID0gJHRoaXMuZGF0YSgnc2lkZXR5cGUnKTsKCgkJCQkJcmV0dXJuICh0eXBlID09ICRkaXZ0ZXh0LmRhdGEoJ3NpZGV0eXBlJykgPyB0cnVlIDogZmFsc2UpOwoJCQkJfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJICAgIGRhdGEtc2lkZXR5cGU9IiR7bGlzdC5zaWRlVHlwZX0iCg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJCgnI2F0dHJ0eHQtJyArIGRhdGFMaW5rYXR0cikubGVuZ3RoICsgJ+qwnCcpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgICwgZ3Vibl93ZHRoID0gI3tndWJuV2R0aH0K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSRkaXZndWJ1bi5jc3MoY3NzMSk7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnc2lkZXR5cGUnICsgJGRpdnRleHQuZGF0YSgnc2lkZXR5cGUnKSk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXZhciBjc3MxID0geydwb3NpdGlvbic6ICdyZWxhdGl2ZScsICdmbG9hdCc6ICdub25lJywgJ2Rpc3BsYXknOiAnaW5saW5lLWJsb2NrJ307Cg==</text>
+        <text encoding="base64">CQkJZGF0YS1zaWRldHlwZSA6IHNpZGV0eXBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXZhciBjc3MgPSB7J3Bvc2l0aW9uJzogJ3JlbGF0aXZlJywgJ2Zsb2F0JzogJ25vbmUnLCAnZGlzcGxheSc6ICdpbmxpbmUtYmxvY2snfTsK</text>
+        <text encoding="base64">CQkJICAgIGRhdGEtc2lkZXR5cGU9IiR7bGlzdC5zaWRlVHlwZX0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCJ0aXRsZeydtCDsl4bsirXri4jri6QiKQo=</text>
+        <text encoding="base64">CQkgICwgZ3Vibl93ZHRoID0gI3tndWJuV2R0aH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -945,10 +945,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCSRkaXZndWJ1bi5jc3MoY3NzMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXZhciBjc3MxID0geydwb3NpdGlvbic6ICdyZWxhdGl2ZScsICdmbG9hdCc6ICdub25lJywgJ2Rpc3BsYXknOiAnaW5saW5lLWJsb2NrJ307Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
