@@ -48,11 +48,13 @@
         <mark key="^" line="109" column="74" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/service/impl/BizcardTemplateServiceImpl.java" timestamp="1523532936278">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/service/impl/BizcardTemplateServiceImpl.java" timestamp="1523594937577">
         <mark key="a" line="75" column="29" />
         <mark key="'" line="299" column="30" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="41" />
+        <mark key="[" line="384" column="52" />
+        <mark key="]" line="384" column="53" />
+        <mark key="." line="384" column="53" />
+        <mark key="^" line="384" column="53" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_attribute_inner_attrlist.jsp" timestamp="1523582495471">
         <mark key="[" line="31" column="0" />
@@ -127,6 +129,12 @@
         <mark key="]" line="220" column="378" />
         <mark key="." line="220" column="378" />
         <mark key="^" line="220" column="378" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/dao/BizcardTemplateDAO.java" timestamp="1523594949144">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="45" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="45" column="48" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-attribute.js" timestamp="1523526075002">
         <mark key="'" line="180" column="16" />
@@ -454,10 +462,11 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1523523612280">
         <mark key="'" line="2" column="4" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/dao/sqlmap/mssql/bizcard-template-sqlmap.xml" timestamp="1523532352320">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/dao/sqlmap/mssql/bizcard-template-sqlmap.xml" timestamp="1523595059136">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/KpmgClientCodeDAO.java" timestamp="1520385992046">
         <mark key="'" line="17" column="27" />
@@ -516,6 +525,12 @@
       </file>
       <file name="/TB_BZCD_ATDF [samjung]" timestamp="1523518080549">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/service/BizcardTemplateService.java" timestamp="1523594911833">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="48" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_list.jsp" timestamp="1523523383049">
         <mark key="'" line="151" column="23" />
@@ -720,7 +735,7 @@
       <file name="/TB_ORDR_MSTR [samjung_docker]" timestamp="1523424261667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1523586563075">
+      <file name="/dummy.sql" timestamp="1523594828412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1523526897653">
@@ -766,14 +781,18 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="/TB_BZCD_TMPL [samjung]" timestamp="1523518078357">
+      <file name="/TB_BZCD_TMPL [samjung]" timestamp="1523594827993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TB_BZCD_ATTR [samjung]" timestamp="1523582389571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1523518344891">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1523594889959">
         <mark key="'" line="182" column="37" />
+        <mark key="[" line="336" column="70" />
+        <mark key="]" line="336" column="89" />
+        <mark key="^" line="336" column="89" />
+        <mark key="." line="336" column="89" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/Invoke.java" timestamp="1518052933838">
         <mark key="'" line="16" column="2" />
@@ -889,8 +908,8 @@
       <jump line="78" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gV2ViRERQX1NKLmRiby5UQl9CWkNEX0FUVFIgKFRNUExfSU5EWCwgQVRUUl9DT0RFLCBTSURFX1RZUEUsIEFUVFJfTkFNRSwgQVhJU19YVkFMLCBBWElTX1lWQUwsIFBJWExfV0RUSCwgUElYTF9IR0hULCBGT05UX05BTUUsIEZPTlRfU0laRSwgRk9OVF9TUENFLCBGT05UX0NPTFIsIEZPTlRfQUxHTiwgRk9OVF9TVFlMLCBMSU5LX0FUVFIsIEdVQk5fTUFSSywgR1VCTl9XRFRILCBUSVRMX1RFWFQsIFRJVExfV0RUSCwgVElUTF9DT0xSLCBUSVRMX0FMR04sIFRJVExfU1RZTCwgU1VGWF9NQVJLLCBTVUZYX1dEVEgsIEpPQlRfTVRIRCwgRVhBTV9URVhULCBFWEFNX1NIT1csIE1VU1RfRkxBRywgVVNHRV9GTEFHLCBTSE9XX1NFUU4pIFZBTFVFUyAoMiwgJ3VzZXJOYW1lJywgJ0InLCAn7J2066aEJywgNjAsIDcwLCAyMDAsIDEwMCwgJ+uCmOuIlOqzoOuUlScsIDQwLCAwLCAnIzAwMDAwMCcsICdsZWZ0JywgJ0InLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAnSG9uZyBHaWxkb25nJywgJ04nLCAnWScsICdZJywgMSk7CklOU0VSVCBJTlRPIFdlYkREUF9TSi5kYm8uVEJfQlpDRF9BVFRSIChUTVBMX0lORFgsIEFUVFJfQ09ERSwgU0lERV9UWVBFLCBBVFRSX05BTUUsIEFYSVNfWFZBTCwgQVhJU19ZVkFMLCBQSVhMX1dEVEgsIFBJWExfSEdIVCwgRk9OVF9OQU1FLCBGT05UX1NJWkUsIEZPTlRfU1BDRSwgRk9OVF9DT0xSLCBGT05UX0FMR04sIEZPTlRfU1RZTCwgTElOS19BVFRSLCBHVUJOX01BUkssIEdVQk5fV0RUSCwgVElUTF9URVhULCBUSVRMX1dEVEgsIFRJVExfQ09MUiwgVElUTF9BTEdOLCBUSVRMX1NUWUwsIFNVRlhfTUFSSywgU1VGWF9XRFRILCBKT0JUX01USEQsIEVYQU1fVEVYVCwgRVhBTV9TSE9XLCBNVVNUX0ZMQUcsIFVTR0VfRkxBRywgU0hPV19TRVFOKSBWQUxVRVMgKDIsICd1c2VyTmFtZScsICdGJywgJ+ydtOumhCcsIDYwLCA3MCwgMjAwLCAxMDAsICfrgpjriJTqs6DrlJUnLCA1NSwgNSwgJyMwMDAwMDAnLCAnbGVmdCcsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICftmY3quLjrj5knLCAnTicsICdZJywgJ1knLCAxKTsK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -899,13 +918,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>명함</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gV2ViRERQX1NKLmRiby5UQl9CWkNEX0FUVFIgKFRNUExfSU5EWCwgQVRUUl9DT0RFLCBTSURFX1RZUEUsIEFUVFJfTkFNRSwgQVhJU19YVkFMLCBBWElTX1lWQUwsIFBJWExfV0RUSCwgUElYTF9IR0hULCBGT05UX05BTUUsIEZPTlRfU0laRSwgRk9OVF9TUENFLCBGT05UX0NPTFIsIEZPTlRfQUxHTiwgRk9OVF9TVFlMLCBMSU5LX0FUVFIsIEdVQk5fTUFSSywgR1VCTl9XRFRILCBUSVRMX1RFWFQsIFRJVExfV0RUSCwgVElUTF9DT0xSLCBUSVRMX0FMR04sIFRJVExfU1RZTCwgU1VGWF9NQVJLLCBTVUZYX1dEVEgsIEpPQlRfTVRIRCwgRVhBTV9URVhULCBFWEFNX1NIT1csIE1VU1RfRkxBRywgVVNHRV9GTEFHLCBTSE9XX1NFUU4pIFZBTFVFUyAoMiwgJ3VzZXJOYW1lJywgJ0InLCAn7J2066aEJywgNjAsIDcwLCAyMDAsIDEwMCwgJ+uCmOuIlOqzoOuUlScsIDQwLCAwLCAnIzAwMDAwMCcsICdsZWZ0JywgJ0InLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAnSG9uZyBHaWxkb25nJywgJ04nLCAnWScsICdZJywgMSk7CklOU0VSVCBJTlRPIFdlYkREUF9TSi5kYm8uVEJfQlpDRF9BVFRSIChUTVBMX0lORFgsIEFUVFJfQ09ERSwgU0lERV9UWVBFLCBBVFRSX05BTUUsIEFYSVNfWFZBTCwgQVhJU19ZVkFMLCBQSVhMX1dEVEgsIFBJWExfSEdIVCwgRk9OVF9OQU1FLCBGT05UX1NJWkUsIEZPTlRfU1BDRSwgRk9OVF9DT0xSLCBGT05UX0FMR04sIEZPTlRfU1RZTCwgTElOS19BVFRSLCBHVUJOX01BUkssIEdVQk5fV0RUSCwgVElUTF9URVhULCBUSVRMX1dEVEgsIFRJVExfQ09MUiwgVElUTF9BTEdOLCBUSVRMX1NUWUwsIFNVRlhfTUFSSywgU1VGWF9XRFRILCBKT0JUX01USEQsIEVYQU1fVEVYVCwgRVhBTV9TSE9XLCBNVVNUX0ZMQUcsIFVTR0VfRkxBRywgU0hPV19TRVFOKSBWQUxVRVMgKDIsICd1c2VyTmFtZScsICdGJywgJ+ydtOumhCcsIDYwLCA3MCwgMjAwLCAxMDAsICfrgpjriJTqs6DrlJUnLCA1NSwgNSwgJyMwMDAwMDAnLCAnbGVmdCcsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICftmY3quLjrj5knLCAnTicsICdZJywgJ1knLCAxKTsK</text>
+      <register name="0" type="4">
+        <text>listTemplateByType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCS5maWx0ZXIoZnVuY3Rpb24oKXsKCQkJCQl2YXIgJHRoaXMgPSAkKHRoaXMpOwoJCQkJCXZhciB0eXBlID0gJHRoaXMuZGF0YSgnc2lkZXR5cGUnKTsKCgkJCQkJcmV0dXJuICh0eXBlID09ICRkaXZ0ZXh0LmRhdGEoJ3NpZGV0eXBlJykgPyB0cnVlIDogZmFsc2UpOwoJCQkJfSk7Cg==</text>
