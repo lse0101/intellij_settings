@@ -729,7 +729,7 @@
       <file name="/dummy.sql" timestamp="1523607075046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523526897653">
+      <file name="/Dummy.txt" timestamp="1523609226681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -905,8 +905,8 @@
       <jump line="198" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJYml6Y2FyZFRlbXBsYXRlVk8uc2V0VG1wbEluZHgoZ29vZHNWTy5nZXRCemNkVG1wbCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>운영자가 현 주문을 작업완료를 하려는 경우에 견적금액도 같이 입력할 수 있도록한다</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -915,7 +915,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>goodsVO.getBzcdTmpl()</text>
+        <text>운영자가 현 주문을 작업완료를 하려는 경우에 견적금액도 같이 입력할 수 있도록한다</text>
       </register>
       <register name="/" type="4">
         <text>biz</text>
