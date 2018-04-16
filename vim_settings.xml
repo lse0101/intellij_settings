@@ -320,6 +320,9 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
+      <file name="/TB_GOOD_MSTR [samjung]" timestamp="1523860737511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/ImageLogTransferRuleBuilder.java" timestamp="1519691968539">
         <mark key="'" line="51" column="46" />
         <mark key="[" line="102" column="0" />
@@ -549,12 +552,6 @@
         <mark key="." line="632" column="0" />
         <mark key="^" line="631" column="48" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" timestamp="1523603440139">
-        <mark key="'" line="102" column="33" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/test/testJobTemplate.java" timestamp="1519791770420">
         <mark key="'" line="109" column="75" />
         <mark key="[" line="55" column="37" />
@@ -702,6 +699,12 @@
         <mark key="^" line="348" column="19" />
         <mark key="." line="348" column="19" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/goods/vo/GoodsVO.java" timestamp="1523861680811">
+        <mark key="[" line="87" column="33" />
+        <mark key="]" line="87" column="34" />
+        <mark key="." line="87" column="34" />
+        <mark key="^" line="87" column="32" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/spring-jms-beans.xml" timestamp="1519278156628">
         <mark key="'" line="36" column="10" />
         <mark key="[" line="42" column="14" />
@@ -725,19 +728,13 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="/dummy.sql" timestamp="1523607075046">
+      <file name="/dummy.sql" timestamp="1523860750670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1523609226681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" timestamp="1523597425607">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/configuration/LogManagerConfiguration.java" timestamp="1517272891154">
         <mark key="'" line="58" column="49" />
@@ -783,7 +780,7 @@
       <file name="/TB_BZCD_ATTR [samjung]" timestamp="1523582389571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1523858554592">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserController.java" timestamp="1523861758421">
         <mark key="a" line="332" column="45" />
         <mark key="'" line="70" column="0" />
         <mark key="[" line="386" column="0" />
@@ -905,7 +902,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>운영자가 현 주문을 작업완료를 하려는 경우에 견적금액도 같이 입력할 수 있도록한다</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -914,40 +911,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>운영자가 현 주문을 작업완료를 하려는 경우에 견적금액도 같이 입력할 수 있도록한다</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>biz</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCW1hdi5hZGRPYmplY3QoImJpemNhcmRUbXBsTGlzdCIsIGJpemNhcmRUZW1wbGF0ZVNlcnZpY2UubGlzdFRlbXBsYXRlQnlUeXBlKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>OutputVendorEnum.values()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYml6Y2FyZFRlbXBsYXRlVk8uc2V0VG1wbEluZHgoZ29vZHNWTy5nZXRCemNkVG1wbCgpKTsK</text>
+        <text encoding="base64">CQlPYmplY3RbXSBhID0ge307Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCV0K</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlBcnJheXMuaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VEJfTUFJTl9NU1RSCg==</text>
+        <text encoding="base64">CQkJYml6Y2FyZFRlbXBsYXRlVk8uc2V0VG1wbEluZHgoZ29vZHNWTy5nZXRCemNkVG1wbCgpKTsK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCW1hdi5hZGRPYmplY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">VEJfTUFJTl9NU1RSCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -963,10 +960,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJICAK</text>
+        <text encoding="base64">CQkJCW1hdi5hZGRPYmplY3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
