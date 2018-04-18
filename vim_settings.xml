@@ -130,7 +130,6 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="45" column="48" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-memo-sqlmap.xml" timestamp="1524017837040" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderProcessAsyncController.java" timestamp="1524013799893">
         <mark key="a" line="147" column="41" />
         <mark key="'" line="56" column="31" />
@@ -303,7 +302,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderMemoAsyncController.java" timestamp="1524016305875" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderMemoAsyncController.java" timestamp="1524018759983">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/SofiaConstants.java" timestamp="1519627411294">
         <mark key="'" line="34" column="121" />
         <mark key="[" line="16" column="31" />
@@ -743,6 +746,11 @@
         <mark key="." line="89" column="6" />
         <mark key="^" line="89" column="6" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/dept/controller/DeptAyncController.java" timestamp="1524018768561">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/ImageLogPaths.java" timestamp="1519715170303">
         <mark key="'" line="39" column="33" />
         <mark key="[" line="450" column="7" />
@@ -902,8 +910,8 @@
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>주문감시자가 주문을 접수완료 처리시에 출력업체 지정이 하나인경우는 select가 아닌 hidden으로 처리한다</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgiZXJyb3IiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -921,31 +929,31 @@
         <text>orderProcessVO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgiZXJyb3IiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJiemNkVG1wbCI+CgkJCQkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHtiaXpjYXJkVG1wbExpc3R9IiBpdGVtTGFiZWw9InRtcGxOYW1lIiBpdGVtVmFsdWU9InRtcGxJbmR4Ii8+CgkJCQkJCQk8L2Zvcm06c2VsZWN0Pgo=</text>
+        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgiZXJyb3IiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGZvcm06c2VsZWN0IHBhdGg9Im91dHBWbmRyIj4KCQkJCQkJCQkJCTxmb3JtOm9wdGlvbnMgaXRlbXM9IiR7dmVuZG9yc30iIGl0ZW1WYWx1ZT0iY29kZSIgaXRlbUxhYmVsPSJuYW1lIi8+CgkJCQkJCQkJCTwvZm9ybTpzZWxlY3Q+Cg==</text>
+        <text encoding="base64">Ly8JCQltYXYuYWRkT2JqZWN0KCJlcnJvciIsIGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxmb3JtOnNlbGVjdCBwYXRoPSJiemNkVG1wbCI+CgkJCQkJCQkJPGZvcm06b3B0aW9ucyBpdGVtcz0iJHtiaXpjYXJkVG1wbExpc3R9IiBpdGVtTGFiZWw9InRtcGxOYW1lIiBpdGVtVmFsdWU9InRtcGxJbmR4Ii8+CgkJCQkJCQk8L2Zvcm06c2VsZWN0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCTxmb3JtOm9wdGlvbiB2YWx1ZT0iIj7shKDtg508L2Zvcm06b3B0aW9uPgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJPGZvcm06c2VsZWN0IHBhdGg9Im91dHBWbmRyIj4KCQkJCQkJCQkJCTxmb3JtOm9wdGlvbnMgaXRlbXM9IiR7dmVuZG9yc30iIGl0ZW1WYWx1ZT0iY29kZSIgaXRlbUxhYmVsPSJuYW1lIi8+CgkJCQkJCQkJCTwvZm9ybTpzZWxlY3Q+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -961,10 +969,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGZvcm06aGlkZGVuIHBhdGg9Im91dHBWbmRyIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCTxmb3JtOm9wdGlvbiB2YWx1ZT0iIj7shKDtg508L2Zvcm06b3B0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
