@@ -173,6 +173,12 @@
         <mark key="." line="49" column="26" />
         <mark key="^" line="49" column="26" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-plupload.js" timestamp="1524026248534">
+        <mark key="'" line="131" column="28" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+      </file>
       <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_propmanager/src/main/java/com/fujixerox/kor/secuhub/propmanager/sofia/model/imagelog/ManageJobTemplate.java" timestamp="1520576873937">
         <mark key="'" line="69" column="38" />
         <mark key="[" line="19" column="0" />
@@ -412,6 +418,7 @@
         <mark key="^" line="176" column="45" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/commons-fileupload-1.3.1.jar!/org/apache/commons/fileupload/FileUploadBase.class" timestamp="1524025866276" />
       <file name="/TB_USER_MSTR [samjung]" timestamp="1523435127506">
         <mark key="[" line="0" column="0" />
       </file>
@@ -492,12 +499,12 @@
         <mark key="." line="60" column="12" />
         <mark key="^" line="60" column="12" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/applicationContext.xml" timestamp="1522117063865">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/applicationContext.xml" timestamp="1524026082842">
         <mark key="'" line="41" column="68" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="97" />
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+        <mark key="^" line="62" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_2.sql" timestamp="1521533400513">
         <mark key="'" line="0" column="0" />
@@ -809,9 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" />
-      <jump line="159" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" />
-      <jump line="161" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" />
       <jump line="162" column="27" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" />
       <jump line="165" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" />
       <jump line="167" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/bizcard/bizcard-preview.js" />
@@ -909,10 +913,13 @@
       <jump line="178" column="49" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
       <jump line="183" column="50" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" />
+      <jump line="44" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-plupload.js" />
+      <jump line="95" column="28" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-plupload.js" />
+      <jump line="131" column="28" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-plupload.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbWF2LmFkZE9iamVjdCgiZXJyb3IiLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -921,10 +928,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>주문감시자가 주문을 접수완료 처리시에 출력업체 지정이 하나인경우는 select가 아닌 hidden으로 처리한다</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="4">
         <text>orderProcessVO</text>
@@ -980,9 +987,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search encoding="base64">XDxzaXplXD4=</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern encoding="base64">XDxzaXplXD4=</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -990,8 +997,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry>biz</entry>
         <entry>addform</entry>
         <entry encoding="base64">XDxhZGRLcG1nQXR0cmlidXRlXD4=</entry>
         <entry>cart</entry>
@@ -1010,6 +1015,8 @@
         <entry>outp</entry>
         <entry>명함</entry>
         <entry>select</entry>
+        <entry>max</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
