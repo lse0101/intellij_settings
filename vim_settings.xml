@@ -31,12 +31,12 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="58" column="27" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" timestamp="1524118966131">
-        <mark key="'" line="234" column="66" />
-        <mark key="[" line="218" column="57" />
-        <mark key="]" line="218" column="63" />
-        <mark key="." line="218" column="63" />
-        <mark key="^" line="218" column="63" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" timestamp="1524122788077">
+        <mark key="'" line="301" column="18" />
+        <mark key="[" line="275" column="37" />
+        <mark key="]" line="275" column="38" />
+        <mark key="." line="275" column="38" />
+        <mark key="^" line="275" column="38" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/bizcard/controller/BizcardTemplateAttributeAsyncController.java" timestamp="1524031740684">
         <mark key="[" line="381" column="0" />
@@ -367,12 +367,14 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" timestamp="1524116215786">
         <mark key="'" line="47" column="56" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-menu.js" timestamp="1524122804390">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
-      <jump line="122" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
-      <jump line="125" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
-      <jump line="126" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
       <jump line="127" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
       <jump line="128" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
       <jump line="144" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/service/impl/LoginServiceImpl.java" />
@@ -469,10 +471,14 @@
       <jump line="227" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="233" column="70" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="234" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
+      <jump line="216" column="55" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
+      <jump line="381" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
+      <jump line="390" column="55" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
+      <jump line="301" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -481,28 +487,28 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>addform.do</text>
+        <text>OWASP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxmaWx0ZXItbWFwcGluZz4KCQk8ZmlsdGVyLW5hbWU+Q1NSRkd1YXJkPC9maWx0ZXItbmFtZT4KCQk8dXJsLXBhdHRlcm4+Ki5kbzwvdXJsLXBhdHRlcm4+Cgk8L2ZpbHRlci1tYXBwaW5nPgo=</text>
+        <text encoding="base64">CQkJLmFwcGVuZCh0aGlzLmhpZGRlbkNzcmYoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLmFwCg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -514,7 +520,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,16 +539,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXdpbmRvdy5sb2NhdGlvbi5ocmVmPScvbG9naW5mb3JtLmRvJzs8L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addform.do</last-search>
+      <last-search>OWASP</last-search>
       <last-offset />
-      <last-pattern>addform.do</last-pattern>
+      <last-pattern>OWASP</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DAO</entry>
         <entry>명함</entry>
         <entry>tmpl</entry>
         <entry>smpl</entry>
@@ -570,6 +575,7 @@
         <entry>Java</entry>
         <entry>addform</entry>
         <entry>addform.do</entry>
+        <entry>OWASP</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
