@@ -116,6 +116,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/plugins/plupload/plupload.full.min.js" timestamp="1524209060215">
+        <mark key="[" line="14" column="16433" />
+        <mark key="]" line="14" column="16436" />
+        <mark key="." line="14" column="16436" />
+        <mark key="^" line="14" column="16436" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/common/decorators/board_list.jsp" timestamp="1524126108585">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -249,12 +255,12 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" timestamp="1524205344130">
         <mark key="'" line="282" column="32" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" timestamp="1524205491227">
-        <mark key="'" line="48" column="77" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="66" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" timestamp="1524208801981">
+        <mark key="'" line="29" column="24" />
+        <mark key="[" line="35" column="148" />
+        <mark key="]" line="35" column="165" />
+        <mark key="." line="35" column="165" />
+        <mark key="^" line="35" column="165" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/jobtitle/controller/JobTitleAsyncController.java" timestamp="1524031352420">
         <mark key="[" line="255" column="0" />
@@ -498,13 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="233" column="70" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="234" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="216" column="55" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="381" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="390" column="55" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="301" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="110" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="160" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="209" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
@@ -598,14 +597,17 @@
       <jump line="10" column="69" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
       <jump line="103" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
       <jump line="14" column="72" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="58" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="70" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="8" column="45" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="22" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="25" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="29" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>common-ajax의 asyncCall 메서드를 수정한다
-
-form으로부터 param정보를 읽었다면 csrfguard의 지원으로 webddp-id 값을 읽지만,
-form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 asyncCall은 webddp-id가
-자동으로 injection이 되지 않아 ajax call을 하기 이전에 webddp-id 값을 강제로 injection한다</text>
+        <text>n</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -614,10 +616,10 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>mod</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdldFVSTDogZnVuY3Rpb24ocGF0aCkgewoJCWlmIChwYXRoICYmIHBhdGguaW5kZXhPZihQQVRIUk9PVCkgIT0gMCAmJiBwYXRoLmNoYXJBdCgwKSA9PSAnLycpIHsKCQkJcmV0dXJuIChQQVRIUk9PVCArIHBhdGgpLnJlcGxhY2UoL1wvXC8vZywgJy8nKTsKCQl9IGVsc2UgewoJCQlyZXR1cm4gcGF0aDsKCQl9Cgl9LAo=</text>
@@ -677,9 +679,9 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
       </register>
     </registers>
     <search>
-      <last-search>mod</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>mod</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -687,7 +689,6 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
     </search>
     <history>
       <history-search>
-        <entry>outp_vndr</entry>
         <entry>start</entry>
         <entry>setH</entry>
         <entry>Header</entry>
@@ -707,6 +708,7 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
         <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
         <entry>mod</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
