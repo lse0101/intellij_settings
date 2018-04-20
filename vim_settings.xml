@@ -82,6 +82,11 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="45" column="48" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" timestamp="1524200615845">
+        <mark key="'" line="187" column="26" />
+        <mark key="[" line="370" column="13" />
+        <mark key="]" line="370" column="29" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-ajax.js" timestamp="1524187349528">
         <mark key="[" line="41" column="45" />
         <mark key="]" line="41" column="45" />
@@ -477,9 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="92" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="158" column="7" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="187" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="193" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="228" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="38" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
@@ -534,12 +536,6 @@
       <jump line="16" column="1" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="334" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="378" column="21" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
-      <jump line="169" column="52" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
-      <jump line="170" column="43" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
-      <jump line="173" column="49" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
-      <jump line="174" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
-      <jump line="177" column="48" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
-      <jump line="178" column="39" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="425" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="435" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="436" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
@@ -577,6 +573,15 @@
       <jump line="91" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
       <jump line="173" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
       <jump line="77" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/common/menu/user_header.jsp" />
+      <jump line="373" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="78" column="21" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="169" column="52" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="170" column="43" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="173" column="49" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="174" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="177" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="178" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
+      <jump line="187" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -592,7 +597,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>outp_vndr</text>
+        <text>Ajax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8c2NyaXB0IHNyYz0iL0phdmFTY3JpcHRTZXJ2bGV0Ij48L3NjcmlwdD4K</text>
@@ -648,9 +653,9 @@
       </register>
     </registers>
     <search>
-      <last-search>outp_vndr</last-search>
+      <last-search>Ajax</last-search>
       <last-offset />
-      <last-pattern>outp_vndr</last-pattern>
+      <last-pattern>Ajax</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -658,17 +663,11 @@
     </search>
     <history>
       <history-search>
-        <entry>Cookie</entry>
-        <entry>X-TO</entry>
-        <entry>token</entry>
-        <entry>Coo</entry>
-        <entry>coo</entry>
         <entry>head</entry>
         <entry>Hea</entry>
         <entry>TOKEN</entry>
         <entry encoding="base64">XDxwYWdlVG9rZW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRSZXNwb25zZUhlYWRlclw+</entry>
-        <entry>Header</entry>
         <entry>onload</entry>
         <entry>Page</entry>
         <entry>webddp-id</entry>
@@ -678,6 +677,12 @@
         <entry>include</entry>
         <entry>script</entry>
         <entry>outp_vndr</entry>
+        <entry>start</entry>
+        <entry>setH</entry>
+        <entry>Header</entry>
+        <entry encoding="base64">XDxzZXRSZXF1ZXN0SGVhZGVyXD4=</entry>
+        <entry>ajax</entry>
+        <entry>Ajax</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
