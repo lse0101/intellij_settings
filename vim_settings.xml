@@ -15,7 +15,10 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/selectivizr-min.js" timestamp="1524185468809" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-func.js" timestamp="1524205523999">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="11" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524198989320">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="6" />
@@ -220,7 +223,6 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/decorators.xml" timestamp="1524188985098" />
       <file name="/TB_USER_MSTR [samjung]" timestamp="1524198879760">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,8 +243,14 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" timestamp="1524120267128">
-        <mark key="'" line="30" column="28" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" timestamp="1524205539801">
+        <mark key="'" line="223" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" timestamp="1524205344130">
+        <mark key="'" line="282" column="32" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" timestamp="1524205491227">
+        <mark key="'" line="48" column="77" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="18" />
@@ -260,6 +268,9 @@
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_contents_list.jsp" timestamp="1524205363824">
+        <mark key="'" line="22" column="63" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/mail/mail_server_manage.jsp" timestamp="1524185389409">
         <mark key="[" line="292" column="0" />
@@ -379,15 +390,14 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/sitemesh.xml" timestamp="1524188934307" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/structure/order/TbOrdrCart.java" timestamp="1523607268628">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="33" column="24" />
         <mark key="^" line="33" column="24" />
         <mark key="." line="33" column="24" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" timestamp="1524109097661">
-        <mark key="'" line="3" column="0" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" timestamp="1524205808423">
+        <mark key="'" line="14" column="72" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_bizcard_form.jsp" timestamp="1524115224487">
         <mark key="'" line="156" column="85" />
@@ -418,11 +428,10 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524191213176">
+      <file name="/Dummy.txt" timestamp="1524206326191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/tests/com/fujixerox/kor/webddp/std/common/InetAddressTest.java" timestamp="1524047722067">
         <mark key="[" line="16" column="61" />
@@ -459,6 +468,9 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/structure/user/TbUserDept.java" timestamp="1524204174635">
         <mark key="'" line="25" column="22" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-submit.js" timestamp="1524205087676">
+        <mark key="'" line="23" column="47" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/mainpage/controller/MainPageAsyncController.java" timestamp="1524031360623">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -486,45 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="38" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="40" column="79" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="41" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="43" column="2" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="44" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="162" column="70" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="37" column="43" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="39" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="42" column="27" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="46" column="59" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="47" column="55" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="96" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
-      <jump line="4" column="49" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="35" column="2" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="37" column="43" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="39" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="42" column="27" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="46" column="58" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="47" column="56" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" />
-      <jump line="39" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
-      <jump line="217" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="236" column="88" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="298" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="347" column="59" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="403" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="62" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
-      <jump line="238" column="74" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="246" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="252" column="173" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="243" column="74" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="255" column="56" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="182" column="2" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="103" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="221" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" />
-      <jump line="170" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
-      <jump line="223" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="224" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
-      <jump line="226" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="227" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="233" column="70" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="234" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
@@ -586,10 +559,53 @@
       <jump line="178" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="187" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" />
       <jump line="25" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/structure/user/TbUserDept.java" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="16" column="43" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="23" column="47" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-submit.js" />
+      <jump line="18" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="17" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="56" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="55" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="19" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="440" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="439" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="436" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="435" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="431" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="414" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="413" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="409" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="408" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="404" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="380" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="322" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="321" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="284" column="46" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="282" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/goods/goods-manage.js" />
+      <jump line="117" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_contents_list.jsp" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_contents_list.jsp" />
+      <jump line="22" column="63" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_contents_list.jsp" />
+      <jump line="61" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="100" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="16" column="42" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="48" column="77" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/login/loginform.jsp" />
+      <jump line="33" column="39" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="300" column="21" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="3" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="223" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/bizcard/bizcard_template_form.jsp" />
+      <jump line="104" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="56" column="2" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="10" column="69" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="103" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
+      <jump line="14" column="72" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/passcode/passcode_manage.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8c2NyaXB0IHNyYz0iL0phdmFTY3JpcHRTZXJ2bGV0Ij48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>common-ajax의 asyncCall 메서드를 수정한다
+
+form으로부터 param정보를 읽었다면 csrfguard의 지원으로 webddp-id 값을 읽지만,
+form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 asyncCall은 webddp-id가
+자동으로 injection이 되지 않아 ajax call을 하기 이전에 webddp-id 값을 강제로 injection한다</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -601,37 +617,41 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>comp</text>
+        <text>mod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8c2NyaXB0IHNyYz0iL0phdmFTY3JpcHRTZXJ2bGV0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">CWdldFVSTDogZnVuY3Rpb24ocGF0aCkgewoJCWlmIChwYXRoICYmIHBhdGguaW5kZXhPZihQQVRIUk9PVCkgIT0gMCAmJiBwYXRoLmNoYXJBdCgwKSA9PSAnLycpIHsKCQkJcmV0dXJuIChQQVRIUk9PVCArIHBhdGgpLnJlcGxhY2UoL1wvXC8vZywgJy8nKTsKCQl9IGVsc2UgewoJCQlyZXR1cm4gcGF0aDsKCQl9Cgl9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlwYXIK</text>
+      <register name="1" type="4">
+        <text>common-ajax의 asyncCall 메서드를 수정한다
+
+form으로부터 param정보를 읽었다면 csrfguard의 지원으로 webddp-id 값을 읽지만,
+form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 asyncCall은 webddp-id가
+자동으로 injection이 되지 않아 ajax call을 하기 이전에 webddp-id 값을 강제로 injection한다</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJldHVybiAoIXBhcmFtWyd3ZWJkZHAtaWQnXSkgPyAK</text>
+        <text encoding="base64">CQlwYXIK</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXJldHVybiAoIXBhcmFtWyd3ZWJkZHAtaWQnXSkgPyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZigpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLmZpcnN0KCkK</text>
+        <text encoding="base64">CQlpZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJLmZpcnN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl7CgkJCXR5cGUgOiAnaGlkZGVuJywKCQkJbmFtZSA6ICd3ZWJkZHAtaWQnLAoJCQl2YWx1ZSA6IGdldFdlYmRkcGlkKCkKCQl9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -647,19 +667,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl7CgkJCXR5cGUgOiAnaGlkZGVuJywKCQkJbmFtZSA6ICd3ZWJkZHAtaWQnLAoJCQl2YWx1ZSA6IGdldFdlYmRkcGlkKCkKCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>comp</last-search>
+      <last-search>mod</last-search>
       <last-offset />
-      <last-pattern>comp</last-pattern>
+      <last-pattern>mod</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -667,18 +687,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Hea</entry>
-        <entry>TOKEN</entry>
-        <entry encoding="base64">XDxwYWdlVG9rZW5zXD4=</entry>
-        <entry encoding="base64">XDxnZXRSZXNwb25zZUhlYWRlclw+</entry>
-        <entry>onload</entry>
-        <entry>Page</entry>
-        <entry>webddp-id</entry>
-        <entry>13</entry>
-        <entry encoding="base64">XDxDdXN0b21WaWV3UmVzb2x2ZXJcPg==</entry>
-        <entry>site</entry>
-        <entry>include</entry>
-        <entry>script</entry>
         <entry>outp_vndr</entry>
         <entry>start</entry>
         <entry>setH</entry>
@@ -687,6 +695,18 @@
         <entry>ajax</entry>
         <entry>Ajax</entry>
         <entry>comp</entry>
+        <entry>저장</entry>
+        <entry encoding="base64">XDxhY3Rpb25VcmxcPg==</entry>
+        <entry encoding="base64">XDxwYXNzcG9saWN5XD4=</entry>
+        <entry encoding="base64">XDxnb29kc0Zvcm1cPg==</entry>
+        <entry>searchForm</entry>
+        <entry>submit</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZUZvcm1cPg==</entry>
+        <entry>PATHROOT</entry>
+        <entry>script</entry>
+        <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
+        <entry encoding="base64">XDxmb3JtXD4=</entry>
+        <entry>mod</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
