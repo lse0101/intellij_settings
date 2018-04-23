@@ -359,6 +359,13 @@
         <mark key="^" line="274" column="57" />
         <mark key="." line="274" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/jobtitle/jobtitle_list.jsp" timestamp="1524446950925">
+        <mark key="'" line="139" column="31" />
+        <mark key="[" line="167" column="29" />
+        <mark key="]" line="167" column="29" />
+        <mark key="^" line="167" column="29" />
+        <mark key="." line="167" column="29" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/csrfguard.properties" timestamp="1524116215786">
         <mark key="'" line="47" column="56" />
       </file>
@@ -382,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="37" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="105" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="107" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" />
       <jump line="41" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/csrfguard-3.1.0.jar!/org/owasp/csrfguard/CsrfGuardFilter.class" />
@@ -482,6 +488,7 @@
       <jump line="3" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/system/system_manage.jsp" />
       <jump line="139" column="9" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
       <jump line="95" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
+      <jump line="139" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/jobtitle/jobtitle_list.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -497,7 +504,7 @@
         <text>index.html</text>
       </register>
       <register name="/" type="4">
-        <text>wel</text>
+        <text>loadList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8cGF0dGVybj4vaW5kZXguanNwPC9wYXR0ZXJuPgo=</text>
@@ -560,9 +567,9 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
       </register>
     </registers>
     <search>
-      <last-search>wel</last-search>
+      <last-search>loadList</last-search>
       <last-offset />
-      <last-pattern>wel</last-pattern>
+      <last-pattern>loadList</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +577,6 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnb29kc0Zvcm1cPg==</entry>
         <entry>searchForm</entry>
         <entry>submit</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZUZvcm1cPg==</entry>
@@ -590,6 +596,7 @@ form이 아닌 선택적으로 필요한 param을 넘기는 common-ajax의 async
         <entry>mess</entry>
         <entry>incl</entry>
         <entry>wel</entry>
+        <entry>loadList</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
