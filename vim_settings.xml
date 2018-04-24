@@ -70,6 +70,11 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="38" column="27" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.js" timestamp="1524560099103">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" timestamp="1524443715714">
         <mark key="'" line="0" column="0" />
       </file>
@@ -81,10 +86,6 @@
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/system/system_manage.jsp" timestamp="1524443959688">
         <mark key="'" line="3" column="4" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/goods/dao/sqlmap/mssql/goods-group-sqlmap.xml" timestamp="1524469960644">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="306" column="25" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/statistics/controller/StatisticsAsyncController.java" timestamp="1524457186875">
         <mark key="'" line="41" column="13" />
@@ -295,12 +296,12 @@
         <mark key="." line="19" column="86" />
         <mark key="^" line="19" column="86" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" timestamp="1524445171927">
-        <mark key="'" line="95" column="8" />
-        <mark key="[" line="169" column="23" />
-        <mark key="]" line="169" column="32" />
-        <mark key="^" line="169" column="32" />
-        <mark key="." line="169" column="32" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" timestamp="1524560085982">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="203" column="25" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/main/controller/MainController.java" timestamp="1524455769927">
         <mark key="[" line="25" column="27" />
@@ -346,6 +347,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/plugins/paging/jquery.paging.min.js" timestamp="1524560137649">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/survey/controller/SurveyController.java" timestamp="1524472439100">
         <mark key="a" line="166" column="22" />
@@ -401,9 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="42" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list_layer_form.jsp" />
-      <jump line="202" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list_layer_form.jsp" />
-      <jump line="204" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list_layer_form.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list.jsp" />
       <jump line="10" column="5" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list.jsp" />
       <jump line="216" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list_layer_form.jsp" />
@@ -501,10 +504,13 @@
       <jump line="137" column="57" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/popup/controller/PopupController.java" />
       <jump line="87" column="57" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/popup/controller/PopupController.java" />
       <jump line="112" column="57" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/popup/controller/PopupController.java" />
+      <jump line="1" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
+      <jump line="197" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -513,19 +519,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>list.do</text>
+        <text>JavaS</text>
       </register>
       <register name="0" type="4">
         <text>/setting/popup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
@@ -540,13 +546,13 @@
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0cnkK</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl0cnkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -562,7 +568,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -572,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list.do</last-search>
+      <last-search>JavaS</last-search>
       <last-offset />
-      <last-pattern>list.do</last-pattern>
+      <last-pattern>JavaS</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>modProcessGroup</entry>
         <entry>modProcessStep</entry>
         <entry>addGood</entry>
         <entry>searchGood</entry>
@@ -602,6 +607,7 @@
         <entry>activeRepo</entry>
         <entry encoding="base64">XDxwb3B1cFw+</entry>
         <entry>list.do</entry>
+        <entry>JavaS</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
