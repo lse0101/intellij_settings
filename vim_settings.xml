@@ -155,8 +155,8 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" timestamp="1524739672594">
         <mark key="'" line="227" column="18" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1524795470200">
-        <mark key="'" line="422" column="16" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1524796214987">
+        <mark key="'" line="290" column="46" />
         <mark key="[" line="466" column="0" />
         <mark key="]" line="466" column="0" />
         <mark key="." line="466" column="0" />
@@ -182,11 +182,11 @@
         <mark key="." line="508" column="43" />
         <mark key="^" line="508" column="43" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1524794950572">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1524796252451">
         <mark key="'" line="87" column="20" />
-        <mark key="[" line="121" column="34" />
-        <mark key="]" line="121" column="34" />
-        <mark key="." line="121" column="34" />
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="107" column="31" />
+        <mark key="." line="107" column="31" />
         <mark key="^" line="121" column="34" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/account/controller/AccountController.java" timestamp="1524457269765">
@@ -277,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/mail/mail_template_list_layer_form.jsp" />
       <jump line="33" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/mail/controller/MailTemplateController.java" />
       <jump line="155" column="65" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/mail/controller/MailTemplateController.java" />
       <jump line="90" column="65" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/mail/controller/MailTemplateController.java" />
@@ -377,10 +376,11 @@
       <jump line="234" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
       <jump line="377" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/dao/sqlmap/mssql/user-sqlmap.xml" />
       <jump line="422" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="290" column="46" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY29tbW9uTGF5ZXIubGF5ZXJPZmYoJ2hlYWRlci1tb2RhbCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -389,7 +389,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>teleNum</text>
