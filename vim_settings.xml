@@ -155,12 +155,12 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" timestamp="1524739672594">
         <mark key="'" line="227" column="18" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1524789685351">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1524791586230">
         <mark key="'" line="326" column="20" />
-        <mark key="[" line="402" column="87" />
-        <mark key="]" line="394" column="77" />
-        <mark key="." line="394" column="77" />
-        <mark key="^" line="394" column="77" />
+        <mark key="[" line="413" column="54" />
+        <mark key="]" line="413" column="75" />
+        <mark key="." line="413" column="75" />
+        <mark key="^" line="413" column="75" />
       </file>
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1524732684287">
         <mark key="[" line="0" column="0" />
@@ -183,12 +183,12 @@
         <mark key="." line="508" column="43" />
         <mark key="^" line="508" column="43" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1524788901451">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1524793066978">
         <mark key="'" line="87" column="20" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="109" column="70" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="110" column="32" />
+        <mark key="]" line="110" column="33" />
+        <mark key="." line="110" column="33" />
+        <mark key="^" line="110" column="33" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/account/controller/AccountController.java" timestamp="1524457269765">
         <mark key="[" line="63" column="41" />
@@ -375,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -384,7 +384,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>teleNum</text>
@@ -393,31 +393,31 @@
         <text encoding="base64">CQkJJG9wdDEuZmluZCgnaW5wdXRbbmFtZT0iY2xudENvZGUiXScpLnZhbChkYXRhVmFsc1snY2xudENvZGUnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJCgnaW5wdXRbbmFtZT0iIl0nKQo=</text>
+        <text encoding="base64">CQkJCQlpZigpCg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YVZhbHMpOwo=</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJYWxlcnQoJ2EnKTsK</text>
+        <text encoding="base64">CQkJCQl0eXBlID0gCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygibWV0aG9kICIrbWV0aG9kKTsK</text>
+        <text encoding="base64">CQkJCQkkdGhpcz0gOwoJCQkJCW5hbWUgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8cCBjbGFzcz0iYnRuIj4KCQkJPHNwYW4gY2xhc3M9InJpZ2h0Ij4KCQkJCTxhIGNsYXNzPSJidG4iID7soIDsnqU8L2E+CgkJCQk8YSBjbGFzcz0iYnRuIGVtcHR5IGxheWVyLWNsb3NlIj7st6jshow8L2E+CgkJCTwvc3Bhbj4KCQk8L3A+Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJYWxlcnQoY29kZVR5cGUpOwo=</text>
+        <text encoding="base64">CQkJLy8gJG9wdDEuZmluZCgnaW5wdXRbbmFtZT0iZW5nZVBlcm4iXScpLnZhbChkYXRhVmFsc1snZW5nZXBlcm4nXSk7CgkJCS8vICRvcHQxLmZpbmQoJ2lucHV0W25hbWU9ImNsbnROYW1lIl0nKS52YWwoZGF0YVZhbHNbJ2NsbnRuYW1lJ10pOwoJCQkvLyAkb3B0MS5maW5kKCdpbnB1dFtuYW1lPSJjbG50Q29kZSJdJykudmFsKGRhdGFWYWxzWydjbG50Y29kZSddKTsKCQkJLy8gJG9wdDEuZmluZCgnaW5wdXRbbmFtZT0iY3RydE5hbWUiXScpLnZhbChkYXRhVmFsc1snY3RydG5hbWUnXSk7CgkJCS8vICRvcHQxLmZpbmQoJ2lucHV0W25hbWU9ImN0cnRDb2RlIl0nKS52YWwoZGF0YVZhbHNbJ2NsbnRjb2RlJ10pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -436,7 +436,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJCgnaW5wdXRbbmFtZT0iIl0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
