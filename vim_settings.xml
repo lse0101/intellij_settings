@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1525067226296">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1525069500459">
         <mark key="'" line="35" column="41" />
-        <mark key="[" line="129" column="116" />
-        <mark key="]" line="129" column="119" />
-        <mark key="^" line="129" column="119" />
-        <mark key="." line="129" column="119" />
+        <mark key="[" line="185" column="35" />
+        <mark key="]" line="186" column="12" />
+        <mark key="^" line="186" column="12" />
+        <mark key="." line="186" column="12" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/goods/controller/GoodsAsyncController.java" timestamp="1524469627417">
         <mark key="'" line="52" column="14" />
@@ -436,12 +436,12 @@
         <mark key="^" line="56" column="62" />
         <mark key="." line="56" column="62" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" timestamp="1525067219901">
-        <mark key="'" line="296" column="43" />
-        <mark key="[" line="299" column="99" />
-        <mark key="]" line="299" column="102" />
-        <mark key="^" line="299" column="102" />
-        <mark key="." line="299" column="102" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" timestamp="1525069018460">
+        <mark key="'" line="329" column="52" />
+        <mark key="[" line="305" column="48" />
+        <mark key="]" line="305" column="59" />
+        <mark key="^" line="305" column="47" />
+        <mark key="." line="305" column="48" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_cart_list.jsp" timestamp="1524719911002">
         <mark key="[" line="11" column="72" />
@@ -547,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="32" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="227" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderAdminController.java" />
       <jump line="214" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderCartController.java" />
       <jump line="31" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
@@ -647,10 +646,11 @@
       <jump line="748" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/order-common.js" />
       <jump line="296" column="43" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="35" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="329" column="52" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWFsZXJ0KCdhJyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -659,37 +659,37 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">dHIgdGQg</text>
       </register>
       <register name="/" type="4">
-        <text>change</text>
+        <text>findPost</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCTx0ZCBzdHlsZT0id2lkdGg6IDIyMHB4OyI+Cg==</text>
+      <register name="0" type="4">
+        <text>addressbody</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWFsZXJ0KCdhJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJLy8gJCgnI29yZGVyRGVzdGluYXRpb25WT1xcLmRlc3RBZHIxJykudmFsKGRhdGEuYWRkcmVzcyk7CgkJCQkJCS8vICQoJyNvcmRlckRlc3RpbmF0aW9uVk9cXC5kZXN0UG9zdCcpLnZhbChkYXRhLnBvc3Rjb2RlKTsK</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyB0ZW1wbC5maW5kKCdzZWxlY3QnKS52YWwoc2hpcF9uYW1lKS50cmlnZ2VyKCdjaGFuZ2UnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyB0ZW1wbAoJCS8vIAkuZmluZCgnc3Bhbi5zZWxlY3QyJykKCQkvLyAJLnJlbW92ZSgpOwoKLyoJCXRlbXBsCgkJCS5maW5kKCdzZWxlY3QuZGVzdE5hbWUnKQoJCQkucmVtb3ZlQ2xhc3MoJ3NlbGVjdDItaGlkZGVuLWFjY2Vzc2libGUnKQoJCQkuc2VsZWN0MigpCgkJCS5vbignY2hhbmdlJywgY2hhbmdlRGV2bGl2ZXJ5SW5mbyk7Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyB0ZW1wbC5maW5kKCdzZWxlY3QnKS52YWwoc2hpcF9uYW1lKS50cmlnZ2VyKCdjaGFuZ2UnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQk8JS0tPGZvcm06aW5wdXQgcGF0aD0ib3JkZXJEZXN0aW5hdGlvbkxpc3RbJHtsb29wLmluZGV4fV0uZGVzdFBvc3QiIGNzc0NsYXNzPSJpbWUtZGlzYWJsZWQgZGVzdFBvc3QiIG1heGxlbmd0aD0iMTAiLz4tLSU+Cg==</text>
+        <text encoding="base64">CQkvLyB0ZW1wbAoJCS8vIAkuZmluZCgnc3Bhbi5zZWxlY3QyJykKCQkvLyAJLnJlbW92ZSgpOwoKLyoJCXRlbXBsCgkJCS5maW5kKCdzZWxlY3QuZGVzdE5hbWUnKQoJCQkucmVtb3ZlQ2xhc3MoJ3NlbGVjdDItaGlkZGVuLWFjY2Vzc2libGUnKQoJCQkuc2VsZWN0MigpCgkJCS5vbignY2hhbmdlJywgY2hhbmdlRGV2bGl2ZXJ5SW5mbyk7Ki8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -708,7 +708,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQk8Zm9ybTppbnB1dCBwYXRoPSJvcmRlckRlc3RpbmF0aW9uVk8uZGVzdE5hbWUiIGRhdGEtZmllbGQ9ImRlcHROYW1lIi8+CjwlLS0JCQkJCQkJCTxzZWxlY3QgaWQ9InNlbGVjdEFkcjAiIG5hbWU9InNlYXJjaERlc3ROYW1lIiBkYXRhLXJvdz0iMCIgZGF0YS1maWVsZD0iZnVsbFNoaXBBZGRyIiBjbGFzcz0iZGVzdE5hbWUgc2VhcmNoRGVzdE5hbWUiIHN0eWxlPSJ3aWR0aDo4MCU7Ij4KCQkJCQkJCQkJPG9wdGlvbj7shKDtg53tlbQg7KO87IS47JqULjwvb3B0aW9uPgoJCQkJCQkJCQk8Yzpmb3JFYWNoIHZhcj0iZGVzdCIgaXRlbXM9IiR7c2hpcExpc3R9Ij4KCQkJCQkJCQkJCTxvcHRpb24gdmFsdWU9IiR7ZGVzdC5zaGlwTmFtZX0iCgkJCQkJCQkJCQkgICAgICAgIGRhdGEtcG9zdD0iJHtkZXN0LnNoaXBQb3N0fSIKCQkJCQkJCQkJCSAgICAgICAgZGF0YS1hZHIxPSIke2Rlc3Quc2hpcEFkcjF9IgoJCQkJCQkJCQkJICAgICAgICBkYXRhLWFkcjI9IiR7ZGVzdC5zaGlwQWRyMn0iCgkJCQkJCQkJCQkgICAgICAgIGRhdGEtYWVuMT0iJHtkZXN0LnNoaXBBZW4xfSIKCQkJCQkJCQkJCSAgICAgICAgZGF0YS1hZW4yPSIke2Rlc3Quc2hpcEFlbjJ9IgoJCQkJCQkJCQkJICAgICAgICA8YzppZiB0ZXN0PSIke2xpc3QuZGVzdE5hbWUgPT0gZGVzdC5zaGlwTmFtZX0iPnNlbGVjdGVkPC9jOmlmPj4KCQkJCQkJCQkJCQkJJHtkZXN0LnNoaXBOYW1lfQoJCQkJCQkJCQkJPC9vcHRpb24+CgkJCQkJCQkJCTwvYzpmb3JFYWNoPgoJCQkJCQkJCTwvc2VsZWN0Pi0tJT4K</text>
+        <text encoding="base64">CQkJCQkJCQk8JS0tPGZvcm06aW5wdXQgcGF0aD0ib3JkZXJEZXN0aW5hdGlvbkxpc3RbJHtsb29wLmluZGV4fV0uZGVzdFBvc3QiIGNzc0NsYXNzPSJpbWUtZGlzYWJsZWQgZGVzdFBvc3QiIG1heGxlbmd0aD0iMTAiLz4tLSU+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -718,9 +718,9 @@
       </register>
     </registers>
     <search>
-      <last-search>change</last-search>
+      <last-search>findPost</last-search>
       <last-offset />
-      <last-pattern>change</last-pattern>
+      <last-pattern>findPost</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -728,8 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
-        <entry encoding="base64">XDxzZWFyY2hlZENvbnRyYWN0Q29kZUxpc3RcPg==</entry>
         <entry>engePern</entry>
         <entry>계약</entry>
         <entry encoding="base64">XDxUX1VTRVJcPg==</entry>
@@ -748,6 +746,8 @@
         <entry>Dest</entry>
         <entry encoding="base64">XDx1c2VyU2hpcFw+</entry>
         <entry>change</entry>
+        <entry>findNum</entry>
+        <entry>findPost</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
