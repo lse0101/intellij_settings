@@ -251,6 +251,9 @@
         <mark key="^" line="341" column="121" />
         <mark key="." line="341" column="121" />
       </file>
+      <file name="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" timestamp="1525229410241">
+        <mark key="'" line="24" column="29" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/doc/SP_HR_Sync_Company.sql" timestamp="1524814425652">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="10" column="0" />
@@ -611,10 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
-      <jump line="23" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
-      <jump line="34" column="27" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
-      <jump line="136" column="79" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="33" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="73" column="36" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
@@ -711,6 +710,10 @@
       <jump line="56" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3099de71-6136-4463-9a4a-9fbe35255b73/console_5.sql" />
       <jump line="77" column="42" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/view/JXLSView.java" />
       <jump line="164" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/view/JXLSView.java" />
+      <jump line="19" column="47" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
+      <jump line="20" column="38" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
+      <jump line="21" column="43" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -726,7 +729,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>Cell</text>
+        <text>merge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJd29ya0Jvb2suZ2V0Q2VsbFN0eWxlQXQoMTYpLnNldFdyYXBUZXh0KHRydWUpOwo=</text>
@@ -782,9 +785,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Cell</last-search>
+      <last-search>merge</last-search>
       <last-offset />
-      <last-pattern>Cell</last-pattern>
+      <last-pattern>merge</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -792,7 +795,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
         <entry>colspan</entry>
         <entry>70px</entry>
         <entry>배송지</entry>
@@ -812,6 +814,7 @@
         <entry>excel</entry>
         <entry>cell</entry>
         <entry>Cell</entry>
+        <entry>merge</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
