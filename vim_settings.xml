@@ -64,11 +64,11 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin_inner_list.jsp" timestamp="1525764260991">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="73" column="55" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin_inner_list.jsp" timestamp="1525830368812">
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="38" />
+        <mark key="." line="65" column="38" />
+        <mark key="^" line="65" column="38" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/repository/controller/RepositoryController.java" timestamp="1524473330452">
         <mark key="'" line="29" column="17" />
@@ -297,11 +297,11 @@
         <mark key="." line="77" column="12" />
         <mark key="^" line="77" column="12" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin.jsp" timestamp="1525764089578">
-        <mark key="[" line="111" column="24" />
-        <mark key="]" line="111" column="27" />
-        <mark key="." line="111" column="27" />
-        <mark key="^" line="111" column="27" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin.jsp" timestamp="1525830330092">
+        <mark key="[" line="96" column="28" />
+        <mark key="]" line="96" column="28" />
+        <mark key="." line="96" column="28" />
+        <mark key="^" line="96" column="28" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/doc/create_view.sql" timestamp="1524814765993">
         <mark key="'" line="110" column="23" />
@@ -364,7 +364,6 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="33" column="27" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/Constants.java" timestamp="1525759402675" />
       <file name="/TB_ORDR_DEST [samjung_docker]" timestamp="1525242802768">
         <mark key="[" line="0" column="0" />
       </file>
@@ -662,8 +661,8 @@
       <jump line="20" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQk8YzpvdXQgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -672,7 +671,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>circulation</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>page</text>
