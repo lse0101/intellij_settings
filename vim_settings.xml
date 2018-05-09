@@ -41,11 +41,6 @@
         <mark key="^" line="77" column="25" />
         <mark key="." line="77" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1525844749032">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" timestamp="1525763427308">
         <mark key="'" line="28" column="33" />
         <mark key="[" line="17" column="56" />
@@ -53,6 +48,7 @@
         <mark key="." line="17" column="61" />
         <mark key="^" line="17" column="61" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/common/LogManagerConstants.java" timestamp="1525857161104" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/statistics/statistics.js" timestamp="1524457161836">
         <mark key="'" line="560" column="0" />
         <mark key="[" line="69" column="25" />
@@ -158,6 +154,16 @@
         <mark key="^" line="43" column="27" />
         <mark key="." line="43" column="27" />
       </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/config/ws-dispatcher.xml" timestamp="1525856788918">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/webapp/WEB-INF/web.xml" timestamp="1525857088497" />
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" timestamp="1525857480613">
+        <mark key="'" line="53" column="20" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/test/java/com/fujixerox/kor/logmanager/parser/log/attributes.xml" timestamp="1525857461029" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/out/artifacts/samjung_webddp_war_exploded/WEB-INF/web.xml" timestamp="1524709235646">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="7" column="18" />
@@ -170,11 +176,6 @@
         <mark key="]" line="112" column="30" />
         <mark key="." line="112" column="30" />
         <mark key="^" line="112" column="30" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/applicationContext-servlet.xml" timestamp="1525760859577">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/user/vo/UserVO.java" timestamp="1525856220206">
         <mark key="[" line="65" column="0" />
@@ -378,6 +379,11 @@
         <mark key="]" line="133" column="29" />
         <mark key="." line="140" column="16" />
         <mark key="^" line="140" column="16" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/java/com/fujixerox/kor/logmanager/webservice/controller/ReceiveImageLogWebServiceController.java" timestamp="1525857196736">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/board/board_group_list_layer_form.jsp" timestamp="1524472753151">
         <mark key="'" line="96" column="40" />
@@ -584,10 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/common/view/JXLSView.java" />
-      <jump line="19" column="47" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
-      <jump line="20" column="38" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
-      <jump line="21" column="43" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
       <jump line="24" column="29" filename="$USER_HOME$/Desktop/examples/src/main/java/org/jxls/demo/MergedCellsDemo.java" />
       <jump line="191" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
       <jump line="177" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" />
@@ -684,15 +686,14 @@
       <jump line="161" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info_original.jsp" />
       <jump line="182" column="84" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info_original.jsp" />
       <jump line="16" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/doc/2018-03-06.sql" />
+      <jump line="62" column="32" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="41" column="35" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="61" column="52" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
+      <jump line="53" column="20" filename="F:/Dropbox/company/xerox/secuHub/Project/secuHub/secuhub_web_logmanager/src/main/resources/wsdl/imageLogService.wsdl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>삼정회계법인 3차 대응
-
-- 엑셀다운로드 양식을 맞춤 (인쇄서 및 총무별로)
-- 관리자 주문관리에 페이지, 부수 컬럼 등을 추가
-- 정산내역 페이지를 총무도 볼수 있도록 수정한다
-- 관리자의 주문관리에서 거래처는 파란행복만 볼수 있다</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUAK</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -701,15 +702,18 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">CTxzd3M6c3RhdGljLXdzZGwgaWQ9ImltYWdlTG9nIiBsb2NhdGlvbj0iY2xhc3NwYXRoOndzZGwvaW1hZ2VMb2dTZXJ2aWNlLndzZGwiLz4=</text>
       </register>
       <register name="/" type="4">
-        <text>VIEWMODE</text>
+        <text encoding="base64">XDxyZWNvcmRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPGNvbCB3aWR0aD0iKiIvPgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CUAK</text>
+      </register>
+      <register name="2" type="4">
         <text>삼정회계법인 3차 대응
 
 - 엑셀다운로드 양식을 맞춤 (인쇄서 및 총무별로)
@@ -717,29 +721,26 @@
 - 정산내역 페이지를 총무도 볼수 있도록 수정한다
 - 관리자의 주문관리에서 거래처는 파란행복만 볼수 있다</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPGNvbCB3aWR0aD0iKiIvPgo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPGNvbCB3aWR0aD0iKiIvPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPHRoIGNsYXNzPSJ0aDAxIj7rs7jrtoDrqoU8L3RoPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -755,28 +756,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPC90Ym9keT4K</text>
+        <text encoding="base64">CQkJPHRoIGNsYXNzPSJ0aDAxIj7rs7jrtoDrqoU8L3RoPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPC90Ym9keT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>VIEWMODE</last-search>
+      <last-search encoding="base64">XDxyZWNvcmRcPg==</last-search>
       <last-offset />
-      <last-pattern>VIEWMODE</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNvcmRcPg==</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Img</entry>
-        <entry>Image</entry>
         <entry>img</entry>
         <entry>Thumb</entry>
         <entry>list</entry>
@@ -795,6 +794,8 @@
         <entry>처리과정</entry>
         <entry>select2</entry>
         <entry>VIEWMODE</entry>
+        <entry encoding="base64">XDxJbWFnZUxvZ1JlY2VpdmVyX3B1dFJlY29yZFw+</entry>
+        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
