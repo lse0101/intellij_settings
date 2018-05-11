@@ -634,7 +634,7 @@
         <mark key="." line="251" column="46" />
         <mark key="^" line="251" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526017641014">
+      <file name="/Dummy.txt" timestamp="1526020920936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -803,7 +803,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Name</text>
+        <text>주문리스트의 컬럼을 계약명에서 계약코드로 변경한다</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -812,7 +812,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>주문리스트의 컬럼을 계약명에서 계약코드로 변경한다</text>
       </register>
       <register name="/" type="4">
         <text>ctrtName</text>
