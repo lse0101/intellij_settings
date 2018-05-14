@@ -577,8 +577,8 @@
         <mark key="." line="99" column="23" />
         <mark key="^" line="99" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1526257726342">
-        <mark key="'" line="232" column="23" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1526289275873">
+        <mark key="'" line="209" column="31" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="^" line="136" column="12" />
@@ -747,9 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="113" column="75" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
-      <jump line="145" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
       <jump line="155" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
       <jump line="34" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
       <jump line="41" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view_layer_process_form.jsp" />
@@ -847,6 +844,9 @@
       <jump line="84" column="39" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin_inner_list.jsp" />
       <jump line="62" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_user_inner_list.jsp" />
       <jump line="77" column="48" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="134" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="195" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="209" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -862,7 +862,7 @@
         <text>2 4 2 4</text>
       </register>
       <register name="/" type="4">
-        <text>ordrMony</text>
+        <text>select</text>
       </register>
       <register name="0" type="4">
         <text>#order .table-style01</text>
@@ -918,9 +918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ordrMony</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>ordrMony</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -928,7 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ctrtName</entry>
         <entry>main</entry>
         <entry>bad</entry>
         <entry>index</entry>
@@ -948,6 +947,7 @@
         <entry>total</entry>
         <entry>totalmony</entry>
         <entry>ordrMony</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
