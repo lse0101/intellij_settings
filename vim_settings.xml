@@ -681,7 +681,7 @@
         <mark key="." line="251" column="46" />
         <mark key="^" line="251" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526025739890">
+      <file name="/Dummy.txt" timestamp="1526261834968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -850,7 +850,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>페이지에서 에러가 발생할 경우 전체화면에서 에러메시지를 나오게 할수 있도록 한다</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -859,7 +859,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>페이지에서 에러가 발생할 경우 전체화면에서 에러메시지를 나오게 할수 있도록 한다</text>
       </register>
       <register name="/" type="4">
         <text>ordrMony</text>
