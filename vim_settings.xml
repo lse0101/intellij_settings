@@ -479,12 +479,11 @@
         <mark key="." line="99" column="23" />
         <mark key="^" line="99" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1526346120893">
-        <mark key="'" line="357" column="17" />
-        <mark key="[" line="243" column="26" />
-        <mark key="]" line="243" column="27" />
-        <mark key="." line="243" column="27" />
-        <mark key="^" line="244" column="26" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1526350697858">
+        <mark key="'" line="369" column="12" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" timestamp="1525826038863">
         <mark key="'" line="31" column="36" />
@@ -538,12 +537,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1526294869101">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1526350381611">
         <mark key="'" line="170" column="29" />
-        <mark key="[" line="218" column="51" />
-        <mark key="]" line="218" column="54" />
-        <mark key="^" line="218" column="54" />
-        <mark key="." line="218" column="54" />
+        <mark key="[" line="163" column="29" />
+        <mark key="]" line="163" column="31" />
+        <mark key="^" line="163" column="31" />
+        <mark key="." line="163" column="31" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" timestamp="1525762911754">
         <mark key="'" line="142" column="29" />
@@ -624,9 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="11" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
-      <jump line="182" column="46" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
-      <jump line="185" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="198" column="11" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="221" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="235" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
@@ -724,10 +720,13 @@
       <jump line="373" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="39" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" />
       <jump line="120" column="42" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
+      <jump line="254" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="460" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="370" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -736,19 +735,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>productName</text>
+        <text encoding="base64">XDxmcmVxdWVudGx5TWVtb0xpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb2wgd2lkdGg9IjEyMCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJPGM6b3V0IHZhbHVlPSIke2xpc3Qub3JkclVzZXJOYW1lfSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8dGggY2xhc3M9InRoMDIiPuqzhOyVveuqhTwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8Zm9ybTppbnB1dCBwYXRoPSJjdHJ0TmFtZSIgY3NzU3R5bGU9IndpZHRoOiAxMDAlOyIgZGF0YS10YXJnZXQ9ImN0cnRuYW1lIi8+CgkJCQkJPC90ZD4K</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
@@ -757,19 +756,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8dGggY2xhc3M9InRoMDIiPuqzhOyVveuqhTwvdGg+CgkJCQkJPHRkPgoJCQkJCQk8YzpvdXQgdmFsdWU9IiR7b3JkZXJWTy5jdHJ0TmFtZX0iLz4KCQkJCQk8L3RkPgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSAsICgKCQkJCQlTRUxFQ1QKCQkJCQkJYXR0cl90ZXh0CgkJCQkJRlJPTQoJCQkJCQl0Yl9vcmRyX2F0dHIKCQkJCQlXSEVSRQoJCQkJCQlvcmRyX2NvZGUgPSBvLm9yZHJfY29kZQoJCQkJCQlBTkQgYXR0cl9jb2RlIGxpa2UgJyVJMDFBMDMnCgkJCQkJKSBBUyBwcm9kdWN0TmFtZQo=</text>
+        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSJpbnB1dCI+7KeB7KCR7J6F66ClPC9vcHRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8b3B0aW9uIHZhbHVlPSIiPuyEoO2DnTwvb3B0aW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJPGM6aWYgdGVzdD0iJHshZW1wdHkgbGlzdC5wcm9kdWN0TmFtZX0iPgoJCQkJCQkJKDxjOm91dCB2YWx1ZT0iJHtsaXN0LnByb2R1Y3ROYW1lfSIvPikKCQkJCQkJPC9jOmlmPgo=</text>
+        <text encoding="base64">CQkJCQkJPGM6b3V0IHZhbHVlPSIke2xpc3Qub3JkclVzZXJOYW1lfSIvPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -788,24 +787,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCUtLQoJCQkJCTx0aD7so7zrrLjrsojtmLg8L3RoPgoJCQkJCTx0aCBjbGFzcz0iYWxpZ24tbGVmdCIgY29sc3Bhbj0iMyI+7IOB7ZKI66qFIC8g7ZKI66qFPC90aD4KCQkJCQk8dGggY2xhc3M9ImFsaWduLXJpZ2h0Ij7so7zrrLjsnpA8L3RoPgoJCQkJCTx0aD48L3RoPgoJCQkJCTx0aCBjbGFzcz0iYWxpZ24tcmlnaHQiPuq4iOyVoTwvdGg+CgkJCQkJPHRoPjwvdGg+CgkJCQkJPHRoPuyjvOusuOyLnOqwgTwvdGg+CgkJCQkJPHRoPuyDge2DnDwvdGg+Ci0tJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>productName</last-search>
+      <last-search encoding="base64">XDxmcmVxdWVudGx5TWVtb0xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>productName</last-pattern>
+      <last-pattern encoding="base64">XDxmcmVxdWVudGx5TWVtb0xpc3RcPg==</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>esti</entry>
         <entry>process</entry>
         <entry>function process</entry>
         <entry>Mony</entry>
@@ -821,10 +819,11 @@
         <entry encoding="base64">XDxjdHJ0X25hbWVcPg==</entry>
         <entry>rept_type</entry>
         <entry>cart</entry>
-        <entry encoding="base64">XDxmcmVxdWVudGx5TWVtb0xpc3RcPg==</entry>
         <entry>배송지</entry>
         <entry>계약명</entry>
         <entry>productName</entry>
+        <entry>input</entry>
+        <entry encoding="base64">XDxmcmVxdWVudGx5TWVtb0xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
