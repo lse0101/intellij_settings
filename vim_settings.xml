@@ -93,14 +93,14 @@
         <mark key="^" line="127" column="60" />
         <mark key="." line="127" column="60" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" timestamp="1526346484302">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="165" column="56" />
-        <mark key="]" line="165" column="56" />
-        <mark key="." line="165" column="56" />
-        <mark key="^" line="165" column="56" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" timestamp="1526364607923">
+        <mark key="'" line="41" column="13" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="180" column="12" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_user.jsp" timestamp="1526362799031">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_user.jsp" timestamp="1526364005288">
         <mark key="[" line="84" column="28" />
         <mark key="]" line="84" column="29" />
         <mark key="^" line="82" column="29" />
@@ -602,6 +602,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1526365115894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info_original.jsp" timestamp="1526018732805">
         <mark key="'" line="513" column="28" />
         <mark key="[" line="217" column="0" />
@@ -754,7 +759,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>colspan=&quot;2&quot;</text>
+        <text>logmanager는 내부적으로 Soap WEB 서비스 이외에 web 서비스를 사용하지 않으므로 제거한다</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -763,40 +768,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>colspan=&quot;2&quot;</text>
+        <text>logmanager는 내부적으로 Soap WEB 서비스 이외에 web 서비스를 사용하지 않으므로 제거한다</text>
       </register>
       <register name="/" type="4">
         <text>esti_mony</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjYwIiAvPgo=</text>
+        <text encoding="base64">CQkJcG9zdGZpeE5hbWUgPSAi7LSd6rSE6rSA66as7J6Q7JqpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTx0ZCBjbGFzcz0ibGlzdC10aHVtYiI+CgkJCQkJPGRpdiBjbGFzcz0iaW1ncm91bmQiPgo8JS0tCQkJCQkJPGM6Y2hvb3NlPgoJCQkJCQkJPGM6d2hlbiB0ZXN0PSIke2VtcHR5IGxpc3QuZ29vZEltbWd9Ij4KCQkJCQkJCQk8aW1nIHNyYz0iJHtQQVRIX05PSU1HfSIvPgoJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQkJPGltZyBzcmM9IiR7UEFUSF9USFVNQl9HT09EU30vJHtsaXN0Lmdvb2RJbW1nfSIgb25lcnJvcj0idGhpcy5zcmM9JyR7UEFUSF9OT0lNR30nIi8+CgkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQk8L2M6Y2hvb3NlPi0tJT4KCQkJCQk8L2Rpdj4KCQkJCTwvdGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjUwIiAvPgo=</text>
+        <text encoding="base64">CQltYXYuYWRkT2JqZWN0KAoJCQkJImZpbGVOYW1lIiwKCQkJCWZvcm1hdCgi67O06rOg7ISc7J247IeE7ZiE7ZmpXyVzXyVzLSVzLnhsc3giLCApCgkJKTsK</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8dGg+7KO866y47J287IucPC90aD4KCQkJCQk8dGg+7JmE66OM7J287IucPC90aD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4KCQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4K</text>
+        <text encoding="base64">CQkJCTx0ZCBjbGFzcz0ibGlzdC10aHVtYiI+CgkJCQkJPGRpdiBjbGFzcz0iaW1ncm91bmQiPgo8JS0tCQkJCQkJPGM6Y2hvb3NlPgoJCQkJCQkJPGM6d2hlbiB0ZXN0PSIke2VtcHR5IGxpc3QuZ29vZEltbWd9Ij4KCQkJCQkJCQk8aW1nIHNyYz0iJHtQQVRIX05PSU1HfSIvPgoJCQkJCQkJPC9jOndoZW4+CgkJCQkJCQk8YzpvdGhlcndpc2U+CgkJCQkJCQkJPGltZyBzcmM9IiR7UEFUSF9USFVNQl9HT09EU30vJHtsaXN0Lmdvb2RJbW1nfSIgb25lcnJvcj0idGhpcy5zcmM9JyR7UEFUSF9OT0lNR30nIi8+CgkJCQkJCQk8L2M6b3RoZXJ3aXNlPgoJCQkJCQk8L2M6Y2hvb3NlPi0tJT4KCQkJCQk8L2Rpdj4KCQkJCTwvdGQ+Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4KCQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4K</text>
+        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjUwIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8dGg+7KO866y47J287IucPC90aD4KCQkJCQk8dGg+7JmE66OM7J287IucPC90aD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCUtLQkJCQk8Y29sIHdpZHRoPSI5MCIgLz4KCQkJCTxjb2wgd2lkdGg9IjUwIiAvPgoJCQkJPGNvbCB3aWR0aD0iMTAiIC8+CgkJCQk8Y29sIHdpZHRoPSIqIiAvPgoJCQkJPGNvbCB3aWR0aD0iMTAwIiAvPgoJCQkJPGNvbCB3aWR0aD0iMzAiIC8+CgkJCQk8Y29sIHdpZHRoPSIxMjAiIC8+CgkJCQk8Y29sIHdpZHRoPSIxMzAiIC8+CgkJCQk8Y29sIHdpZHRoPSIxMDAiIC8+LS0lPgo=</text>
+        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4KCQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -812,10 +817,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTx0ZD48L3RkPgo=</text>
+        <text encoding="base64">CQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4KCQkJCTxjb2wgd2lkdGg9IjEyMCIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxjOmlmIHRlc3Q9IiR7aGFzQnVuZGxlR29vZHN9Ij4KCQkJCQk8dGQ+PC90ZD4KCQkJCQk8dGQgY2xhc3M9ImFsaWduLWNlbnRlciI+CgkJCQkJCTxjOmlmIHRlc3Q9IiR7SVNfVVNBQkxFICYmIEhBU19QUklDRSAmJiBsaXN0Lmdvb2RUeXBlID09IEdPT0RTVFlQRV9OT1JNQUx9Ij4KCQkJCQkJCTxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0iY2FydE9yZGVyQ29kZXMiIHZhbHVlPSIke2xpc3Qub3JkckNvZGV9IiBkYXRhLWdvb2Rjb2RlPSIke2xpc3QuZ29vZE1zdHJ9IiBvbmNsaWNrPSJjaGVja0NvdW50KCk7Ii8+CgkJCQkJCTwvYzppZj4KCQkJCQk8L3RkPgoJCQkJPC9jOmlmPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
