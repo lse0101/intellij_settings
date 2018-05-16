@@ -265,12 +265,12 @@
       <file name="/TB_PSNL_CODE [samjung]" timestamp="1526433601627">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" timestamp="1526446534471">
-        <mark key="'" line="86" column="23" />
-        <mark key="[" line="99" column="26" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-        <mark key="^" line="99" column="26" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" timestamp="1526449998838">
+        <mark key="'" line="106" column="28" />
+        <mark key="[" line="127" column="25" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="0" />
       </file>
       <file name="/TB_MAIN_BANR [samjung]" timestamp="1525757408498">
         <mark key="[" line="0" column="0" />
@@ -551,12 +551,12 @@
         <mark key="." line="99" column="23" />
         <mark key="^" line="99" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1526446553816">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1526451103561">
         <mark key="'" line="454" column="13" />
-        <mark key="[" line="473" column="66" />
-        <mark key="]" line="473" column="67" />
-        <mark key="." line="473" column="67" />
-        <mark key="^" line="531" column="25" />
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="0" />
+        <mark key="." line="523" column="0" />
+        <mark key="^" line="522" column="46" />
       </file>
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1525912187931">
         <mark key="[" line="0" column="0" />
@@ -651,6 +651,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1526451210270">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/TB_GOOD_PICK [samjung]" timestamp="1526365366248">
         <mark key="[" line="0" column="0" />
       </file>
@@ -727,8 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="39" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" />
       <jump line="120" column="42" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
       <jump line="254" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="460" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -827,10 +830,12 @@
       <jump line="523" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="454" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="86" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" />
+      <jump line="131" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" />
+      <jump line="106" column="28" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>제본rkrur</text>
+        <text>단가 및 이전주문옵션 선택을 구현한다</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -839,19 +844,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>제본rkrur</text>
+        <text>단가 및 이전주문옵션 선택을 구현한다</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaW5kaW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getTotalPages() * getBasePrice().page</text>
+        <text>samjeong.unitPrice[goodMstr]['discounts']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CeyYgeusuAoJCe2dkeuwsQoJCQlwYWdlIG51bWJlciA9IDEwMAoJCQljb3ZlciBudW1iZXIgPSAzMDAKCQkJYmluZGluZyBudW1iZXIgPSAzMDAwCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuICgxIC0gcmF0ZSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
@@ -860,19 +865,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJIuyYgeusuCI6IHsKCQkJCSLtnZHrsLEiOiB7CgkJCQkJInBhZ2UiOiAxMDAsCgkJCQkJImNvdmVyIjogMzAwLAoJCQkJCSJiaW5kaW5nIjogMzAwMAoJCQkJfQoJCQl9LAo=</text>
+        <text encoding="base64">CQl2YXIgJHBhZ2VDb2xvciA9ICRvcHQuZmluZCgnc2VsZWN0W25hbWUqPSJJMDFBMDgiXScpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWFsZXJ0KCRjb3ZlckNvbG9yLmZpbmQoJzpzZWxlY3RlZCcpLnRleHQoKS50cmltKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coY2lyY3VsYXRpb24gKycgKyAnKyBwYWdlKTsKCQkJY29uc29sZS5sb2coY2lyY3VsYXRpb24qcGFnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cocGFnZSk7Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -888,10 +893,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmdW5jdGlvbiBnZXRDb3ZlckNvbG9yKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
