@@ -54,6 +54,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1526606496450">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="14" column="28" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/statistics/statistics.js" timestamp="1524457161836">
         <mark key="'" line="560" column="0" />
         <mark key="[" line="69" column="25" />
@@ -370,13 +376,6 @@
         <mark key="." line="37" column="22" />
         <mark key="^" line="37" column="22" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin_inner_list.jsp" timestamp="1526452538088">
-        <mark key="'" line="76" column="39" />
-        <mark key="[" line="56" column="52" />
-        <mark key="]" line="56" column="58" />
-        <mark key="." line="56" column="58" />
-        <mark key="^" line="56" column="58" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/common/menu/user_header.jsp" timestamp="1525843239362">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="22" column="51" />
@@ -463,13 +462,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="46" column="48" />
-      </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_list_admin.jsp" timestamp="1526452512049">
-        <mark key="'" line="102" column="20" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="34" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="115" column="25" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/doc/create_view.sql" timestamp="1524814765993">
         <mark key="'" line="110" column="23" />
@@ -572,7 +564,7 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="271" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526461707753">
+      <file name="/Dummy.txt" timestamp="1526606084443">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -738,8 +730,8 @@
       <jump line="107" column="52" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3JnLm93YXNwLmNzcmZndWFyZC51bnByb3RlY3RlZC5Mb2dpbj0lc2VydmxldENvbnRleHQlL2xvZ2luZm9ybS5kbwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -748,40 +740,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>retUserVO.getUserIndx() == null</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>destUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">b3JnLm93YXNwLmNzcmZndWFyZC51bnByb3RlY3RlZC5Mb2dpbj0lc2VydmxldENvbnRleHQlL2xvZ2luZm9ybS5kbwo=</text>
+        <text encoding="base64">ZGF0YWJhc2UudXNlcm5hbWU9V0VCRERQCmRhdGFiYXNlLnBhc3N3b3JkPWRucHFlbGVsdmwrXgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JnLm93YXNwLmNzcmZndWFyZC51bnByb3RlY3RlZC5Mb2dpbj0lc2VydmxldENvbnRleHQlL2xvZ2luZm9ybS5kbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JnLm93YXNwLmNzcmZndWFyZC51bnByb3RlY3RlZC5Mb2dvdXQ9JXNlcnZsZXRDb250ZXh0JS9sb2dvdXQuZG8K</text>
+        <text encoding="base64">I2RhdGFiYXNlLnVybD1qZGJjOnNxbHNlcnZlcjovL2JhY3MtdGVzdC1zZXJ2ZXI6MTQzMztkYXRhYmFzZU5hbWU9V2ViRERQCg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RhdGFiYXNlLnVybD1qZGJjOnNxbHNlcnZlcjovL2JhY3MtdGVzdC1zZXJ2ZXI6MTQzMztkYXRhYmFzZU5hbWU9V2ViRERQCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDslYTsnbTrlJTqsIAg7KG07J6sIO2VmOyngCDslYrsnYQg6rK97JqwCiAgICAgICAgICAgICAgICAgICAgaWYgKHJldFVzZXJWTy5nZXRVc2VySW5keCgpID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgibWVzc2FnZSIsICLslYTsnbTrlJTqsIAg7JeG6rGw64KYIOyVlO2YuOqwgCDsnbzsuZjtlZjsp4Ag7JWK7Iq164uI64ukLiIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbWF2OwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">I2RhdGFiYXNlLnVybD1qZGJjOnNxbHNlcnZlcjovLzEwLjIwMC4yLjYzOjE0MzM7ZGF0YWJhc2VOYW1lPVdlYkREUF9TSgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2codHlwZSk7Cg==</text>
+        <text encoding="base64">ZGF0YWJhc2UudXNlcm5hbWU9V0VCRERQCmRhdGFiYXNlLnBhc3N3b3JkPWRucHFlbGVsdmwrXgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JnLm93YXNwLmNzcmZndWFyZC51bnByb3RlY3RlZC5Mb2dpbj0lc2VydmxldENvbnRleHQlL2xvZ2luZm9ybS5kbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZ2V0VG90YWxQYWdlcygpICsgJyonICsgZ2V0QmFzZVByaWNlKCkucGFnZSk7CgkJCWNvbnNvbGUubG9nKGdldFRvdGFsUGFnZXMoKSAqIGdldEJhc2VQcmljZSgpLnBhZ2UpOwo=</text>
+        <text encoding="base64">b3JnLm93YXNwLmNzcmZndWFyZC51bnByb3RlY3RlZC5Mb2dvdXQ9JXNlcnZsZXRDb250ZXh0JS9sb2dvdXQuZG8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -800,7 +792,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDslYTsnbTrlJTqsIAg7KG07J6sIO2VmOyngCDslYrsnYQg6rK97JqwCiAgICAgICAgICAgICAgICAgICAgaWYgKHJldFVzZXJWTy5nZXRVc2VySW5keCgpID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWF2LmFkZE9iamVjdCgibWVzc2FnZSIsICLslYTsnbTrlJTqsIAg7JeG6rGw64KYIOyVlO2YuOqwgCDsnbzsuZjtlZjsp4Ag7JWK7Iq164uI64ukLiIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbWF2OwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
