@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1526636319750">
-        <mark key="a" line="133" column="88" />
-        <mark key="'" line="132" column="52" />
-        <mark key="[" line="137" column="75" />
-        <mark key="]" line="138" column="60" />
-        <mark key="." line="138" column="60" />
-        <mark key="^" line="138" column="60" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-cart-sqlmap.xml" timestamp="1526618958314">
         <mark key="'" line="34" column="28" />
         <mark key="[" line="89" column="0" />
@@ -119,6 +111,9 @@
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1527034799527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" timestamp="1527039882222">
+        <mark key="'" line="578" column="47" />
+      </file>
       <file name="/TB_GOOD_ATTR [samjung]" timestamp="1527038454245">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,14 +179,6 @@
       <file name="/TB_CLNT_INFO [samjung]" timestamp="1525955183296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" timestamp="1526642422127">
-        <mark key="a" line="300" column="37" />
-        <mark key="'" line="92" column="18" />
-        <mark key="[" line="300" column="92" />
-        <mark key="]" line="300" column="92" />
-        <mark key="." line="300" column="92" />
-        <mark key="^" line="300" column="92" />
-      </file>
       <file name="/Dummy.txt" timestamp="1526645527404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,14 +213,6 @@
       <file name="/TB_GOOD_PICK [samjung_docker]" timestamp="1526365337956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/main.css" timestamp="1526623714739">
-        <mark key="a" line="3" column="0" />
-        <mark key="'" line="3" column="82" />
-        <mark key="[" line="23" column="79" />
-        <mark key="]" line="23" column="80" />
-        <mark key="." line="23" column="80" />
-        <mark key="^" line="23" column="78" />
-      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderDestinationServiceImpl.java" timestamp="1526456057956">
         <mark key="[" line="54" column="68" />
         <mark key="]" line="54" column="80" />
@@ -258,9 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" />
-      <jump line="131" column="19" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" />
-      <jump line="106" column="28" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" />
       <jump line="41" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" />
       <jump line="519" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="68" column="57" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
@@ -358,6 +334,9 @@
       <jump line="139" column="45" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="154" column="45" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="337" column="66" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="6" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
+      <jump line="578" column="47" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
