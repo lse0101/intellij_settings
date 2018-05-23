@@ -25,6 +25,11 @@
       <file name="/TB_AUTH_GRUP [samjung]" timestamp="1525842904932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/common/menu/user_header.jsp" timestamp="1527041491544">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1526606496450">
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="40" />
@@ -111,8 +116,11 @@
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1527034799527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" timestamp="1527039882222">
-        <mark key="'" line="578" column="47" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" timestamp="1527041484145">
+        <mark key="'" line="34" column="40" />
+        <mark key="[" line="648" column="0" />
+        <mark key="]" line="648" column="0" />
+        <mark key="." line="648" column="0" />
       </file>
       <file name="/TB_GOOD_ATTR [samjung]" timestamp="1527038454245">
         <mark key="[" line="0" column="0" />
@@ -237,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" />
       <jump line="519" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="68" column="57" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="118" column="67" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
@@ -337,10 +344,11 @@
       <jump line="6" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
       <jump line="578" column="47" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
+      <jump line="34" column="40" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>padding-left: 5px;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTxzdHlsZT4KCTwvc3R5bGU+Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -358,31 +366,31 @@
         <text>$this.data('field')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">CTxzdHlsZT4KCTwvc3R5bGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZGx2eSsiIDogIitkbHZ5RGF0YVtkbHZ5XSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYoIWlucHV0c1tkbHZ5XSkgY29udGludWU7Cg==</text>
+        <text encoding="base64">L21haW4uZG8/d2ViZGRwLWlkPU5JM1UtSTcxRC02OU40LTFWVlMtV0NKTy1WMkI1LU5WMjctU1k1Qgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">CQkubWVudS1ib3R0b20gewogICAgCQlmb250LXNpemU6IDlweDsKCQkJZm9udC13ZWlnaHQ6IGJvbGQ7CgkJCWNvbG9yOiAjOWY5ZjlmOwogICAgICAgICAgICBtYXJnaW4tdG9wOiA1cHg7CiAgICAJCXdpZHRoOiA1MHB4OwoJCQl0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZGx2eSk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnZmllbGQnICskdGhpcy5kYXRhKCdmaWVsZCcpICk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGx2eSsiIDogIitkbHZ5RGF0YVtkbHZ5XSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlpZih0eXBlb2YoJHRoaXMuZGF0YSgnZmllbGQnKSkgPT09ICd1bmRlZmluZWQnKSByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">CQkJaWYoIWlucHV0c1tkbHZ5XSkgY29udGludWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -398,10 +406,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkdGhpcy5kYXRhKCdmaWVsZCcpKTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkdGhpcy5kYXRhKCdmaWVsZCcpKTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGx2eSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
