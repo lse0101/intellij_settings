@@ -3,12 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1527135381064">
+        <mark key="'" line="161" column="53" />
+        <mark key="[" line="119" column="50" />
+        <mark key="]" line="119" column="76" />
+        <mark key="^" line="119" column="76" />
+        <mark key="." line="119" column="76" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-cart-sqlmap.xml" timestamp="1526618958314">
         <mark key="'" line="34" column="28" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="20" />
         <mark key="." line="89" column="20" />
         <mark key="^" line="90" column="12" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" timestamp="1527139568029">
+        <mark key="[" line="119" column="38" />
+        <mark key="]" line="119" column="38" />
+        <mark key="." line="119" column="38" />
+        <mark key="^" line="119" column="38" />
       </file>
       <file name="/TB_CTRT_INFO [samjung]" timestamp="1525926397589">
         <mark key="[" line="0" column="0" />
@@ -42,12 +55,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" timestamp="1527132435509">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="208" column="28" />
-        <mark key="]" line="208" column="36" />
-        <mark key="." line="208" column="36" />
-        <mark key="^" line="208" column="36" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" timestamp="1527136483712">
+        <mark key="'" line="259" column="33" />
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="0" />
+        <mark key="." line="263" column="0" />
       </file>
       <file name="/TB_MAIN_MSTR [samjung]" timestamp="1526023630867">
         <mark key="[" line="0" column="0" />
@@ -108,12 +120,18 @@
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/structure/order/TbOrdrMstr.java" timestamp="1527058071436">
         <mark key="'" line="41" column="22" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527035789939">
-        <mark key="'" line="337" column="66" />
-        <mark key="[" line="337" column="52" />
-        <mark key="]" line="337" column="52" />
-        <mark key="^" line="337" column="52" />
-        <mark key="." line="337" column="52" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/most_recent_orders_layer_form.jsp" timestamp="1527134970351">
+        <mark key="[" line="118" column="10" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527139694269">
+        <mark key="'" line="44" column="5" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="0" />
+        <mark key="." line="397" column="0" />
+        <mark key="^" line="500" column="11" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1526461510441">
         <mark key="[" line="239" column="0" />
@@ -182,12 +200,12 @@
       <file name="/TB_ORDR_MSTR [samjung_docker]" timestamp="1527034555225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" timestamp="1527132418638">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" timestamp="1527135050504">
         <mark key="'" line="192" column="25" />
-        <mark key="[" line="433" column="0" />
-        <mark key="]" line="444" column="26" />
-        <mark key="." line="153" column="48" />
-        <mark key="^" line="155" column="12" />
+        <mark key="[" line="468" column="24" />
+        <mark key="]" line="469" column="24" />
+        <mark key="." line="469" column="24" />
+        <mark key="^" line="469" column="24" />
       </file>
       <file name="/TB_ORDR_MSTR [samjung]" timestamp="1527057913403">
         <mark key="[" line="0" column="0" />
@@ -201,11 +219,14 @@
       <file name="/TB_CLNT_INFO [samjung]" timestamp="1525955183296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527127329138">
+      <file name="/Dummy.txt" timestamp="1527140054724">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="2" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" timestamp="1527135024135">
+        <mark key="'" line="284" column="16" />
       </file>
       <file name="/TB_USER_MSTR [samjung_docker]" timestamp="1527034551897">
         <mark key="[" line="0" column="0" />
@@ -259,24 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="57" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
-      <jump line="10" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/most_recent_orders_layer_form.jsp" />
-      <jump line="107" column="52" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="21" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderVO.java" />
-      <jump line="71" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-cart-sqlmap.xml" />
-      <jump line="84" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-cart-sqlmap.xml" />
-      <jump line="92" column="38" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-cart-sqlmap.xml" />
-      <jump line="34" column="28" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-cart-sqlmap.xml" />
-      <jump line="380" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="66" column="37" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
-      <jump line="59" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
-      <jump line="14" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
-      <jump line="121" column="13" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
-      <jump line="80" column="46" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
-      <jump line="83" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
-      <jump line="78" column="27" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
-      <jump line="12" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
-      <jump line="38" column="7" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/main.css" />
       <jump line="64" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/main.css" />
       <jump line="23" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/main.css" />
       <jump line="1" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/main.css" />
@@ -359,10 +362,28 @@
       <jump line="100" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="192" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-sqlmap.xml" />
       <jump line="94" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
+      <jump line="136" column="34" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
+      <jump line="284" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
+      <jump line="161" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="206" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
+      <jump line="259" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
+      <jump line="391" column="14" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="398" column="9" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="749" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="81" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
+      <jump line="102" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
+      <jump line="115" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
+      <jump line="107" column="62" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
+      <jump line="104" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
+      <jump line="404" column="9" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="499" column="29" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="646" column="21" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="501" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="44" column="5" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLCAoCgkJCQkgIFNFTEVDVCBwaWNrX25hbWUKCQkJCSAgRlJPTQoJCQkJCSAgdGJfZ29vZF9waWNrCgkJCQkgIFdIRVJFCgkJCQkJICBwaWNrX2NvZGUgPSAoCgkJCQkJCSAgU0VMRUNUIHBpY2tfY29kZQoJCQkJCQkgIEZST00gdGJfb3Jkcl9waWNrCgkJCQkJCSAgV0hFUkUgb3Jkcl9jb2RlID0gby5vcmRyX2NvZGUKCQkJCQkJICAgICAgICBBTkQgcGlja19jb2RlIGxpa2UgZ20uZ29vZF9jb2RlKydJMDFBMDYlJwoJCQkJCSAgKQoJCQkgICkgQVMgcmVwdFR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -371,40 +392,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>estimateDetail</text>
       </register>
       <register name="/" type="4">
-        <text>rept</text>
+        <text encoding="base64">XDxzaG93RXN0aW1hdGVkRGV0YWlsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJLCAoCgkJCQkgIFNFTEVDVCBwaWNrX25hbWUKCQkJCSAgRlJPTQoJCQkJCSAgdGJfZ29vZF9waWNrCgkJCQkgIFdIRVJFCgkJCQkJICBwaWNrX2NvZGUgPSAoCgkJCQkJCSAgU0VMRUNUIHBpY2tfY29kZQoJCQkJCQkgIEZST00gdGJfb3Jkcl9waWNrCgkJCQkJCSAgV0hFUkUgb3Jkcl9jb2RlID0gby5vcmRyX2NvZGUKCQkJCQkJICAgICAgICBBTkQgcGlja19jb2RlIGxpa2UgZ20uZ29vZF9jb2RlKydJMDFBMDYlJwoJCQkJCSAgKQoJCQkgICkgQVMgcmVwdFR5cGUK</text>
+      <register name="0" type="4">
+        <text>estimate-summary</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJb3BhY2l0eTogOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxzdHlsZT4KCTwvc3R5bGU+Cg==</text>
+        <text encoding="base64">PCUtLTxkaXYgaWQ9ImVzdGltYXRlLXN1bW1hcnkiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CiAgICA8ZGl2IGNsYXNzPSJsYXllci1pbm5lciBpdGVtLWxheWVyIHByb3BlcnR5LWxheWVyIiBzdHlsZT0id2lkdGg6NDcwcHg7Ij4KICAgICAgICA8aDE+PC9oMT4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0ibG9jYWwtbGF5ZXItY2xvc2UiPuuLq+q4sDwvYT4KICAgICAgICA8ZGl2IGNsYXNzPSJsYXllci1jb24iPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CjwvZGl2Pi0tJT4K</text>
       </register>
       <register name="r" type="4">
         <text>backBizcardVO</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGFyZ2V0TGF5ZXIuc2hvdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L21haW4uZG8/d2ViZGRwLWlkPU5JM1UtSTcxRC02OU40LTFWVlMtV0NKTy1WMkI1LU5WMjctU1k1Qgo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygkKCcjJytuYW1lKS5sZW5ndGgpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkubWVudS1ib3R0b20gewogICAgCQlmb250LXNpemU6IDlweDsKCQkJZm9udC13ZWlnaHQ6IGJvbGQ7CgkJCWNvbG9yOiAjOWY5ZjlmOwogICAgICAgICAgICBtYXJnaW4tdG9wOiA1cHg7CiAgICAJCXdpZHRoOiA1MHB4OwoJCQl0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCcubG9jYWwtbGF5ZXItY2xvc2UnKS5jbGljayhmdW5jdGlvbigpIHsKICAgICAgICAgICAgJCgnI2VzdGltYXRlLXN1bW1hcnknKS5oaWRlKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZGx2eSsiIDogIitkbHZ5RGF0YVtkbHZ5XSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -420,35 +441,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYoIWlucHV0c1tkbHZ5XSkgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXN0aW1hdGVQcmljZS5zaG93RXN0aW1hdGVkRGV0YWlsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rept</last-search>
+      <last-search encoding="base64">XDxzaG93RXN0aW1hdGVkRGV0YWlsXD4=</last-search>
       <last-offset />
-      <last-pattern>rept</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93RXN0aW1hdGVkRGV0YWlsXD4=</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>readonly</entry>
-        <entry encoding="base64">XDxjb3Zlclw+</entry>
-        <entry>견적</entry>
-        <entry>주문정보</entry>
-        <entry>page</entry>
-        <entry>배송지</entry>
-        <entry>requir</entry>
-        <entry>주문</entry>
-        <entry>capt</entry>
         <entry>memo</entry>
         <entry>파일</entry>
         <entry>click</entry>
@@ -460,6 +472,15 @@
         <entry>배송비</entry>
         <entry>outp</entry>
         <entry>rept</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZE9yZGVyVk9cPg==</entry>
+        <entry>upload</entry>
+        <entry>enge</entry>
+        <entry encoding="base64">XDxlc3RpbWF0ZVw+</entry>
+        <entry encoding="base64">XDxlc3RpbWF0ZWRMYXllclw+</entry>
+        <entry encoding="base64">XDxsYXllck9uSHRtbFw+</entry>
+        <entry>estimateDetail</entry>
+        <entry encoding="base64">XDxlc3RpbWF0ZURldGFpbFw+</entry>
+        <entry encoding="base64">XDxzaG93RXN0aW1hdGVkRGV0YWlsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
