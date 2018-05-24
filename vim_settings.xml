@@ -140,6 +140,9 @@
         <mark key="." line="239" column="0" />
         <mark key="^" line="229" column="40" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" timestamp="1527146128102">
+        <mark key="'" line="127" column="20" />
+      </file>
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1527034799527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="6" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="62" column="60" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
       <jump line="12" column="18" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/goods/goods_options_form.jsp" />
@@ -387,6 +389,7 @@
       <jump line="436" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="301" column="30" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="112" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="127" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -402,7 +405,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>wprint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwYWRkaW5nLXRvcDogNXB4OwoJCWhlaWdodDogMjBweDsK</text>
@@ -458,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search>wprint</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>wprint</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dlvyType</entry>
         <entry>132</entry>
         <entry>배송비</entry>
         <entry>outp</entry>
@@ -488,6 +490,7 @@
         <entry>samjung</entry>
         <entry>270</entry>
         <entry>close</entry>
+        <entry>wprint</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
