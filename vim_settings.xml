@@ -36,11 +36,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1526606496450">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="14" column="28" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1527127859251">
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" timestamp="1526640230975">
         <mark key="'" line="28" column="11" />
@@ -125,12 +125,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/css/layout.css" timestamp="1527041484145">
-        <mark key="'" line="34" column="40" />
-        <mark key="[" line="648" column="0" />
-        <mark key="]" line="648" column="0" />
-        <mark key="." line="648" column="0" />
+        <mark key="'" line="36" column="40" />
+        <mark key="[" line="650" column="0" />
+        <mark key="]" line="650" column="0" />
+        <mark key="." line="650" column="0" />
       </file>
-      <file name="/TB_GOOD_ATTR [samjung]" timestamp="1527120569015">
+      <file name="/TB_GOOD_ATTR [samjung]" timestamp="1527127215993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-approval-sqlmap.xml" timestamp="1526618583085">
@@ -201,7 +201,7 @@
       <file name="/TB_CLNT_INFO [samjung]" timestamp="1525955183296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527120658373">
+      <file name="/Dummy.txt" timestamp="1527127329138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -362,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>수정사항 3차 커밋</text>
+        <text>^</text>
       </register>
       <register name="e" type="4">
         <text>frontBizcardVO</text>
@@ -371,7 +371,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>수정사항 3차 커밋</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>outp</text>
