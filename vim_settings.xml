@@ -179,12 +179,12 @@
         <mark key="." line="129" column="25" />
         <mark key="^" line="129" column="25" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527476108356">
-        <mark key="'" line="572" column="12" />
-        <mark key="[" line="813" column="17" />
-        <mark key="]" line="814" column="16" />
-        <mark key="." line="814" column="16" />
-        <mark key="^" line="814" column="16" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527481234539">
+        <mark key="'" line="286" column="23" />
+        <mark key="[" line="859" column="46" />
+        <mark key="]" line="859" column="65" />
+        <mark key="^" line="859" column="65" />
+        <mark key="." line="859" column="65" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1526461510441">
         <mark key="[" line="239" column="0" />
@@ -398,7 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="109" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="61" column="45" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="9" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="673" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -498,10 +497,11 @@
       <jump line="780" column="21" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="838" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="572" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="286" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>원</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -510,16 +510,16 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>러</text>
+        <text>원</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</text>
+        <text>range</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQliYXNlVGFyZ2V0ID0gc2Ftam9uZy51bml0UHJpY2VbZ29vZE1zdHJdWyfqta3rrLgnXVsn7Lus65+sJ107Cg==</text>
+      <register name="0" type="4">
+        <text>'G00002'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCXByaWNlLm1pbiwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -531,7 +531,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICBbCgkJCSAgICAgICAgICAgICc8dHI+JywKCQkJICAgICAgICAgICAgJzx0ZD57MH08L3RkPicuZm9ybWF0KCfsu6zrn6wnKSwKCQkJICAgICAgICAgICAgJzx0ZD57MH08L3RkPicuZm9ybWF0KCQubnVtYmVyKGJhc2VUYXJnZXQucGFnZSkpLAoJCQkgICAgICAgICAgICAnPHRkPnswfTwvdGQ+Jy5mb3JtYXQoJC5udW1iZXIoYmFzZVRhcmdldC5jb3ZlcikpLAoJCQkgICAgICAgICAgICAnPHRkPnswfTwvdGQ+Jy5mb3JtYXQoJC5udW1iZXIoYmFzZVRhcmdldC5iaW5kaW5nKSksCgkJCSAgICAgICAgICAgICc8L3RyPicKCQkgICAgICAgICAgICBdCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -540,7 +540,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
+        <text encoding="base64">CQkgICAgICAgICAgICBbCgkJCSAgICAgICAgICAgICc8dHI+JywKCQkJICAgICAgICAgICAgJzx0ZD57MH08L3RkPicuZm9ybWF0KCfsu6zrn6wnKSwKCQkJICAgICAgICAgICAgJzx0ZD57MH08L3RkPicuZm9ybWF0KCQubnVtYmVyKGJhc2VUYXJnZXQucGFnZSkpLAoJCQkgICAgICAgICAgICAnPHRkPnswfTwvdGQ+Jy5mb3JtYXQoJC5udW1iZXIoYmFzZVRhcmdldC5jb3ZlcikpLAoJCQkgICAgICAgICAgICAnPHRkPnswfTwvdGQ+Jy5mb3JtYXQoJC5udW1iZXIoYmFzZVRhcmdldC5iaW5kaW5nKSksCgkJCSAgICAgICAgICAgICc8L3RyPicKCQkgICAgICAgICAgICBdCQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -559,19 +559,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCWh0bWwucHVzaCgnPHRyPicpOwogICAgICAgICAgICAJaHRtbC5wdXNoKCc8dGQ+ezB9PC90ZD4nLmZvcm1hdCgoZ29vZE1zdHIgPT09ICdHMDAwMDMnKSA/ICfqta3rrLjsmbgnIDogJ+y7rOufrCcpKTsKCQkJCWh0bWwucHVzaCgnPHRkPnswfTwvdGQ+Jy5mb3JtYXQoKSk7CgkJCQlodG1sLnB1c2goJzwvdHI+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</last-search>
+      <last-search>range</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</last-pattern>
+      <last-pattern>range</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -579,7 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orderMstr</entry>
         <entry>searchCo</entry>
         <entry>130</entry>
         <entry>innder</entry>
@@ -599,6 +598,7 @@
         <entry>console.log</entry>
         <entry>dlvy</entry>
         <entry encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</entry>
+        <entry>range</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
