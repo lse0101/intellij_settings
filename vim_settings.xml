@@ -56,6 +56,7 @@
         <mark key="." line="53" column="36" />
         <mark key="^" line="53" column="36" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjongUnitPrice.js" timestamp="1527474184096" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527238729101">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -178,13 +179,13 @@
         <mark key="." line="129" column="25" />
         <mark key="^" line="129" column="25" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527241454257">
-        <mark key="a" line="89" column="0" />
-        <mark key="'" line="443" column="0" />
-        <mark key="[" line="789" column="0" />
-        <mark key="]" line="789" column="0" />
-        <mark key="." line="789" column="0" />
-        <mark key="^" line="786" column="34" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527473822760">
+        <mark key="a" line="795" column="56" />
+        <mark key="'" line="572" column="12" />
+        <mark key="[" line="796" column="48" />
+        <mark key="]" line="796" column="48" />
+        <mark key="." line="796" column="48" />
+        <mark key="^" line="796" column="56" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1526461510441">
         <mark key="[" line="239" column="0" />
@@ -398,9 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="44" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/most_recent_orders_layer_form.jsp" />
-      <jump line="148" column="31" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
-      <jump line="313" column="55" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="199" column="109" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="61" column="45" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
       <jump line="9" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
@@ -498,10 +496,13 @@
       <jump line="56" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/most_recent_orders_layer_form.jsp" />
       <jump line="178" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/most_recent_orders_layer_form.jsp" />
       <jump line="130" column="15" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/most_recent_orders_layer_form.jsp" />
+      <jump line="780" column="21" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="838" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="572" column="12" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>getpage</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -510,13 +511,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>getpage</text>
       </register>
       <register name="/" type="4">
-        <text>dlvy</text>
+        <text encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXZhciAkdGhpcyA9ICQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCWh0bWwucHVzaCgnPHRkPnswfTwvdGQ+Jy5mb3JtYXQoKGdvb2RNc3RyID09PSAnRzAwMDAzJykgPyAn6rWt66y47Jm4JyA6ICfsu6zrn6wnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCXYK</text>
@@ -569,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dlvy</last-search>
+      <last-search encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>dlvy</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -579,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ordrMstr</entry>
         <entry>orderMstr</entry>
         <entry>searchCo</entry>
         <entry>130</entry>
@@ -599,6 +599,7 @@
         <entry>most</entry>
         <entry>console.log</entry>
         <entry>dlvy</entry>
+        <entry encoding="base64">XDxzaG93VW5pdFByaWNlUmFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
