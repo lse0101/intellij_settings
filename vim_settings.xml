@@ -68,11 +68,11 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1527209673996">
-        <mark key="[" line="12" column="67" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1527492440818">
+        <mark key="[" line="12" column="71" />
         <mark key="]" line="12" column="70" />
-        <mark key="." line="12" column="70" />
         <mark key="^" line="12" column="70" />
+        <mark key="." line="12" column="70" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_manage_list.jsp" timestamp="1527236913477">
         <mark key="[" line="66" column="0" />
@@ -309,10 +309,10 @@
       <file name="/TB_CLNT_INFO [samjung]" timestamp="1525955183296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527209932317">
+      <file name="/Dummy.txt" timestamp="1527491959212">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/samjungUnitPrice.js" timestamp="1527142751829">
@@ -504,8 +504,8 @@
       <jump line="480" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/order-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>페이지 구간별 할인율 뷰레이어를 구현한다</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -514,7 +514,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>페이지 구간별 할인율 뷰레이어를 구현한다</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
