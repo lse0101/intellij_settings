@@ -53,6 +53,10 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/csrfguard.properties" timestamp="1527665808213">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="56" column="55" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/conf/database.properties" timestamp="1527495605818">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -123,7 +127,7 @@
       <file name="/TB_USER_COMP [samjung]" timestamp="1525839192813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TB_PROC_UNIT [samjung]" timestamp="1527496170998">
+      <file name="/TB_PROC_UNIT [samjung]" timestamp="1527665476122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/VW_EMPLOYEE [samjung]" timestamp="1525046730080">
@@ -170,6 +174,12 @@
         <mark key="[" line="22" column="13" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/web.xml" timestamp="1527665816454">
+        <mark key="[" line="158" column="24" />
+        <mark key="]" line="158" column="42" />
+        <mark key="^" line="158" column="25" />
+        <mark key="." line="158" column="24" />
       </file>
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1527034799527">
         <mark key="[" line="0" column="0" />
@@ -234,7 +244,7 @@
       <file name="/TB_ORDR_MSTR [samjung_docker]" timestamp="1527034555225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/TB_ORDR_MSTR [samjung]" timestamp="1527661899243">
+      <file name="/TB_ORDR_MSTR [samjung]" timestamp="1527665479047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1527662703779">
@@ -448,8 +458,8 @@
       <jump line="116" column="44" filename="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJPHNob3dFcnJvcnM+dHJ1ZTwvc2hvd0Vycm9ycz4gCg==</text>
+      <register name="&quot;" type="4">
+        <text>refererMatchDomain</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -458,13 +468,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>프로세스별 검색 select 속성을 DB에서 비활성하지 않고 jsp코드에서 제거하여 필요한 속성만 보일수 있도록한다</text>
+        <text>domain-strict</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCTxmbXQ6Zm9ybWF0TnVtYmVyIHZhbHVlPSIke2xpc3QudG90YWxNb255fSIvPuybkAo=</text>
+      <register name="0" type="4">
+        <text>refererMatchDomain</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJPHNob3dFcnJvcnM+dHJ1ZTwvc2hvd0Vycm9ycz4gCg==</text>
