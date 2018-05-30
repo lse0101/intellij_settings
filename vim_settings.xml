@@ -136,6 +136,13 @@
       <file name="/TB_USER_PASS [samjung]" timestamp="1526456377537">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/config/dpms.properties" timestamp="1527668422759">
+        <mark key="'" line="90" column="17" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+      </file>
       <file name="/TB_GOOD_ITEM [samjung]" timestamp="1526620885311">
         <mark key="[" line="0" column="0" />
       </file>
@@ -302,7 +309,7 @@
       <file name="/TB_AUTH_MEMB [samjung_jkh]" timestamp="1527494803734">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" timestamp="1527665132574">
+      <file name="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" timestamp="1527668111826">
         <mark key="'" line="116" column="44" />
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
@@ -356,11 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="16" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/controller/OrderUserAsyncController.java" />
-      <jump line="161" column="53" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
-      <jump line="206" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
-      <jump line="259" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/dao/sqlmap/mssql/KpmgOrderManageDAO.xml" />
-      <jump line="391" column="14" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="398" column="9" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="749" column="17" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="81" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
@@ -456,10 +458,15 @@
       <jump line="105" column="66" filename="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" />
       <jump line="115" column="82" filename="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" />
       <jump line="116" column="44" filename="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" />
+      <jump line="19" column="56" filename="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/config/dpms.properties" />
+      <jump line="99" column="67" filename="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/config/dpms.properties" />
+      <jump line="100" column="96" filename="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/config/dpms.properties" />
+      <jump line="98" column="66" filename="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/config/dpms.properties" />
+      <jump line="90" column="17" filename="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/config/dpms.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refererMatchDomain</text>
+        <text>13.197.10.217</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -468,10 +475,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>domain-strict</text>
+        <text>13.197.10.217</text>
       </register>
       <register name="/" type="4">
-        <text>dir</text>
+        <text>sync</text>
       </register>
       <register name="0" type="4">
         <text>refererMatchDomain</text>
@@ -527,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dir</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>dir</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -537,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>130px</entry>
         <entry>height</entry>
         <entry>html</entry>
         <entry>header-modal</entry>
@@ -557,6 +563,7 @@
         <entry>ordrmony</entry>
         <entry>ordrMony</entry>
         <entry>dir</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
