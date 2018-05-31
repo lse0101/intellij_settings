@@ -338,6 +338,12 @@
       <file name="/TB_GOOD_PICK [samjung]" timestamp="1526620277089">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/kb손해사정/project/src/main/webapp/WEB-INF/view/webui/main.jsp" timestamp="1527742341497">
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="26" column="69" />
+        <mark key="." line="26" column="69" />
+        <mark key="^" line="26" column="69" />
+      </file>
       <file name="/TB_USER_DEPT [samjung]" timestamp="1525839041546">
         <mark key="[" line="0" column="0" />
       </file>
@@ -481,8 +487,8 @@
       <jump line="877" column="16" filename="F:/Dropbox/company/xerox/kb손해사정/project/src/main/resources/local.server/classes/struts.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -491,7 +497,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>readonly=&quot;true&quot;</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>filebox</text>
@@ -500,31 +506,31 @@
         <text encoding="base64">CQkJCSRjbG50TmFtZS5wYXJlbnQoKS5wcmV2KCkuZmluZCgnc3BhbicpLnRleHQoJyonKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkFMTCIpCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkFMTCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCToK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cgo=</text>
+        <text encoding="base64">CQkJCQkJCToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -540,10 +546,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
