@@ -172,12 +172,12 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="129" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527484085407">
-        <mark key="'" line="286" column="23" />
-        <mark key="[" line="859" column="46" />
-        <mark key="]" line="859" column="65" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1527735126482">
+        <mark key="'" line="272" column="48" />
+        <mark key="[" line="299" column="98" />
+        <mark key="]" line="299" column="98" />
         <mark key="^" line="859" column="65" />
-        <mark key="." line="859" column="65" />
+        <mark key="." line="299" column="98" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" timestamp="1526461510441">
         <mark key="[" line="239" column="0" />
@@ -240,12 +240,11 @@
       <file name="/a.sql" timestamp="1526637958026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1527730892077">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" timestamp="1527734987714">
         <mark key="'" line="196" column="26" />
-        <mark key="[" line="191" column="58" />
-        <mark key="]" line="191" column="71" />
-        <mark key="." line="191" column="71" />
-        <mark key="^" line="191" column="71" />
+        <mark key="[" line="249" column="61" />
+        <mark key="]" line="249" column="61" />
+        <mark key="." line="249" column="61" />
       </file>
       <file name="/TB_ORDR_MSTR [samjung_jkh]" timestamp="1527486886574">
         <mark key="[" line="0" column="0" />
@@ -294,7 +293,7 @@
       <file name="/TB_CLNT_INFO [samjung]" timestamp="1525955183296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527663793063">
+      <file name="/Dummy.txt" timestamp="1527735321540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -395,8 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="4" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
-      <jump line="115" column="20" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
       <jump line="107" column="62" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
       <jump line="104" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" />
       <jump line="404" column="9" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -495,10 +492,12 @@
       <jump line="64" column="8" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/main/main.jsp" />
       <jump line="185" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="852" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="272" column="48" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCToK</text>
+      <register name="&quot;" type="4">
+        <text>readonly=&quot;true&quot;</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -507,40 +506,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>readonly=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>recent</text>
+        <text>clntName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCSRhZHIxLnZhbChkYXRhLnJvYWRBZGRyZXNzKTsKCQkJCQkJCSRwb3N0LmF2YWwoZGF0YS56b25lY29kZSk7Cg==</text>
+        <text encoding="base64">CQkJCSRjbG50TmFtZS5wYXJlbnQoKS5wcmV2KCkuZmluZCgnc3BhbicpLnRleHQoJyonKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cgo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJHRoaXMudmFsKCkpOwo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -559,16 +558,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSQoJyNzZWFyY2hDb2RlTmFtZScpLnBsYWNlaG9sZGVyKCk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJHRoaXMudmFsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>recent</last-search>
+      <last-search>clntName</last-search>
       <last-offset />
-      <last-pattern>recent</last-pattern>
+      <last-pattern>clntName</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -576,7 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>html</entry>
         <entry>header-modal</entry>
         <entry>300px</entry>
         <entry>table-style</entry>
@@ -596,6 +594,7 @@
         <entry>dir</entry>
         <entry>sync</entry>
         <entry>recent</entry>
+        <entry>clntName</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
