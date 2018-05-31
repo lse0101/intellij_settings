@@ -494,7 +494,7 @@
         <text>readonly=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>loginAction</text>
+        <text>filebox</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCSRjbG50TmFtZS5wYXJlbnQoKS5wcmV2KCkuZmluZCgnc3BhbicpLnRleHQoJyonKTsK</text>
@@ -550,9 +550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loginAction</last-search>
+      <last-search>filebox</last-search>
       <last-offset />
-      <last-pattern>loginAction</last-pattern>
+      <last-pattern>filebox</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -560,8 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>style02</entry>
-        <entry>processUnitList</entry>
         <entry>most</entry>
         <entry>console.log</entry>
         <entry>dlvy</entry>
@@ -580,6 +578,8 @@
         <entry>myloginAction</entry>
         <entry>mylogin</entry>
         <entry>loginAction</entry>
+        <entry>qr</entry>
+        <entry>filebox</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
