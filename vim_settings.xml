@@ -9,12 +9,12 @@
         <mark key="^" line="15" column="90" />
         <mark key="." line="15" column="90" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1527730928289">
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1527731609064">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="289" column="41" />
-        <mark key="]" line="289" column="39" />
-        <mark key="^" line="289" column="39" />
-        <mark key="." line="289" column="39" />
+        <mark key="[" line="298" column="55" />
+        <mark key="]" line="298" column="55" />
+        <mark key="^" line="298" column="55" />
+        <mark key="." line="298" column="55" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" timestamp="1527142585529">
         <mark key="[" line="11" column="89" />
@@ -498,7 +498,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>alkdjfalkdsjfalksj</text>
+        <text>$table.find('input[name *= &quot;destPost&quot;]')</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -512,35 +512,35 @@
       <register name="/" type="4">
         <text>recent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCSQoJyNzZWFyY2hDb2RlTmFtZScpLmF0dHIoJ3BsYWNlaG9sZGVyJywgJ2Fsa2RqZmFsa2RzamZhbGtzaicpOwo=</text>
+      <register name="0" type="4">
+        <text>$table.find('input[name *= &quot;destPost&quot;]')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RBZHIxIl0nKS52YWwoZGF0YS5hZGRyZXNzKTsKCQkJCQkJJHRhYmxlLmZpbmQoJ2lucHV0W25hbWUgKj0gImRlc3RQb3N0Il0nKS52YWwoZGF0YS5wb3N0Y29kZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJHRoaXMudmFsKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJHRoaXMudmFsKCkpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSQoJyNzZWFyY2hDb2RlTmFtZScpLnBsYWNlaG9sZGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkJCSQoJyNzZWFyY2hDb2RlTmFtZScpLnBsYWNlaG9sZGVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCTxzcGFuPmFsZGtzamZhbGtkc2pmbGFrc2pkZmxha2pzZGxma2Fqc2Rsa2ZqYWxza2RqZmFsa3NhbGtkamZsYWtqZHNmbGthamRzbGtmamFsa3NkamZsYWtqc2RsZmthanNkbGtmYWpsc2tkZmpqPC9zcGFuPgo=</text>
+        <text encoding="base64">CQkJCSQoJyNzZWFyY2hDb2RlTmFtZScpLnBsYWNlaG9sZGVyKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,10 +556,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMHB4Owo=</text>
+        <text encoding="base64">CQkJCTxzcGFuPmFsZGtzamZhbGtkc2pmbGFrc2pkZmxha2pzZGxma2Fqc2Rsa2ZqYWxza2RqZmFsa3NhbGtkamZsYWtqZHNmbGthamRzbGtmamFsa3NkamZsYWtqc2RsZmthanNkbGtmYWpsc2tkZmpqPC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
