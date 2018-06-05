@@ -106,10 +106,11 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="129" column="23" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_observe_list.jsp" timestamp="1528160413829">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="84" column="33" />
-        <mark key="." line="76" column="0" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_observe_list.jsp" timestamp="1528162158092">
+        <mark key="[" line="82" column="43" />
+        <mark key="]" line="82" column="44" />
+        <mark key="." line="82" column="44" />
+        <mark key="^" line="82" column="44" />
       </file>
       <file name="/T_DPMS_FILE_REPO [DPMS_STD@localhost]" timestamp="1527745256152">
         <mark key="[" line="0" column="0" />
@@ -538,7 +539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>량</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -547,7 +548,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>량</text>
       </register>
       <register name="/" type="4">
         <text>choose</text>
