@@ -9,7 +9,6 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/common/utill/SystemInfoUtil.java" timestamp="1528333442213" />
       <file name="/a.dummy" timestamp="1527751893814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,7 +84,6 @@
       <file name="/TB_PROC_UNIT [samjung]" timestamp="1527665476122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/WebContent/WEB-INF/web.xml" timestamp="1528333265450" />
       <file name="/VW_EMPLOYEE [samjung]" timestamp="1525046730080">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,7 +127,6 @@
       <file name="/a.sql" timestamp="1526637958026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/WebContent/WEB-INF/view/include/header_webui_mylogin.jsp" timestamp="1528334267975" />
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/dao/sqlmap/mssql/order-destination-sqlmap.xml" timestamp="1527470359469">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="24" />
@@ -205,6 +202,11 @@
         <mark key="^" line="294" column="0" />
         <mark key="." line="294" column="48" />
       </file>
+      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/webui/action/ScanAction.java" timestamp="1528338669261">
+        <mark key="[" line="421" column="16" />
+        <mark key="]" line="421" column="16" />
+        <mark key="." line="421" column="16" />
+      </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/common/common-layer.js" timestamp="1527142585529">
         <mark key="[" line="11" column="89" />
         <mark key="]" line="11" column="101" />
@@ -267,8 +269,8 @@
       <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java" timestamp="1527751747733">
         <mark key="'" line="362" column="14" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" timestamp="1528334305825">
-        <mark key="'" line="98" column="64" />
+      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" timestamp="1528338301380">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="900" column="0" />
         <mark key="]" line="900" column="0" />
         <mark key="." line="900" column="0" />
@@ -309,7 +311,6 @@
       <file name="/TB_ORDR_DEST [samjung]" timestamp="1527034799527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/webservice/jfs/action/InvokeScanSoap.java" timestamp="1528333129820" />
       <file name="/TB_ORDR_MEMO [samjung_jkh]" timestamp="1527486895236">
         <mark key="[" line="0" column="0" />
       </file>
@@ -462,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="17" column="50" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="67" column="95" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="206" column="54" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
@@ -562,10 +562,11 @@
       <jump line="638" column="58" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/project/src/main/resources/local.server/classes/struts.xml" />
       <jump line="55" column="50" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/project/src/main/webapp/WEB-INF/view/webui/myScanOption.jsp" />
       <jump line="249" column="16" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/project/src/main/java/com/fujixerox/kor/dpms/webservice/jfs/action/InvokeScanSoap.java" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -574,10 +575,10 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdEb2NcPg==</text>
+        <text>scanJfs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPHJlc3VsdCBuYW1lPSJzdWNjZXNzIj4vV0VCLUlORi92aWV3L3dlYnVpL215U2Nhbk9wdGlvbi5qc3A8L3Jlc3VsdD4K</text>
@@ -633,19 +634,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdEb2NcPg==</last-search>
+      <last-search>scanJfs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdEb2NcPg==</last-pattern>
+      <last-pattern>scanJfs</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>recent</entry>
-        <entry>clntName</entry>
-        <entry>repo</entry>
         <entry>webuiaction</entry>
         <entry>myloginAction</entry>
         <entry>loginAction</entry>
@@ -663,6 +661,9 @@
         <entry>axis</entry>
         <entry>mylogin</entry>
         <entry encoding="base64">XDxyZWdEb2NcPg==</entry>
+        <entry>scsnJfs</entry>
+        <entry>scanJFS</entry>
+        <entry>scanJfs</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
