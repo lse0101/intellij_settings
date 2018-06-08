@@ -20,11 +20,11 @@
         <mark key="^" line="57" column="88" />
         <mark key="." line="44" column="26" />
       </file>
-      <file name="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/HttpComponentTest.java" timestamp="1528430729578">
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="23" column="66" />
-        <mark key="." line="23" column="66" />
-        <mark key="^" line="23" column="66" />
+      <file name="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/HttpComponentTest.java" timestamp="1528431723107">
+        <mark key="[" line="65" column="50" />
+        <mark key="]" line="65" column="62" />
+        <mark key="^" line="65" column="62" />
+        <mark key="." line="65" column="62" />
       </file>
       <file name="/a.dummy" timestamp="1528358879223">
         <mark key="[" line="0" column="0" />
@@ -618,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://www.naver.com</text>
+        <text>13.197.1.134:5555</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -627,13 +627,13 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.naver.com</text>
+        <text>13.197.1.134:5555</text>
       </register>
       <register name="/" type="4">
-        <text>cpage</text>
+        <text>SOAP-ENV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JSZXF1ZXN0IGpvYlJlcXVlc3QgPSBuZXcgSm9iUmVxdWVzdCgpOwogICAgICAgIGpvYlJlcXVlc3Quc2V0RmlsZUNvdW50KDMpOwogICAgICAgIGpvYlJlcXVlc3Quc2V0UHJpbnRlcklwKCIxMy4xOTcuNS4xMzIiKTsKICAgICAgICBqb2JSZXF1ZXN0LnNldFVzZXJJZCgiMTExMSIpOwogICAgICAgIGpvYlJlcXVlc3Quc2V0S2V5d29yZCgicHJpbnQiKTsKICAgICAgICBqb2JSZXF1ZXN0LnNldEpvYlRpY2tldCgiJyIpOwoKICAgICAgICBQcmludEpvYiBwcmludEpvYiA9IG5ldyBQcmludEpvYigpOwogICAgICAgIHByaW50Sm9iLnNldENvbG9yRWZmZWN0c1R5cGUoIkdyYXlzY2FsZSIpOwogICAgICAgIHByaW50Sm9iLnNldE51bWJlcigxKTsKICAgICAgICBwcmludEpvYi5zZXRDb3BpZXMoMSk7CiAgICAgICAgcHJpbnRKb2Iuc2V0U2lkZXMoIk9uZVNpZGVkIik7CiAgICAgICAgcHJpbnRKb2Iuc2V0TnVtYmVyVXAoMSk7CiAgICAgICAgcHJpbnRKb2Iuc2V0RmlsZURhdGFQYXRoKCJjOlxcdGVzdFxcIik7CiAgICAgICAgcHJpbnRKb2Iuc2V0RmlsZU5hbWUoIkNDSVRUXzEuVElGIik7CgoKICAgICAgICBQcmludEpvYiBwcmludEpvYjIgPSBuZXcgUHJpbnRKb2IoKTsKICAgICAgICBwcmludEpvYjIuc2V0Q29sb3JFZmZlY3RzVHlwZSgiR3JheXNjYWxlIik7CiAgICAgICAgcHJpbnRKb2IyLnNldE51bWJlcigyKTsKICAgICAgICBwcmludEpvYjIuc2V0Q29waWVzKDEpOwogICAgICAgIHByaW50Sm9iMi5zZXRTaWRlcygiT25lU2lkZWQiKTsKICAgICAgICBwcmludEpvYjIuc2V0TnVtYmVyVXAoMSk7CiAgICAgICAgcHJpbnRKb2IyLnNldEZpbGVEYXRhUGF0aCgiYzpcXHRlc3RcXCIpOwogICAgICAgIHByaW50Sm9iMi5zZXRGaWxlTmFtZSgiQ0NJVFRfMi5USUYiKTsKCiAgICAgICAgUHJpbnRKb2IgcHJpbnRKb2IzID0gbmV3IFByaW50Sm9iKCk7CiAgICAgICAgcHJpbnRKb2IzLnNldENvbG9yRWZmZWN0c1R5cGUoIkdyYXlzY2FsZSIpOwogICAgICAgIHByaW50Sm9iMy5zZXROdW1iZXIoMyk7CiAgICAgICAgcHJpbnRKb2IzLnNldENvcGllcygxKTsKICAgICAgICBwcmludEpvYjMuc2V0U2lkZXMoIk9uZVNpZGVkIik7CiAgICAgICAgcHJpbnRKb2IzLnNldE51bWJlclVwKDEpOwogICAgICAgIHByaW50Sm9iMy5zZXRGaWxlRGF0YVBhdGgoImM6XFx0ZXN0XFwiKTsKICAgICAgICBwcmludEpvYjMuc2V0RmlsZU5hbWUoIkNDSVRUXzMuVElGIik7CgogICAgICAgIGpvYlJlcXVlc3Quc2V0RmlsZUxpc3QoQXJyYXlzLmFzTGlzdChwcmludEpvYiwgcHJpbnRKb2IyLCBwcmludEpvYjMpKTsK</text>
+        <text encoding="base64">CQlIdHRwUG9zdCBodHRwUG9zdCA9IG5ldyBIdHRwUG9zdCgiaHR0cDovLzEzLjE5Ny4xLjEzNDo1NTU1Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -676,19 +676,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cpage</last-search>
+      <last-search>SOAP-ENV</last-search>
       <last-offset />
-      <last-pattern>cpage</last-pattern>
+      <last-pattern>SOAP-ENV</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -696,7 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>axis</entry>
         <entry encoding="base64">XDxyZWdEb2NcPg==</entry>
         <entry>scsnJfs</entry>
         <entry>scanJFS</entry>
@@ -716,9 +715,9 @@
         <entry>gopa</entry>
         <entry>goPa</entry>
         <entry>cpage</entry>
+        <entry>SOAP-ENV</entry>
       </history-search>
       <history-cmd>
-        <entry>34</entry>
         <entry>%s/SOAP-ENV/soapENV/</entry>
         <entry>225</entry>
         <entry>423</entry>
@@ -737,6 +736,7 @@
         <entry>buffers</entry>
         <entry>bufs</entry>
         <entry>vs</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
