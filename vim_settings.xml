@@ -130,13 +130,20 @@
       <file name="/VW_EMPLOYEE [samjung]" timestamp="1525046730080">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/WebContent/WEB-INF/view/web/template/registrationTemplate.jsp" timestamp="1528432283084">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="56" />
+        <mark key="^" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+      </file>
       <file name="/TB_USER_PASS [samjung]" timestamp="1526456377537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/web/template/vo/TemplateVO.java" timestamp="1528359395294">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="24" />
+      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/web/template/vo/TemplateVO.java" timestamp="1528432182475">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="/TB_GOOD_ITEM [samjung]" timestamp="1526620885311">
         <mark key="[" line="0" column="0" />
@@ -210,8 +217,12 @@
       <file name="/TB_MAIN_BANR [samjung]" timestamp="1525757408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/web/template/action/TemplateAction.java" timestamp="1528416730185">
-        <mark key="'" line="33" column="0" />
+      <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/web/template/action/TemplateAction.java" timestamp="1528432589109">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="103" column="151" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/request/PrintJob.java" timestamp="1528421190103">
         <mark key="'" line="15" column="22" />
@@ -343,7 +354,7 @@
       <file name="/TB_USER_COMP [samjung]" timestamp="1525839192813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/T_DPMS_DOC [DPMS_STD@localhost]" timestamp="1528423579639">
+      <file name="/T_DPMS_DOC [DPMS_STD@localhost]" timestamp="1528431755774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/WebContent/WEB-INF/view/web/fileRepo/selectFileRepoList.jsp" timestamp="1528361171689">
@@ -515,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="852" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="272" column="48" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="225" column="32" filename="F:/Dropbox/company/xerox/kb손해사정/project/pom.xml" />
@@ -615,10 +625,11 @@
       <jump line="18" column="15" filename="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/request/JobRequest.java" />
       <jump line="15" column="22" filename="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/request/PrintJob.java" />
       <jump line="53" column="37" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
+      <jump line="127" column="0" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/web/template/action/TemplateAction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>13.197.1.134:5555</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -627,19 +638,19 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>13.197.1.134:5555</text>
+        <text>uploadFileName</text>
       </register>
       <register name="/" type="4">
         <text>SOAP-ENV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlIdHRwUG9zdCBodHRwUG9zdCA9IG5ldyBIdHRwUG9zdCgiaHR0cDovLzEzLjE5Ny4xLjEzNDo1NTU1Iik7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgRmlsZSB1cGxvYWQ7Cglwcml2YXRlIFN0cmluZyB1cGxvYWRGaWxlTmFtZTsKCXByaXZhdGUgU3RyaW5nIHVwbG9hZENvbnRlbnRUeXBlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoJcHVibGljIEZpbGUgZ2V0VXBsb2FkKCkgewoJCXJldHVybiB1cGxvYWQ7Cgl9CgoJcHVibGljIHZvaWQgc2V0VXBsb2FkKEZpbGUgdXBsb2FkKSB7CgkJdGhpcy51cGxvYWQgPSB1cGxvYWQ7Cgl9CgoJcHVibGljIFN0cmluZyBnZXRVcGxvYWRGaWxlTmFtZSgpIHsKCQlyZXR1cm4gdXBsb2FkRmlsZU5hbWU7Cgl9CgoJcHVibGljIHZvaWQgc2V0VXBsb2FkRmlsZU5hbWUoU3RyaW5nIHVwbG9hZEZpbGVOYW1lKSB7CgkJdGhpcy51cGxvYWRGaWxlTmFtZSA9IHVwbG9hZEZpbGVOYW1lOwoJfQoKCXB1YmxpYyBTdHJpbmcgZ2V0VXBsb2FkQ29udGVudFR5cGUoKSB7CgkJcmV0dXJuIHVwbG9hZENvbnRlbnRUeXBlOwoJfQoKCXB1YmxpYyB2b2lkIHNldFVwbG9hZENvbnRlbnRUeXBlKFN0cmluZyB1cGxvYWRDb250ZW50VHlwZSkgewoJCXRoaXMudXBsb2FkQ29udGVudFR5cGUgPSB1cGxvYWRDb250ZW50VHlwZTsKCX0qLwo=</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
@@ -648,13 +659,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoJcHJpdmF0ZSBGaWxlIHVwbG9hZDsKCXByaXZhdGUgU3RyaW5nIHVwbG9hZEZpbGVOYW1lOwoJcHJpdmF0ZSBTdHJpbmcgdXBsb2FkQ29udGVudFR5cGU7Ki8K</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImFsa2RzamZsYWtqIik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
