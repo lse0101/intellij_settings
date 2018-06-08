@@ -244,6 +244,9 @@
       <file name="F:/Dropbox/company/xerox/kb손해사정/project/src/main/java/com/fujixerox/kor/dpms/webservice/jfs/action/InvokeScanSoap.java" timestamp="1527745153386">
         <mark key="'" line="271" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1528430002408">
+        <mark key="'" line="53" column="37" />
+      </file>
       <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/webui/action/ScanAction.java" timestamp="1528416468543">
         <mark key="'" line="463" column="0" />
         <mark key="[" line="460" column="32" />
@@ -512,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="26" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_code_layer_form.jsp" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
       <jump line="852" column="22" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
       <jump line="272" column="48" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
@@ -612,6 +614,7 @@
       <jump line="57" column="13" filename="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/request/JobRequest.java" />
       <jump line="18" column="15" filename="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/request/JobRequest.java" />
       <jump line="15" column="22" filename="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/request/PrintJob.java" />
+      <jump line="53" column="37" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
