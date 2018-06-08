@@ -20,6 +20,12 @@
         <mark key="^" line="57" column="88" />
         <mark key="." line="44" column="26" />
       </file>
+      <file name="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/HttpComponentTest.java" timestamp="1528429415750">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="65" />
+        <mark key="." line="65" column="65" />
+        <mark key="^" line="65" column="65" />
+      </file>
       <file name="/a.dummy" timestamp="1528358879223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,6 +108,12 @@
         <mark key="]" line="71" column="27" />
         <mark key="^" line="71" column="27" />
         <mark key="." line="71" column="27" />
+      </file>
+      <file name="F:/Dropbox/lse0101/workspace/JerseyTest/pom.xml" timestamp="1528427294366">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="/TB_ORDR_ATTR [samjung]" timestamp="1526343498781">
         <mark key="[" line="0" column="0" />
@@ -268,11 +280,11 @@
         <mark key="." line="83" column="63" />
         <mark key="^" line="83" column="63" />
       </file>
-      <file name="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/UniRestTest.java" timestamp="1528425179316">
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="29" />
-        <mark key="." line="75" column="29" />
-        <mark key="^" line="82" column="74" />
+      <file name="F:/Dropbox/lse0101/workspace/JerseyTest/src/main/java/UniRestTest.java" timestamp="1528429273114">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="82" column="77" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/common/menu/user_header.jsp" timestamp="1528163404358">
         <mark key="[" line="60" column="53" />
@@ -308,6 +320,7 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="65" />
       </file>
+      <file name="/UniRestTest.java" timestamp="1528428193685" />
       <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java" timestamp="1527751747733">
         <mark key="'" line="362" column="14" />
       </file>
@@ -602,7 +615,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>https://www.naver.com</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -611,28 +624,28 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>https://www.naver.com</text>
       </register>
       <register name="/" type="4">
         <text>cpage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcmludEpvYiBwcmludEpvYiA9IG5ldyBQcmludEpvYigpOwogICAgICAgIHByaW50Sm9iLnNldENvbG9yRWZmZWN0c1R5cGUoIkdyYXlzY2FsZSIpOwogICAgICAgIHByaW50Sm9iLnNldE51bWJlcigxKTsKICAgICAgICBwcmludEpvYi5zZXRDb3BpZXMoMSk7CiAgICAgICAgcHJpbnRKb2Iuc2V0U2lkZXMoIk9uZVNpZGVkIik7CiAgICAgICAgcHJpbnRKb2Iuc2V0TnVtYmVyVXAoMSk7CiAgICAgICAgcHJpbnRKb2Iuc2V0RmlsZURhdGFQYXRoKCJjOlxcdGVzdFxcIik7CiAgICAgICAgcHJpbnRKb2Iuc2V0RmlsZU5hbWUoIkNDSVRUXzEuVElGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2JSZXF1ZXN0IGpvYlJlcXVlc3QgPSBuZXcgSm9iUmVxdWVzdCgpOwogICAgICAgIGpvYlJlcXVlc3Quc2V0RmlsZUNvdW50KDMpOwogICAgICAgIGpvYlJlcXVlc3Quc2V0UHJpbnRlcklwKCIxMy4xOTcuNS4xMzIiKTsKICAgICAgICBqb2JSZXF1ZXN0LnNldFVzZXJJZCgiMTExMSIpOwogICAgICAgIGpvYlJlcXVlc3Quc2V0S2V5d29yZCgicHJpbnQiKTsKICAgICAgICBqb2JSZXF1ZXN0LnNldEpvYlRpY2tldCgiJyIpOwoKICAgICAgICBQcmludEpvYiBwcmludEpvYiA9IG5ldyBQcmludEpvYigpOwogICAgICAgIHByaW50Sm9iLnNldENvbG9yRWZmZWN0c1R5cGUoIkdyYXlzY2FsZSIpOwogICAgICAgIHByaW50Sm9iLnNldE51bWJlcigxKTsKICAgICAgICBwcmludEpvYi5zZXRDb3BpZXMoMSk7CiAgICAgICAgcHJpbnRKb2Iuc2V0U2lkZXMoIk9uZVNpZGVkIik7CiAgICAgICAgcHJpbnRKb2Iuc2V0TnVtYmVyVXAoMSk7CiAgICAgICAgcHJpbnRKb2Iuc2V0RmlsZURhdGFQYXRoKCJjOlxcdGVzdFxcIik7CiAgICAgICAgcHJpbnRKb2Iuc2V0RmlsZU5hbWUoIkNDSVRUXzEuVElGIik7CgoKICAgICAgICBQcmludEpvYiBwcmludEpvYjIgPSBuZXcgUHJpbnRKb2IoKTsKICAgICAgICBwcmludEpvYjIuc2V0Q29sb3JFZmZlY3RzVHlwZSgiR3JheXNjYWxlIik7CiAgICAgICAgcHJpbnRKb2IyLnNldE51bWJlcigyKTsKICAgICAgICBwcmludEpvYjIuc2V0Q29waWVzKDEpOwogICAgICAgIHByaW50Sm9iMi5zZXRTaWRlcygiT25lU2lkZWQiKTsKICAgICAgICBwcmludEpvYjIuc2V0TnVtYmVyVXAoMSk7CiAgICAgICAgcHJpbnRKb2IyLnNldEZpbGVEYXRhUGF0aCgiYzpcXHRlc3RcXCIpOwogICAgICAgIHByaW50Sm9iMi5zZXRGaWxlTmFtZSgiQ0NJVFRfMi5USUYiKTsKCiAgICAgICAgUHJpbnRKb2IgcHJpbnRKb2IzID0gbmV3IFByaW50Sm9iKCk7CiAgICAgICAgcHJpbnRKb2IzLnNldENvbG9yRWZmZWN0c1R5cGUoIkdyYXlzY2FsZSIpOwogICAgICAgIHByaW50Sm9iMy5zZXROdW1iZXIoMyk7CiAgICAgICAgcHJpbnRKb2IzLnNldENvcGllcygxKTsKICAgICAgICBwcmludEpvYjMuc2V0U2lkZXMoIk9uZVNpZGVkIik7CiAgICAgICAgcHJpbnRKb2IzLnNldE51bWJlclVwKDEpOwogICAgICAgIHByaW50Sm9iMy5zZXRGaWxlRGF0YVBhdGgoImM6XFx0ZXN0XFwiKTsKICAgICAgICBwcmludEpvYjMuc2V0RmlsZU5hbWUoIkNDSVRUXzMuVElGIik7CgogICAgICAgIGpvYlJlcXVlc3Quc2V0RmlsZUxpc3QoQXJyYXlzLmFzTGlzdChwcmludEpvYiwgcHJpbnRKb2IyLCBwcmludEpvYjMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50Sm9iLnNldEZpbGVEYXRhUGF0aCgiYzoiKyBGaWxlLnNlcGFyYXRvcisidGVzdCIrRmlsZS5zZXBhcmF0b3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludEpvYi5zZXRjbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludEpvYi5zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
@@ -641,7 +654,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamFja3Nvbk1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoam9iUmVxdWVzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -660,10 +673,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNrc29uTWFwcGVyLnJlYWRWYWx1ZShzLCBhQ2xhc3MpLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
