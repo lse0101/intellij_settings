@@ -196,8 +196,11 @@
         <mark key="." line="974" column="85" />
         <mark key="^" line="974" column="85" />
       </file>
-      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/order-common.js" timestamp="1531789703133">
-        <mark key="[" line="153" column="6" />
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/order-common.js" timestamp="1531791420143">
+        <mark key="[" line="161" column="14" />
+        <mark key="]" line="161" column="18" />
+        <mark key="^" line="161" column="18" />
+        <mark key="." line="161" column="18" />
       </file>
       <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/vo/OrderCartVO.java" timestamp="1526618977183">
         <mark key="[" line="70" column="28" />
@@ -619,7 +622,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REPLACE(CONVERT(VARCHAR(8), GETDATE(), 112) + CONVERT(VARCHAR(8), GETDATE(), 114), ':', '')</text>
+        <text>true</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -628,40 +631,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>만료</text>
       </register>
       <register name="0" type="4">
-        <text>REPLACE(CONVERT(VARCHAR(8), GETDATE(), 112) + CONVERT(VARCHAR(8), GETDATE(), 114), ':', '')</text>
+        <text encoding="base64">aGFzQXR0YWNoRmlsZXMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHJvbGUtbmFtZT48L3JvbGUtbmFtZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHdlYi1hcHAgdmVyc2lvbj0iMi40IiB4bWxucz0iaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvajJlZSIKCXhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCgl4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9qYXZhLnN1bi5jb20veG1sL25zL2oyZWUgaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvajJlZS93ZWItYXBwXzJfNS54c2QiCgl2ZXJzaW9uPSIyLjUiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJPGNvbXBpbGVyQXJncz4KCQkJCQkJCTxhcmc+LVhEaWdub3JlLnN5bWJvbC5maWxlPC9hcmc+CgkJCQkJCTwvY29tcGlsZXJBcmdzPgo=</text>
+        <text encoding="base64">CQkJYWxlcnQoJ+y2nOugpe2VoCDsnbjsh4TrrLztjIzsnbwg7JeF66Gc65Oc64qUIO2VhOyImOyEoO2DnSDsnoXri4jri6QuJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJPGNvbXBpbGVyQXJndW1lbnRzPjwvY29tcGlsZXJBcmd1bWVudHM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZih1cGxvYWRlci5maWxlcy5sZW5ndGggPD0gMCkgewoJCQlhbGVydCgn7Lac66Cl7ZWgIOyduOyHhOusvO2MjOydvCDsl4XroZzrk5zripQg7ZWE7IiY7ISg7YOdIOyeheuLiOuLpC4nKTsKCQkJcmV0dXJuOwoJCX0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+Cg==</text>
+        <text encoding="base64">CQkJPHJvbGUtbmFtZT48L3JvbGUtbmFtZT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -677,13 +680,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5jb2RlaGF1cy5tb2pvPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+YnVpbGRudW1iZXItbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgoJCQk8L3BsdWdpbj4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPmNvbS5nb29nbGUuY29kZS5tYXZlbi1yZXBsYWNlci1wbHVnaW48L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5yZXBsYWNlcjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">PHdlYi1hcHAgdmVyc2lvbj0iMi40IiB4bWxucz0iaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvajJlZSIKCXhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCgl4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9qYXZhLnN1bi5jb20veG1sL25zL2oyZWUgaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvajJlZS93ZWItYXBwXzJfNS54c2QiCgl2ZXJzaW9uPSIyLjUiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCTwvcmVwbGFjZW1lbnQ+Cg==</text>
+        <text encoding="base64">CQkJCQkJPGNvbXBpbGVyQXJncz4KCQkJCQkJCTxhcmc+LVhEaWdub3JlLnN5bWJvbC5maWxlPC9hcmc+CgkJCQkJCTwvY29tcGlsZXJBcmdzPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -737,8 +740,8 @@
         <entry>vs</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>27</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
