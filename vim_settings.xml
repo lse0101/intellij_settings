@@ -41,6 +41,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1528430002408">
         <mark key="'" line="53" column="37" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" timestamp="1531794207527">
+        <mark key="'" line="230" column="34" />
+      </file>
       <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/webui/action/ScanAction.java" timestamp="1528416468543">
         <mark key="'" line="463" column="0" />
         <mark key="[" line="460" column="32" />
@@ -232,6 +235,11 @@
         <mark key="^" line="36" column="56" />
         <mark key="." line="36" column="56" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" timestamp="1531794643177">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="63" column="22" />
+      </file>
       <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/src/com/fujixerox/kor/dpms/web/template/vo/TemplateVO.java" timestamp="1528432182475">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="39" column="28" />
@@ -252,6 +260,13 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
         <mark key="^" line="129" column="23" />
+      </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" timestamp="1531795317096">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="419" column="0" />
+        <mark key="." line="419" column="0" />
+        <mark key="^" line="418" column="31" />
       </file>
       <file name="F:/Dropbox/company/xerox/kb/kb_development/xpms/XPMS_20_AnyWhere_WEBUI/src/main/webapp/loginPrint.jsp" timestamp="1528450253376">
         <mark key="'" line="3" column="0" />
@@ -504,6 +519,7 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="34" column="25" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/order/service/impl/OrderCartServiceImpl.java" timestamp="1531795430828" />
       <file name="F:/Dropbox/company/xerox/kb/kb_development/xpms/XPMS_20_AnyWhere_WEBUI/pom.xml" timestamp="1528449147980">
         <mark key="'" line="40" column="38" />
         <mark key="[" line="45" column="0" />
@@ -519,14 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="9" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="95" column="10" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="118" column="9" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="120" column="10" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="408" column="9" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="415" column="10" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="57" column="9" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
-      <jump line="64" column="10" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
       <jump line="127" column="82" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
       <jump line="129" column="10" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
       <jump line="137" column="92" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/workspace/DPMS-KB/resource/struts.xml" />
@@ -619,10 +627,18 @@
       <jump line="180" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" />
       <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/js/order/order-common.js" />
       <jump line="179" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/login/controller/LoginController.java" />
+      <jump line="230" column="34" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_form.jsp" />
+      <jump line="289" column="24" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="1" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/order_view.jsp" />
+      <jump line="100" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="116" column="35" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="108" column="15" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="109" column="33" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
+      <jump line="0" column="25" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_info.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -631,40 +647,40 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>만료</text>
+        <text>content</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aGFzQXR0YWNoRmlsZXMg</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCTxjOmlmIHRlc3Q9IiR7IUlTX0NBUlR9Ij4KCQkJCQk8JS0tIOyjvOusuCDrrLjsnZgg66mU66qoIC0tJT4KCQkJCQk8JUAgaW5jbHVkZSBmaWxlPSIuL2luY2x1ZGVfb3JkZXJfbWVtby5qc3AiJT4KCQkJCTwvYzppZj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTwlQCBpbmNsdWRlIGZpbGU9Ii4vaW5jbHVkZV9vcmRlcl9tZW1vLmpzcCIlPgo=</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJYWxlcnQoJ+y2nOugpe2VoCDsnbjsh4TrrLztjIzsnbwg7JeF66Gc65Oc64qUIO2VhOyImOyEoO2DnSDsnoXri4jri6QuJyk7Cg==</text>
+        <text encoding="base64">CQkJCQk8JUAgaW5jbHVkZSBmaWxlPSIuL2luY2x1ZGVfb3JkZXJfbWVtby5qc3AiJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPGM6Y2hvb3NlPgo=</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZih1cGxvYWRlci5maWxlcy5sZW5ndGggPD0gMCkgewoJCQlhbGVydCgn7Lac66Cl7ZWgIOyduOyHhOusvO2MjOydvCDsl4XroZzrk5zripQg7ZWE7IiY7ISg7YOdIOyeheuLiOuLpC4nKTsKCQkJcmV0dXJuOwoJCX0K</text>
+        <text encoding="base64">CQkJPC9jOmNob29zZT4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPHJvbGUtbmFtZT48L3JvbGUtbmFtZT4K</text>
+        <text encoding="base64">CQkJCTwvYzp3aGVuPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -680,19 +696,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHdlYi1hcHAgdmVyc2lvbj0iMi40IiB4bWxucz0iaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvajJlZSIKCXhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCgl4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9qYXZhLnN1bi5jb20veG1sL25zL2oyZWUgaHR0cDovL2phdmEuc3VuLmNvbS94bWwvbnMvajJlZS93ZWItYXBwXzJfNS54c2QiCgl2ZXJzaW9uPSIyLjUiPgo=</text>
+        <text encoding="base64">CQkJCTxjOndoZW4gdGVzdD0iJHshSVNfTkVXICYmIElTX0NBUlR9Ij4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJPGNvbXBpbGVyQXJncz4KCQkJCQkJCTxhcmc+LVhEaWdub3JlLnN5bWJvbC5maWxlPC9hcmc+CgkJCQkJCTwvY29tcGlsZXJBcmdzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>만료</last-search>
+      <last-search>content</last-search>
       <last-offset />
-      <last-pattern>만료</last-pattern>
+      <last-pattern>content</last-pattern>
       <last-replace>soapENV</last-replace>
       <last-substitute>SOAP-ENV</last-substitute>
       <last-dir>1</last-dir>
@@ -700,9 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com</entry>
-        <entry>compi</entry>
-        <entry>compiler</entry>
         <entry>javac</entry>
         <entry>compil</entry>
         <entry>proper</entry>
@@ -720,6 +733,9 @@
         <entry>merge</entry>
         <entry>PASS</entry>
         <entry>만료</entry>
+        <entry>memo</entry>
+        <entry>CART</entry>
+        <entry>content</entry>
       </history-search>
       <history-cmd>
         <entry>423</entry>
