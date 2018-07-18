@@ -228,6 +228,14 @@
       <file name="F:/Dropbox/company/xerox/kb/kb_development/smartware_kb/XPMS_20_Sophia_WEB/src/main/java/com/fujixerox/kor/sophia/intfc/webservice/UserInformationImpl.java" timestamp="1528443677741">
         <mark key="'" line="89" column="40" />
       </file>
+      <file name="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" timestamp="1531876027406">
+        <mark key="a" line="301" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="298" column="32" />
+        <mark key="]" line="299" column="65" />
+        <mark key="." line="299" column="65" />
+        <mark key="^" line="299" column="65" />
+      </file>
       <file name="F:/Dropbox/company/xerox/kb손해사정/kb개발환경/project/src/main/webapp/WEB-INF/view/webui/myScanOption.jsp" timestamp="1528335794242">
         <mark key="'" line="55" column="50" />
       </file>
@@ -555,9 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="38" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경추가/smartware_kb/XPMS_20/pom.xml" />
-      <jump line="176" column="41" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경추가/smartware_kb/XPMS_20/pom.xml" />
-      <jump line="20" column="18" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경추가/smartware_kb/XPMS_20_Sophia_WEB/pom.xml" />
       <jump line="22" column="61" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경추가/smartware_kb/XPMS_20_Sophia_WEB/pom.xml" />
       <jump line="29" column="66" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경추가/smartware_kb/XPMS_20_Sophia_WEB/pom.xml" />
       <jump line="42" column="66" filename="F:/Dropbox/company/xerox/kb손해사정/kb개발환경추가/smartware_kb/XPMS_20_Sophia_WEB/pom.xml" />
@@ -655,10 +660,13 @@
       <jump line="165" column="61" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/src/com/fujixerox/kor/webddp/std/web/kpmg/controller/OrderManagerController.java" />
       <jump line="32" column="41" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/lucy-xss-servlet-2.0.0.jar!/com/navercorp/lucy/security/xss/servletfilter/XssEscapeFilter.class" />
       <jump line="33" column="23" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/lib/lucy-xss-servlet-2.0.0.jar!/com/navercorp/lucy/security/xss/servletfilter/XssEscapeFilter.class" />
+      <jump line="2" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
+      <jump line="300" column="46" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
+      <jump line="0" column="0" filename="F:/Dropbox/company/xerox/samjung/samjung-webddp/WebContent/WEB-INF/jsp/order/include_order_destination.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCQltYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICJyZXBvcnRQcmludGluaWdTdGF0dXNfb3BlcmF0b3IueGxzeCIpOwo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMiICU+Cg==</text>
       </register>
       <register name="e" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5wYWdlfSIvPg==</text>
@@ -667,7 +675,7 @@
         <text>/statistics/mac/statistics_usageList.do</text>
       </register>
       <register name="-" type="4">
-        <text>명</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
@@ -676,31 +684,31 @@
         <text>StringEscapeUtils.escapeHtml4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQltYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICJyZXBvcnRQcmludGluaWdTdGF0dXNfb3BlcmF0b3IueGxzeCIpOwo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMiICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQltYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICJyZXBvcnRQcmludGluaWdTdGF0dXNfbWFuYWdlci54bHN4Iik7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8JT1TdHJpbmdVdGlscy4lPgo=</text>
       </register>
       <register name="r" type="4">
         <text encoding="base64">PGZtdDpmb3JtYXROdW1iZXIgdmFsdWU9IiR7bGlzdC5iaW5kaW5nfSIvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCTxmb3JtOm9wdGlvbiB2YWx1ZT0ib3VwdF92bmRyIj7sl4XssrTrqoU8L2Zvcm06b3B0aW9uPgo=</text>
+        <text encoding="base64">Ly8JCQltYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICJyZXBvcnRQcmludGluaWdTdGF0dXNfb3BlcmF0b3IueGxzeCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCQltYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICJyZXBvcnRQcmludGluaWdTdGF0dXNfbWFuYWdlci54bHN4Iik7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>common.word_even_letter</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNzaW5mbyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIuyEuOyFmOygleuztCDsnojsnYwgLS0+IOy0iOq4sO2OmOydtOyngOuhnCDsnbTrj5kiKTsKICAgICAgICAgICAgICAgIG1hdiA9IG5ldyBNb2RlbEFuZFZpZXcoInJlZGlyZWN0OiIgKyBDb25zdGFudHMuSU5JVElBTF9VUkwpOwo=</text>
+        <text encoding="base64">CQkJCQkJCTxmb3JtOm9wdGlvbiB2YWx1ZT0ib3VwdF92bmRyIj7sl4XssrTrqoU8L2Zvcm06b3B0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNzaW5mbyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIuyEuOyFmOygleuztCDsnojsnYwgLS0+IOy0iOq4sO2OmOydtOyngOuhnCDsnbTrj5kiKTsKICAgICAgICAgICAgICAgIG1hdiA9IG5ldyBNb2RlbEFuZFZpZXcoInJlZGlyZWN0OiIgKyBDb25zdGFudHMuSU5JVElBTF9VUkwpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -716,10 +724,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltYXYuYWRkT2JqZWN0KCJ0bXBsTmFtZSIsICJyZXBvcnRQcmludGluaWdTdGF0dXNfb3BlcmF0b3IueGxzeCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoJCQlpZiAoZGVzdExpc3Quc2l6ZSgpID09IDEpIHsKCQkJCWxvZ2dlci5kZWJ1Zygi67Cw7Iah7KeAIO2VoOuLuSA6IDEiKTsKCQkJCW9yZGVyVk8uc2V0T3JkZXJEZXN0aW5hdGlvblZPKGRlc3RMaXN0LmdldCgwKSk7CgkJCX0gZWxzZSB7CgkJCQlsb2dnZXIuZGVidWcoIuuwsOyGoeyngCDtlaDri7kgOiBOIik7CgkJCQlvcmRlclZPLnNldE9yZGVyRGVzdGluYXRpb25MaXN0KGRlc3RMaXN0KTsKCQkJfSovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
